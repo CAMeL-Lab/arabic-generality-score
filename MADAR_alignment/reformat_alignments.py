@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""
-"""
 
 import os
 import sys
@@ -249,7 +246,12 @@ def group_alignment_df(df, dialects_ = ['MSA', 'BEI', 'CAI', 'TUN', 'DOH', 'RAB'
     # PROGRESS: normalization step
     df['normalized_word'] = df['word'].progress_map(lambda x: preprocess_text(x, True))
 
-    aggregations = {dialect: lambda x: Counter(x) for dialect in dialects}
+    # Return plain dicts (string->count), ignoring None/empty/non-strings
+    def _count_terms(series: pd.Series) -> dict:
+        vals = [v for v in series if isinstance(v, str) and v]
+        return dict(Counter(vals))
+
+    aggregations = {dialect: _count_terms for dialect in dialects}
     grouped = df.groupby(['normalized_word', 'dialect']).agg(aggregations).reset_index()
     return grouped
 
