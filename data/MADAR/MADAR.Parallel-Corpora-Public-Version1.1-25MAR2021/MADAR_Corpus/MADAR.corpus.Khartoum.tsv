@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	KHA	هو هناك، بالظبط أمام مكتب معلومات السياح.
+9	corpus-6-test-corpus-26-train	KHA	ما حصل سمعت بالعنوان دا هنا.
+11	corpus-6-test-corpus-26-train	KHA	أمشي دغري لغاية تشوف صيدلية.
+26	corpus-6-test-corpus-26-train	KHA	بي كم الفطور؟
+27	corpus-6-test-corpus-26-train	KHA	كيف ممكن اساعدك؟
+30	corpus-6-test-corpus-26-train	KHA	أمشي شمال عند الكورنة التالتة.
+50	corpus-6-test-corpus-26-train	KHA	داير كريمة و سكر في قهوتك؟
+64	corpus-6-test-corpus-26-train	KHA	هل يمكنك تصرف شيكي البي متين دولار؟
+74	corpus-6-test-corpus-26-train	KHA	اذا مفروض يظهر، من فضلك اتصل على.
+86	corpus-6-test-corpus-26-train	KHA	وين المقهى؟
+87	corpus-6-test-corpus-26-train	KHA	داير بلوفر أطفال.
+91	corpus-6-test-corpus-26-train	KHA	اوكي. هو يكلف خمسة وتمنين سنت للبريد العادي و تلاتة دولارات بالظبط زيادة للتسليم الخاص.
+120	corpus-6-test-corpus-26-test	KHA	كنت ح اشتري دا لو انا كنت مكانك.
+129	corpus-6-test-corpus-26-train	KHA	ح أواجه أي صعوبات مع الجمارك؟
+130	corpus-6-test-corpus-26-train	KHA	هل عندك جزمة رسمي عريضة عند اصابع القدم؟
+140	corpus-6-test-corpus-26-train	KHA	لا. ممكن اقترح غرفة مزدوجة لاستعمال شخص؟ عندنا واحدة.
+143	corpus-6-test-corpus-26-train	KHA	داير تجعيدة ضيقة، من فضلك.
+145	corpus-6-test-corpus-26-train	KHA	دايرة بيرة.
+157	corpus-6-test-corpus-26-train	KHA	صباح الخير. كيفك؟
+158	corpus-6-test-corpus-26-train	KHA	آسف ح احتاج اشوف اثبات هوية.
+169	corpus-6-test-corpus-26-train	KHA	ياتو نوع من الصوص؟
+170	corpus-6-test-corpus-26-train	KHA	دا بارد شوية. ممكن تسخنه؟
+173	corpus-6-test-corpus-26-test	KHA	معليش، المكان دا محجوز.
+176	corpus-6-test-corpus-26-train	KHA	انا تمام. بس ممكن تتصل ب صحبى؟
+177	corpus-6-test-corpus-26-test	KHA	شكرا، دا كفاية.
+184	corpus-6-test-corpus-26-train	KHA	منو صحبك المفضل؟
+187	corpus-6-test-corpus-26-train	KHA	يوم الصحة والرياضة العاشر من أكتوبر هو عطلة قومية مصممة لتحسين صحة الناس.
+192	corpus-6-test-corpus-26-train	KHA	هل انت دايرني اتحقق تحت غطا العربية؟
+206	corpus-6-test-corpus-26-train	KHA	هل ممكن تساعدني ألقى شنطتي؟
+221	corpus-6-test-corpus-26-train	KHA	هل ممكن تعمل ترتيبات مقدما؟
+238	corpus-6-test-corpus-26-train	KHA	في زول بيساعدني. شكرا ليك.
+261	corpus-6-test-corpus-26-train	KHA	لمن تصل هناك، اسأل زول تاني، من فضلك.
+280	corpus-6-test-corpus-26-train	KHA	داير تمديد أربعة وعشرين ساعة، من فضلك.
+285	corpus-6-test-corpus-26-train	KHA	ديل دولارين. اخد الباقي.
+315	corpus-6-test-corpus-26-train	KHA	هامبرقر واحد و واحد بيرقر بالجبنة، من فضلك.
+319	corpus-6-test-corpus-26-train	KHA	كم من السعر بتطلب للعملية؟
+320	corpus-6-test-corpus-26-train	KHA	نحن كلنا دايرين ندفع لي وجباتنا.
+326	corpus-6-test-corpus-26-train	KHA	الموقع كان في كرسي في اللوبي.
+333	corpus-6-test-corpus-26-test	KHA	من فضلك حول هذه الينات إلى جنيهات.
+346	corpus-6-test-corpus-26-train	KHA	داير دكشنري مقاس جيب، من فضلك.
+360	corpus-6-test-corpus-26-train	KHA	لنفرين عند السابعة. الاسم واتانيبل.
+368	corpus-6-test-corpus-26-train	KHA	ساعتي. كانت سيكو ديجيتال.
+370	corpus-6-test-corpus-26-train	KHA	ح يكون متعتنا ان نخدمك بمشروب من اختيارك، مصحوب بي عشاء. دليل كامل من المشروبات البنوفرها في الرحلة دي موجودة في دليل المعلومة بتاع مجلتنا.
+373	corpus-6-test-corpus-26-test	KHA	انت ساكن بي هنا؟
+375	corpus-6-test-corpus-26-train	KHA	وين دكان دكان الهدايا؟
+386	corpus-6-test-corpus-26-test	KHA	انا في الطريق السريع جنب مورو بي.
+391	corpus-6-test-corpus-26-train	KHA	داير لي ساعة تنبيه، من فضلك.
+398	corpus-6-test-corpus-26-dev	KHA	بالمناسبة، اسمي هيروشي ايجيما.
+401	corpus-6-test-corpus-26-dev	KHA	القطر دا بقيف في ليك فورست، ول لا؟
+408	corpus-6-test-corpus-26-train	KHA	معظم اليابانيين بياكلوا اخطبوط و حبار.
+416	corpus-6-test-corpus-26-train	KHA	ممكن اخد تذكرين درجة تانية الي شيكاغو، من فضلك؟
+419	corpus-6-test-corpus-26-train	KHA	مشيت نيويورك.
+423	corpus-6-test-corpus-26-train	KHA	رقم الرحلة كم؟
+442	corpus-6-test-corpus-26-test	KHA	واحد إلى نيويورك، من فضلك.
+446	corpus-6-test-corpus-26-train	KHA	لحوالي أيام قليلة.
+447	corpus-6-test-corpus-26-train	KHA	التاني على الشمال.
+471	corpus-6-test-corpus-26-dev	KHA	الكرت دا، تمام؟
+488	corpus-6-test-corpus-26-train	KHA	دا مكتب الاستقبال؟ في عيادة قريبة؟
+493	corpus-6-test-corpus-26-train	KHA	هل عشرة دولارات كفاية للتكسي؟
+503	corpus-6-test-corpus-26-train	KHA	دا طعموا غريب.
+512	corpus-6-test-corpus-26-train	KHA	أي. انتظر، بجيب ليك واحد.
+516	corpus-6-test-corpus-26-train	KHA	نص قارورة، من فضلك.
+540	corpus-6-test-corpus-26-train	KHA	ما حقيقة. بس حاجة ما غالية.
+548	corpus-6-test-corpus-26-train	KHA	بتفتش لحاجة؟
+551	corpus-6-test-corpus-26-train	KHA	أربعة ليالي.
+553	corpus-6-test-corpus-26-train	KHA	داير بعض الجوارب.
+565	corpus-6-test-corpus-26-train	KHA	ممكن تخليه ارخص لان هناك بعض البقع؟
+571	corpus-6-test-corpus-26-train	KHA	رجل صدمني. بعد داك لاحظت ان محفظتي ذهبت.
+599	corpus-6-test-corpus-26-train	KHA	انا ما متأكد اذا حزمت ملابس كافية لي رحلة تلاته اسابيع.
+612	corpus-6-test-corpus-26-train	KHA	طيب، دايرين نجرب خمرة بيضاء.
+631	corpus-6-test-corpus-26-train	KHA	اذا في زول سأل عني، كلمهم اني في المقهى.
+632	corpus-6-test-corpus-26-train	KHA	متأكد أنه عندي في الجيب الداخلي بتاع الجاكيت بتاعي.
+641	corpus-6-test-corpus-26-test	KHA	ممكن اعرف الاسم و الرقم بتاع الشخص الانت متصل ليه؟
+643	corpus-6-test-corpus-26-train	KHA	هل الخطوط الجوية ح تدفع لي عشان اشتري بعض الضروريات الشخصية؟
+650	corpus-6-test-corpus-26-train	KHA	داير لي غرفة بحمام.
+652	corpus-6-test-corpus-26-dev	KHA	ما في حاجة جات طالعة من الآلة؟
+667	corpus-6-test-corpus-26-test	KHA	كان مفترض تاخد الرحلة تمانية اتنين صفر، الأقلعت قبل خمستاشر دقيقة. كلو تمام. ممكن أنظم رحلة ثانية.
+673	corpus-6-test-corpus-26-train	KHA	زول فك حزمتي.
+679	corpus-6-test-corpus-26-test	KHA	اوه، ولا حاجة. انت هنا، على كل حال.
+680	corpus-6-test-corpus-26-train	KHA	الخطوط الجوية اليابانية، رحلة رقم واحد اتنين تلاتة.
+681	corpus-6-test-corpus-26-train	KHA	محتاج اشتري شامبوه.
+683	corpus-6-test-corpus-26-train	KHA	ممكن تكلمني لم نصل الي مركز مدني؟
+688	corpus-6-test-corpus-26-train	KHA	وين أقرب جزار؟
+703	corpus-6-test-corpus-26-train	KHA	دايرين نقعد أربعة ليالي من الأول من أغسطس.
+708	corpus-6-test-corpus-26-train	KHA	اسم الزهرة ديك شنو؟
+719	corpus-6-test-corpus-26-train	KHA	خمستشار سبتمبر هو يوم احترام للمسنين.
+723	corpus-6-test-corpus-26-train	KHA	ما في صابون في غرفتي.
+741	corpus-6-test-corpus-26-dev	KHA	هل هناك اي شي ممكن اخده للطفح دا؟
+742	corpus-6-test-corpus-26-train	KHA	هل يمكنك تغير الصيغة الي القلته الان؟
+761	corpus-6-test-corpus-26-test	KHA	ح تستغرق كم للطلب؟
+773	corpus-6-test-corpus-26-train	KHA	ممكن تتكلم أعلى شوية، من فضلك؟
+777	corpus-6-test-corpus-26-train	KHA	كم من الزمن ح يكون قبل يطلع؟
+786	corpus-6-test-corpus-26-train	KHA	وين معلومات الرياضات؟
+787	corpus-6-test-corpus-26-train	KHA	المقاس دا هنا، الواحد المسميه مقاس منتظم، ح يعمل.
+793	corpus-6-test-corpus-26-test	KHA	وين الجولة ح تنتهي، و متين؟
+848	corpus-6-test-corpus-26-train	KHA	وين مفترض اغير القطار عشان اوصل ادينبيره؟
+855	corpus-6-test-corpus-26-train	KHA	داير اخت دا في صندوق ايداع امن.
+859	corpus-6-test-corpus-26-train	KHA	وين ممكن أبدل قروش؟
+897	corpus-6-test-corpus-26-train	KHA	ممكن نخلي حاجاتتا، عدا القيمة، في البص؟
+902	corpus-6-test-corpus-26-train	KHA	محتار الرسوم دي في تلفوني لي شنو.
+917	corpus-6-test-corpus-26-train	KHA	ح ادفع خمسين دولار.
+941	corpus-6-test-corpus-26-train	KHA	الآن عرفت الكان غلط شنو.
+957	corpus-6-test-corpus-26-dev	KHA	انا ايكيدا. عندي حجز لطربيزة عند الساعة ستة و نص المساء دا. لكن انا آسف ح اوصل نص ساعة متأخر.
+1003	corpus-6-test-corpus-26-train	KHA	كم أوقية من العطر ممكن أحصل عليها بدون جمارك؟
+1007	corpus-6-test-corpus-26-train	KHA	بس سياحة.
+1010	corpus-6-test-corpus-26-train	KHA	تمام. من فضلك وقعهم. دايرو كيف؟
+1023	corpus-6-test-corpus-26-test	KHA	هل ما زلت عندك؟
+1036	corpus-6-test-corpus-26-train	KHA	داير واحد كبير.
+1037	corpus-6-test-corpus-26-dev	KHA	نمت خلال منبه الستة و نص.
+1038	corpus-6-test-corpus-26-train	KHA	انا مصور حر.
+1047	corpus-6-test-corpus-26-train	KHA	التجار ممكن يحاولوا دولاراتك إلى قطع الكازينو؟
+1056	corpus-6-test-corpus-26-dev	KHA	عندنا حوالي تلاتين نوع من صابون الحمام.
+1062	corpus-6-test-corpus-26-train	KHA	ح يكون عندي ليك الاقتراح الأسبوع الجاي.
+1074	corpus-6-test-corpus-26-train	KHA	شكرا ليك. كم سعر القفازات دي؟
+1098	corpus-6-test-corpus-26-train	KHA	على أن أمشي. ح اتصل بيك لاحقا.
+1100	corpus-6-test-corpus-26-train	KHA	داير بعض الحفاظات الممكن التخلص منها.
+1122	corpus-6-test-corpus-26-train	KHA	من وين أصل سمك الفراشات ده؟
+1124	corpus-6-test-corpus-26-train	KHA	ح تحولهم لي دولارات، من فضلك؟
+1139	corpus-6-test-corpus-26-train	KHA	نحن محظوظين جدا. عندهم واحد مقاس أربعة في متجر ال ألا موانا.
+1146	corpus-6-test-corpus-26-train	KHA	هل هنالك أي ليموزين؟
+1163	corpus-6-test-corpus-26-dev	KHA	هل ممكن احصل على مكالمة إيقاظ عند خمسة و تلاتين بكرة الصباح؟
+1165	corpus-6-test-corpus-26-train	KHA	بفضل غرفة هادية.
+1167	corpus-6-test-corpus-26-train	KHA	در بعض مزيل طلاء الأظافر.
+1183	corpus-6-test-corpus-26-train	KHA	داير بطارية.
+1193	corpus-6-test-corpus-26-test	KHA	هل هناك فرقة لايف ول دي جي؟
+1194	corpus-6-test-corpus-26-train	KHA	هل يمكنني تأجير بعض معدات الغطس؟
+1199	corpus-6-test-corpus-26-dev	KHA	داير احجز غرفة لأربعة ليالي من التاني والعشرين من ديسمبر.
+1212	corpus-6-test-corpus-26-train	KHA	هل هذه الحقيبة مثالية لكل طقس؟
+1213	corpus-6-test-corpus-26-train	KHA	داير دونات، من فضلك.
+1218	corpus-6-test-corpus-26-train	KHA	داير أأجر عربية اوتوماتيك ليومين.
+1224	corpus-6-test-corpus-26-train	KHA	فوت الرحلة عشرين إلى سان فرانسيسكو.
+1234	corpus-6-test-corpus-26-train	KHA	كم للمطار؟
+1235	corpus-6-test-corpus-26-train	KHA	داك جيد. متين؟
+1276	corpus-6-test-corpus-26-train	KHA	كم عمر بنتك؟
+1312	corpus-6-test-corpus-26-train	KHA	ممكن تكلمني ببعض الفنادق الرخيصة و النضيفة؟
+1321	corpus-6-test-corpus-26-train	KHA	ممكن نحجز ليك غرفة مريحة في قصر قديم قرب نادي قولف مشهور.
+1329	corpus-6-test-corpus-26-train	KHA	بزكي دا لأنه مصنوع من مية في المية مكونات طبيعية.
+1361	corpus-6-test-corpus-26-dev	KHA	هل يتوقف القطر في برايتون؟
+1369	corpus-6-test-corpus-26-train	KHA	ممكن تكلمني وين ممكن ألقى تكسي؟
+1375	corpus-6-test-corpus-26-train	KHA	تزكرتين درجة ثانية، من فضلك.
+1384	corpus-6-test-corpus-26-train	KHA	داير أرسل فاكس.
+1394	corpus-6-test-corpus-26-train	KHA	داير حديد ترحال.
+1396	corpus-6-test-corpus-26-train	KHA	ممكن أقدم ليك أي حاجة؟
+1404	corpus-6-test-corpus-26-train	KHA	يومي؟ خايف اسأل، لكن قصدك شنو؟
+1418	corpus-6-test-corpus-26-train	KHA	داير واحد داك ال ح يحفظ ملفات مقاس ورقة رسالة عادية بدون طيهم.
+1433	corpus-6-test-corpus-26-test	KHA	أي، لكن ما قوي شديد.
+1434	corpus-6-test-corpus-26-train	KHA	اناحساس للقطط.
+1436	corpus-6-test-corpus-26-train	KHA	اي، مفروض تملك رخصة قيادة و، اه، انت مفروض يكون عندك رخصة من لجنة التكسي و الليموزين.
+1462	corpus-6-test-corpus-26-train	KHA	واصل، يا سيدي.
+1465	corpus-6-test-corpus-26-test	KHA	م شكلي ح ألقى موية سخنة.
+1474	corpus-6-test-corpus-26-train	KHA	داير احجز غرفة لليلة.
+1492	corpus-6-test-corpus-26-train	KHA	لا، استبعد الضرائب و مصاريف الخدمة.
+1506	corpus-6-test-corpus-26-train	KHA	دائر تمشي معاي التسوق المساء دا؟
+1508	corpus-6-test-corpus-26-test	KHA	هاي، دا حقيقة فستان جميل.
+1519	corpus-6-test-corpus-26-train	KHA	الآن، مكالمتك اتقبلت . من فضلك اتفضل.
+1525	corpus-6-test-corpus-26-train	KHA	كم رقم البوابة؟
+1539	corpus-6-test-corpus-26-train	KHA	شنو مطابق تزكار هاوايوان؟
+1556	corpus-6-test-corpus-26-train	KHA	ممكن اصل هناك بالنفق؟
+1560	corpus-6-test-corpus-26-train	KHA	داير مجفف شعر.
+1562	corpus-6-test-corpus-26-train	KHA	هل ح نوصل اي مكان نتكلم كدا؟
+1585	corpus-6-test-corpus-26-train	KHA	انا جيت من النرويج.
+1603	corpus-6-test-corpus-26-dev	KHA	من عشرة لي حداشر من فضلك.
+1619	corpus-6-test-corpus-26-train	KHA	بالتأكيد. خليني أشوفه. انت اتجرحت بالمهرجان، افترض.
+1620	corpus-6-test-corpus-26-train	KHA	احتياط، خليني اخد رقم الزول المسؤول.
+1622	corpus-6-test-corpus-26-train	KHA	هل هناك طريق سريع؟
+1630	corpus-6-test-corpus-26-train	KHA	لي ما جاء الحفلة امبارح؟
+1637	corpus-6-test-corpus-26-train	KHA	هناك كان في حادث مروري.
+1650	corpus-6-test-corpus-26-train	KHA	سوري، عندي الرقم الغلط.
+1653	corpus-6-test-corpus-26-test	KHA	من فضلك ادخلك بي آي ان الخاص بك.
+1663	corpus-6-test-corpus-26-dev	KHA	م قادر أعدل الصورة.
+1668	corpus-6-test-corpus-26-train	KHA	واحد بيرقر جبنة و عصير برتقال، من فضلك.
+1670	corpus-6-test-corpus-26-test	KHA	دا جوازي.
+1682	corpus-6-test-corpus-26-test	KHA	لي، شكرا ليك كتير. اه، هل يمكنني أمشي فوق للقمة؟
+1702	corpus-6-test-corpus-26-train	KHA	ممكن اخد الكروية للموسيقى الجمعة الجاية؟
+1718	corpus-6-test-corpus-26-train	KHA	راكب تاني هناك قال يمكنهم يبدلوا المقاعد معاك.
+1754	corpus-6-test-corpus-26-train	KHA	ممكن امدد إقامتي؟
+1766	corpus-6-test-corpus-26-train	KHA	قول. بتعرف أي حاجة بتستحق النظر قريب هنا؟
+1768	corpus-6-test-corpus-26-dev	KHA	لا، داير أأجر نص طقم من المضارب و حذاء.
+1782	corpus-6-test-corpus-26-train	KHA	ممكن توريني لم الشنطة الرايحة تتلقى؟
+1788	corpus-6-test-corpus-26-train	KHA	شنو اسم الحديقة القومية دي؟
+1791	corpus-6-test-corpus-26-train	KHA	عندي جرح.
+1792	corpus-6-test-corpus-26-dev	KHA	وين مكان جيد للسياحة؟
+1800	corpus-6-test-corpus-26-train	KHA	ممكن أشيل بعض الفواكه؟
+1834	corpus-6-test-corpus-26-train	KHA	ممكن اتغدا الآن؟
+1837	corpus-6-test-corpus-26-train	KHA	محتاج أبدل الدولارات دي.
+1867	corpus-6-test-corpus-26-train	KHA	انا محتاج لتاكسي. انا في ساوث مين و لايبرتي.
+1876	corpus-6-test-corpus-26-dev	KHA	بالتأكيد، داير كيرلي؟
+1878	corpus-6-test-corpus-26-train	KHA	هو ما تفاح لكن خوخ.
+1903	corpus-6-test-corpus-26-train	KHA	ح اديك وصفة طبية. شيلا للصيدلية.
+1927	corpus-6-test-corpus-26-train	KHA	بنطير تلات ايام في الاسبوع، في التلاتاء، الجمعة، و السبت.
+1931	corpus-6-test-corpus-26-dev	KHA	داك غالي. ول لا؟
+1948	corpus-6-test-corpus-26-train	KHA	أيوة. عندنا داك. ح نجهزوا ليك.
+1950	corpus-6-test-corpus-26-dev	KHA	ح تمسك عفشي لغاية الساعة تلاتة؟
+1951	corpus-6-test-corpus-26-train	KHA	لا، انا بس داير انزل.
+1954	corpus-6-test-corpus-26-dev	KHA	ممكن احجز اجر-عربية هنا؟
+1968	corpus-6-test-corpus-26-train	KHA	هل انت امريكي؟
+1980	corpus-6-test-corpus-26-test	KHA	للمكان دا، من فضلك.
+1985	corpus-6-test-corpus-26-train	KHA	عربيتي اتسرقت.
+1988	corpus-6-test-corpus-26-train	KHA	وين ظل العين؟
+1993	corpus-6-test-corpus-26-train	KHA	دايرين ركن هادئ، لو ممكن.
+1997	corpus-6-test-corpus-26-train	KHA	هل التكسي دا مجاني؟
+1998	corpus-6-test-corpus-26-train	KHA	هل دي محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	KHA	ياتو زمن مفروض اجي ماري؟
+2003	corpus-6-test-corpus-26-train	KHA	داير دورق صغير من نبيذ ابيض.
+2005	corpus-6-test-corpus-26-train	KHA	اه. ممكن اخد وجبتي فيما بعد؟ ما حاسي اني كويس أسى.
+2025	corpus-6-test-corpus-26-train	KHA	في الحقيقة، عندي اخبار. انا ح اتزوج.
+2033	corpus-6-test-corpus-26-train	KHA	اي سراويل تانيه؟
+2035	corpus-6-test-corpus-26-train	KHA	ممكن اخد برنامج؟
+2052	corpus-6-test-corpus-26-train	KHA	في وزل اقتحم غرفتي امبارح بالليل.
+2055	corpus-6-test-corpus-26-train	KHA	وريني السمك الشفته اليوم في الألبوم، من فضلك.
+2083	corpus-6-test-corpus-26-train	KHA	شوف التعليمات في علبة الأكل المفرغة من الهواء.
+2086	corpus-6-test-corpus-26-train	KHA	داير قروش ورق.
+2100	corpus-6-test-corpus-26-test	KHA	هو خطف محفظتي وهرب.
+2119	corpus-6-test-corpus-26-train	KHA	م عندك دروس تجريبيه؟
+2147	corpus-6-test-corpus-26-train	KHA	وين ممكن اشتري طوابع بريدية؟
+2148	corpus-6-test-corpus-26-train	KHA	انا من بريطانيا العظمى.
+2156	corpus-6-test-corpus-26-train	KHA	انا علي أن أراجع داك مع زوجتي.
+2161	corpus-6-test-corpus-26-train	KHA	داير احصل علي إعادة دفع لي ده.
+2179	corpus-6-test-corpus-26-train	KHA	هناك في صندوق تلفون قدام البنك داك.
+2180	corpus-6-test-corpus-26-train	KHA	ح اوصل في التاسع من مارس و أغادر في الرابع عشر.
+2205	corpus-6-test-corpus-26-train	KHA	داك غالي شويه، م يتعاقد؟
+2235	corpus-6-test-corpus-26-train	KHA	هل انت عندك العقل؟
+2236	corpus-6-test-corpus-26-train	KHA	وين محطة البص الترفيه؟
+2238	corpus-6-test-corpus-26-train	KHA	هل انت مهتم بالتحلية؟
+2302	corpus-6-test-corpus-26-train	KHA	انت بتتكلم؟
+2306	corpus-6-test-corpus-26-train	KHA	المثل لي انا، من فضلك.
+2318	corpus-6-test-corpus-26-train	KHA	طلبي ما وصل.
+2324	corpus-6-test-corpus-26-train	KHA	هناك كتير من الربوع الساخنه.
+2329	corpus-6-test-corpus-26-train	KHA	من فضلك حول خمسين ألف ين للدولار الأمريكي.
+2338	corpus-6-test-corpus-26-train	KHA	داك كويس معاي. في الحقيقه داير أدخن.
+2347	corpus-6-test-corpus-26-test	KHA	وين ممكن أأجر ادوات سكي وجزم؟
+2353	corpus-6-test-corpus-26-dev	KHA	نسيت مشروباتنا؟
+2368	corpus-6-test-corpus-26-test	KHA	ممكن ترسله لعنواني في اليابان ببريد تجمع الحزمه العالميه؟
+2381	corpus-6-test-corpus-26-train	KHA	داير قزازة خمرة حمرة.
+2389	corpus-6-test-corpus-26-train	KHA	فقط إذا كان كان حقك، سيدى. ههه-ههه، فقط نكته صغيره.
+2401	corpus-6-test-corpus-26-train	KHA	بالتأكيد . كيف ممكن تندمج؟
+2412	corpus-6-test-corpus-26-dev	KHA	عندنا بيره، ويسكي، براندي، جن، فودكاوخمر.
+2425	corpus-6-test-corpus-26-train	KHA	هويه. اوه، صاح. هل باسبورت اوكي؟
+2428	corpus-6-test-corpus-26-train	KHA	رقم غرفتي تلاتة ستة وعشرين. هل ممكن تشيل غسيلي؟
+2440	corpus-6-test-corpus-26-train	KHA	ح اشوف إذا في واحد من ديل مناسب.
+2441	corpus-6-test-corpus-26-train	KHA	داير غلاية.
+2445	corpus-6-test-corpus-26-train	KHA	جبتي لي بعض الجبنه المضفره.
+2462	corpus-6-test-corpus-26-train	KHA	هل يمكنني احصل علي قمصاني نضيفه صباح بكره؟
+2476	corpus-6-test-corpus-26-train	KHA	ممكن تخليه يرجع لي؟
+2490	corpus-6-test-corpus-26-train	KHA	ليه طيب؟
+2492	corpus-6-test-corpus-26-train	KHA	أعذرني . هل هناك اي مكتبات هنا؟
+2496	corpus-6-test-corpus-26-test	KHA	أعتقد أنك عملت غلطه. الغرفة كانت مجهزه. عندي ايصال.
+2505	corpus-6-test-corpus-26-train	KHA	البص هناك.
+2516	corpus-6-test-corpus-26-train	KHA	داير لفتين من ايزو ميه، فلم ملون، سته وتلاتين صورة، من فضلك.
+2519	corpus-6-test-corpus-26-train	KHA	داير أصدق الشيك دا لسبعين دولار.
+2521	corpus-6-test-corpus-26-train	KHA	داير اشتري طلبات لعشره كروت بريد لليابان، من فضلك.
+2528	corpus-6-test-corpus-26-train	KHA	هل هناك أي بنوك جمب المحطة؟
+2531	corpus-6-test-corpus-26-train	KHA	اخشى ان هناك في خطأ في ألفاتوره.
+2552	corpus-6-test-corpus-26-test	KHA	إنه هنا.
+2557	corpus-6-test-corpus-26-train	KHA	واحد بيرقر جبنه عشان أمشي من فضلك.
+2578	corpus-6-test-corpus-26-test	KHA	ما بتقدر تعمل عمل التصميم بدون كمبيوتر بعد دا.
+2591	corpus-6-test-corpus-26-train	KHA	أجرى.
+2601	corpus-6-test-corpus-26-train	KHA	هناك في شرطه في بلوزتي. انا أتعجب إذا ممكن تخيطه لي، من فضلك؟
+2613	corpus-6-test-corpus-26-dev	KHA	التعريفة كم إلى مانشستر؟
+2643	corpus-6-test-corpus-26-train	KHA	ممكن تعيرني كيبل تقويه؟
+2644	corpus-6-test-corpus-26-train	KHA	وين ممكن اشتري حصيرة الشاطئ؟
+2670	corpus-6-test-corpus-26-test	KHA	من فضلك اديني حجر جديد.
+2676	corpus-6-test-corpus-26-train	KHA	اديني شوية لحم الخنزير، لكن ما سميكه زي داك.
+2678	corpus-6-test-corpus-26-train	KHA	نحن جاين عند السابعة.
+2687	corpus-6-test-corpus-26-train	KHA	عندي تسجلاتي اتسرقت، برضه.
+2690	corpus-6-test-corpus-26-train	KHA	عندي تسجيلاتي اتسرقت، برضة.
+2695	corpus-6-test-corpus-26-train	KHA	مخروط ايسكريم الفانيلا من فضلك.
+2702	corpus-6-test-corpus-26-train	KHA	اوافق. مفروض يبقى طبيعي.
+2704	corpus-6-test-corpus-26-train	KHA	عقل الوجوه، عقل الفجوه، ثم قرب الأبواب، من فضلك.
+2707	corpus-6-test-corpus-26-train	KHA	ح احتاج ل كردت كارد.
+2708	corpus-6-test-corpus-26-dev	KHA	هندا الرقم.
+2715	corpus-6-test-corpus-26-test	KHA	وريني نقطة جيدة في النهر دا، من فضلك.
+2726	corpus-6-test-corpus-26-train	KHA	من فضلك اديني تقرير حادث.
+2729	corpus-6-test-corpus-26-train	KHA	لا، شكرا ليك قبل شوية.
+2734	corpus-6-test-corpus-26-train	KHA	أوكي، من فضلك خليك في الخط. مستر تاكاجيما، سيدة سايتو ما شكلها بترد على المكالمة. دايرني اتصل عليها زمن أطول؟
+2736	corpus-6-test-corpus-26-dev	KHA	احتمال، لكن مفروض نوزنهم منفصلين.
+2747	corpus-6-test-corpus-26-train	KHA	يبدوا ان نادر شديد جدا.
+2748	corpus-6-test-corpus-26-train	KHA	وين استلام العفش لرحلة سبعة صفر تلاتة؟
+2760	corpus-6-test-corpus-26-train	KHA	شي غلط مع قبضتك.
+2765	corpus-6-test-corpus-26-train	KHA	هل دا ح يفسد؟
+2772	corpus-6-test-corpus-26-train	KHA	لا، شكرا. أنا أحسن ما اشرب زيادة.
+2808	corpus-6-test-corpus-26-train	KHA	من فضلك وريني بعض الشوارع سهلة للتسوق.
+2811	corpus-6-test-corpus-26-dev	KHA	هل البص داك بمشي لفندق الهيلتون؟
+2816	corpus-6-test-corpus-26-train	KHA	الآن، الدهان دا خاص جدا. عمله تسوروتارو كاتاوكا. هو فنان عالمي معروف.
+2850	corpus-6-test-corpus-26-train	KHA	عندي تقدير عظيم للموسيقى الكلاسيكية.
+2851	corpus-6-test-corpus-26-dev	KHA	هل ممكن اعزمك للعشاء خارجا بعض الزمن؟
+2862	corpus-6-test-corpus-26-train	KHA	تمام. ما اسم ورقم الطرف التاني، لو سمحت.
+2871	corpus-6-test-corpus-26-train	KHA	اعزرني. طلعني، من فضلك.
+2878	corpus-6-test-corpus-26-train	KHA	ممكن تتصل على اصطاف يتكلم ياباني؟
+2898	corpus-6-test-corpus-26-train	KHA	بنزور قرايبنا غالبا.
+2939	corpus-6-test-corpus-26-train	KHA	ميكي هياكاوا. الغرفة دي سبعة صفر اتنين.
+2945	corpus-6-test-corpus-26-train	KHA	مفروض اقعد هنا الليلة، ول لا؟ ممكن تساعدني اراجع غرفة فندق؟
+2947	corpus-6-test-corpus-26-train	KHA	ما مفروض يكون طويل. خمستاشر دقيقة بالكتير.
+2960	corpus-6-test-corpus-26-train	KHA	ممكن توريني السعر للمكالمة دي كم؟
+2964	corpus-6-test-corpus-26-train	KHA	طيب، ممكن توريها اني اتصلت، من فضلك؟ ح اتصل بيها تاني لاحقا.
+2973	corpus-6-test-corpus-26-train	KHA	في اي جولة صباحية؟
+2982	corpus-6-test-corpus-26-train	KHA	هل تحول العملات الأجنبية؟
+2983	corpus-6-test-corpus-26-test	KHA	ميزانتنا حوالي خمسين دولار ككل لتلات أشخاص.
+2990	corpus-6-test-corpus-26-train	KHA	وين ممكن اشتري لفة فلم؟
+2995	corpus-6-test-corpus-26-train	KHA	هل عندك خمرة يابانية؟
+3001	corpus-6-test-corpus-26-test	KHA	داير بدلة سباحة أصغر، من فضلك.
+3016	corpus-6-test-corpus-26-train	KHA	داير أسجل عفشي.
+3029	corpus-6-test-corpus-26-train	KHA	دي غرفة مس كاوازو ستاشر حداشر.
+3030	corpus-6-test-corpus-26-train	KHA	عفوا.
+3038	corpus-6-test-corpus-26-dev	KHA	هناك ما في أي.
+3040	corpus-6-test-corpus-26-train	KHA	ياتو المهم ليكم يا يابانيين، يوم رأس السنة ول يوم الكريسماس؟
+3041	corpus-6-test-corpus-26-test	KHA	رقم مقعدك هو اتنين وتلاتين ايه. أمشي دغري بالممر دا. هو مقعد الشباك.
+3073	corpus-6-test-corpus-26-train	KHA	دقيقة فقط، من فضلك.
+3109	corpus-6-test-corpus-26-train	KHA	من فضلك املأ تقرير فقدان.
+3111	corpus-6-test-corpus-26-dev	KHA	ما بفهم امريكي، أتحدث انجليزي بريطاني.
+3120	corpus-6-test-corpus-26-train	KHA	من امبارح.
+3129	corpus-6-test-corpus-26-train	KHA	بيتضمن تأمين ضد التصادم و المسؤولية القانونية.
+3134	corpus-6-test-corpus-26-test	KHA	ضيعت ورقة الاستلام بتاعتي.
+3152	corpus-6-test-corpus-26-train	KHA	هل عندك اي ثقوب في تصميم جيد؟
+3155	corpus-6-test-corpus-26-train	KHA	انا بتصل من كشك عام في مايسس.
+3170	corpus-6-test-corpus-26-test	KHA	ديل كبار شديد.
+3176	corpus-6-test-corpus-26-train	KHA	كم سعر الباركنج للساعة؟
+3179	corpus-6-test-corpus-26-train	KHA	سيداتي و سادتي، في رحلتنا اليوم، عندنا حضور مخاطبة ياباني طائر.
+3182	corpus-6-test-corpus-26-train	KHA	هل هناك أي فترة معينة من الفن بتفضل؟
+3185	corpus-6-test-corpus-26-train	KHA	من فضلك راجعه مرة أخرى.
+3195	corpus-6-test-corpus-26-train	KHA	أمشي دغري على طول النهر حوالي نص ميل. ح تجي الحديقة.
+3201	corpus-6-test-corpus-26-dev	KHA	لا، هم متينين جدا.
+3207	corpus-6-test-corpus-26-train	KHA	اوكي، ح أرسله إلى لاس فيجاس ليك.
+3209	corpus-6-test-corpus-26-train	KHA	بفتش عن اقمصة جرى.
+3220	corpus-6-test-corpus-26-train	KHA	داير أي حاجة تشربها من البار؟
+3222	corpus-6-test-corpus-26-dev	KHA	الطريق دا من فضلك. اخد المصعد دا.
+3238	corpus-6-test-corpus-26-train	KHA	أفضل ليك تركب قطر تمنية و نص.
+3267	corpus-6-test-corpus-26-test	KHA	هل هناك مسرح فلم اس حوالي هنا؟
+3269	corpus-6-test-corpus-26-train	KHA	الان موسم المحار، لذا ح يكونوا كويسين.
+3279	corpus-6-test-corpus-26-train	KHA	داير مع ساعة يد تانية.
+3284	corpus-6-test-corpus-26-train	KHA	ح اراجع حوالي الساعة تسعة في المساء.
+3285	corpus-6-test-corpus-26-train	KHA	انا متأخر. مفروض اكون ماشى.
+3289	corpus-6-test-corpus-26-train	KHA	انا ما استعملت خدمة الغسيل بتاعتك. ح تراجع دا تاني؟
+3292	corpus-6-test-corpus-26-train	KHA	داير شاي، من فضلك.
+3295	corpus-6-test-corpus-26-train	KHA	لا، ما في هناك.
+3304	corpus-6-test-corpus-26-train	KHA	هل دا آخر استوب؟
+3318	corpus-6-test-corpus-26-train	KHA	خلينا نتصل بيه.
+3323	corpus-6-test-corpus-26-train	KHA	هل الاسبايسي دا سخن؟
+3334	corpus-6-test-corpus-26-train	KHA	وين ممكن ألقى بص لمعالم المدينة؟
+3335	corpus-6-test-corpus-26-train	KHA	نعم، أنا داير أعمل مشاهدة للمدينة.
+3351	corpus-6-test-corpus-26-test	KHA	هناك عدة سواح حول المبنى، الشكلهم اتجمعوا عشان يشوفوا الحاصل شنو.
+3359	corpus-6-test-corpus-26-train	KHA	شكرا ليك على ضيافتك.
+3375	corpus-6-test-corpus-26-train	KHA	الأمانة أفضل سياسة.
+3385	corpus-6-test-corpus-26-train	KHA	ممكن تصحيني الساعة ستة، من فضلك؟
+3392	corpus-6-test-corpus-26-train	KHA	بتكلف كم لي نص يوم؟
+3397	corpus-6-test-corpus-26-train	KHA	انا كنجي.
+3402	corpus-6-test-corpus-26-train	KHA	هل بتعرف اي أماكن جيدة للرؤية في شيكاغو؟
+3404	corpus-6-test-corpus-26-train	KHA	طيب، إذا انتو الاتنين مصرين، ح أمشي معاكم.
+3413	corpus-6-test-corpus-26-dev	KHA	ممكن تبدل دي لواحدة أخرى من نفس النوع، من فضلك؟
+3446	corpus-6-test-corpus-26-train	KHA	داير اعمل حجز لتلاتة و نص بعد الظهر.
+3489	corpus-6-test-corpus-26-train	KHA	صندوق الأمان، من فضلك.
+3502	corpus-6-test-corpus-26-train	KHA	من فضلك، شيل خمرة مناسبة.
+3512	corpus-6-test-corpus-26-test	KHA	داير محل صغير.
+3522	corpus-6-test-corpus-26-train	KHA	هل مفروض ادفع للبنزين؟
+3557	corpus-6-test-corpus-26-train	KHA	حرامي. اقبضه.
+3562	corpus-6-test-corpus-26-test	KHA	نحن منتظرين أصحابنا يجوا.
+3572	corpus-6-test-corpus-26-train	KHA	من فضلك اديني شوية الفكه.
+3619	corpus-6-test-corpus-26-test	KHA	كيرلي ضيق، من فضلك.
+3628	corpus-6-test-corpus-26-train	KHA	هي رشيقة و لطيفة.
+3638	corpus-6-test-corpus-26-test	KHA	اوبرت الليلة شنو؟
+3640	corpus-6-test-corpus-26-train	KHA	مقلي، من فضلك.
+3644	corpus-6-test-corpus-26-train	KHA	غسيلي ما اترجع لسة.
+3649	corpus-6-test-corpus-26-train	KHA	بالمناسبة، انت فاضي السبت الجاي دا؟
+3667	corpus-6-test-corpus-26-train	KHA	طيب، احتمال نحن ح نكون كويسين لفترة طويلة معا.
+3669	corpus-6-test-corpus-26-train	KHA	هي بتعاملني زي لو كنت شحاد.
+3683	corpus-6-test-corpus-26-train	KHA	انا شايف. برضه، ممكن تساعدني في مشكلة تانية؟
+3685	corpus-6-test-corpus-26-train	KHA	ممكن تخت عدسات طبية في النظارات الشمسية دي؟
+3698	corpus-6-test-corpus-26-dev	KHA	ح اخد اتنين من ديل.
+3705	corpus-6-test-corpus-26-train	KHA	ما الطفهم من كلاب. ياتو فصيلة؟
+3721	corpus-6-test-corpus-26-train	KHA	وقعت مفراكتي. من فضلك جيب واحدة اخرى.
+3742	corpus-6-test-corpus-26-train	KHA	داك كان ظريف.
+3747	corpus-6-test-corpus-26-train	KHA	اكيد. أمشي دغري و لف يمين عند الكورنة التالتة. ح تلقاه على يمينك.
+3765	corpus-6-test-corpus-26-dev	KHA	هل عندك بعض الفلم لاسلايدات ملونة؟
+3780	corpus-6-test-corpus-26-train	KHA	هل تعرف كاثي؟ أنه عيد ميلادها.
+3789	corpus-6-test-corpus-26-train	KHA	هل عندك مخطط ملون؟
+3792	corpus-6-test-corpus-26-dev	KHA	ممكن ادفع بشيك سياحي؟
+3806	corpus-6-test-corpus-26-train	KHA	لكن، هو، رجل، كيف أعرف داك الشئ الحقيقي؟
+3825	corpus-6-test-corpus-26-train	KHA	ممكن احصل عليه خالي من الضرائب؟
+3829	corpus-6-test-corpus-26-train	KHA	ما قادر أخت عفشي تحت المقعد. ممكن تمسكوا لي، من فضلك؟
+3835	corpus-6-test-corpus-26-train	KHA	ممكن من فضلك تخت الشنطة دي في شنطة العربية؟
+3847	corpus-6-test-corpus-26-train	KHA	انا طالع أسى، عشان كدا ح ارفعه.
+3856	corpus-6-test-corpus-26-train	KHA	من فضلك رسل زول فوق لي شنطي عند ستة و تلاتين.
+3858	corpus-6-test-corpus-26-dev	KHA	داير خريطة سان فرانسيسكو و المنطقة المحيطة.
+3859	corpus-6-test-corpus-26-train	KHA	ياتو نوع من العيش عندك؟
+3860	corpus-6-test-corpus-26-train	KHA	وين المصعد؟
+3861	corpus-6-test-corpus-26-train	KHA	في هناك اي زول بلعب البيانو؟
+3872	corpus-6-test-corpus-26-test	KHA	في ياتو محطة مفروض انزل عشان أمشي لي امبير استيت بلدنق؟
+3887	corpus-6-test-corpus-26-test	KHA	الميزانية تحت واحد ألف دولار.
+3892	corpus-6-test-corpus-26-train	KHA	شكرا ليك، لكن ما أظن عندي زمن اقعد ليلتين. ممكن تحجز لي غرفة مزدوجة في الفندق داك لليلة اتناشر مارس بس؟
+3900	corpus-6-test-corpus-26-dev	KHA	من احجز غرفة دبل بتطل على المحيط؟
+3920	corpus-6-test-corpus-26-train	KHA	ما قررنا لسة.
+3928	corpus-6-test-corpus-26-train	KHA	صحبي اتعتر و لوا كاحله.
+3936	corpus-6-test-corpus-26-train	KHA	ح أجرب بعض العصير.
+3961	corpus-6-test-corpus-26-train	KHA	هل هناك كافيتريا تايلندية قريبة؟
+3972	corpus-6-test-corpus-26-train	KHA	إنه قرب ذلك المبنى. عشان كدا، أرجع بنفس الشارع الجيت بيه لغاية الإشارة. ثم، لف للشمال.
+3974	corpus-6-test-corpus-26-train	KHA	مفروض احصل طائرة لي لوس أنجلس بدري صباح بكرة.
+3988	corpus-6-test-corpus-26-train	KHA	"ثم انا ممكن بوثوق أزكى ""جولة مدينة سان فرانسيسكو""دي. دي بتعرفك الخطوط العريضة لسان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	KHA	داير احصل على تأمين.
+3995	corpus-6-test-corpus-26-test	KHA	خلينا نخت كمادة باردة لتخفيف الألم.
+4013	corpus-6-test-corpus-26-train	KHA	دايرة تشتري فستان.
+4016	corpus-6-test-corpus-26-train	KHA	كم التكسي للفندق دا؟
+4017	corpus-6-test-corpus-26-train	KHA	وين المرحاض؟
+4034	corpus-6-test-corpus-26-train	KHA	هل بتكلف أي حاجة عشان ادخل المبنى دا؟
+4036	corpus-6-test-corpus-26-train	KHA	اخدها في طريقك.
+4082	corpus-6-test-corpus-26-test	KHA	بفتش في شي متانق.
+4104	corpus-6-test-corpus-26-train	KHA	الشباك اتسد.
+4109	corpus-6-test-corpus-26-dev	KHA	في ياتو جانب من يونين اسكوير هو؟
+4119	corpus-6-test-corpus-26-train	KHA	نص أوقية من جانل رقم خمسة، من فضلك.
+4129	corpus-6-test-corpus-26-train	KHA	ماذا عن بعض القهوة؟
+4143	corpus-6-test-corpus-26-train	KHA	هل بحتاج لي تزكرة؟
+4182	corpus-6-test-corpus-26-train	KHA	حوالي كم سعر الخدمة؟
+4185	corpus-6-test-corpus-26-train	KHA	كم البعد من هنا؟
+4187	corpus-6-test-corpus-26-train	KHA	كريم و سكر؟
+4193	corpus-6-test-corpus-26-train	KHA	هل عندك معدل نقصان للأعضاء؟
+4219	corpus-6-test-corpus-26-train	KHA	هل هناك سوبر اكسبرس تسعة و نص؟
+4221	corpus-6-test-corpus-26-train	KHA	خليني أراجع سائل الفرامل و المحرك . محركك شكله خلاص وقف.
+4224	corpus-6-test-corpus-26-train	KHA	ما كان غلطي.
+4262	corpus-6-test-corpus-26-train	KHA	ما في كهرباء.
+4263	corpus-6-test-corpus-26-train	KHA	ح اقيد دا للشرطة.
+4269	corpus-6-test-corpus-26-train	KHA	هل اي زول مفروض يدفع لي مشروباتو؟
+4275	corpus-6-test-corpus-26-train	KHA	اي محل من تلاتين لخمسين دولار لليلة.
+4278	corpus-6-test-corpus-26-train	KHA	من فضلك صلح دا.
+4284	corpus-6-test-corpus-26-train	KHA	في أيام رأس السنة. و في المناسبات الخاصة زي استقبال العرس، حفلات الجائزة أو العزاء.
+4285	corpus-6-test-corpus-26-test	KHA	خردل زيادة، من فضلك.
+4305	corpus-6-test-corpus-26-train	KHA	لي ما تديها هدية؟
+4321	corpus-6-test-corpus-26-test	KHA	ياتو فلم انت بتزكي؟
+4324	corpus-6-test-corpus-26-test	KHA	دي عشرين و اديني دولارين بقشيش، من فضلك.
+4326	corpus-6-test-corpus-26-train	KHA	هي ضربتني بالجنبة.
+4335	corpus-6-test-corpus-26-train	KHA	ممكن اجي عند التانية.
+4341	corpus-6-test-corpus-26-train	KHA	هل العفش دا من الرحلة جيه ايه ال صفر واحد؟
+4346	corpus-6-test-corpus-26-train	KHA	دي رحلتي الأولى لباريس.
+4348	corpus-6-test-corpus-26-train	KHA	ممكن تخمن التكلفة قبل ما تبدأ الشغل فيه؟
+4358	corpus-6-test-corpus-26-train	KHA	أدخل، من فضلك.
+4364	corpus-6-test-corpus-26-test	KHA	رحلة المشي حقتنا ح تكون متعة شديد.
+4365	corpus-6-test-corpus-26-train	KHA	وين نحن نركب القارب؟
+4373	corpus-6-test-corpus-26-train	KHA	ما عندنا شنطة للكمية ديك عشان كدا ح اخته في الشنطة البلاستيكية الكبيرة دي.
+4374	corpus-6-test-corpus-26-train	KHA	داير العب تنس.
+4375	corpus-6-test-corpus-26-train	KHA	هناك في أناناس، برتقال و عصير طماطم.
+4377	corpus-6-test-corpus-26-train	KHA	جانب شمالي للطابق دا، جنب المصعد.
+4382	corpus-6-test-corpus-26-test	KHA	المشغل شنو في قاعة الموسيقى اليوم؟
+4409	corpus-6-test-corpus-26-train	KHA	ما ممكن بالأحرى تشوف فلم مختلف؟
+4418	corpus-6-test-corpus-26-train	KHA	من فضلك حول شيك المسافر دا لكاش.
+4432	corpus-6-test-corpus-26-dev	KHA	داير اخد نفس الكورس بكرة، من فضلك.
+4450	corpus-6-test-corpus-26-train	KHA	انا من المحتمل اقدر اديك إجابة أفضل لداك بعد جوز من العروض.
+4451	corpus-6-test-corpus-26-test	KHA	داير هدية لذكري سنوية.
+4464	corpus-6-test-corpus-26-train	KHA	ياتو ملعوبة موسيقية شغالة أسى؟
+4475	corpus-6-test-corpus-26-train	KHA	هل عندك مراية؟
+4478	corpus-6-test-corpus-26-dev	KHA	أعزرني، بس انا ضيعت طريقي. ممكن تساعدني؟
+4479	corpus-6-test-corpus-26-train	KHA	ح اخد الواحد دا، من فضلك.
+4497	corpus-6-test-corpus-26-train	KHA	ما ممكن تجيب العاب نارية إلى كندا.
+4501	corpus-6-test-corpus-26-train	KHA	زوجتك ما امهرها من طباخة.
+4503	corpus-6-test-corpus-26-train	KHA	داير أي مساعدة؟
+4505	corpus-6-test-corpus-26-train	KHA	ممكن تعمل حجز لتاكسي للسادسة صباح بكرة، من فضلك؟
+4510	corpus-6-test-corpus-26-train	KHA	داير شنو مع دخولك؟
+4540	corpus-6-test-corpus-26-test	KHA	هل هناك بوتيك حوالي هنا؟
+4549	corpus-6-test-corpus-26-train	KHA	المكان دا ملئ بالناس، ول لا؟
+4558	corpus-6-test-corpus-26-train	KHA	معليش. ح يكونوا جاهزين في حوالي خمسة دقايق.
+4588	corpus-6-test-corpus-26-train	KHA	جاني تشنج في رقبتي أثناء النوم.
+4594	corpus-6-test-corpus-26-train	KHA	اوكي، ما مشكلة. ممكن اشوف جوازك؟
+4615	corpus-6-test-corpus-26-test	KHA	ما عندي اي قروش.
+4624	corpus-6-test-corpus-26-train	KHA	في ياتو زمن مفروض اكون في المحطة؟
+4630	corpus-6-test-corpus-26-train	KHA	في مطاعم كتيرة حوالي هنا.
+4635	corpus-6-test-corpus-26-train	KHA	هو بعد غرفة الامانات.
+4640	corpus-6-test-corpus-26-train	KHA	كلام سمح معاك.
+4644	corpus-6-test-corpus-26-test	KHA	هل هناك رحلة سياحية بعد الظهر؟
+4648	corpus-6-test-corpus-26-test	KHA	انا مع أصحابي.
+4653	corpus-6-test-corpus-26-train	KHA	استمتعت بي قعدتي. شكرا.
+4654	corpus-6-test-corpus-26-train	KHA	الشاطئ تحت، ما أجمله من منظر.
+4658	corpus-6-test-corpus-26-train	KHA	شكرا ليك للانتظار، مس مسقاير. هو هنا. اتفضلي. من فضلك.
+4662	corpus-6-test-corpus-26-train	KHA	هل عندك هوية فيها صورة؟
+4671	corpus-6-test-corpus-26-train	KHA	سبعة، من فضلك.
+4674	corpus-6-test-corpus-26-train	KHA	داير أرسل دا للمغسلة . متين ح يكون جاهز؟
+4685	corpus-6-test-corpus-26-train	KHA	عندي بنطلون مخطط.
+4699	corpus-6-test-corpus-26-train	KHA	اي. عفش زول تاني وصل لغرفتي قبل شوية . ممكن تراجعه، من فضلك؟
+4714	corpus-6-test-corpus-26-train	KHA	ممكن احصل عليه موضح أكتر بالتفصيل؟
+4729	corpus-6-test-corpus-26-train	KHA	هل حصلت على نوم كويس؟
+4733	corpus-6-test-corpus-26-train	KHA	ممكن تضغط زر التصوير؟
+4740	corpus-6-test-corpus-26-train	KHA	مفتاحين، من فضلك.
+4742	corpus-6-test-corpus-26-dev	KHA	داير لمبة.
+4744	corpus-6-test-corpus-26-train	KHA	هو في نهاية الممر.
+4773	corpus-6-test-corpus-26-dev	KHA	داير بعض ورق الملاحظات.
+4788	corpus-6-test-corpus-26-train	KHA	نحن ماشين بالبص؟
+4790	corpus-6-test-corpus-26-train	KHA	انت قلت انك مغادر إلى توكيو بكرة؟
+4795	corpus-6-test-corpus-26-test	KHA	خليني انوم لحدي الساعة تسعة.
+4801	corpus-6-test-corpus-26-train	KHA	مفروض احول إلى أي دبليو واحد صفر صفر. هل ممكن؟
+4813	corpus-6-test-corpus-26-train	KHA	لعبتك كيف الأيام دي؟
+4814	corpus-6-test-corpus-26-dev	KHA	حاسي بضيق في الصدر.
+4826	corpus-6-test-corpus-26-train	KHA	ما مشكلة. إذا جيت في خمسة سبتمبر، ممكن تستمتع بعرض فلم علمي لأننا عندنا يوم خاص مفتوح في أول جمعة من كل شهر.
+4828	corpus-6-test-corpus-26-train	KHA	هل عندك اي جولة تانية؟
+4836	corpus-6-test-corpus-26-train	KHA	كلو تمام، خمسة في المية خصم. كدا اوكي؟
+4845	corpus-6-test-corpus-26-train	KHA	انا ماشى لي باريس.
+4848	corpus-6-test-corpus-26-train	KHA	هو ما آخر موديل، ول لا؟
+4857	corpus-6-test-corpus-26-train	KHA	هو اتجدول لتمنية و تلاتين في المساء توقيت محلي.
+4889	corpus-6-test-corpus-26-train	KHA	اخد المبنى داك معانا، من فضلك.
+4894	corpus-6-test-corpus-26-train	KHA	اوكي. ح اخد صحن مقاس متوسط و كورة رز.
+4901	corpus-6-test-corpus-26-train	KHA	كيف يبدو هذا؟
+4924	corpus-6-test-corpus-26-train	KHA	داير اشوف الواحد داك في النافذة، من فضلك.
+4945	corpus-6-test-corpus-26-train	KHA	ماف طريقة. نحن في فاكيشن. أنا ارفض ان اقعد في غرفة فندق و أشاهد بيسبول في التلفزيون. داير أمشي أحضر مسرحية.
+4957	corpus-6-test-corpus-26-train	KHA	ممكن ألمسه؟
+4974	corpus-6-test-corpus-26-train	KHA	ممكن تجي هنا عشان تصلحوا؟
+4983	corpus-6-test-corpus-26-train	KHA	داير بعض الفايبر الصناعي.
+4985	corpus-6-test-corpus-26-train	KHA	اسمي تارو تاكانا. عندي حجز.
+4990	corpus-6-test-corpus-26-train	KHA	داير بعض كريم التطهير.
+5004	corpus-6-test-corpus-26-train	KHA	داير بلوزة مع أكمام طويلة.
+5009	corpus-6-test-corpus-26-train	KHA	اتسرقت مني شنطتي.
+5017	corpus-6-test-corpus-26-train	KHA	طرقاتنا شكلها بتتعارض مرات كتيرة. ول لا؟
+5035	corpus-6-test-corpus-26-train	KHA	ممكن اشوف القائمة تاني؟
+5045	corpus-6-test-corpus-26-train	KHA	هم لسة بظهروا خضر شوية.
+5082	corpus-6-test-corpus-26-train	KHA	كم عدد؟
+5083	corpus-6-test-corpus-26-train	KHA	فراولة، من فضلك.
+5090	corpus-6-test-corpus-26-dev	KHA	جبل فوجي هو أعلى قمة يابانية عند تلاتة ألف و سبعمائة ستة وسبعين متر.
+5091	corpus-6-test-corpus-26-train	KHA	لا، لسة. في كمية تختار منهم.
+5098	corpus-6-test-corpus-26-dev	KHA	داير بعض كريم الليل.
+5104	corpus-6-test-corpus-26-test	KHA	إنه بين المخبز و دكان الجزار.
+5116	corpus-6-test-corpus-26-train	KHA	ممكن تقصر الأكمام؟
+5117	corpus-6-test-corpus-26-train	KHA	آسف ما في ملعب قولف قريب هنا.
+5121	corpus-6-test-corpus-26-train	KHA	ممكن توريني الخاتم التاني من الشمال؟
+5124	corpus-6-test-corpus-26-train	KHA	ممكن تطلب منه يتصل علي؟
+5138	corpus-6-test-corpus-26-train	KHA	حاولت اعمل مكالمة دولية؟
+5148	corpus-6-test-corpus-26-test	KHA	دا غلط.
+5175	corpus-6-test-corpus-26-train	KHA	نعم، دا هو. لأنك ممكن تشوف العلم في مقدمة مكتب البريد.
+5207	corpus-6-test-corpus-26-test	KHA	انت بالتأكيد ح ترسلهم، صاح؟
+5219	corpus-6-test-corpus-26-train	KHA	داير اعمل مكالمة هاتفية مستخدما كردت كارد.
+5224	corpus-6-test-corpus-26-train	KHA	داير حقي يمشي.
+5245	corpus-6-test-corpus-26-train	KHA	عندما يوصل. ح ندفع عشان نشحنوا إلى عنوان منزلك.
+5246	corpus-6-test-corpus-26-dev	KHA	هذه الايام دائما بستخدم كمبيوتر في الشغل.
+5250	corpus-6-test-corpus-26-train	KHA	اوه، اوكي. فهمت. ح اجي لي محلك.
+5259	corpus-6-test-corpus-26-train	KHA	لا، داك كفاية.
+5261	corpus-6-test-corpus-26-train	KHA	ممكن اخد بطانية و مخدة؟
+5262	corpus-6-test-corpus-26-train	KHA	ممكن تجي هنا بسرعة قدر الإمكان، من فضلك؟
+5263	corpus-6-test-corpus-26-train	KHA	كباية قهوة، من فضلك.
+5267	corpus-6-test-corpus-26-test	KHA	بفتش لبعض البطاقات الهواوية نموذجيا.
+5272	corpus-6-test-corpus-26-train	KHA	ممكن تضيق الخصر تلاتة سنتيمترات؟
+5289	corpus-6-test-corpus-26-train	KHA	انا نفس العمر.
+5300	corpus-6-test-corpus-26-train	KHA	ح تجيب لي بعض القهوة؟
+5307	corpus-6-test-corpus-26-dev	KHA	تلتمية و خمسين دولار؟ داك فوق ميزانيتي.
+5323	corpus-6-test-corpus-26-train	KHA	هل نحن محتاجين نخت دا في تصويت؟ إذا لا، أعتقد إننا وصلنا لخاتمة ال ح أرسلها لمجلس ادارتنا صباح بكرة.
+5334	corpus-6-test-corpus-26-train	KHA	هل تعلم إذا كان هناك أي فنادق رخيصة؟
+5361	corpus-6-test-corpus-26-train	KHA	صباح الخير. هل نمت كويس؟
+5364	corpus-6-test-corpus-26-train	KHA	ماذا تنوي ان تفعل بعد أن تنهي المدرسة؟
+5366	corpus-6-test-corpus-26-train	KHA	اتسرقت في شنطة الكتف بتاعتي في الشارع.
+5367	corpus-6-test-corpus-26-train	KHA	هل عندك اي خدمات تانية بجانب الفطور الصباح دا؟
+5407	corpus-6-test-corpus-26-train	KHA	داير كباية قهوة بيضاء، من فضلك.
+5410	corpus-6-test-corpus-26-test	KHA	اوكي. هل فندق الشيراتون حوالي هنا؟
+5411	corpus-6-test-corpus-26-train	KHA	أتمنى انك ما تعبان شديد.
+5431	corpus-6-test-corpus-26-train	KHA	داير أأجر عربية من النوع دا ليومين.
+5436	corpus-6-test-corpus-26-train	KHA	ح آخد لقطة بتاعت جاك دانيلس.
+5437	corpus-6-test-corpus-26-train	KHA	ح اخد كيس فشار من فضلك.
+5447	corpus-6-test-corpus-26-train	KHA	انا وقعت عصا تزلج.
+5455	corpus-6-test-corpus-26-train	KHA	نحن ما بنجيب هدايا للاستقبال. كبديل، الضيوف بجيبوا كاش.
+5458	corpus-6-test-corpus-26-train	KHA	داير أرسله بالبريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	KHA	الطيارة وصلت متأخرة بسبب الثلج الثقيل.
+5518	corpus-6-test-corpus-26-train	KHA	اشحن، من فضلك.
+5521	corpus-6-test-corpus-26-train	KHA	ممكن تاخد رسالة، من فضلك؟
+5540	corpus-6-test-corpus-26-train	KHA	سوري، ما بقدر اتابعك. ممكن تتكلم أبطأ قليلا، من فضلك؟
+5549	corpus-6-test-corpus-26-dev	KHA	ممكن أوريك شنو؟
+5559	corpus-6-test-corpus-26-train	KHA	ممكن اخد صور؟
+5570	corpus-6-test-corpus-26-train	KHA	خارج المئة.
+5584	corpus-6-test-corpus-26-dev	KHA	رقم الرحلة اتش بي تسعة وتمانين لتوكيو في الحادي عشر من مارس.
+5585	corpus-6-test-corpus-26-train	KHA	ممكن اخد نفس الصحن زي داك؟
+5594	corpus-6-test-corpus-26-dev	KHA	هل عندك واحد تاني؟
+5596	corpus-6-test-corpus-26-train	KHA	من فضلك جيب فطوري لغرفتي عند السابعة صباح بكرة.
+5615	corpus-6-test-corpus-26-train	KHA	زول الصيانة ح يجي قريب.
+5617	corpus-6-test-corpus-26-dev	KHA	انا اسف. ح اجي راجع لاحقا.
+5640	corpus-6-test-corpus-26-test	KHA	كيف ممكن أخده؟
+5648	corpus-6-test-corpus-26-train	KHA	هل هناك أي شواغر في جولة الخميس؟
+5657	corpus-6-test-corpus-26-train	KHA	اعذرني . ممكن أمر؟
+5680	corpus-6-test-corpus-26-train	KHA	هل عندك اي نبتات و فواكه؟
+5684	corpus-6-test-corpus-26-train	KHA	من فضلك وريني كيف املأ بطاقة النزول؟
+5695	corpus-6-test-corpus-26-train	KHA	أعتقد أن عربيتي بتستحق في حوالي خمسة آلاف دولار.
+5706	corpus-6-test-corpus-26-train	KHA	هل الأكل دا منخفض في السعرات الحرارية؟
+5717	corpus-6-test-corpus-26-train	KHA	أي بص مفروض اخد عشان أمشي المحطة؟
+5723	corpus-6-test-corpus-26-train	KHA	نعم، دا هو. لكن عليك أن تلف شمال في الإشارة التالتة و تبقى في الشارع داك لغاية تجي للشارع ستة وستين.
+5733	corpus-6-test-corpus-26-dev	KHA	داير كباية موية عشان اخد بعض الدواء، من فضلك.
+5761	corpus-6-test-corpus-26-train	KHA	ح أكون ملتزم شديد إذا اخدتني معاك للشاطي.
+5772	corpus-6-test-corpus-26-train	KHA	أنا آسف. عندك الرقم غلط. دي تانكيوشا بريس.
+5779	corpus-6-test-corpus-26-train	KHA	بنغادر.
+5830	corpus-6-test-corpus-26-dev	KHA	دي موسيقى شنو؟
+5847	corpus-6-test-corpus-26-train	KHA	من فضلك أدى العصير دا لطفلك، مقاس واحد، بعد كل وجبة.
+5848	corpus-6-test-corpus-26-train	KHA	الاستايل متوفر في المقاسات تمنية وعشرين، واحد وتلاتين و خمسة وتلاتين سنتيمتر .
+5875	corpus-6-test-corpus-26-train	KHA	اوه. داك يبدو أن كثير.
+5898	corpus-6-test-corpus-26-train	KHA	ممكن استخدم تلفونك؟
+5902	corpus-6-test-corpus-26-test	KHA	داك ريحتوا حلوة. كم سعره؟
+5906	corpus-6-test-corpus-26-train	KHA	داير أأكد رحلتي لشيكاغو يوم سبعتاشر.
+5913	corpus-6-test-corpus-26-train	KHA	أنا اكلت كتير شديد شوية.
+5914	corpus-6-test-corpus-26-train	KHA	ممكن اتكلم مع مس براون؟
+5916	corpus-6-test-corpus-26-train	KHA	البيت دا يبدو أن مريح للمعيشة فيه، ول لا؟
+5934	corpus-6-test-corpus-26-dev	KHA	داير اعمل حجز في نورث ويست رحلة صفر تمانية ستة يوم خمسة.
+5940	corpus-6-test-corpus-26-train	KHA	محفظتي، جوازي.
+5956	corpus-6-test-corpus-26-train	KHA	متين بتقفل؟
+5974	corpus-6-test-corpus-26-test	KHA	انتظر دقيقة. احتمال انا خليته في غرفة الراحة.
+5987	corpus-6-test-corpus-26-train	KHA	داك نفس الكنت ح اقولوا.
+5988	corpus-6-test-corpus-26-train	KHA	نعم، أظن كدا.
+5997	corpus-6-test-corpus-26-train	KHA	بيتك كبير. كم غرفة؟
+6006	corpus-6-test-corpus-26-train	KHA	استمتعنا بالعشاء.
+6024	corpus-6-test-corpus-26-test	KHA	انا فهمت. بس ما بقدر أقوله.
+6047	corpus-6-test-corpus-26-train	KHA	اوه، نعم، من فضلك. بس انا بتمنى ما يصيبهم دوار البحر.
+6056	corpus-6-test-corpus-26-test	KHA	إلى طوكيو، من فضلك.
+6073	corpus-6-test-corpus-26-train	KHA	زمن الوصول المتوقع حقنا شنو؟
+6086	corpus-6-test-corpus-26-train	KHA	انا مغادر بدري بكرة، عشان كده داير ادفع أسى.
+6100	corpus-6-test-corpus-26-test	KHA	دراي شيري، من فضلك.
+6109	corpus-6-test-corpus-26-test	KHA	مقعد لغير المدخنين، من فضلك.
+6156	corpus-6-test-corpus-26-train	KHA	هو مشغول الآن.
+6167	corpus-6-test-corpus-26-train	KHA	هل يمكن للأجانب الوصول للكتب في المكتبة دي؟
+6179	corpus-6-test-corpus-26-train	KHA	هل ممكن اقعد في غرفتي لغاية اتنين بعد الظهر؟
+6190	corpus-6-test-corpus-26-train	KHA	ها-ها صباح الخير وقتك. اوكي.
+6193	corpus-6-test-corpus-26-train	KHA	داير فيلم من رقم ال ايه اس ايه ده للكاميرا دي، من فضلك.
+6205	corpus-6-test-corpus-26-train	KHA	وين دهانات مونت؟
+6214	corpus-6-test-corpus-26-train	KHA	البيتزا دي لذيذة. العملها منو؟
+6221	corpus-6-test-corpus-26-train	KHA	كيف يبدو طعم الصحن دا؟
+6227	corpus-6-test-corpus-26-train	KHA	برضه هم غالين.
+6228	corpus-6-test-corpus-26-train	KHA	متين بغادر القطر التالي إلى بوسطن؟
+6232	corpus-6-test-corpus-26-dev	KHA	انا بخطط لتعلم القولف.
+6247	corpus-6-test-corpus-26-dev	KHA	من فضلك اديني مشروب تاني.
+6253	corpus-6-test-corpus-26-train	KHA	راكب الموج ده جيد جدا.
+6272	corpus-6-test-corpus-26-train	KHA	آسف الأكمام قصيرة جدا.
+6283	corpus-6-test-corpus-26-train	KHA	ممكن توريني كيف أخت البنزين؟
+6285	corpus-6-test-corpus-26-train	KHA	هل رسوم الفندق بتشمل الفطور؟
+6287	corpus-6-test-corpus-26-train	KHA	هل دا كل شي؟
+6291	corpus-6-test-corpus-26-train	KHA	هو في الطريق دا.
+6339	corpus-6-test-corpus-26-train	KHA	من فضلك أبدا العداد.
+6363	corpus-6-test-corpus-26-train	KHA	غرفتي باردة شديد.
+6411	corpus-6-test-corpus-26-train	KHA	ح ارجع ليك لمن نكون مشغولين أقل.
+6413	corpus-6-test-corpus-26-dev	KHA	هل عندك واحد أكبر؟
+6418	corpus-6-test-corpus-26-train	KHA	أشعر بتحسن.
+6430	corpus-6-test-corpus-26-dev	KHA	هل انت متالف مع جغرافية اليابان؟
+6436	corpus-6-test-corpus-26-train	KHA	من فضلك توريني لمن اكون في الخريطة دي.
+6437	corpus-6-test-corpus-26-train	KHA	مئة في المئة قطن.
+6466	corpus-6-test-corpus-26-train	KHA	داير أبدل لغرفة مطلة على المحيط. هل هناك اي مصاريف إضافية؟
+6472	corpus-6-test-corpus-26-train	KHA	كم سعر اجار لوحة نص يوم؟
+6481	corpus-6-test-corpus-26-train	KHA	عشرة نوفمبر.
+6484	corpus-6-test-corpus-26-dev	KHA	داير شريط آلة طباعة.
+6492	corpus-6-test-corpus-26-train	KHA	إنه طاعم جدا.
+6497	corpus-6-test-corpus-26-train	KHA	نحن مغادرين متين؟
+6498	corpus-6-test-corpus-26-train	KHA	كيف بتخلي السواق يعرف لم تكن داير تنزل؟
+6513	corpus-6-test-corpus-26-train	KHA	أربعة وعشرين دولار . داير زيادة؟
+6515	corpus-6-test-corpus-26-train	KHA	عملت حجز في طوكيو قبل شهر.
+6517	corpus-6-test-corpus-26-train	KHA	أشكرك من أعماق قلبي.
+6525	corpus-6-test-corpus-26-train	KHA	هل انزل هنا للروكتفلر سنتر؟
+6539	corpus-6-test-corpus-26-train	KHA	من فضلك قيس مقاس حذائي.
+6547	corpus-6-test-corpus-26-train	KHA	إنه رائع.
+6550	corpus-6-test-corpus-26-train	KHA	ممكن تطلع معاي في موعد؟
+6552	corpus-6-test-corpus-26-train	KHA	من فضلك نضف الجاكيت دا.
+6553	corpus-6-test-corpus-26-train	KHA	داير أأجر مركب بمحرك.
+6574	corpus-6-test-corpus-26-train	KHA	وين قسم السيدات؟
+6581	corpus-6-test-corpus-26-train	KHA	خالي قهوة؟
+6593	corpus-6-test-corpus-26-train	KHA	في أي حقل كان هو؟
+6602	corpus-6-test-corpus-26-train	KHA	العنة. العنة. العنة. العنة. اتعودت على وجهها.
+6609	corpus-6-test-corpus-26-train	KHA	هل مفروض ادفع الرسوم لم ادخل المبنى؟
+6613	corpus-6-test-corpus-26-test	KHA	اهلا، الطرف التاني في الخط. اتفضل، من فضلك.
+6625	corpus-6-test-corpus-26-train	KHA	جروحي تؤلم.
+6635	corpus-6-test-corpus-26-train	KHA	وين المحطة؟
+6657	corpus-6-test-corpus-26-train	KHA	عندي قشعريرة.
+6659	corpus-6-test-corpus-26-train	KHA	تلاتة أيام.
+6660	corpus-6-test-corpus-26-dev	KHA	اعبر الجسر هناك، و ح تلقى المكتبة على جانب يدك الشمال.
+6692	corpus-6-test-corpus-26-dev	KHA	من فضلك ساعدني ألقى دليل كلام ياباني.
+6699	corpus-6-test-corpus-26-train	KHA	ما داير واحد كبير.
+6700	corpus-6-test-corpus-26-train	KHA	ح يكون هناك تأخير طفيف.
+6715	corpus-6-test-corpus-26-train	KHA	ما الفرق بين هذه الفنادق؟
+6724	corpus-6-test-corpus-26-test	KHA	لقد فوت استوبي.
+6736	corpus-6-test-corpus-26-train	KHA	كان عظيم. شكرا ليك.
+6740	corpus-6-test-corpus-26-dev	KHA	ح اكون هناك حوالي السادسة في المساء.
+6746	corpus-6-test-corpus-26-train	KHA	هل عندك اي شي أطول شوية؟
+6766	corpus-6-test-corpus-26-train	KHA	تاريخ الانتهاء مارس ألف تسعمية تسعة وتسعين.
+6780	corpus-6-test-corpus-26-test	KHA	كيف كان؟
+6800	corpus-6-test-corpus-26-train	KHA	هل هناك اي كازينوهات جيدة؟
+6810	corpus-6-test-corpus-26-train	KHA	دي القروش لاقلام الحبر. فاتورة مئة دولار.
+6812	corpus-6-test-corpus-26-train	KHA	وين قطاع السيدات؟
+6825	corpus-6-test-corpus-26-train	KHA	وين انا ممكن اركب القارب؟
+6832	corpus-6-test-corpus-26-train	KHA	صاحبي اتجرح.
+6835	corpus-6-test-corpus-26-train	KHA	تبدوا بخير.
+6836	corpus-6-test-corpus-26-dev	KHA	هل هذا المتجر ح يكون فاتح بكرة؟
+6862	corpus-6-test-corpus-26-test	KHA	هو اخر القاعة.
+6864	corpus-6-test-corpus-26-train	KHA	هل ممكن من فضلك تقلم الشنب؟
+6866	corpus-6-test-corpus-26-dev	KHA	داك بجي مع بار سلطة و خيار بتاع بطاطس محمصة أو مقليات فرنسية.
+6875	corpus-6-test-corpus-26-dev	KHA	وين ممكن اشتري قدر؟
+6914	corpus-6-test-corpus-26-train	KHA	ما بقدر ابيع دا بدون وصفة.
+6917	corpus-6-test-corpus-26-train	KHA	ممكن احجز خمسة مقاعد سوا في نفس الصف؟
+6923	corpus-6-test-corpus-26-test	KHA	ممكن تعيرني حبل السحب، من فضلك؟
+6944	corpus-6-test-corpus-26-train	KHA	ياتو عربية بتدي أحسن مسافة بالأميال؟
+6960	corpus-6-test-corpus-26-train	KHA	ما ح تلقى تخفيض مهما حاولت بصعوبة.
+6966	corpus-6-test-corpus-26-train	KHA	ممكن تفتح الشنطة دي، من فضلك؟ عندك شنو هنا؟
+6970	corpus-6-test-corpus-26-train	KHA	داير اعمل مكالمة بعيدة . المسافة للهيلتون هوتل في بوسطن.
+6984	corpus-6-test-corpus-26-test	KHA	هل السيدات بقبلوا داك؟
+6991	corpus-6-test-corpus-26-train	KHA	احذر، سقف منخفض.
+6999	corpus-6-test-corpus-26-train	KHA	ما قادر اشوف الشاشة كويس من هنا. ممكن ابدل المقاعد لفترة؟
+7030	corpus-6-test-corpus-26-train	KHA	زرت البحيرات العظمى لأول مرة.
+7048	corpus-6-test-corpus-26-train	KHA	شي غلط في ماكينة البيع دي.
+7057	corpus-6-test-corpus-26-train	KHA	محتاج لدكتور.
+7070	corpus-6-test-corpus-26-train	KHA	من متين هي كانت في المملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	KHA	محب للفنون الجديدة زي نفسك ربما من المحتمل يستمتع بلوحات الهيبيش و مشهد موسيقي الشارع.
+7098	corpus-6-test-corpus-26-train	KHA	ياتو زمن؟
+7099	corpus-6-test-corpus-26-dev	KHA	ح اخد هوت هوق و كولا.
+7104	corpus-6-test-corpus-26-dev	KHA	معاك مشغل المكالمات في الخارج.
+7123	corpus-6-test-corpus-26-train	KHA	ممكن تشوف مبنى ابيض، صاح؟ هو أمام المبنى داك.
+7130	corpus-6-test-corpus-26-test	KHA	من متين؟
+7137	corpus-6-test-corpus-26-test	KHA	ما عندي اي شي اوضحه.
+7198	corpus-6-test-corpus-26-dev	KHA	شنو؟ هل مفروض تدفع ضرائب لم يكون عندك اكتر من تلاتة قارورات من الكحول؟
+7206	corpus-6-test-corpus-26-dev	KHA	صحبي عيان شديد. ممكن تتصل بدكتور، من فضلك؟
+7227	corpus-6-test-corpus-26-test	KHA	ما بعرف كتير عن الخمرة. الكويس شنو للصحة دا؟
+7233	corpus-6-test-corpus-26-dev	KHA	ممكن تديني مكالمة صباحية بدري، من فضلك؟
+7248	corpus-6-test-corpus-26-dev	KHA	في طرمبة بنزين بعد بلكين من هنا.
+7253	corpus-6-test-corpus-26-train	KHA	صحبي عيان شديد. ممكن تنادي دكتور، من فضلك.
+7264	corpus-6-test-corpus-26-train	KHA	حاسي اني زي البقيت مبحلق . هل هو نادر انك تشوف زول ياباني؟
+7269	corpus-6-test-corpus-26-test	KHA	طبعا لا. لي انت بتقول إذا؟
+7270	corpus-6-test-corpus-26-train	KHA	ياتو طريق هو المدخل لمركز البريد المركزي؟
+7274	corpus-6-test-corpus-26-train	KHA	وين مستودع بص القريهند في المدينة دي؟
+7281	corpus-6-test-corpus-26-train	KHA	لكن مش المطاعم اليابانية في كيوتو غالية؟
+7289	corpus-6-test-corpus-26-train	KHA	أعتقد أنه عالي بسيط بالنسبة لي.
+7291	corpus-6-test-corpus-26-test	KHA	عندنا غرفة مزدوجة بحمام بخمسة وتمنين دولار.
+7305	corpus-6-test-corpus-26-train	KHA	داير معدل الكتاب.
+7314	corpus-6-test-corpus-26-test	KHA	إنه أبرد من العادة السنة دي، لكن ما بارد كفاية للتلج.
+7321	corpus-6-test-corpus-26-train	KHA	وين ممكن اشتري تزكرة مترو؟
+7335	corpus-6-test-corpus-26-train	KHA	ح يكون عندي مقاعد درجة رجال الاعمال، صاح؟
+7343	corpus-6-test-corpus-26-train	KHA	كم أجرة التكسي من الفندق دا للمحطة؟
+7349	corpus-6-test-corpus-26-train	KHA	ممكن آخد دا و دا، من فضلك؟
+7381	corpus-6-test-corpus-26-train	KHA	بقولوا اليابان بلد غني شديد.
+7386	corpus-6-test-corpus-26-train	KHA	هل هناك اي غرف فاضية في سيارة النوم؟
+7391	corpus-6-test-corpus-26-dev	KHA	ممكن تخفضه إلى عشرين دولار، من فضلك؟
+7395	corpus-6-test-corpus-26-train	KHA	دي هدية من صديق.
+7412	corpus-6-test-corpus-26-train	KHA	التلج جعل الممر منزلق.
+7414	corpus-6-test-corpus-26-train	KHA	ما قادر القي كاميرتي.
+7416	corpus-6-test-corpus-26-test	KHA	ح اعمل جوز من سندوتشات لحم الخنزير.
+7438	corpus-6-test-corpus-26-train	KHA	عندك اي شي للتوضيح؟
+7439	corpus-6-test-corpus-26-train	KHA	هل شفت جاكيت أزرق؟ ختيته على الكرسي دا.
+7470	corpus-6-test-corpus-26-test	KHA	هناك في دكان زهور عبر الشارع.
+7478	corpus-6-test-corpus-26-train	KHA	أنا من طوكيو.
+7479	corpus-6-test-corpus-26-train	KHA	داير كريم شطف ريفلون.
+7485	corpus-6-test-corpus-26-train	KHA	عندي شوية حاجات للغسيل.
+7507	corpus-6-test-corpus-26-dev	KHA	طلبته قبل زمن طويل.
+7533	corpus-6-test-corpus-26-dev	KHA	ممكن من فضلك ترسل عتال لغرفتي ستة صباحا؟
+7549	corpus-6-test-corpus-26-train	KHA	ح اخد شوكولاتة سخنة.
+7550	corpus-6-test-corpus-26-train	KHA	ممكن نرتب لجعل غرفتك نضيفة.
+7574	corpus-6-test-corpus-26-train	KHA	خاص، من فضلك.
+7583	corpus-6-test-corpus-26-train	KHA	كم التكلفة إلى الفندق سي؟
+7612	corpus-6-test-corpus-26-test	KHA	هل احصل علي تزكرة متعددة؟
+7622	corpus-6-test-corpus-26-train	KHA	داير احجز طربيزة لاتنين عند السابعة، من فضلك.
+7626	corpus-6-test-corpus-26-train	KHA	داير بعض كريم الليل.
+7627	corpus-6-test-corpus-26-train	KHA	ممكن تلف دي زي هدية؟
+7636	corpus-6-test-corpus-26-train	KHA	انها تلاتة و ربع.
+7650	corpus-6-test-corpus-26-train	KHA	ح أخطط أرسل الفواتير لاحتياجاتي اليومية، عشان كده وريني العنوان و الاسم بتاع الزول المسؤول.
+7656	corpus-6-test-corpus-26-test	KHA	إنه صعب بالنسبة لينا ان نتكلم انجليزي بطلاقة.
+7662	corpus-6-test-corpus-26-train	KHA	هل عندك ديل في نفس التصميم مع كعوب أعلى؟
+7663	corpus-6-test-corpus-26-train	KHA	داير بلوفر لطفل عمره عشرة سنوات.
+7671	corpus-6-test-corpus-26-train	KHA	وديني لطريق آبي، من فضلك.
+7684	corpus-6-test-corpus-26-dev	KHA	شكرا ليك. هلوو، شكرا للانتظار.
+7693	corpus-6-test-corpus-26-train	KHA	أنا متأكد اني عندي حجز.
+7708	corpus-6-test-corpus-26-train	KHA	ح أرسله ليك، عشان كدا انتظر هنا من فضلك.
+7712	corpus-6-test-corpus-26-dev	KHA	نحن هنا ليوم.
+7721	corpus-6-test-corpus-26-train	KHA	عندي صداع خفيف.
+7736	corpus-6-test-corpus-26-train	KHA	استمتعت شديد بالوجبة.
+7756	corpus-6-test-corpus-26-train	KHA	لا، من فضلك اخد مقعد وانتظر . ح اجي راجع حالا.
+7761	corpus-6-test-corpus-26-test	KHA	ممكن اشوف العربية؟
+7767	corpus-6-test-corpus-26-train	KHA	ممكن ترسم لي خريطة، من فضلك؟
+7789	corpus-6-test-corpus-26-test	KHA	اوكي، سيدي. من فضلك خليك فى غرفتك لغاية الدكتور يجي.
+7811	corpus-6-test-corpus-26-train	KHA	أنا اتسرقت في وايماتالو بيتش. من فضلك تعال الآن.
+7812	corpus-6-test-corpus-26-train	KHA	كيف عن مية دولار؟
+7814	corpus-6-test-corpus-26-train	KHA	داير دا محزوم.
+7831	corpus-6-test-corpus-26-train	KHA	داير أقدم لإعادة توزيع.
+7834	corpus-6-test-corpus-26-train	KHA	الحكومة دعمت ترقية الصناعات.
+7838	corpus-6-test-corpus-26-train	KHA	عمره تعدى الخمسين سنة، افترض.
+7858	corpus-6-test-corpus-26-dev	KHA	ما هو العمر الاقل لفعل دا؟
+7860	corpus-6-test-corpus-26-train	KHA	عندك اي خرائط بسيطة للمدينة؟
+7867	corpus-6-test-corpus-26-test	KHA	إذا ممكن، أفضل أن ما تقلع السن.
+7871	corpus-6-test-corpus-26-dev	KHA	الحساب هو كورة واحدة، مضربين.
+7883	corpus-6-test-corpus-26-train	KHA	ما الزمن البوصل فيه القطر إلى سان دييغو، من فضلك؟
+7913	corpus-6-test-corpus-26-train	KHA	داير آخد نظرة لصندوقك.
+7925	corpus-6-test-corpus-26-train	KHA	داير بعض الشامبو.
+7947	corpus-6-test-corpus-26-train	KHA	أنا مقيم في فندق الهيلتون.
+7948	corpus-6-test-corpus-26-train	KHA	أنا حاسي كعب و مقيئ.
+7957	corpus-6-test-corpus-26-train	KHA	لكن انا عندي موعد عشان اشوفها الساعة اتنين.
+7972	corpus-6-test-corpus-26-train	KHA	هل العربية دي بتمشي إلى ادينبيره؟
+7976	corpus-6-test-corpus-26-train	KHA	نعم، من فضلك املأ الفورمة دي.
+7983	corpus-6-test-corpus-26-train	KHA	كم السعر الانت بتاجر بيه للوزن الزائد؟
+7991	corpus-6-test-corpus-26-dev	KHA	اسمي هو كيمودا. داير ألغى حجزي للجمعة.
+7996	corpus-6-test-corpus-26-test	KHA	اوه، انا اسف. كان هناك مشاكل و نحن نعالجها. ممكن انتظر لحوالي تلاتين دقيقة؟
+8039	corpus-6-test-corpus-26-train	KHA	ياتو زمن المغادرة؟
+8050	corpus-6-test-corpus-26-train	KHA	حصلت عليه.
+8058	corpus-6-test-corpus-26-train	KHA	ح اتصل بي زول.
+8067	corpus-6-test-corpus-26-test	KHA	هل انت داير تسوي الفاتورة الآن؟
+8068	corpus-6-test-corpus-26-train	KHA	العربية جات على من الجانب في التقاطع.
+8094	corpus-6-test-corpus-26-train	KHA	إنه صندوق موسيقى.
+8095	corpus-6-test-corpus-26-train	KHA	وين الضاحية؟
+8098	corpus-6-test-corpus-26-train	KHA	هل هناك جولة بص في المدينة؟
+8108	corpus-6-test-corpus-26-train	KHA	بنبدا في ياتو زمن؟
+8114	corpus-6-test-corpus-26-train	KHA	كله تمام، سيدي. في المقاس الوسط ممكن نوفر ليك سمور زئبقي. هل داك كله تمام؟
+8116	corpus-6-test-corpus-26-train	KHA	انت عندك كدمة عضلة.
+8141	corpus-6-test-corpus-26-train	KHA	لكن لازم توعدني انك تضرب الكورة، ما انا . اوكي؟
+8143	corpus-6-test-corpus-26-train	KHA	و كم تاني؟
+8149	corpus-6-test-corpus-26-train	KHA	ممكن استعير بعض الكتان؟
+8156	corpus-6-test-corpus-26-train	KHA	ما نوع الجلد المصنوعة منه الشنطة دي؟
+8161	corpus-6-test-corpus-26-train	KHA	ما اعتقد ان السكين دي نضيفة. ممكن تجيب لي واحدة تانية؟
+8164	corpus-6-test-corpus-26-train	KHA	اشتريت دا قبل لحظة، لكن ممكن تبدل دا بي داك؟
+8173	corpus-6-test-corpus-26-train	KHA	كلام بصراحة، و انا ما موافق على داك.
+8177	corpus-6-test-corpus-26-train	KHA	هل دا الشارع الصحيح إلى سنترال استيشن؟
+8183	corpus-6-test-corpus-26-train	KHA	قارب مع دليل، من فضلك.
+8193	corpus-6-test-corpus-26-train	KHA	داير أطلب لي بدلة غامضة اللون.
+8194	corpus-6-test-corpus-26-train	KHA	الشمسية دي ح تعمل لعصاية.
+8202	corpus-6-test-corpus-26-test	KHA	هل مفروض اخلي عفشي كله في غرفة الامانات؟
+8210	corpus-6-test-corpus-26-train	KHA	من فضلك وريني جوازك.
+8227	corpus-6-test-corpus-26-train	KHA	هل هناك اي مكان بقبل الغسيل في أيام الأحد؟
+8233	corpus-6-test-corpus-26-train	KHA	اتنين بيرقر جبنة، من فضلك.
+8234	corpus-6-test-corpus-26-train	KHA	ياتو بص بمشي لميامي؟
+8236	corpus-6-test-corpus-26-train	KHA	لكن البقشيش ما ضروري.
+8248	corpus-6-test-corpus-26-train	KHA	ممكن تشوف واحد في قاعة كارنيغي.
+8250	corpus-6-test-corpus-26-train	KHA	أنا ما معتمد.
+8271	corpus-6-test-corpus-26-train	KHA	ما هي خصوصيات البيت؟
+8280	corpus-6-test-corpus-26-train	KHA	داير اعمل موعد مع دكتور.
+8291	corpus-6-test-corpus-26-dev	KHA	أنا بسال إذا في طربيزة فاضية متاحة جمب الشباك للسابعة الليلة.
+8295	corpus-6-test-corpus-26-train	KHA	ما بتمانع اني اجي مكانك؟
+8305	corpus-6-test-corpus-26-train	KHA	يبدو أن هناك مجال للتحسين.
+8316	corpus-6-test-corpus-26-train	KHA	وين التحت الواطة؟
+8334	corpus-6-test-corpus-26-train	KHA	هل هو عندك في مقاس اصغر؟
+8338	corpus-6-test-corpus-26-train	KHA	وين ممكن احصل على اسبرين؟
+8342	corpus-6-test-corpus-26-train	KHA	داك زر الروك؟
+8349	corpus-6-test-corpus-26-train	KHA	من فضلك اديني مرور أسبوع واحد.
+8355	corpus-6-test-corpus-26-train	KHA	دي كليتي.
+8358	corpus-6-test-corpus-26-train	KHA	نوع البنزين هناك شنو؟ ممتاز، عادي، ونقي؟
+8368	corpus-6-test-corpus-26-train	KHA	دا واحد.
+8371	corpus-6-test-corpus-26-train	KHA	حيصيبني برد.
+8409	corpus-6-test-corpus-26-test	KHA	هو بقفل في ايام الاتنين، لكن يوم مختلف بكون اوكي. أعتقد أن بفتح من تسعة لخمسة.
+8418	corpus-6-test-corpus-26-train	KHA	هو انجليس مشوي مع صلصة خاصة في قمة صحن رز.
+8435	corpus-6-test-corpus-26-train	KHA	"هو قال ""خلينا نحتفل"" و اخدني للبار. هو قال إن ماشى يعمل مكالمة هاتفية و غادر و نهائي ما جا راجع و أنا علقت مع فاتورة كبيرة."
+8454	corpus-6-test-corpus-26-train	KHA	كم سعره للجالون؟
+8456	corpus-6-test-corpus-26-train	KHA	عندي جوازي و الكردت كارد في شنطتي.
+8485	corpus-6-test-corpus-26-train	KHA	حجز عند السابعة، تحت اسم مانو.
+8495	corpus-6-test-corpus-26-train	KHA	ما ح تاخد كباية شاي؟
+8497	corpus-6-test-corpus-26-dev	KHA	ممكن توريني وين ألقى القنصلية اليابانية؟
+8509	corpus-6-test-corpus-26-train	KHA	هل هناك طبيب الفندق أو واحد في الاتصال؟
+8516	corpus-6-test-corpus-26-train	KHA	هو دائما بتسوق في شارع بوند.
+8527	corpus-6-test-corpus-26-train	KHA	ورقة انجليزي، من فضلك.
+8535	corpus-6-test-corpus-26-train	KHA	هل هناك اي محل بشغل موسيقى ريفية؟
+8539	corpus-6-test-corpus-26-test	KHA	داير أراجع حاجاتي القيمة.
+8543	corpus-6-test-corpus-26-train	KHA	اي واحدات صوفية تانية؟
+8551	corpus-6-test-corpus-26-train	KHA	كم السعر بي الشيت؟
+8574	corpus-6-test-corpus-26-train	KHA	طيب، اضغط تسعة و صفر واحد واحد، ثم مفتاح الدولة و رقم الهاتف.
+8577	corpus-6-test-corpus-26-train	KHA	ممكن احصل على دايت كوكا؟
+8584	corpus-6-test-corpus-26-train	KHA	ممكن أضع طلب؟
+8595	corpus-6-test-corpus-26-train	KHA	عندنا قيادة جميلة. شكرا ليك.
+8604	corpus-6-test-corpus-26-test	KHA	اعزرني، ممكن تسمح لي اعبر؟
+8610	corpus-6-test-corpus-26-train	KHA	التعداد الكلي لسكان اليابان حوالي مئة و تلاتين مليون.
+8618	corpus-6-test-corpus-26-train	KHA	داير أأجر شمسية.
+8625	corpus-6-test-corpus-26-train	KHA	نعم، و أنا داير أراجع الرسوم.
+8636	corpus-6-test-corpus-26-train	KHA	محفظة بمية دولار و اتنين كردت كارد.
+8637	corpus-6-test-corpus-26-train	KHA	موية ساخنة شديد.
+8675	corpus-6-test-corpus-26-train	KHA	انت هنا.
+8688	corpus-6-test-corpus-26-dev	KHA	قدر قهوة، من فضلك.
+8690	corpus-6-test-corpus-26-train	KHA	غير مرجح بشكل عالي.
+8696	corpus-6-test-corpus-26-train	KHA	بطني بتوجع بعد الوجبات.
+8734	corpus-6-test-corpus-26-train	KHA	وااااو، داك مكان جميل.
+8741	corpus-6-test-corpus-26-train	KHA	هو احتمال يكون عنده جلطة.
+8749	corpus-6-test-corpus-26-train	KHA	انت قررت؟
+8788	corpus-6-test-corpus-26-train	KHA	لو داير، ح نحجز هنا.
+8791	corpus-6-test-corpus-26-test	KHA	أنا ضيعت أثر بريد مسجل.
+8803	corpus-6-test-corpus-26-train	KHA	ما بتقدر تغير شغلك بسهولة.
+8805	corpus-6-test-corpus-26-train	KHA	المحطة الجاية شنو؟
+8811	corpus-6-test-corpus-26-train	KHA	كله تمام، لكن ما المدرجات . هي حارة شديد اليوم.
+8823	corpus-6-test-corpus-26-dev	KHA	اطلع من هنا، و اتحول لبص رقم ستة.
+8824	corpus-6-test-corpus-26-dev	KHA	مفروض أحصل رحلة عشرة صباحا.
+8827	corpus-6-test-corpus-26-train	KHA	أنا لسة حاسي بنفسي بستفرغ.
+8833	corpus-6-test-corpus-26-train	KHA	ما داير اي شي كبير.
+8840	corpus-6-test-corpus-26-train	KHA	راجع، من فضلك.
+8844	corpus-6-test-corpus-26-test	KHA	كم سعر فطر طازج؟
+8850	corpus-6-test-corpus-26-train	KHA	اشحن، من فضلك. بتاخد فيزا؟
+8851	corpus-6-test-corpus-26-train	KHA	اليوم ح أمشي اشوف شايناتاون عاملة كيف.
+8880	corpus-6-test-corpus-26-train	KHA	اتنين صفر اتنين تسعة تلاتة تسعة ستة سبعة صفر صفر.
+8900	corpus-6-test-corpus-26-train	KHA	داير سني تتقلع.
+8905	corpus-6-test-corpus-26-train	KHA	داير شنطة كريمات.
+8907	corpus-6-test-corpus-26-dev	KHA	أنا بسال كم من البقشيش مفروض اخلي.
+8914	corpus-6-test-corpus-26-train	KHA	"وين ممكن اشوف""الخيال بتاع أوبرا""؟"
+8915	corpus-6-test-corpus-26-train	KHA	داير اشتري تذكارات لاصحابي؟
+8918	corpus-6-test-corpus-26-train	KHA	ببطء أكتر، من فضلك.
+8919	corpus-6-test-corpus-26-dev	KHA	ما متوسط رسوم الفاكس العالمي شهريا؟
+8947	corpus-6-test-corpus-26-train	KHA	مقلي بالجنبتين، من فضلك.
+8966	corpus-6-test-corpus-26-dev	KHA	اوكي، دا شكله واضح جدا . انتم الاتنين من فضلكم أدوني رخصكم و تسجيلاتكم . و يا ولد، آسف لازم نعمل ليك اختبار تحليل تنفس.
+9011	corpus-6-test-corpus-26-train	KHA	ح يكون جاهز بعد بكرة في المساء.
+9022	corpus-6-test-corpus-26-train	KHA	هل دا معمول من القطن؟
+9029	corpus-6-test-corpus-26-dev	KHA	عندي دواي الخاص.
+9034	corpus-6-test-corpus-26-train	KHA	ممكن أشوف شنو في الرحلة دي؟
+9041	corpus-6-test-corpus-26-train	KHA	نعم، هناك في مشروب واحد على الأقل.
+9051	corpus-6-test-corpus-26-train	KHA	كم سعره في اليوم؟
+9061	corpus-6-test-corpus-26-dev	KHA	هل البص بقيف جنب الفندق؟
+9073	corpus-6-test-corpus-26-train	KHA	داير سي دي.
+9077	corpus-6-test-corpus-26-train	KHA	في رحلات الخطوط الجوية اليابانية وأول نيبون البغادروا عند عشرة و خمسة وخمسين. لكن، لسوء الحظ الرحلتين ملان.
+9094	corpus-6-test-corpus-26-train	KHA	هو بناسبني تمام.
+9098	corpus-6-test-corpus-26-train	KHA	ممكن نحصل على طربيزة لخمسة؟
+9100	corpus-6-test-corpus-26-train	KHA	هي ما بتفهم انجليزي نهائي.
+9126	corpus-6-test-corpus-26-dev	KHA	من فضلك اصرف شيك مسافر.
+9150	corpus-6-test-corpus-26-train	KHA	ممكن تهتم بيها من تسعة صباحا إلى حوالي تلاتة؟
+9160	corpus-6-test-corpus-26-train	KHA	كم سعر البريد الجوي لليابان؟
+9176	corpus-6-test-corpus-26-train	KHA	انا اتقفلت. ممكن تفتح بابي، من فضلك.
+9211	corpus-6-test-corpus-26-train	KHA	ياتو جولة أحسن لرؤية احسن الأماكن المعروفة؟
+9229	corpus-6-test-corpus-26-test	KHA	هل هناك أي مضيفه بتتكلم ياباني؟
+9242	corpus-6-test-corpus-26-test	KHA	كم شنطة ممكن أجيبها في الطيارة؟
+9263	corpus-6-test-corpus-26-train	KHA	لا، يا سيدي. بعد الظهر محجوز كله . لكن بكرة اوكي.
+9267	corpus-6-test-corpus-26-train	KHA	أنا ح اسأل البواب على الأجرة الصحيحة.
+9303	corpus-6-test-corpus-26-train	KHA	انا حقيقة، آسف.
+9308	corpus-6-test-corpus-26-train	KHA	عندنا حفلة ليلة الجمعة. لي ماتنضم لينا؟
+9312	corpus-6-test-corpus-26-train	KHA	طيب، غرفتك تسعة صفر تمنية، يا انسة. دا مفتاحك.
+9316	corpus-6-test-corpus-26-dev	KHA	إنه مهم جدا ان عندنا وصول للمواد الخام البنحتاج ليها للمشروع.
+9324	corpus-6-test-corpus-26-train	KHA	اعزرني، ضابط؟
+9325	corpus-6-test-corpus-26-train	KHA	هل القطر ده بمشي مباشرة إلى ادينبره؟
+9329	corpus-6-test-corpus-26-train	KHA	هل دا ف الحد بتاع اعفاء الضرائب؟
+9337	corpus-6-test-corpus-26-train	KHA	شيل حاجاتي القيمة، من فضلك.
+9358	corpus-6-test-corpus-26-train	KHA	كيف الرحلات السياحية مزحومة؟
+9367	corpus-6-test-corpus-26-train	KHA	داير اشتري بعض التذكارات. هل هناك اي متجر مناسب قريب هنا؟
+9372	corpus-6-test-corpus-26-train	KHA	لغاية متين بفتح؟
+9384	corpus-6-test-corpus-26-train	KHA	هو طالع أسى.
+9385	corpus-6-test-corpus-26-train	KHA	مايومي، ممكن تملى الورقة دي بتوقيعك؟
+9431	corpus-6-test-corpus-26-train	KHA	هنا واحد ليك، سيدي.
+9432	corpus-6-test-corpus-26-train	KHA	ما عندي عفش للتسجيل.
+9446	corpus-6-test-corpus-26-test	KHA	اكيد، اخد زمنك.
+9450	corpus-6-test-corpus-26-train	KHA	انا هنا في مهمة وسائط الإعلام.
+9463	corpus-6-test-corpus-26-train	KHA	هل عندك افلام صيف؟
+9481	corpus-6-test-corpus-26-train	KHA	متين القطر التالي إلى واشنطن دي سي؟
+9494	corpus-6-test-corpus-26-test	KHA	الواحدات الأطول في رواج الآن.
+9516	corpus-6-test-corpus-26-train	KHA	ح أكون راجع لليابان الاتنين الجاي.
+9526	corpus-6-test-corpus-26-train	KHA	ممكن احصل على خريطة النفق؟
+9542	corpus-6-test-corpus-26-train	KHA	هل هي رحلة طويلة؟
+9560	corpus-6-test-corpus-26-train	KHA	هل يمكنك تبدل دا لواحد جديد؟
+9576	corpus-6-test-corpus-26-train	KHA	نفرين.
+9579	corpus-6-test-corpus-26-test	KHA	وين ممكن أشيل عفشي؟
+9581	corpus-6-test-corpus-26-train	KHA	أنا ما حاسي كويس . ممكن اتكي المقعد؟
+9604	corpus-6-test-corpus-26-train	KHA	حداشر و خمسة وأربعين صباحا.
+9605	corpus-6-test-corpus-26-train	KHA	ممكن توريني كافيتريا شعبية بين الناس الشباب؟
+9606	corpus-6-test-corpus-26-train	KHA	عربيته كانت جارية بالسرعة الكاملة.
+9611	corpus-6-test-corpus-26-dev	KHA	ممكن اخلي رسالة؟ انا متصل عشان أأكد موعدي مع مستر أبرت الأربعاء الجاي عند الحادية عشر صباحا.
+9628	corpus-6-test-corpus-26-dev	KHA	هل يمكنك بطريقة ما توضح مرضك بالانجليزي؟
+9634	corpus-6-test-corpus-26-test	KHA	هل يمكنك ترسل تكسي المدخل الرئيسي بتاع وستمنستر مول؟
+9651	corpus-6-test-corpus-26-train	KHA	كم مرة أبدل القطارات عشان اصل هنا؟
+9657	corpus-6-test-corpus-26-train	KHA	هل داك صحيح؟ خليني أراجع. اوه، انا آسف جدا، انسة تاكانو. دي غلطتنا. هي فاتورتك الجديدة. توقعي هنا، من فضلك؟
+9673	corpus-6-test-corpus-26-train	KHA	رجع خمسة دولارات، من فضلك.
+9683	corpus-6-test-corpus-26-train	KHA	سداد البانيو ما بتقفل بشكل كامل.
+9687	corpus-6-test-corpus-26-train	KHA	هو فقط رمز لتقديري.
+9688	corpus-6-test-corpus-26-train	KHA	هل ح تملى الفورمة دي؟
+9695	corpus-6-test-corpus-26-test	KHA	كيف عن الموديلات البلاستيكية دي؟
+9701	corpus-6-test-corpus-26-train	KHA	ياتو أصناف عندك؟
+9702	corpus-6-test-corpus-26-train	KHA	الكعوب عالية جدا لي.
+9710	corpus-6-test-corpus-26-test	KHA	اتقفلت برة عن غرفتي.
+9730	corpus-6-test-corpus-26-train	KHA	من متين كنت في باريس؟
+9732	corpus-6-test-corpus-26-train	KHA	ممكن احصل على طابعات بريد لتلاتة بطاقات بريدية لبريد جوي؟
+9746	corpus-6-test-corpus-26-train	KHA	بيتهجي ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	KHA	داير تاخد مشروب؟
+9748	corpus-6-test-corpus-26-train	KHA	ارقد هنا.
+9752	corpus-6-test-corpus-26-train	KHA	أعملها برقية مستعجلة، من فضلك.
+9788	corpus-6-test-corpus-26-train	KHA	حسب تقرير الطقس، ح تثلج بكرة.
+9792	corpus-6-test-corpus-26-train	KHA	داير كورة.
+9822	corpus-6-test-corpus-26-train	KHA	بالتأكيد، ح نكون سعيدين نعمل داك.
+9829	corpus-6-test-corpus-26-train	KHA	هي، كتاب هزلي ماليزي. ح اشتري واحد عشان اشيله البيت كقطعة محادثة.
+9862	corpus-6-test-corpus-26-train	KHA	"الطريق للنجاح هو ""جنمياكو""، صاح؟"
+9866	corpus-6-test-corpus-26-dev	KHA	ح اوصل لفندقك تسعة مساء.
+9885	corpus-6-test-corpus-26-train	KHA	عندي حوالي ألفين و خمسمية دولار بالين الياباني.
+9903	corpus-6-test-corpus-26-train	KHA	نعم، نفعل. ح أوريك بعضه.
+9906	corpus-6-test-corpus-26-train	KHA	داير بعض حبوب نوم.
+9910	corpus-6-test-corpus-26-train	KHA	ح أكون هنا لحد التاسع. بأمل انك تقبض المجرمين بسرعة قدر الإمكان.
+9945	corpus-6-test-corpus-26-train	KHA	انا متأكد المجرم قريب.
+9948	corpus-6-test-corpus-26-train	KHA	عشرة طابعات من فضلك.
+9949	corpus-6-test-corpus-26-train	KHA	حصلت على قرحة حلق.
+9955	corpus-6-test-corpus-26-train	KHA	أنا محتاج لبعض التذكارات من نيو يورك.
+9969	corpus-6-test-corpus-26-train	KHA	أنا بغادر. ممكن ترسل حمال؟
+9979	corpus-6-test-corpus-26-train	KHA	ساعتي وقفت.
+9983	corpus-6-test-corpus-26-train	KHA	أوه، دا هو؟ كيف بتحبه؟
+10006	corpus-6-test-corpus-26-train	KHA	نحن فاتحين الساعة تسعة صباحا.
+10032	corpus-6-test-corpus-26-train	KHA	داير كتاب تلوين.
+10037	corpus-6-test-corpus-26-train	KHA	اظن اني حاسي بدوار الجو.
+10043	corpus-6-test-corpus-26-train	KHA	هل على أن أمشي لبنك ياباني؟
+10045	corpus-6-test-corpus-26-train	KHA	مفروض تحول القروش في البنك.
+10065	corpus-6-test-corpus-26-train	KHA	هل في زمن كافي للخروج؟
+10069	corpus-6-test-corpus-26-train	KHA	زوجك واحد من أحسن عملائنا.
+10078	corpus-6-test-corpus-26-train	KHA	هل بتعرف دكتور أسنان كويس؟
+10084	corpus-6-test-corpus-26-train	KHA	اوه. انت مفروض تنبه القنصلية الآن.
+10091	corpus-6-test-corpus-26-train	KHA	مهزوز، ما محرك.
+10098	corpus-6-test-corpus-26-dev	KHA	داير طربيزة في الكافتيريا الرئيسية ول غرفة خاصة، سيدي؟
+10102	corpus-6-test-corpus-26-train	KHA	عدد كبير من الناس بيمشوا للشاطئ خلال الموسم.
+10107	corpus-6-test-corpus-26-train	KHA	انا بوزن حوالي مئة و خمسين رطل.
+10111	corpus-6-test-corpus-26-train	KHA	وين مفروض احول؟
+10114	corpus-6-test-corpus-26-train	KHA	وين مكتب الممتلكات الضايعة؟
+10116	corpus-6-test-corpus-26-train	KHA	هل هناك أي بص بمشي هناك مباشرة؟
+10125	corpus-6-test-corpus-26-train	KHA	هل انا محتاج لأي معاملة خاصة؟
+10129	corpus-6-test-corpus-26-train	KHA	داك ح يكون كاش ول شحن؟
+10134	corpus-6-test-corpus-26-test	KHA	نحن رحلنا للبيت دا قبل سنة.
+10155	corpus-6-test-corpus-26-train	KHA	كم من الزمن ح ياخد عشان احصل على فيزتي؟
+10156	corpus-6-test-corpus-26-train	KHA	وين الحمامات؟
+10160	corpus-6-test-corpus-26-train	KHA	القيمة الكلية المستحقة متين و تلاتة وأربعين جنيه، يا مدام.
+10164	corpus-6-test-corpus-26-train	KHA	دي هدية. ممكن تلفها في بعض ورق اللف الجميل؟
+10182	corpus-6-test-corpus-26-train	KHA	ما اعظمه من منظر. ديل آثار عظيمة.
+10187	corpus-6-test-corpus-26-dev	KHA	هناك في ناس اتجرحوا.
+10191	corpus-6-test-corpus-26-dev	KHA	اعزرني. وين المحطة البي هنا؟
+10224	corpus-6-test-corpus-26-train	KHA	نعم، عندنا حجز ليك.
+10238	corpus-6-test-corpus-26-train	KHA	اعزرني، لكن انا داير أمشي لفندقي في المدينة بالبص. وين ممكن اخد بص؟
+10243	corpus-6-test-corpus-26-test	KHA	جداد، من فضلك.
+10257	corpus-6-test-corpus-26-train	KHA	دي غرفة اتنين صفر واحد . داير أطلب فطور بكرة.
+10272	corpus-6-test-corpus-26-test	KHA	ماذا تعتقد حول التحرش الجنسي في أماكن العمل؟
+10318	corpus-6-test-corpus-26-dev	KHA	عندي اختين.
+10336	corpus-6-test-corpus-26-dev	KHA	رحلة رقم اتنين صفر تمنية، إلى طوكيو.
+10354	corpus-6-test-corpus-26-train	KHA	ثم خلينا نخت حشوة جوة.
+10366	corpus-6-test-corpus-26-test	KHA	ورحكم سوا عشان نناقش دا اكتر.
+10372	corpus-6-test-corpus-26-train	KHA	كيف داير شعرك يتعمل اليوم؟
+10403	corpus-6-test-corpus-26-train	KHA	ممكن تقوله بي كلمات تانية؟
+10408	corpus-6-test-corpus-26-train	KHA	ح اعمل بمهما يكون عندك.
+10411	corpus-6-test-corpus-26-train	KHA	دايرين طربيزة جنب المنصة.
+10416	corpus-6-test-corpus-26-train	KHA	انا تمام. طيب، انت ماشى محل؟
+10433	corpus-6-test-corpus-26-train	KHA	علوه ألفين و اربعمية متر .
+10435	corpus-6-test-corpus-26-train	KHA	أدخل. من فضلك خته في الطربيزة هنا.
+10440	corpus-6-test-corpus-26-train	KHA	من فضلك ألغى رقم بطاقتي.
+10468	corpus-6-test-corpus-26-train	KHA	انا آسف، كلهم اتباعوا، لكن ح يكونوا عندنا في أيام قليلة.
+10473	corpus-6-test-corpus-26-test	KHA	ممكن اخد بعض القهوة؟
+10477	corpus-6-test-corpus-26-train	KHA	ما عندي موعد، لكنه مستعجل.
+10479	corpus-6-test-corpus-26-train	KHA	دا مصنوع بشكل سئ.
+10480	corpus-6-test-corpus-26-train	KHA	وين المصعد؟
+10497	corpus-6-test-corpus-26-train	KHA	هل عندك دليل مناسبات؟
+10500	corpus-6-test-corpus-26-train	KHA	وين المدخل للنفق؟
+10504	corpus-6-test-corpus-26-train	KHA	أنا فقدت تزكرتي الجوية.
+10559	corpus-6-test-corpus-26-train	KHA	ما بتقدر تقعد هنا خلال العطلة؟
+10562	corpus-6-test-corpus-26-train	KHA	اوه، انا اسف لانى ازعجتك.
+10563	corpus-6-test-corpus-26-dev	KHA	هل ممكن تحجز مناسبات؟
+10565	corpus-6-test-corpus-26-train	KHA	في حمام عام قريب من هنا؟
+10590	corpus-6-test-corpus-26-train	KHA	المجموع كم؟
+10593	corpus-6-test-corpus-26-train	KHA	داك جيد جا. الآن للأسئلة، من فضلك.
+10599	corpus-6-test-corpus-26-train	KHA	هل عندك اي فكة لعداد الباركنق؟
+10617	corpus-6-test-corpus-26-test	KHA	اعلى مبيعاتنا للاربعة سنوات السابقة هي آلة التصوير ايه اكس أربعمية وخمسين.
+10645	corpus-6-test-corpus-26-train	KHA	ألف على الشمال؟
+10662	corpus-6-test-corpus-26-test	KHA	هل هناك اي مضيفه بتتكلم ياباني؟
+10670	corpus-6-test-corpus-26-train	KHA	سعر رايع، ول لا؟
+10680	corpus-6-test-corpus-26-train	KHA	لازم تاخده تسعة وتسعين مرة في اليوم، قبل الوجبة.
+10707	corpus-6-test-corpus-26-train	KHA	انا أحبه.
+10733	corpus-6-test-corpus-26-train	KHA	داير ترايبود.
+10736	corpus-6-test-corpus-26-dev	KHA	داير جاكت رياضي.
+10749	corpus-6-test-corpus-26-dev	KHA	ممكن تقعد في بيتي.
+10753	corpus-6-test-corpus-26-test	KHA	ممكن اتكي مقعدي، من فضلك؟
+10756	corpus-6-test-corpus-26-train	KHA	عظيم. كنت بفتش لتاكسي، لكن دا أحسن.
+10760	corpus-6-test-corpus-26-train	KHA	جاكيت عظيم. هل هو صناعة بريطانية؟
+10778	corpus-6-test-corpus-26-train	KHA	داير أمشي لمركز هارفارد. ممكن تكلمني لمن نصل هناك؟
+10790	corpus-6-test-corpus-26-train	KHA	اتنين بالغين و طفلين، من فضلك.
+10817	corpus-6-test-corpus-26-train	KHA	السعر كم؟
+10824	corpus-6-test-corpus-26-train	KHA	حرب النجوم حقق أعظم نجاح في ألف تسعمية أربعة وتمانين.
+10830	corpus-6-test-corpus-26-train	KHA	وين قطاع غير المدخنين؟
+10831	corpus-6-test-corpus-26-train	KHA	"ديك ""ت"" زي ال في توم، نعم عندي منها هنا، يا تارو."
+10848	corpus-6-test-corpus-26-test	KHA	أعتقد أنه جميل.
+10851	corpus-6-test-corpus-26-test	KHA	داير بعض التفاح، من فضلك.
+10869	corpus-6-test-corpus-26-train	KHA	هو لشنو؟
+10882	corpus-6-test-corpus-26-train	KHA	أي كردت كارد بتقبل؟
+10922	corpus-6-test-corpus-26-train	KHA	عندي كتير من الزمن.
+10930	corpus-6-test-corpus-26-train	KHA	طيب، إنه زمن الغداء. داير تناقشه خلال الغداء؟
+10937	corpus-6-test-corpus-26-dev	KHA	مسجل الفيديو اتسرق من غرفتي.
+10950	corpus-6-test-corpus-26-train	KHA	الو، اسمي اودا. عندي حجز لليلة، لكن ح أكون متأخر شوية في الدخول. عشان كدا احفظ حجزي.
+10953	corpus-6-test-corpus-26-train	KHA	هذه الأحذية قوية؟
+10955	corpus-6-test-corpus-26-test	KHA	من فضلك كلمه اني منتظر مكالمات الهاتفية.
+10964	corpus-6-test-corpus-26-train	KHA	هم بقولوا الأنفلونزا سائدة هناك.
+10973	corpus-6-test-corpus-26-train	KHA	جوة.
+10975	corpus-6-test-corpus-26-train	KHA	أنا آسف، نحن ملينا لليلة بكرة.
+10976	corpus-6-test-corpus-26-train	KHA	انا مع بعض الأصحاب.
+10985	corpus-6-test-corpus-26-train	KHA	طبقا لجورو، مستر يامادا عنده طفلين.
+10994	corpus-6-test-corpus-26-dev	KHA	ممكن تقول داك تاني؟
+10997	corpus-6-test-corpus-26-train	KHA	داير اعمل التفاف إلى برج لندن.
+11019	corpus-6-test-corpus-26-train	KHA	من فضلك اربط حزام مقعدك.
+11027	corpus-6-test-corpus-26-test	KHA	رقم المنطقة تلاتة. رقم الهاتف اتنين تلاتة أربعة تلاتة أربعة صفر صفر.
+11030	corpus-6-test-corpus-26-test	KHA	اعزرني. هل هناك اي كبرى قريب من هنا؟
+11041	corpus-6-test-corpus-26-dev	KHA	اعزرني، داير استخدم الحمام.
+11046	corpus-6-test-corpus-26-train	KHA	إنه تعبان.
+11047	corpus-6-test-corpus-26-test	KHA	ملابسه دايما برة الموضة.
+11054	corpus-6-test-corpus-26-train	KHA	هل عندك طعام بحري؟
+11057	corpus-6-test-corpus-26-train	KHA	داك غالي شديد.
+11058	corpus-6-test-corpus-26-train	KHA	داير، لكن آسف ما بقدر اعمله في الزمن دا.
+11064	corpus-6-test-corpus-26-train	KHA	طيب، ما عارف لسة، لكن اكيد ح أحاول.
+11069	corpus-6-test-corpus-26-dev	KHA	ملح، من فضلك.
+11082	corpus-6-test-corpus-26-train	KHA	من فضلك استعمل غرفة القياس هناك.
+11100	corpus-6-test-corpus-26-train	KHA	تسعين دولار لتزكرة اتجاه واحد. كاش ول بطاقة؟
+11109	corpus-6-test-corpus-26-dev	KHA	ممكن تفضي لي الطربيزة، من فضلك؟
+11123	corpus-6-test-corpus-26-train	KHA	كيف الوالدين اليابانيين بربو أطفالهم؟ هل هم صارمين مع أطفالهم؟
+11126	corpus-6-test-corpus-26-train	KHA	ممكن توريني ساعات العمل؟
+11131	corpus-6-test-corpus-26-dev	KHA	من فضلك لفهم بشكل منفصل.
+11161	corpus-6-test-corpus-26-train	KHA	بطني تبدو تقيلة.
+11171	corpus-6-test-corpus-26-dev	KHA	داك شكله جيد. وين ممكن ننتظرك؟
+11174	corpus-6-test-corpus-26-train	KHA	ممكن نبدأ اللعب لم ينتهوا؟
+11190	corpus-6-test-corpus-26-train	KHA	سكان اليابان حوالي مية و عشرين مليون.
+11197	corpus-6-test-corpus-26-train	KHA	املأ العناصر التالية في بطاقة التسجيل.
+11199	corpus-6-test-corpus-26-train	KHA	ممكن أسترجع حاجاتي؟
+11240	corpus-6-test-corpus-26-train	KHA	هل عندك اوشحة حريرية؟ انا بفتش لهدية لزوجتي.
+11246	corpus-6-test-corpus-26-train	KHA	ح نجيبه أسي. كم رقم غرفتك؟
+11264	corpus-6-test-corpus-26-test	KHA	مستر كوباياشي كان بفتش عنك.
+11267	corpus-6-test-corpus-26-train	KHA	داير أسافر من شانغهاي إلى هاواي بالسفينة.
+11278	corpus-6-test-corpus-26-test	KHA	ممكن ترسل زول؟
+11282	corpus-6-test-corpus-26-train	KHA	ممكن تجهزه عند الساعة خمسة العصر بكرة؟
+11302	corpus-6-test-corpus-26-train	KHA	بياخد عشرة دقايق بالارجل.
+11316	corpus-6-test-corpus-26-train	KHA	قبل ما نسميه يوم، ممكن تديني بعض الدقايق؟
+11325	corpus-6-test-corpus-26-dev	KHA	وين ممكن أبركن عربيتي؟
+11336	corpus-6-test-corpus-26-dev	KHA	أنا حاسي ببرود و معدتي بتوجع شديد.
+11342	corpus-6-test-corpus-26-train	KHA	سكوتش و موية، من فضلك. و هل عندك اي وجبة خفيفة؟
+11343	corpus-6-test-corpus-26-train	KHA	كيف ممكن أطفي الإضاءة دي؟
+11360	corpus-6-test-corpus-26-train	KHA	هل هو مشغول جدا اليوم؟
+11374	corpus-6-test-corpus-26-train	KHA	داير خيط.
+11375	corpus-6-test-corpus-26-train	KHA	اديني شهادة طبية، من فضلك.
+11378	corpus-6-test-corpus-26-train	KHA	دايرك تعمله أقل بواحد انش هنا.
+11392	corpus-6-test-corpus-26-train	KHA	انا ما حاسي كويس. من فضلك اديني بعض الدواء.
+11403	corpus-6-test-corpus-26-train	KHA	ممكن آخد جريدة يابانية، من فضلك؟
+11404	corpus-6-test-corpus-26-train	KHA	كله تمام. ممكن اوقف العربية في أي مكان؟ كم سعر التوقيف؟
+11412	corpus-6-test-corpus-26-train	KHA	ياتو بص بمشي لمركز المدينة؟
+11420	corpus-6-test-corpus-26-train	KHA	هل هناك اي اكسبريس لبوسطن؟
+11435	corpus-6-test-corpus-26-train	KHA	من فضلك ابقى لي صاحب بالمراسلة.
+11438	corpus-6-test-corpus-26-dev	KHA	ح أقعد مع صاحب.
+11442	corpus-6-test-corpus-26-train	KHA	أنا متحمس جدا. ما قادر اكون قاعد.
+11449	corpus-6-test-corpus-26-train	KHA	ممكن انزل في فندق الهيلتون؟
+11450	corpus-6-test-corpus-26-train	KHA	دايرك تزحه.
+11457	corpus-6-test-corpus-26-train	KHA	أمشي شمال بالشارع دا و اخد أول يمين.
+11462	corpus-6-test-corpus-26-train	KHA	داير أعرف إذا ممكن احصل على الطقم دا من الصحون مشحون لطوكيو.
+11467	corpus-6-test-corpus-26-train	KHA	داير بعض قوة الجسد.
+11478	corpus-6-test-corpus-26-train	KHA	هل هناك أي طعام ما حار شديد و سبايسي؟
+11479	corpus-6-test-corpus-26-train	KHA	هل هو قريب كفاية للمشي؟
+11491	corpus-6-test-corpus-26-dev	KHA	داير بعض كريم اليد.
+11493	corpus-6-test-corpus-26-train	KHA	ممكن تمرر لي الملح؟
+11500	corpus-6-test-corpus-26-train	KHA	داير أمشي لى وول استريت. كيف اوصل هناك؟
+11541	corpus-6-test-corpus-26-train	KHA	تمارين كتيرة شديد ح تاذيك.
+11544	corpus-6-test-corpus-26-train	KHA	متضمن الفطور، ضرائب، و رسوم خدمة، ح تكون خمسة وأربعين دولار للنفر الواحد.
+11550	corpus-6-test-corpus-26-train	KHA	ممكن تصلح دا؟
+11574	corpus-6-test-corpus-26-train	KHA	مساء الخير . اهلا.
+11576	corpus-6-test-corpus-26-train	KHA	ما قادر ألقى عفشك.
+11595	corpus-6-test-corpus-26-train	KHA	أمشي دغري، من فضلك.
+11600	corpus-6-test-corpus-26-train	KHA	هل الموية هنا صالحة للشرب؟
+11622	corpus-6-test-corpus-26-train	KHA	اااه، ياللا. دولارين فقط.
+11626	corpus-6-test-corpus-26-train	KHA	ممكن من فضلك تغير الفستان دا لواحد مقاس أكبر؟
+11631	corpus-6-test-corpus-26-train	KHA	طيب، خلينا نمشي. ممكن اساعدك في واجبك المنزلي بعد ناخد بعض البيتزا.
+11633	corpus-6-test-corpus-26-train	KHA	نعم، مستر. تاناكا. هناك في رسالتين ليك.
+11643	corpus-6-test-corpus-26-train	KHA	ما بناسبني.
+11646	corpus-6-test-corpus-26-train	KHA	بكرة يوم آخر.
+11663	corpus-6-test-corpus-26-train	KHA	ربما اقدر اساعدك. هل أنت محتاج لفيتامين سي؟
+11689	corpus-6-test-corpus-26-train	KHA	محفظتي إتنشلت في القطر.
+11704	corpus-6-test-corpus-26-train	KHA	هو بعيد جدا. أحسن تاخد تكسي.
+11708	corpus-6-test-corpus-26-train	KHA	داير مقعد ممر، من فضلك.
+11709	corpus-6-test-corpus-26-train	KHA	ساكن في شقة بتمنين ألف ين في الشهر.
+11714	corpus-6-test-corpus-26-train	KHA	ممكن أقاطع؟
+11720	corpus-6-test-corpus-26-dev	KHA	وريني واحد أوسع.
+11734	corpus-6-test-corpus-26-train	KHA	اعزرني. ممكن تبدل المقاعد معاي؟
+11746	corpus-6-test-corpus-26-train	KHA	نعم، طبعا.
+11751	corpus-6-test-corpus-26-train	KHA	أمشي للكورنة و لف شمال عند الإشارة.
+11754	corpus-6-test-corpus-26-dev	KHA	هل بتحب دحروجات صغيرة ول واحدات أكبر؟
+11767	corpus-6-test-corpus-26-test	KHA	داير غرفة سنقل مع حمام بتمنين دولار، من فضلك.
+11800	corpus-6-test-corpus-26-train	KHA	داير أودع أشيائي القيمة في خزنة الفندق.
+11817	corpus-6-test-corpus-26-dev	KHA	عندك غرفة متاحة لي الليلة؟
+11821	corpus-6-test-corpus-26-train	KHA	نعم، بس أتأكد ان عندك تزكرتك معاك.
+11862	corpus-6-test-corpus-26-train	KHA	فقط ناس بسيطين ح ينضموا للجولة الاختيارية.
+11872	corpus-6-test-corpus-26-train	KHA	ما تهم. على كل حال، من فضلك وديني للمركز بتاع شايناتاون، ح أحاول ألقاه بنفسي.
+11879	corpus-6-test-corpus-26-train	KHA	ناس جداد اتعينوا في أبريل.
+11880	corpus-6-test-corpus-26-train	KHA	أتمنى ذلك.
+11885	corpus-6-test-corpus-26-train	KHA	اتنين سكوتش و موية، من فضلك.
+11901	corpus-6-test-corpus-26-train	KHA	من اللاعب؟
+11913	corpus-6-test-corpus-26-dev	KHA	ممكن تتصل على إذا لقيت شنطي؟
+11916	corpus-6-test-corpus-26-train	KHA	للشمال، من فضلك.
+11932	corpus-6-test-corpus-26-test	KHA	ممكن تقيف معاي لصورة؟
+11938	corpus-6-test-corpus-26-dev	KHA	لا، داير تقيده؟
+11949	corpus-6-test-corpus-26-train	KHA	السن دي الفي الأمام بتوجع.
+11959	corpus-6-test-corpus-26-train	KHA	ما هي آخر لعبة كمبيوتر لعمر خمستاشر سنة؟
+11972	corpus-6-test-corpus-26-train	KHA	ح نشوفك بكرة.
+11973	corpus-6-test-corpus-26-test	KHA	هل هناك كافيتريا أقل غلاء قريب من هنا؟
+11975	corpus-6-test-corpus-26-train	KHA	لا، لكن شكرا. انا حاسي أحسن.
+11976	corpus-6-test-corpus-26-train	KHA	هل عندك اي عيش؟
+11977	corpus-6-test-corpus-26-train	KHA	كيف اجادتك للكمان؟
+11990	corpus-6-test-corpus-26-train	KHA	صحبي اتزلق و وقع في الحمام.
+11991	corpus-6-test-corpus-26-train	KHA	ممكن اخد طفاية؟
+11997	corpus-6-test-corpus-26-train	KHA	المسيحية كانت محظورة و البلد كانت مقفولة من باقي العالم.
+12005	corpus-6-test-corpus-26-train	KHA	داير كم انت؟
+12012	corpus-6-test-corpus-26-train	KHA	كوكتيل جمبري ليها و نفس الشي لي أنا.
+12033	corpus-6-test-corpus-26-train	KHA	ممكن اخليك توقع هنا؟ و من فضلك بداية هنا.
+12035	corpus-6-test-corpus-26-train	KHA	إنها سعادة عظيمة لي أن أزور مكاتبك الرئيسية و احصل علي نقاش كبير معاك. شكرا ليك كتير لتعاونك الطيب.
+12054	corpus-6-test-corpus-26-train	KHA	شخيرك مزعج.
+12056	corpus-6-test-corpus-26-train	KHA	ما بحب اللون بعد دا كله. ممكن أرجع دا؟
+12057	corpus-6-test-corpus-26-dev	KHA	اطلع برة الباب داك هناك، و انتظر في الموقف رقم ستة.
+12060	corpus-6-test-corpus-26-dev	KHA	جداد مشوي، من فضلك.
+12069	corpus-6-test-corpus-26-train	KHA	ممكن احصل على بعض الفلفل؟
+12074	corpus-6-test-corpus-26-test	KHA	أيوة، داير حاجة اقراها.
+12101	corpus-6-test-corpus-26-train	KHA	معاك مستر تاكاباشي في غرفة خمسة تسعة وأربعين. ممكن ترسل أربعة قارورات من بيرة براوزر، من فضلك؟
+12131	corpus-6-test-corpus-26-train	KHA	دي سبعين دولار.
+12140	corpus-6-test-corpus-26-train	KHA	من فضلك اتصل على فندقي لم تلقى شنطي.
+12150	corpus-6-test-corpus-26-train	KHA	داير مكالمة إيقاظ عند تمنية و تلاتين صباحا، من فضلك.
+12167	corpus-6-test-corpus-26-train	KHA	أيوة، لكن دا كتير شديد و انا اساسا ملان.
+12172	corpus-6-test-corpus-26-train	KHA	داير بعض غسول الفم.
+12173	corpus-6-test-corpus-26-train	KHA	ما حاسي تمام.
+12182	corpus-6-test-corpus-26-train	KHA	هل انت بتدي اي تخفيض كبير؟
+12193	corpus-6-test-corpus-26-train	KHA	طوكيو صفر تلاتة اربع تسعات أربعة خمسة ستة سبعة.
+12240	corpus-6-test-corpus-26-train	KHA	ممكن تساعدني القي حديقة الحيوان؟
+12246	corpus-6-test-corpus-26-train	KHA	ح توريني اضبطوا كيف؟
+12247	corpus-6-test-corpus-26-train	KHA	حوالي الزمن كم جولة البص بتنتهي؟
+12254	corpus-6-test-corpus-26-train	KHA	هل تعرف كيف تستخدم تلفون؟
+12259	corpus-6-test-corpus-26-train	KHA	اكيد. عندنا بعض علامات الكتب أمريكية اصلية جميلة.
+12298	corpus-6-test-corpus-26-train	KHA	مشغل مكالمات يتكلم ياباني، من فضلك.
+12331	corpus-6-test-corpus-26-train	KHA	نحن مهتمين بالموضة.
+12333	corpus-6-test-corpus-26-train	KHA	ممكن تديني مقطورة؟
+12345	corpus-6-test-corpus-26-train	KHA	هل دا الكلنك إف؟
+12364	corpus-6-test-corpus-26-train	KHA	اهلا، انسة ياماقوشي؟ الطرف التاني في الخط. مكالمتك اتقبلت. اتفضلي، من فضلك.
+12391	corpus-6-test-corpus-26-test	KHA	وين ممكن اشتري تزكرة رفع قسيمة؟
+12396	corpus-6-test-corpus-26-train	KHA	ياتو زمن ح نصل في لوس أنجلوس؟
+12403	corpus-6-test-corpus-26-train	KHA	أمشي دغري لحوالي خمسة دقائق، و لف شمال.
+12416	corpus-6-test-corpus-26-train	KHA	هو الشارع دا تجاه الشاطئ.
+12420	corpus-6-test-corpus-26-train	KHA	الشاي العشبي دا بساعد في تجديد الجسم.
+12421	corpus-6-test-corpus-26-train	KHA	دي ما مصنوعة في اليابان، ول لا؟
+12443	corpus-6-test-corpus-26-train	KHA	كله تمام. الشارع دا من فضلك. ح اوديك لغرفتك.
+12479	corpus-6-test-corpus-26-train	KHA	لازم أغادر الفندق قبل الظهر.
+12495	corpus-6-test-corpus-26-train	KHA	اتنين هامبرقر و قهوتين، من فضلك. داير اشيلهم برة.
+12510	corpus-6-test-corpus-26-train	KHA	ممكن أشيل الشنط دي؟
+12527	corpus-6-test-corpus-26-train	KHA	طلبت لحم، ما سمك. ممكن تغير دا؟
+12546	corpus-6-test-corpus-26-train	KHA	طفلي أتحذر تماما.
+12551	corpus-6-test-corpus-26-train	KHA	أنا مريض للمعدة.
+12556	corpus-6-test-corpus-26-train	KHA	الجاكيت دا ما مقاسي.
+12557	corpus-6-test-corpus-26-train	KHA	داير أقابل مستر ويليام.
+12560	corpus-6-test-corpus-26-train	KHA	عنده تشكيلة لسبعة فيتامينات و معادن.
+12562	corpus-6-test-corpus-26-test	KHA	السن متروم.
+12589	corpus-6-test-corpus-26-train	KHA	ممكن احصل علي إعادة المبلغ لم أرجع لليابان؟
+12599	corpus-6-test-corpus-26-train	KHA	الصحن دا مصنوع من شنو؟
+12603	corpus-6-test-corpus-26-train	KHA	أي بلد مصنوع فيها دا؟
+12608	corpus-6-test-corpus-26-train	KHA	ممكن تعمله في عشرة دقائق؟
+12611	corpus-6-test-corpus-26-dev	KHA	انا ما تمام في الإنجليزي. هل في أي زول هنا بتكلم ياباني؟
+12615	corpus-6-test-corpus-26-train	KHA	وين ممكن احصل علي رمز النفق؟
+12638	corpus-6-test-corpus-26-train	KHA	عشرين عينة إضافية ح يرسلوا ليك.
+12644	corpus-6-test-corpus-26-train	KHA	ما أظن أن داك لي لأن بشرتي جافة شديد.
+12650	corpus-6-test-corpus-26-train	KHA	ممكن احصل على جدول زمني، من فضلك؟
+12658	corpus-6-test-corpus-26-dev	KHA	ايوة، أعتقد إني ح انتظر.
+12671	corpus-6-test-corpus-26-train	KHA	تسعة وتسعين دولار للساعة للطفل.
+12672	corpus-6-test-corpus-26-train	KHA	أنا آسف، نحن بعنا.
+12677	corpus-6-test-corpus-26-train	KHA	لازم يكون هادئ.
+12678	corpus-6-test-corpus-26-dev	KHA	عندى معداتي الخاصة.
+12679	corpus-6-test-corpus-26-train	KHA	مفتاح غرفة، خمسة صفر تلاتة، من فضلك.
+12699	corpus-6-test-corpus-26-test	KHA	ياتو زمن ترمنال مان بكون معروض؟
+12701	corpus-6-test-corpus-26-train	KHA	وين مصففين الشعر؟
+12708	corpus-6-test-corpus-26-train	KHA	عند الساعة سبعة، من فضلك.
+12712	corpus-6-test-corpus-26-train	KHA	شنطتي اتدمرت.
+12713	corpus-6-test-corpus-26-train	KHA	سياحة.
+12732	corpus-6-test-corpus-26-train	KHA	انا جيت من اسبانيا.
+12750	corpus-6-test-corpus-26-dev	KHA	في حاجة غلط في مفتاح البطاقة. ممكن تديني واحد تاني، من فضلك؟
+12755	corpus-6-test-corpus-26-dev	KHA	عندي طفح في اذرعي.
+12761	corpus-6-test-corpus-26-train	KHA	رسل دي جويا لليابان، من فضلك.
+12766	corpus-6-test-corpus-26-test	KHA	وين أقرب صيدلية؟
+12770	corpus-6-test-corpus-26-dev	KHA	خمرة تانية، من فضلك.
+12773	corpus-6-test-corpus-26-train	KHA	ناس ودودين جدا.
+12776	corpus-6-test-corpus-26-test	KHA	كم مشروب متضمن في السعر؟
+12777	corpus-6-test-corpus-26-test	KHA	انت عملتها.
+12782	corpus-6-test-corpus-26-train	KHA	وين باب الإيواء للرحلة دي؟
+12790	corpus-6-test-corpus-26-test	KHA	إذا في واحد متاح، ممكن تحجز طربيزة جنب الشباك؟
+12805	corpus-6-test-corpus-26-dev	KHA	اعلانات الأربعاء كانت اساسا معمولة؟
+12810	corpus-6-test-corpus-26-train	KHA	نحن في ارتفاع اتناشر ألف قدم.
+12820	corpus-6-test-corpus-26-train	KHA	أولا، دايرين نشوف وول استريت.
+12822	corpus-6-test-corpus-26-train	KHA	وين موقف البص لاكسفورد؟
+12823	corpus-6-test-corpus-26-train	KHA	ح انتظر لغاية الشرفة تكون متاحة.
+12835	corpus-6-test-corpus-26-train	KHA	ممكن نشوف بعض المحافظ جلدية؟
+12861	corpus-6-test-corpus-26-dev	KHA	خلينا نشاهد التلفزيون. في لعبة بيسبول شغالة.
+12878	corpus-6-test-corpus-26-train	KHA	ممكن تكتب عنوانك هنا؟
+12884	corpus-6-test-corpus-26-train	KHA	من فضلك وريني وين أقرب صيدلية.
+12903	corpus-6-test-corpus-26-train	KHA	لفندقي، من فضلك. عنوان فندقي هنا.
+12905	corpus-6-test-corpus-26-dev	KHA	كم ولاية هناك بجانب طوكيو؟
+12917	corpus-6-test-corpus-26-train	KHA	علق و انتظر لفترة من فضلك.
+12936	corpus-6-test-corpus-26-train	KHA	انت عادة بتعمل شنو في البيت بعد العشاء؟
+12941	corpus-6-test-corpus-26-train	KHA	بالتأكيد. متين داير تلعب قولف؟
+12945	corpus-6-test-corpus-26-train	KHA	هي ح تكون في البيت حوالي تلاتة.
+12952	corpus-6-test-corpus-26-train	KHA	داير اتصل بالسفارة اليابانية.
+12968	corpus-6-test-corpus-26-train	KHA	زيادة شوية.
+12969	corpus-6-test-corpus-26-train	KHA	من وين بتغادر بصات معالم المدينة؟
+12973	corpus-6-test-corpus-26-train	KHA	كم بتشحن لارسالهم لليابان؟
+12976	corpus-6-test-corpus-26-dev	KHA	ما عندي أندية أو أحذية.
+13015	corpus-6-test-corpus-26-train	KHA	هل الين الياباني تمام؟
+13022	corpus-6-test-corpus-26-train	KHA	هل عندك موستاج؟
+13027	corpus-6-test-corpus-26-train	KHA	نحن ح ننط من هنا؟
+13069	corpus-6-test-corpus-26-train	KHA	مستر كاواي، عندنا طربيزة ليك الآن. تعال من هنا، من فضلك.
+13072	corpus-6-test-corpus-26-train	KHA	بالتأكيد. أمشي بالسلالم تحت هناك و ح تشوف بعض التعليمات. بس تابعهم.
+13075	corpus-6-test-corpus-26-dev	KHA	مكتب الاستقبال. ممكن اساعدك؟
+13076	corpus-6-test-corpus-26-train	KHA	ممكن تنزلني في فندق الهلتون، من فضلك؟
+13077	corpus-6-test-corpus-26-dev	KHA	هل انت غالبا عليك ان تعمل متأخر؟
+13090	corpus-6-test-corpus-26-dev	KHA	اسف جدا، لكن لكن ما عندنا تاني. كيف عن أوراق انجليزية؟
+13095	corpus-6-test-corpus-26-train	KHA	طربيزة لغير المدخنين، من فضلك.
+13096	corpus-6-test-corpus-26-train	KHA	ممكن تخليني أعرف قبل نصل دورام؟
+13113	corpus-6-test-corpus-26-test	KHA	دا فريش؟
+13116	corpus-6-test-corpus-26-train	KHA	ما صاح. انت دائما بتعاملني.
+13118	corpus-6-test-corpus-26-dev	KHA	ممكن أوريك بعض الفساتين؟
+13126	corpus-6-test-corpus-26-train	KHA	اتهجاه، من فضلك.
+13133	corpus-6-test-corpus-26-train	KHA	أنا أصبحت سكران بالخمرة.
+13134	corpus-6-test-corpus-26-train	KHA	خلي بالك لأن الجو متغير شديد في الجبال.
+13159	corpus-6-test-corpus-26-train	KHA	شيك سياحي و ين ياباني، اوكي؟
+13162	corpus-6-test-corpus-26-train	KHA	آسف، انا اتحققت من خدمة الغرف وقسم المفقودات. ما موجود عندهم.
+13172	corpus-6-test-corpus-26-train	KHA	انه مكان صعب لايجاده. إنه في طريق سريع في مين هايوي.
+13183	corpus-6-test-corpus-26-train	KHA	ما بعرف شي عنه.
+13184	corpus-6-test-corpus-26-train	KHA	ممكن نناقشه في مقهى.
+13188	corpus-6-test-corpus-26-train	KHA	شايف، في الحالة ديك انا ما على دفع سعر التعديلات، صاح؟
+13202	corpus-6-test-corpus-26-train	KHA	مشغل المكالمات، من فضلك.
+13262	corpus-6-test-corpus-26-train	KHA	ممكن توطي السرج، من فضلك؟
+13264	corpus-6-test-corpus-26-dev	KHA	هل ح حتستضيفني عندك الليلة؟
+13267	corpus-6-test-corpus-26-train	KHA	أوكي. ح اخد فقط دقيقتين. شكرا ليك.
+13268	corpus-6-test-corpus-26-train	KHA	دي فاتورتك. تلتمية وسبعة وتسعين دولار.
+13269	corpus-6-test-corpus-26-train	KHA	انت محظوظ.
+13287	corpus-6-test-corpus-26-train	KHA	من فضلك خليها طربيزة مع منظر ليلى جيد.
+13290	corpus-6-test-corpus-26-train	KHA	هل دا صنع آلي ول صنع يدوي؟
+13291	corpus-6-test-corpus-26-train	KHA	داير أأجر النوع دا من العربية لأربع وعشرين ساعة.
+13306	corpus-6-test-corpus-26-train	KHA	كان جميل جدا الاقيك.
+13322	corpus-6-test-corpus-26-train	KHA	إنه ممزق.
+13333	corpus-6-test-corpus-26-dev	KHA	تمام الآن، خلينا نعاين ليك.
+13347	corpus-6-test-corpus-26-train	KHA	طب، ب س فكر كم من الزمن شغله ح ياخد لو هو سأل سؤال واحد إضافي لكل شخص. ياللا، خلينا نسرع و نحصل على عفشنا. ومفروض نمشي لاجراءات الجمارك.
+13396	corpus-6-test-corpus-26-train	KHA	الوزن كم؟
+13399	corpus-6-test-corpus-26-train	KHA	هل هناك كافيتريا صينية حوالي هنا؟
+13407	corpus-6-test-corpus-26-train	KHA	رصيف خمسة هناك.
+13408	corpus-6-test-corpus-26-train	KHA	متين ح تبدأ لعبة السوكر؟
+13423	corpus-6-test-corpus-26-dev	KHA	هو خارج الطلب. ممكن تراجع كاميرتي؟
+13424	corpus-6-test-corpus-26-test	KHA	قهوة بكريم و سكر، من فضلك.
+13436	corpus-6-test-corpus-26-train	KHA	أعتقد أنه في بعض الأخطاء في الفاتورة.
+13438	corpus-6-test-corpus-26-train	KHA	من فضلك أديني الواحد داك.
+13440	corpus-6-test-corpus-26-train	KHA	إنها البوابة سبعة.
+13444	corpus-6-test-corpus-26-train	KHA	هل انت اسكتلندي؟
+13446	corpus-6-test-corpus-26-train	KHA	تلاتة-اتنين-واحد-اتنين. انتظر ثانية، كله تمام؟ داير أرسل ليك حاجة هنا. أعذرني.
+13471	corpus-6-test-corpus-26-test	KHA	مئة و خمسة وتلاتين ين للدولار.
+13476	corpus-6-test-corpus-26-train	KHA	فساتين قصيرة مع بوت ما ح تطلع برة الموضة أبدا.
+13477	corpus-6-test-corpus-26-train	KHA	ممكن اتكلم مع المدير؟
+13480	corpus-6-test-corpus-26-train	KHA	لي اجرتك مخالفة للعداد؟
+13484	corpus-6-test-corpus-26-train	KHA	ممكن اشوف الواحد دا؟
+13487	corpus-6-test-corpus-26-train	KHA	وعدت نفسي أن لم اشوفك، ح أعرفك.
+13488	corpus-6-test-corpus-26-train	KHA	البحصل شنو متأخر؟
+13492	corpus-6-test-corpus-26-train	KHA	ما حاسي كويس. ممكن تقترح طبيب؟
+13504	corpus-6-test-corpus-26-train	KHA	الطرف التاني في الخط. اتفضل.
+13515	corpus-6-test-corpus-26-train	KHA	هل هناك عرض طابق؟
+13528	corpus-6-test-corpus-26-dev	KHA	الحمام ما بدفق.
+13532	corpus-6-test-corpus-26-dev	KHA	كم من الزمن بتاخد من هنا للسيتي هول بالارجل؟
+13547	corpus-6-test-corpus-26-train	KHA	اخد الدواء دا بعد كل وجبة لمن يوجع شديد.
+13550	corpus-6-test-corpus-26-train	KHA	انت بتخت القروش في ظرف خاص مزخرف البسموه شوقيبوكورو.
+13553	corpus-6-test-corpus-26-train	KHA	في زول اتاذي.
+13609	corpus-6-test-corpus-26-test	KHA	أنا متعجب مفروض اجيب ليه شنو؟
+13624	corpus-6-test-corpus-26-train	KHA	هل عندك خريطة للمترو؟
+13629	corpus-6-test-corpus-26-train	KHA	عندي غرفة جاهزة ليك في القراند هوتل. ممكن تمشي هناك؟
+13635	corpus-6-test-corpus-26-train	KHA	عندي وجع في عيني اليمين.
+13657	corpus-6-test-corpus-26-train	KHA	انا ما كويس جدا في الألماني.
+13660	corpus-6-test-corpus-26-train	KHA	نحن بالتأكيد مفروض نرجع سواء تاني.
+13666	corpus-6-test-corpus-26-train	KHA	ممكن تضيق السروال دا؟
+13682	corpus-6-test-corpus-26-train	KHA	ممكن استعير مضارب و كورة؟
+13685	corpus-6-test-corpus-26-test	KHA	ممكن تحط شوية فكة؟
+13694	corpus-6-test-corpus-26-train	KHA	ممكن احصل على نص دورق؟
+13707	corpus-6-test-corpus-26-train	KHA	هاي. انا جن.
+13717	corpus-6-test-corpus-26-train	KHA	ناكاي.
+13719	corpus-6-test-corpus-26-train	KHA	هل تمانع إذا اخدت صورة ليك و لتكسيك؟
+13733	corpus-6-test-corpus-26-train	KHA	اتصلت عن شنطة ضايعة قبل تلاتة أيام.
+13748	corpus-6-test-corpus-26-test	KHA	داير فندق ارخص.
+13755	corpus-6-test-corpus-26-dev	KHA	اوه، هناك حاجات كتيرة مفروض تشوفها في قرينوتش فيليج.
+13769	corpus-6-test-corpus-26-train	KHA	في العمل. عندي أتصال عمل هناك.
+13783	corpus-6-test-corpus-26-train	KHA	هو بطابق بدلتك.
+13784	corpus-6-test-corpus-26-train	KHA	ممكن من فضلك تخلي بالك لشنطتي؟
+13788	corpus-6-test-corpus-26-train	KHA	كيف بتحب الفكرة دي؟ نحن بنقبل ظرفك بتاع ستة شهور ملاحظة قدمت انك ضمنت لينا الحق للبيع لستة شهور بعد انتهاء العقد.
+13803	corpus-6-test-corpus-26-train	KHA	أعذرني. هل أنت بتعرف نيويورك كويس؟
+13824	corpus-6-test-corpus-26-test	KHA	ح ننتظر. من فضلك كلمنا لم تجهز.
+13827	corpus-6-test-corpus-26-train	KHA	داير أقابل جراح.
+13828	corpus-6-test-corpus-26-dev	KHA	هل ديل مكونات طبيعية؟
+13831	corpus-6-test-corpus-26-train	KHA	داير اركب عربية رياضية.
+13843	corpus-6-test-corpus-26-train	KHA	كود المنطقة صفر تلاتة. الرقم تلاتة واحد تلاتة أربعة خمسة ستة سبعة.
+13854	corpus-6-test-corpus-26-train	KHA	هو عانى من نزلة.
+13856	corpus-6-test-corpus-26-test	KHA	ميثاق ثانوي ح يكون الأحسن.
+13862	corpus-6-test-corpus-26-train	KHA	داير أرسل التسليم العام دا.
+13903	corpus-6-test-corpus-26-train	KHA	خليني احول المكالمة دي للزول المسؤول.
+13913	corpus-6-test-corpus-26-train	KHA	ياتو مقاس انت داير؟
+13919	corpus-6-test-corpus-26-train	KHA	اوه، عزيزي. ما لاحظت اني ما زلت عندي ديلك.
+13920	corpus-6-test-corpus-26-train	KHA	هل عندك صناديق لحزم الارسال؟
+13921	corpus-6-test-corpus-26-train	KHA	هل الخطوط الجوية ح تدفع لفندقي و تكاليف الوجبة؟
+13938	corpus-6-test-corpus-26-train	KHA	هل ديل كلهم شنطك؟
+13942	corpus-6-test-corpus-26-train	KHA	كيف تتمني تعمل المكالمة؟
+13946	corpus-6-test-corpus-26-train	KHA	تمام، هو غالي. ما مصنوع في اليابان، ول لا؟
+13953	corpus-6-test-corpus-26-train	KHA	ممكن من فضلك تمرر لي الملح؟
+13966	corpus-6-test-corpus-26-train	KHA	وين أقرب كافيتريا من الفندق دا؟
+13993	corpus-6-test-corpus-26-train	KHA	داير شامبو لشعر طبيعي.
+14008	corpus-6-test-corpus-26-train	KHA	متين بتعتقد ح يتلقي؟
+14014	corpus-6-test-corpus-26-train	KHA	بتمنى ليك سنة جديدة سعيدة.
+14018	corpus-6-test-corpus-26-train	KHA	ح يكون عندي اسبرايت كبير.
+14043	corpus-6-test-corpus-26-test	KHA	من فضلك قوله تاني ببطء أكتر.
+14045	corpus-6-test-corpus-26-train	KHA	أعذرني. داير أضع طلب.
+14059	corpus-6-test-corpus-26-test	KHA	عندنا جمبري نيوبيرق و رجل حمل مشوي.
+14069	corpus-6-test-corpus-26-train	KHA	داير غرفة لمنظر جميل.
+14074	corpus-6-test-corpus-26-train	KHA	تلاتة قزازات بتاعت عصير بطيخ، من فضلك.
+14086	corpus-6-test-corpus-26-train	KHA	عندي تلاتة أطفال.
+14088	corpus-6-test-corpus-26-train	KHA	أمشي دغري بالهول دا و لف شمال في الكورنة. ح تشوفه في يمينك.
+14089	corpus-6-test-corpus-26-dev	KHA	هل هي جولة يوم كامل؟
+14094	corpus-6-test-corpus-26-train	KHA	كم بتكلف تزكرة ذهاب واياب لاكسفورد؟
+14098	corpus-6-test-corpus-26-train	KHA	بمشي لنادي رياضي كل يومين.
+14099	corpus-6-test-corpus-26-train	KHA	وين ممكن اقعد خلال الجولة؟
+14104	corpus-6-test-corpus-26-train	KHA	متين زمن الخروج؟
+14108	corpus-6-test-corpus-26-train	KHA	كم رسوم المرشد لليوم؟
+14120	corpus-6-test-corpus-26-train	KHA	وين ممكن ألقى سيديهات؟
+14147	corpus-6-test-corpus-26-train	KHA	أعذرني. انا طالب كلية من اليابان. هل أنت طالب ان واي يو؟
+14150	corpus-6-test-corpus-26-train	KHA	ممكن تورينا كيف انت قيمت الفكرة دي؟
+14167	corpus-6-test-corpus-26-train	KHA	اكي، هل إنت بتعرف دكان تسجيل جيد قريب هنا؟
+14168	corpus-6-test-corpus-26-train	KHA	كاش ول شحن؟
+14174	corpus-6-test-corpus-26-train	KHA	شغال لشركة تجارية.
+14175	corpus-6-test-corpus-26-train	KHA	دا عدم تهذيب تسأل الناس بجنوا كم.
+14184	corpus-6-test-corpus-26-train	KHA	هل ديل واحدات ليفايس خمسمية وواحد اصليات؟
+14195	corpus-6-test-corpus-26-train	KHA	ياتو زمن ممكن اخد حمام؟
+14198	corpus-6-test-corpus-26-train	KHA	ما شكلك فوق الواحد و عشرين سنة.
+14219	corpus-6-test-corpus-26-train	KHA	أنا شايف. حقيقة، عنده فلم سرعة عالية فيه. هل تمانع إذا طلعتوا؟
+14224	corpus-6-test-corpus-26-train	KHA	اشتريته قبل شوية.
+14232	corpus-6-test-corpus-26-train	KHA	ح اجيب واحد الآن.
+14235	corpus-6-test-corpus-26-train	KHA	تمنية دولارات. و هنا بجي واحد أسى.
+14242	corpus-6-test-corpus-26-train	KHA	من فضلك وريه مع المشتريات للجمارك في المطار.
+14261	corpus-6-test-corpus-26-train	KHA	هل في اي متاجر شاملة عندهم تخفيضات الآن؟
+14265	corpus-6-test-corpus-26-train	KHA	مشغل المكالمات، اديني محطة الاطفاء.
+14266	corpus-6-test-corpus-26-train	KHA	عندي بطارية ميتة.
+14289	corpus-6-test-corpus-26-train	KHA	اقيف في التقاطع الجاي.
+14292	corpus-6-test-corpus-26-train	KHA	اوه، هندا ليه. و هل على اي واحد يملأ فورمة تصريح الجمارك دي؟
+14304	corpus-6-test-corpus-26-train	KHA	و ممكن اشيل اسمك من فضلك؟
+14306	corpus-6-test-corpus-26-train	KHA	هل تمانع إذا عملت مكالمة على حساب الطرف التاني؟
+14311	corpus-6-test-corpus-26-train	KHA	الو. كيف انت؟
+14317	corpus-6-test-corpus-26-train	KHA	وين قسم الترحيل؟
+14336	corpus-6-test-corpus-26-train	KHA	ما اسم الزول البتتمني تتكلم معاه؟
+14347	corpus-6-test-corpus-26-test	KHA	انا آسف، هو ما دخل في اللحظة.
+14363	corpus-6-test-corpus-26-train	KHA	شوف دا، شوف دا. انت ح تقولي الفرق بين الشاب دا و الشاب داك في الحظ؟ محمد، اقيف، ح تقيف؟ انت ما بتمانع إذا نزلتك هنا. أنا متأخر. صديق، جميل ان لاقيتك، اوكي؟
+14373	corpus-6-test-corpus-26-dev	KHA	هل غرفتك تطل على المدينة؟
+14389	corpus-6-test-corpus-26-train	KHA	أي رسائل لي؟
+14400	corpus-6-test-corpus-26-test	KHA	ما زال غالي شديد. ما ممكن اشيله بتلاتة دولارات؟
+14402	corpus-6-test-corpus-26-train	KHA	دائرية غرفة في الخلف.
+14403	corpus-6-test-corpus-26-dev	KHA	ح اخد قزازة خمرة.
+14416	corpus-6-test-corpus-26-train	KHA	شكلك جميل.
+14426	corpus-6-test-corpus-26-test	KHA	داير غرفة مزدوجة. كم سعر الغرفة لليلة؟
+14434	corpus-6-test-corpus-26-train	KHA	هو على بعد تسعة وتسعين ميل.
+14441	corpus-6-test-corpus-26-train	KHA	فينس و ليندا دايرين يقعدوا براهم، عشان كدا آسف لازم اقعد هنا الليلة.
+14444	corpus-6-test-corpus-26-train	KHA	من فضلك خت العفش دا مربوط.
+14448	corpus-6-test-corpus-26-train	KHA	اسمي ساتو.
+14457	corpus-6-test-corpus-26-train	KHA	أنا بعرف نادي جاز قديم وسط المدينة.
+14459	corpus-6-test-corpus-26-train	KHA	ح اخد الوجبة الثابتة دي.
+14462	corpus-6-test-corpus-26-dev	KHA	داير أجرب نفس الصحن زي الواحد داك.
+14475	corpus-6-test-corpus-26-train	KHA	ثم ح نشيله.
+14477	corpus-6-test-corpus-26-train	KHA	هل دا بمشي فوق للسابق السادس؟
+14478	corpus-6-test-corpus-26-dev	KHA	جلد تمساح؟
+14483	corpus-6-test-corpus-26-train	KHA	من فضلك خته في شنطة غسيل و خليه هناك.
+14484	corpus-6-test-corpus-26-train	KHA	داير الفلم دا يتطور. متين ح يكون جاهز؟
+14495	corpus-6-test-corpus-26-dev	KHA	من فضلك ما تدي المفتاح دا لأي زول تاني غيري.
+14500	corpus-6-test-corpus-26-test	KHA	اوكي. ح ارفعك من فندقك عند الساعة تمنية.
+14502	corpus-6-test-corpus-26-train	KHA	شباك تمام.
+14505	corpus-6-test-corpus-26-train	KHA	خلي قصتي لتحت، لو سمحت.
+14507	corpus-6-test-corpus-26-train	KHA	هل كل مصروفات الترحيل اتضمنت؟
+14509	corpus-6-test-corpus-26-train	KHA	منزل ميتروبولتان اوبرا.
+14514	corpus-6-test-corpus-26-train	KHA	وين مكتب أجر-عربية؟
+14519	corpus-6-test-corpus-26-dev	KHA	أنا محموم من الليلة الفاتت.
+14520	corpus-6-test-corpus-26-train	KHA	هو ما مذاقي.
+14530	corpus-6-test-corpus-26-train	KHA	ياتو خضروات عندك؟
+14531	corpus-6-test-corpus-26-test	KHA	داير كيرلي خفيف.
+14534	corpus-6-test-corpus-26-train	KHA	متين بجي الدكتور؟
+14537	corpus-6-test-corpus-26-train	KHA	هو اللون الغلط.
+14538	corpus-6-test-corpus-26-train	KHA	السن اتكسرت.
+14542	corpus-6-test-corpus-26-train	KHA	هل دا مقعد ممر ول مقعد شباك؟
+14557	corpus-6-test-corpus-26-train	KHA	أنا في المشي.
+14564	corpus-6-test-corpus-26-dev	KHA	بتقدر توصل شنطتي للغرفة؟
+14573	corpus-6-test-corpus-26-train	KHA	وريني واحد لسيدة شابة.
+14590	corpus-6-test-corpus-26-train	KHA	ممكن تقيف هنا؟
+14593	corpus-6-test-corpus-26-dev	KHA	عندك اي شي بحوالي تمنين دولار بالظبط؟
+14605	corpus-6-test-corpus-26-train	KHA	انا عطشان.
+14612	corpus-6-test-corpus-26-train	KHA	لبن لا، من فضلك.
+14683	corpus-6-test-corpus-26-dev	KHA	عندي تلات شنط.
+14685	corpus-6-test-corpus-26-train	KHA	وين البحيرة؟
+14693	corpus-6-test-corpus-26-test	KHA	اعزرني، اضغط زر التصوير، من فضلك.
+14709	corpus-6-test-corpus-26-train	KHA	ممكن اخد مجلة ول حاجة؟
+14718	corpus-6-test-corpus-26-train	KHA	إنه الجنوب.
+14721	corpus-6-test-corpus-26-train	KHA	كم سعر مقاعد البلكونة؟
+14734	corpus-6-test-corpus-26-test	KHA	دايرين غرفة كاشفة البحيرة.
+14737	corpus-6-test-corpus-26-train	KHA	هل في صناديق بريد قريب من هنا؟
+14757	corpus-6-test-corpus-26-train	KHA	كله تمام. ح آخدك هناك.
+14761	corpus-6-test-corpus-26-train	KHA	الجزء المكتوب بميل يشير للتغييرات في تسعينات القرن العشرين.
+14763	corpus-6-test-corpus-26-train	KHA	عمره تلاتين سنة.
+14777	corpus-6-test-corpus-26-test	KHA	كله تمام. ممكن تكتب العنوان مرة تانية في الظرف دا؟
+14783	corpus-6-test-corpus-26-train	KHA	داير أمشي لي الهارودس. ممكن ترسم خريطة، من فضلك؟
+14786	corpus-6-test-corpus-26-train	KHA	ماذا تفعل لم يكون عندك زمن بديل؟
+14789	corpus-6-test-corpus-26-train	KHA	هل عندك بطاريات للكاميرا دي؟
+14805	corpus-6-test-corpus-26-train	KHA	داير كيبل للتصوير عن بعد.
+14807	corpus-6-test-corpus-26-train	KHA	هل انت الأخير في الصف؟
+14810	corpus-6-test-corpus-26-train	KHA	أعتقد أنه محجوز زيادة.
+14813	corpus-6-test-corpus-26-train	KHA	طلقة جيدة. بس برة.
+14818	corpus-6-test-corpus-26-train	KHA	ممكن توريني أماكن الاهتمام هنا؟
+14820	corpus-6-test-corpus-26-train	KHA	هل في أي متاجر شاملة قريبة من هنا؟
+14854	corpus-6-test-corpus-26-dev	KHA	انا برضوا.
+14862	corpus-6-test-corpus-26-train	KHA	داير انضم من سان دييغو.
+14863	corpus-6-test-corpus-26-train	KHA	كنت بفكر في اخد الكورس داك السمستر الجاي.
+14887	corpus-6-test-corpus-26-train	KHA	الخمرة ما باردة كفاية. ممكن تبردها اكتر؟
+14901	corpus-6-test-corpus-26-dev	KHA	هل ممكن تبدل الحلق ده الى كليبسات؟
+14903	corpus-6-test-corpus-26-train	KHA	شنو اكتر شي مهتم بيه الآن؟
+14905	corpus-6-test-corpus-26-train	KHA	داير إعادة دفع . ممكن احصل علي قروشي راجعة؟
+14926	corpus-6-test-corpus-26-train	KHA	أنا احتمال ما اقدر ألقى مشروب زي دا في أي مكان تاني.
+14933	corpus-6-test-corpus-26-train	KHA	إذا اشتريت دا برضه، ح يعمل القيمة المعفاة من الضرائب.
+14952	corpus-6-test-corpus-26-train	KHA	ممكن اشوف شهادة التطعيم حقتك، من فضلك؟
+14960	corpus-6-test-corpus-26-train	KHA	هل انت بتسافر كتير؟
+14969	corpus-6-test-corpus-26-train	KHA	انا جاي من الولايات. المتحدة.
+14976	corpus-6-test-corpus-26-train	KHA	عندي تزكرة جوية لسان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	KHA	إذا هو فقط خمسين دقيقة من المحطة، ادا ح أمشي.
+15019	corpus-6-test-corpus-26-train	KHA	داير فندق أرخص شوية.
+15020	corpus-6-test-corpus-26-test	KHA	بونساي شكله زي هواية زول قديم.
+15024	corpus-6-test-corpus-26-dev	KHA	ما قررت لسة. ممكن تديني زمن اكتر شوية؟
+15025	corpus-6-test-corpus-26-train	KHA	عندي صداع.
+15036	corpus-6-test-corpus-26-dev	KHA	ممكن تنضم لي لقهوة؟
+15037	corpus-6-test-corpus-26-train	KHA	داير شهادة طبية و ايصال لتأميني.
+15046	corpus-6-test-corpus-26-test	KHA	اوه، لا. من فضلك أسرع. نحن متأخرين.
+15051	corpus-6-test-corpus-26-train	KHA	ما داير انفق اكتر من عشرين دولار.
+15062	corpus-6-test-corpus-26-train	KHA	لي الرحلة ما بتقلع؟ وريني الحاصل شنو.
+15073	corpus-6-test-corpus-26-test	KHA	كم سعر الأجرة؟ ممكن تكتب الأجرة برة في قطعة ورقة؟
+15083	corpus-6-test-corpus-26-train	KHA	دير أأجر كرسي سطح.
+15087	corpus-6-test-corpus-26-train	KHA	انتظر دقيقة، من فضلك.
+15088	corpus-6-test-corpus-26-test	KHA	هل مفروض السيدات يلبسوا فساتين رسمية؟
+15095	corpus-6-test-corpus-26-train	KHA	ما تهبشني.
+15109	corpus-6-test-corpus-26-train	KHA	هل عندك سجائر؟
+15123	corpus-6-test-corpus-26-train	KHA	اذا الرياح ما قوية شديد، ممكن نمشي لتيكي بوينت.
+15126	corpus-6-test-corpus-26-train	KHA	رائع.
+15133	corpus-6-test-corpus-26-train	KHA	ح اقفل الآن. شكرا ليك لانتباهك.
+15145	corpus-6-test-corpus-26-dev	KHA	هل عندك دا بأي لون تاني؟
+15149	corpus-6-test-corpus-26-train	KHA	من هو؟
+15157	corpus-6-test-corpus-26-train	KHA	اعزرني. ممكن توريني وين موقف التكسي؟
+15170	corpus-6-test-corpus-26-train	KHA	و الشراب؟
+15181	corpus-6-test-corpus-26-train	KHA	هندا ليه.
+15201	corpus-6-test-corpus-26-train	KHA	وين أقرب متجر أجهزة؟
+15206	corpus-6-test-corpus-26-train	KHA	هممم. ما شغال، ول لا؟ ممكن تحركه لمقعد فاضي، إذا داير.
+15221	corpus-6-test-corpus-26-train	KHA	انا بفتش لي دا.
+15240	corpus-6-test-corpus-26-train	KHA	كله تمام سيدي. و تحب شنو للتحلية؟
+15246	corpus-6-test-corpus-26-train	KHA	عربة عادية ول بولمان؟
+15247	corpus-6-test-corpus-26-train	KHA	شيكات سياحية . شكرا ليك . دي تزكرتك و بطاقة ركوبك . كن هناك، من فضلك، قبل ساعة من زمن الرحلة.
+15257	corpus-6-test-corpus-26-test	KHA	هو ألم حاد.
+15259	corpus-6-test-corpus-26-train	KHA	الاسم جورو موتوياما. و الرقم صفر تلاتة تلاتة اتنين ستة واحد اتنين أربعة تسعة خمسة.
+15262	corpus-6-test-corpus-26-train	KHA	حاسس انى عيان جدا.
+15274	corpus-6-test-corpus-26-train	KHA	"ما هي أوقات العرض ل""كوسيس لف""؟"
+15283	corpus-6-test-corpus-26-train	KHA	كلو تمام. ح تاخد قهوتك أسى ول لاحقا؟
+15292	corpus-6-test-corpus-26-train	KHA	وريني اسخن نادي ريقي في نيويورك.
+15295	corpus-6-test-corpus-26-test	KHA	في ياتو طريقة منتجك مختلف من منافسينك؟
+15296	corpus-6-test-corpus-26-train	KHA	هل اوكي ان مافي زول بسمع تعليمات الأمان؟
+15319	corpus-6-test-corpus-26-train	KHA	هل طريق خلفي خطر؟
+15320	corpus-6-test-corpus-26-train	KHA	نعم، من فضلك اخد الإجراء الضروري.
+15323	corpus-6-test-corpus-26-train	KHA	نعم، واحد بس. متين ح اعرف؟ كيف ح أكون اتعوضت؟
+15331	corpus-6-test-corpus-26-dev	KHA	هنا بطاقتي التعريفية.
+15337	corpus-6-test-corpus-26-train	KHA	بنفضل طربيزة على الشباك.
+15347	corpus-6-test-corpus-26-train	KHA	من فضلك وريني الطريقة الارخص للمشي لسان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	KHA	هل بتعرف الكافيتيريا، كيويا؟
+15378	corpus-6-test-corpus-26-train	KHA	اتجاه واحد.
+15380	corpus-6-test-corpus-26-train	KHA	أنا ح ابقى سمين بس قاعد هنا أكل باستمرار.
+15400	corpus-6-test-corpus-26-train	KHA	هل هناك نادي ليلى جيد مع عرض فلامنجو؟
+15419	corpus-6-test-corpus-26-train	KHA	داك فستان جميل فيك.
+15431	corpus-6-test-corpus-26-train	KHA	رجلي تؤلم.
+15436	corpus-6-test-corpus-26-train	KHA	وين أقرب مغسلة؟
+15443	corpus-6-test-corpus-26-train	KHA	ممكن تبدل المقاعد معاي، من فضلك؟
+15447	corpus-6-test-corpus-26-train	KHA	مقاعدنا اتفصلت.
+15452	corpus-6-test-corpus-26-train	KHA	بالتأكيد، داير احصل علي الحزمة دي مأمنة برضه.
+15463	corpus-6-test-corpus-26-train	KHA	الفاتورة تجي مية دولار.
+15464	corpus-6-test-corpus-26-test	KHA	مخارج الطوارئ موضوعة في الأمام، النص، و خلف الطائرة دي.
+15470	corpus-6-test-corpus-26-train	KHA	كلوا تمام، حجزك تم إعادة تأكيده.
+15476	corpus-6-test-corpus-26-train	KHA	الكعوب عالية شديد.
+15477	corpus-6-test-corpus-26-train	KHA	دايرين طربيزة في الشرفة.
+15482	corpus-6-test-corpus-26-train	KHA	بيعني ان الفلم احتمال ما يكون مناسب للأطفال أقل من خمستاشر. عشان كدا الوالدين بحتاجوا يختوا في الاعتبار سواء يخلوا الأطفال يحضروا الفلم.
+15487	corpus-6-test-corpus-26-train	KHA	كيف داير القروش؟ من فضلك املأ الورقة دي و وقع هنا.
+15509	corpus-6-test-corpus-26-train	KHA	أحيانا بطني بتوجع.
+15522	corpus-6-test-corpus-26-train	KHA	هل عندك أطباق منخفضة السعرات الحرارية؟ انا في حمية أسى.
+15529	corpus-6-test-corpus-26-dev	KHA	ما ضروري الشحن.
+15539	corpus-6-test-corpus-26-train	KHA	نعم، أنا عندي تزكرتين للجيانتس و دودقرس.
+15546	corpus-6-test-corpus-26-train	KHA	نحن واحد من قمة الموردين بتاعين المايكروكمبيوترات.
+15553	corpus-6-test-corpus-26-train	KHA	شكرا ليك. أنا برضه. مع السلامة لغاية الوقت داك.
+15564	corpus-6-test-corpus-26-train	KHA	غرفة مزدوجة مع حمام، من فضلك.
+15566	corpus-6-test-corpus-26-train	KHA	أنا وقعت على السلالم.
+15575	corpus-6-test-corpus-26-train	KHA	ياتو اسكريم انت بتزكي؟
+15577	corpus-6-test-corpus-26-dev	KHA	اممم. الواحد دا. اللون شكله سمح عليك.
+15598	corpus-6-test-corpus-26-test	KHA	وين كتب اللغة الأجنبية؟
+15604	corpus-6-test-corpus-26-train	KHA	شريحتين و اسبرايت.
+15607	corpus-6-test-corpus-26-test	KHA	اديني بعض السجائر.
+15610	corpus-6-test-corpus-26-dev	KHA	غير قانوني انك تجيبه في البلد - آسف . طيب، أظن داك ي كل شي.
+15652	corpus-6-test-corpus-26-train	KHA	نعم، أنا هو. اعتادوا يسكنوا جنبي في كاليفورنيا لكن انتقلت الى فلوريدا قبل سنتين. كيف عنك انت؟ هل بتسافر براك؟
+15664	corpus-6-test-corpus-26-train	KHA	انا عيان.
+15666	corpus-6-test-corpus-26-train	KHA	طفلي شكله مرهق نتيجة الحمى.
+15673	corpus-6-test-corpus-26-train	KHA	في المقاس دا، من فضلك.
+15674	corpus-6-test-corpus-26-train	KHA	درجات المزايا الثقافية يبدوها لفنانين وعلماء مميزين في اليوم داك.
+15676	corpus-6-test-corpus-26-train	KHA	انا ياباني. سعر الغرفة هو ستة ألف ين لليلة.
+15692	corpus-6-test-corpus-26-train	KHA	داك غالي شديد.
+15699	corpus-6-test-corpus-26-train	KHA	نعم. اخد البص البمشي لي كيوتوايكي.
+15710	corpus-6-test-corpus-26-train	KHA	هل هو للأعضاء فقط؟
+15735	corpus-6-test-corpus-26-dev	KHA	سعر الغرفة هو ستة ألف ين لليلة.
+15763	corpus-6-test-corpus-26-train	KHA	ممكن اجيب دا في ركوب الطيارة؟
+15775	corpus-6-test-corpus-26-train	KHA	اوكي. كل الداير أعرفه ما إذا كان العمل أبدا ح يدفع بطريقته.
+15784	corpus-6-test-corpus-26-train	KHA	تمام. داير وشاح عشان يمشي مع داك؟
+15788	corpus-6-test-corpus-26-train	KHA	أعد شحن البطاريه، من فضلك.
+15791	corpus-6-test-corpus-26-train	KHA	انا جاهز للطلب.
+15798	corpus-6-test-corpus-26-dev	KHA	أملاح الحمام العشبي بتخلي بشرتك تحس ناعمة و ملساء.
+15804	corpus-6-test-corpus-26-train	KHA	اكتب اسم الخطوط الجوية و رقم الرحلة، برضه.
+15814	corpus-6-test-corpus-26-train	KHA	حقيقة. اليوم هو الأحد، و الأحد اكعب يوم.
+15896	corpus-6-test-corpus-26-train	KHA	نعم، هي مشكلة عدم تصرف.
+15897	corpus-6-test-corpus-26-train	KHA	داير الشكل دا في وضع خمسة أماكن.
+15899	corpus-6-test-corpus-26-train	KHA	أسر كثيرة عندهم دخول مزدوجة.
+15902	corpus-6-test-corpus-26-train	KHA	"اوه. الفضة دي نادرة ""القمر و الجرس"" . اكيد داير تبادلا؟"
+15911	corpus-6-test-corpus-26-train	KHA	أمي و اختي جاين من اليابان عشان يشوفوني . ح يوصلوا حوالي سبعة في المساء.
+15942	corpus-6-test-corpus-26-train	KHA	البني شعبي جدا السنة دي.
+15950	corpus-6-test-corpus-26-test	KHA	فكرة جيدة. متين مخطط تجي؟
+15967	corpus-6-test-corpus-26-train	KHA	أوكي. مقعدين، من فضلك.
+15989	corpus-6-test-corpus-26-train	KHA	وين السوق؟
+16007	corpus-6-test-corpus-26-train	KHA	أنا بفتش لطريقة لتجريب بدلة السباق حقتي.
+16016	corpus-6-test-corpus-26-train	KHA	أنا اعتقدت ي شباب أنكم اكلتوا دونات.
+16034	corpus-6-test-corpus-26-train	KHA	كم تكلفة تزكرة درجة أولى إلى ادينبيره، من فضلك؟
+16042	corpus-6-test-corpus-26-train	KHA	يبدو أن القروش الاديتني ليها أقل بعشرة دولارات.
+16046	corpus-6-test-corpus-26-train	KHA	انا اتصلت بي مستر اسميث في الغرفة اتنين صفر واحد، لكن ما كان في رد. ممكن تعرف إذا هو لسة قاعد هنا؟
+16061	corpus-6-test-corpus-26-train	KHA	داير واحد حديث.
+16070	corpus-6-test-corpus-26-train	KHA	أنا شغال لشركة نشر.
+16073	corpus-6-test-corpus-26-train	KHA	ممكن من فضلك تملأ دا؟
+16080	corpus-6-test-corpus-26-test	KHA	ياتو شارع دا؟
+16082	corpus-6-test-corpus-26-test	KHA	ممكن توزن الحزمة دي؟
+16089	corpus-6-test-corpus-26-train	KHA	ماذا تسمى داك بالانجليزي؟
+16091	corpus-6-test-corpus-26-train	KHA	واصل المشي في الممر دا، ثم ح تلقاه على الجانب اليمين.
+16098	corpus-6-test-corpus-26-train	KHA	داير أأكد دا.
+16106	corpus-6-test-corpus-26-train	KHA	صباح الخير. مكتب الاستقبال. ممكن اساعدك؟
+16127	corpus-6-test-corpus-26-train	KHA	كلو تمام. من فضلك خش.
+16130	corpus-6-test-corpus-26-test	KHA	نعم، سيدي. انا بجي للفطور هنا كل يوم، من الاتنين للجمعة، قبل أمشي الشغل.
+16140	corpus-6-test-corpus-26-dev	KHA	ما مشكلة.
+16141	corpus-6-test-corpus-26-train	KHA	من فضلك اديني تلاتة اتنين ستة اتنين تسعة واحد تمنية.
+16158	corpus-6-test-corpus-26-train	KHA	نعم، ممكن نخدمك من سبعة.
+16167	corpus-6-test-corpus-26-train	KHA	من فضلك ارقد هنا.
+16169	corpus-6-test-corpus-26-test	KHA	ما اسرعها من خدمة.
+16191	corpus-6-test-corpus-26-train	KHA	هو ح يظهر.
+16217	corpus-6-test-corpus-26-train	KHA	من فضلك لف شمال في التقاطع الجاي.
+16219	corpus-6-test-corpus-26-dev	KHA	اعزرني. كيف أوصل البنك؟
+16222	corpus-6-test-corpus-26-train	KHA	هل هناك خدمة بص إلى فورد ميوسيم؟
+16227	corpus-6-test-corpus-26-train	KHA	نعم. اسمك و رقم غرفتك، من فضلك.
+16231	corpus-6-test-corpus-26-train	KHA	كم من الزمن تستغرق عشان يوصل اليابان بالبريد الجوي؟
+16238	corpus-6-test-corpus-26-train	KHA	أوكي. اشوفك عند الثانية في الأحد.
+16258	corpus-6-test-corpus-26-train	KHA	داير أمشي خلال نيويورك إلى تورونتو.
+16259	corpus-6-test-corpus-26-train	KHA	السوستة مكسورة، هل عندك زيادة في المثل؟
+16271	corpus-6-test-corpus-26-train	KHA	دا نوع من الوساخة.
+16279	corpus-6-test-corpus-26-dev	KHA	ممكن تعيد تأكيد رحلتي؟ هنا دي تزكرتي بتاعت الخطوط الجوية.
+16291	corpus-6-test-corpus-26-train	KHA	هل عندك دا في أخضر غامض؟
+16292	corpus-6-test-corpus-26-test	KHA	هل ح تاخدني لكانتربيري و تجيبني راجع؟
+16311	corpus-6-test-corpus-26-train	KHA	ممكن احصل علي شوكة جديدة؟
+16312	corpus-6-test-corpus-26-train	KHA	شكرا ليك كتير للطفك.
+16335	corpus-6-test-corpus-26-train	KHA	سوري، ما بنبيع تزاكر للمسرح.
+16337	corpus-6-test-corpus-26-train	KHA	داير اشوف دا.
+16339	corpus-6-test-corpus-26-train	KHA	اوه، داك جميل. مفروض اعمل شنو؟
+16344	corpus-6-test-corpus-26-dev	KHA	داير امدد إقامتي هنا ليومين زيادة.
+16351	corpus-6-test-corpus-26-train	KHA	من فضلك غير مقعدي.
+16365	corpus-6-test-corpus-26-train	KHA	عندنا بعض الجمبري الجيد اليوم.
+16371	corpus-6-test-corpus-26-train	KHA	لياتو تأخير هو بفتح؟
+16395	corpus-6-test-corpus-26-train	KHA	مدخن ول لا؟
+16403	corpus-6-test-corpus-26-train	KHA	هو غالي شديد لي. ما ممكن تعمله ارخص؟
+16409	corpus-6-test-corpus-26-dev	KHA	انا بفتح في صباح الأربعاء أو الجمعة بعد الظهر.
+16413	corpus-6-test-corpus-26-train	KHA	أنا ما عملت حجز.
+16434	corpus-6-test-corpus-26-train	KHA	لأن الصيف في اليابان عادة سخن شديد، و نحن ما عندنا مكيف هواء في الأيام القديمة.
+16444	corpus-6-test-corpus-26-train	KHA	ممكن تنادي لي تاكسي صباح بكرة؟
+16453	corpus-6-test-corpus-26-train	KHA	إنه شرير.
+16465	corpus-6-test-corpus-26-train	KHA	لي ما ننتظر البص في المظلة؟
+16477	corpus-6-test-corpus-26-train	KHA	تعال، كينجي. خليني أوريك حول المكتب.
+16478	corpus-6-test-corpus-26-train	KHA	نعم، هو مفتوح من تسعة لتسعة.
+16484	corpus-6-test-corpus-26-dev	KHA	انا ما بقدر انوم كويس بالليل.
+16487	corpus-6-test-corpus-26-train	KHA	كيف أثر الركود في العمل؟
+16495	corpus-6-test-corpus-26-train	KHA	عندي موعد تاني.
+16516	corpus-6-test-corpus-26-train	KHA	ممكن احصل علي خريطة شارع؟
+16536	corpus-6-test-corpus-26-dev	KHA	الشئ الكنت بفتش فيه.
+16542	corpus-6-test-corpus-26-train	KHA	انا ما فاهم توضيحاتك.
+16546	corpus-6-test-corpus-26-train	KHA	مفروض يعمل اتصال. ماشي لبوسطن.
+16547	corpus-6-test-corpus-26-train	KHA	وين أحسن مكان للسياحة؟
+16576	corpus-6-test-corpus-26-train	KHA	هو متين؟
+16577	corpus-6-test-corpus-26-train	KHA	انا استمتعت جدا.
+16581	corpus-6-test-corpus-26-train	KHA	طيب تمام، داير يكون عندي وش أصغر زي جوليا روبرتس.
+16586	corpus-6-test-corpus-26-train	KHA	ممكن تشيل دا، من فضلك؟
+16601	corpus-6-test-corpus-26-train	KHA	الركاب المسافرين على رحلة خطوط ايه بي اس الجوية سبعة صفر تلاتة المتجهة لطوكيو من فضلكم اتقدموا للبوابة عشرين للاجراءات الحكومية.
+16607	corpus-6-test-corpus-26-train	KHA	وين موقف البص بتاع بي؟
+16643	corpus-6-test-corpus-26-train	KHA	إلى العزابة، من فضلك.
+16653	corpus-6-test-corpus-26-dev	KHA	وين ممكن اشتري قماش طربيزة؟
+16679	corpus-6-test-corpus-26-train	KHA	ممكن أأجر مرشد يتكلم ياباني؟
+16696	corpus-6-test-corpus-26-train	KHA	دايرني اخد صورتك؟
+16709	corpus-6-test-corpus-26-train	KHA	ما عندي الصحن دا.
+16718	corpus-6-test-corpus-26-train	KHA	انا قطعت مصبعي. هل هناك مطهر؟
+16723	corpus-6-test-corpus-26-train	KHA	هل ممكن احصل علي طابعة بخمسة وتسعين سنت؟
+16736	corpus-6-test-corpus-26-train	KHA	ح أكون هنا عند التامنة إلا ربع.
+16746	corpus-6-test-corpus-26-train	KHA	داير بعض العطر.
+16747	corpus-6-test-corpus-26-train	KHA	ممكن اخد جدول زمني؟
+16751	corpus-6-test-corpus-26-test	KHA	هل انت ماشى للمدرسة هنا؟
+16758	corpus-6-test-corpus-26-dev	KHA	كم كان فيه؟
+16760	corpus-6-test-corpus-26-train	KHA	هل فندق الهيلتون بعيد من هنا؟
+16769	corpus-6-test-corpus-26-train	KHA	انا متأكد اني ختيته في شنطتي.
+16770	corpus-6-test-corpus-26-train	KHA	الايادي فوق.
+16771	corpus-6-test-corpus-26-train	KHA	هل هناك كافيتريا بتزكيها قريب من هنا؟
+16773	corpus-6-test-corpus-26-train	KHA	ياتو انت بتفضل؟ غامض ول فاتح؟
+16781	corpus-6-test-corpus-26-train	KHA	ممكن تكلمني وين نحن طايرين؟
+16793	corpus-6-test-corpus-26-train	KHA	تزكرة تحويل، من فضلك.
+16796	corpus-6-test-corpus-26-train	KHA	وين محل جميل لرحلة سياحية يوم واحد؟
+16799	corpus-6-test-corpus-26-train	KHA	داير شنطة كيلي الحمراء في نفس الاستايل زي دي.
+16805	corpus-6-test-corpus-26-train	KHA	لسة ح يعمل الجدول داك؟
+16810	corpus-6-test-corpus-26-train	KHA	ما الزمن البفتح فيه البنك؟
+16811	corpus-6-test-corpus-26-train	KHA	انا أشعر تمام.
+16819	corpus-6-test-corpus-26-train	KHA	أنا بقيت مشوش. هل تمانع ترسم لي خريطة؟
+16822	corpus-6-test-corpus-26-test	KHA	برة.
+16829	corpus-6-test-corpus-26-test	KHA	وديني للمستشفى.
+16833	corpus-6-test-corpus-26-train	KHA	هل على أجي للمستشفى كل يوم؟
+16837	corpus-6-test-corpus-26-train	KHA	بطني تؤلم.
+16839	corpus-6-test-corpus-26-train	KHA	كم سعر البريد عشان أرسل الرسالة دي لليابان؟
+16842	corpus-6-test-corpus-26-train	KHA	داير كاس شيري.
+16869	corpus-6-test-corpus-26-train	KHA	هل انت بتحتاج تترفع من المطار؟
+16872	corpus-6-test-corpus-26-dev	KHA	الركوب ببدا عند الرابعة و تلاتين عشان كدا كون هناك قبل الزمن داك.
+16878	corpus-6-test-corpus-26-train	KHA	من تلاتين ألف ين.
+16879	corpus-6-test-corpus-26-train	KHA	وين ممكن اشتري بطاقة هاتف؟
+16888	corpus-6-test-corpus-26-train	KHA	هل ممكن أرجعه في مدينة مختلفة؟
+16889	corpus-6-test-corpus-26-dev	KHA	انا أخطط اقعد لاتناشر يوم.
+16893	corpus-6-test-corpus-26-train	KHA	من فضلك خلي القمة أطول شوية.
+16896	corpus-6-test-corpus-26-train	KHA	انت محتاج تشوف أخصائي.
+16899	corpus-6-test-corpus-26-dev	KHA	دقائق إضافية قليلة، من فضلك.
+16904	corpus-6-test-corpus-26-train	KHA	مسار رقم اربعتاشر.
+16911	corpus-6-test-corpus-26-train	KHA	اوه، انت بتعمل؟ انت بالتأكيد عندك خيار كبير.
+16928	corpus-6-test-corpus-26-dev	KHA	انا ما قادر القاهم في اي محل.
+16936	corpus-6-test-corpus-26-test	KHA	هل عندك اي مقاعد فاضية للندن؟
+16952	corpus-6-test-corpus-26-train	KHA	داير نسخة من تقرير السرقة.
+16955	corpus-6-test-corpus-26-dev	KHA	بعد تقاطع واحد في الشارع.
+16960	corpus-6-test-corpus-26-train	KHA	ممكن تديني نور لم تكون عنده؟
+16962	corpus-6-test-corpus-26-test	KHA	هل السجاير دي خفيفة؟
+16964	corpus-6-test-corpus-26-train	KHA	كلو تمام. بس أعجب بي دي.
+16967	corpus-6-test-corpus-26-train	KHA	الاكسبريس الجاي في خلال ساعة.
+16976	corpus-6-test-corpus-26-train	KHA	داير الأكمام بتاعت الجاكيت الرياضي دا تتطول.
+16992	corpus-6-test-corpus-26-train	KHA	عندي حجز. دا رقم التأكيد.
+17027	corpus-6-test-corpus-26-train	KHA	عيد ميلادك في الطريق.
+17030	corpus-6-test-corpus-26-dev	KHA	القطارات وقفت بسبب الضربة.
+17038	corpus-6-test-corpus-26-train	KHA	هل يمكنك تصليح دا؟
+17068	corpus-6-test-corpus-26-dev	KHA	الشارع كان مزحوم بالعربات.
+17079	corpus-6-test-corpus-26-train	KHA	هو المبنى التاني على الشمال بتاع المبنى الأبيض داك.
+17094	corpus-6-test-corpus-26-train	KHA	حجزنا مقعد في خمسة وعشرين اكتوبر والمغادرة عند حداشر صباحا.
+17097	corpus-6-test-corpus-26-train	KHA	لا، زيادة شوية في المقدمة. هناك، أيوة.
+17115	corpus-6-test-corpus-26-train	KHA	نعم، داك ما بشمل وجبات.
+17117	corpus-6-test-corpus-26-train	KHA	وين ممكن ارجع قيمة التزكرة دي؟
+17120	corpus-6-test-corpus-26-train	KHA	لي هو بحصل؟
+17149	corpus-6-test-corpus-26-train	KHA	داير اخد راحة.
+17158	corpus-6-test-corpus-26-train	KHA	عربيتي اتعطلت، من فضلك تعال و شيلا.
+17163	corpus-6-test-corpus-26-train	KHA	داير شعري أطول شوية في الخلف.
+17177	corpus-6-test-corpus-26-train	KHA	ياتو أنواع عندك؟
+17179	corpus-6-test-corpus-26-dev	KHA	اوافق. إنه واحد من أماكني المفضلة.
+17180	corpus-6-test-corpus-26-train	KHA	ياتو نوع من الموديلات عندك في بالك؟
+17204	corpus-6-test-corpus-26-test	KHA	اسمي ميشيكو تاكانا، و رقم الرحلة خمسة صفر واحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	KHA	ممكن من فضلك ترسم لي خريطة بسيطة من هنا؟
+17217	corpus-6-test-corpus-26-train	KHA	وين بنتلاقى؟
+17222	corpus-6-test-corpus-26-train	KHA	داير شعري يتظبط زي ما كان.
+17229	corpus-6-test-corpus-26-train	KHA	اديني خمسين، من فضلك.
+17272	corpus-6-test-corpus-26-train	KHA	وين ممكن اسجل في الخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	KHA	المحتويات شنو؟
+17295	corpus-6-test-corpus-26-train	KHA	هل هناك اي أماكن في المنطقة البتتزكي بشكل عالي؟
+17311	corpus-6-test-corpus-26-train	KHA	اديني بعض الفكة، من فضلك.
+17313	corpus-6-test-corpus-26-train	KHA	كلو تمام. انا ح أتأكد ان شنطك ح يكونوا هنا.
+17315	corpus-6-test-corpus-26-train	KHA	دا تخصصنا، قريلد دوفر سول.
+17339	corpus-6-test-corpus-26-train	KHA	نحن ح نكون قاعدين.
+17350	corpus-6-test-corpus-26-train	KHA	أنا اتسرقت.
+17356	corpus-6-test-corpus-26-train	KHA	كله تمام. هل على اركزه؟
+17381	corpus-6-test-corpus-26-dev	KHA	نحن ح نشارك.
+17394	corpus-6-test-corpus-26-train	KHA	ما عندنا نفس الاستايل الآن. ح أراجع ارصدتنا. إنتظر دقيقة بس، من فضلك.
+17398	corpus-6-test-corpus-26-train	KHA	سكوتش و موية، من فضلك.
+17399	corpus-6-test-corpus-26-train	KHA	داك شكله حلو. كم بيكلف؟
+17414	corpus-6-test-corpus-26-train	KHA	شيل الوصفة الطبية دي لصيدلية. ممكن تحصل على الدواء هناك.
+17438	corpus-6-test-corpus-26-train	KHA	طلبت داك.
+17453	corpus-6-test-corpus-26-train	KHA	نعم، ممكن تقيف في أي محطة بين هنا و شيكاغو.
+17460	corpus-6-test-corpus-26-train	KHA	وين ممكن اشتري بعض التذكارات؟
+17475	corpus-6-test-corpus-26-train	KHA	هو غالي جدا. انا ما بقدر اشتريه.
+17482	corpus-6-test-corpus-26-train	KHA	ممكن احصل على رقم ايه بي سي اند كمباني في شيكاغو، من فضلك.
+17488	corpus-6-test-corpus-26-test	KHA	وين الكاتدرائية؟
+17496	corpus-6-test-corpus-26-train	KHA	كيف داير بيضك؟
+17504	corpus-6-test-corpus-26-train	KHA	هو بعد المبنى دا طوالي.
+17526	corpus-6-test-corpus-26-train	KHA	لا، أعتقد أنهم نسوا يجيبوا لينا واحد.
+17537	corpus-6-test-corpus-26-train	KHA	أوكي. أتأكد. ممكن نحصل على رقمك، بس في حالة دايرين نتصل عليك؟
+17548	corpus-6-test-corpus-26-train	KHA	اسم الدهان دا منو؟
+17559	corpus-6-test-corpus-26-train	KHA	هل اخليه يرجع يتصل عليك لم يجي داخل؟
+17593	corpus-6-test-corpus-26-train	KHA	داير أملك الواحد داك.
+17606	corpus-6-test-corpus-26-train	KHA	أنا بحب الخدمة دي بتاعت الترحيب بالشامبانيا بعد الركوب. خليني اشرب في صحتك.
+17609	corpus-6-test-corpus-26-train	KHA	أربعين دولار لليوم زايد تمنية سنت للميل.
+17615	corpus-6-test-corpus-26-train	KHA	ح أراهن خمسة دولارات.
+17636	corpus-6-test-corpus-26-train	KHA	دا ما طلب زول تاني؟
+17645	corpus-6-test-corpus-26-train	KHA	ممكن توريني كيف أصل للمتحف؟
+17649	corpus-6-test-corpus-26-train	KHA	أنا آسف جدا، لكن داير ااجل الموعد.
+17652	corpus-6-test-corpus-26-test	KHA	هل ممكن تزكي نزهة؟
+17660	corpus-6-test-corpus-26-train	KHA	قطرك ح يغادر من الرصيف تمنية.
+17673	corpus-6-test-corpus-26-train	KHA	انا بفتش لشنطة مع شريط يمكن يتعدل.
+17674	corpus-6-test-corpus-26-train	KHA	دايره يبقى تحت مية و تمنين دولار.
+17739	corpus-6-test-corpus-26-train	KHA	ح أسألك بعد اكون فتشت الأرجاء.
+17745	corpus-6-test-corpus-26-test	KHA	نعم. حجز لستة ليالي، من فضلك. ببدا تلاتة وعشرين يوليو.
+17757	corpus-6-test-corpus-26-train	KHA	ممكن توريني واحدات تانية من تصميم مختلف؟
+17765	corpus-6-test-corpus-26-train	KHA	ياتو نوع من العصير انت بتحب؟
+17780	corpus-6-test-corpus-26-train	KHA	هل انت ماشى البيت للاعياد؟
+17782	corpus-6-test-corpus-26-dev	KHA	وين ممكن أمشي اشوف منظر جميل حقيقة؟
+17786	corpus-6-test-corpus-26-test	KHA	دا كان أصلا مكسور لم فتحت العبوة.
+17790	corpus-6-test-corpus-26-test	KHA	أغسطس التاسع والعشرين.
+17797	corpus-6-test-corpus-26-train	KHA	داير أرسل دا بالبريد الجوي لليابان.
+17798	corpus-6-test-corpus-26-train	KHA	يوم شكر العمال. هو يوم شكر لأولئك البدعموا المجتمع بأعمالهم.
+17799	corpus-6-test-corpus-26-train	KHA	الغرفة دي صغيرة شديد.
+17803	corpus-6-test-corpus-26-train	KHA	ممكن آخد بعض الشاي إضافة، من فضلك؟
+17805	corpus-6-test-corpus-26-train	KHA	داير الملابس دي مغسلة بنهاية اليوم.
+17808	corpus-6-test-corpus-26-train	KHA	هل هناك بنك حوالي هنا؟
+17811	corpus-6-test-corpus-26-train	KHA	ممكن تفضي الطربيزة، من فضلك؟
+17840	corpus-6-test-corpus-26-train	KHA	سكين، من فضلك.
+17841	corpus-6-test-corpus-26-train	KHA	كلهم مسألة مطبوعة.
+17842	corpus-6-test-corpus-26-train	KHA	من فضلك اكتب رقم غرفتك في الخلف.
+17847	corpus-6-test-corpus-26-train	KHA	بنستخدم عيدان الطعام لمن نأكل.
+17852	corpus-6-test-corpus-26-train	KHA	رحلة دلتا رقم تمنية وعشرين إلى نيو اورلينز ح تتأخر حوالي ساعة.
+17854	corpus-6-test-corpus-26-train	KHA	لم أرجع لليابان، ح اكتب رسالة. لو عندك زمن، من فضلك رسل لي رسالة.
+17855	corpus-6-test-corpus-26-train	KHA	انا خليته تزكرتي حقت الخطوط الجوية في الفندق.
+17861	corpus-6-test-corpus-26-train	KHA	غرفة سنقل بدون دش، من فضلك.
+17869	corpus-6-test-corpus-26-train	KHA	شكرا تاني لتزكيري . هل ناس كتار بيتعمدوا ينسوا يوقعوا اسمائهم؟
+17886	corpus-6-test-corpus-26-train	KHA	طيب، نحن نجري خارج الزمن. هل نواصل النقاش دا في الخميس عند الواحدة؟
+17899	corpus-6-test-corpus-26-test	KHA	داير بعض البجامات.
+17919	corpus-6-test-corpus-26-train	KHA	أوكي. ح اتصل بيك لم يجهزوا.
+17935	corpus-6-test-corpus-26-train	KHA	كيف عن الغداء؟
+17947	corpus-6-test-corpus-26-test	KHA	الليموزين ح تقيف في البوابة الشمالية أول.
+17963	corpus-6-test-corpus-26-train	KHA	إلى كم من التأخير ممكن استعمل كافيتريا الفندق؟
+17966	corpus-6-test-corpus-26-dev	KHA	إنه قطر مباشر؟
+17977	corpus-6-test-corpus-26-train	KHA	طيب، انه متاخر شديد. أعتقد أني مفروض أغادر الآن. شكرا ليك كتير للمساء الرائع.
+17986	corpus-6-test-corpus-26-train	KHA	ممكن آخد بعض الدواء لوجع بطني؟
+18003	corpus-6-test-corpus-26-train	KHA	داير جداد مشوي.
+18018	corpus-6-test-corpus-26-train	KHA	غلطي. ما غلطك.
+18036	corpus-6-test-corpus-26-train	KHA	أعذرني، متين بنتهي الفلم دا؟
+18040	corpus-6-test-corpus-26-train	KHA	الواحد داك، من فضلك.
+18077	corpus-6-test-corpus-26-train	KHA	مجوهراتي اتسرقت. أنا محتاج اعمل ملف تقرير.
+18103	corpus-6-test-corpus-26-train	KHA	لحظة فقط، من فضلك. ح اوصلك لمستر. جونز.
+18110	corpus-6-test-corpus-26-train	KHA	اهلا. دي خطوط يونايتيد الجوية.
+18131	corpus-6-test-corpus-26-test	KHA	وين مستر جونز اتعلم اليابانية؟
+18138	corpus-6-test-corpus-26-train	KHA	عندي واحد أصغر بنفس التصميم.
+18155	corpus-6-test-corpus-26-train	KHA	ممكن تضيق السروال دا؟
+18161	corpus-6-test-corpus-26-train	KHA	ليلة الجمعة، في التاسعة.
+18166	corpus-6-test-corpus-26-train	KHA	هل البوابة دي الى لوس انجلوس؟
+18181	corpus-6-test-corpus-26-train	KHA	هل عندك بس من المطار؟
+18189	corpus-6-test-corpus-26-train	KHA	ملعقة تانية، من فضلك.
+18211	corpus-6-test-corpus-26-train	KHA	إنه مالح شوية، لكن بحبه، هل انت جبته معاك كل الطريق من اليابان؟
+18226	corpus-6-test-corpus-26-train	KHA	من فضلك سرعه، لو ممكن.
+18254	corpus-6-test-corpus-26-train	KHA	هل ممكن تدفع عشرة دولارات هنا كعربون؟
+18264	corpus-6-test-corpus-26-train	KHA	نعم. صحيني بعد تلات ساعات، من فضلك.
+18273	corpus-6-test-corpus-26-dev	KHA	داير أطلب، من فضلك.
+18274	corpus-6-test-corpus-26-test	KHA	مفروض اقول آي ول لا؟
+18282	corpus-6-test-corpus-26-train	KHA	ملعقتين، من فضلك.
+18323	corpus-6-test-corpus-26-train	KHA	الاستوب الجاي شنو؟
+18334	corpus-6-test-corpus-26-dev	KHA	العربية بتعمل ازعاج غريب.
+18336	corpus-6-test-corpus-26-test	KHA	ما الزمن البقفل فيه مكتب البريد؟
+18338	corpus-6-test-corpus-26-dev	KHA	أنا بالفعل دفعت عربون خمسين دولار لما دخلت.
+18341	corpus-6-test-corpus-26-train	KHA	هل اخدت دواء لبطن قالبة؟
+18342	corpus-6-test-corpus-26-train	KHA	هل بحتاج البس جاكيت و كارافتة؟
+18344	corpus-6-test-corpus-26-train	KHA	ممكن احول قروش لحسابي بتاع الادخار؟
+18355	corpus-6-test-corpus-26-train	KHA	نسيت شنطتي.
+18382	corpus-6-test-corpus-26-train	KHA	داير أعيد تأكيد رحلتي.
+18401	corpus-6-test-corpus-26-train	KHA	ساعتي. كانت صنف جديد صناعة سويسرية ديجتال.
+18409	corpus-6-test-corpus-26-test	KHA	مررت في التست داك بألوان طائرة.
+18412	corpus-6-test-corpus-26-dev	KHA	دايرك تاخدني لبعض الأماكن المثيرة. انا سائح، انت عارف.
+18419	corpus-6-test-corpus-26-train	KHA	ممكن أمشي اشوف معالم المدينة أثناء وجود السفينة في الميناء؟
+18437	corpus-6-test-corpus-26-train	KHA	أنت أحسن تعدل المراية الخلفية.
+18440	corpus-6-test-corpus-26-dev	KHA	هناك ح يكون في عشرة دقائق إنتظار ول كدا.
+18441	corpus-6-test-corpus-26-train	KHA	ممكن أشيل صحونك؟
+18451	corpus-6-test-corpus-26-train	KHA	ح أكون سعيد. ياتو زمن بتحب؟
+18487	corpus-6-test-corpus-26-train	KHA	أعتقد أني خليت كاميرتي وراي لم اتعشيت هنا الليلة الماضية.
+18492	corpus-6-test-corpus-26-train	KHA	اجمعهم في البوابة.
+18502	corpus-6-test-corpus-26-train	KHA	اوه، لا. داك م ح يكون ضروري. ممكن اخد بالى منه. انت اصلا عملت اكتر من الكافي.
+18519	corpus-6-test-corpus-26-train	KHA	إما تصلحه أو تبدله، من فضلك.
+18521	corpus-6-test-corpus-26-train	KHA	ممكن اعمله أحيانا الشهر الجاي.
+18527	corpus-6-test-corpus-26-train	KHA	من فضلك اخد زمنك.
+18531	corpus-6-test-corpus-26-train	KHA	كيف المنتج الجديد دا يقارن مع المنتجات الموجودة؟
+18540	corpus-6-test-corpus-26-train	KHA	كتاب المبيعات عطوفين جدا في المتجر دا.
+18552	corpus-6-test-corpus-26-train	KHA	ممكن تحفظ لي دا؟
+18562	corpus-6-test-corpus-26-train	KHA	دقيقة بس، من فضلك.
+18569	corpus-6-test-corpus-26-train	KHA	هل عندك بطاقات الاستلام حقتك؟
+18572	corpus-6-test-corpus-26-train	KHA	داير أأجر عربية لأسبوع.
+18580	corpus-6-test-corpus-26-train	KHA	نعم، بدايةً، غسله بشكل منفصل.
+18585	corpus-6-test-corpus-26-train	KHA	من فضلك وريني بعض الساعات للرجال.
+18595	corpus-6-test-corpus-26-train	KHA	إنه أربعة عشرة.
+18612	corpus-6-test-corpus-26-dev	KHA	كم بتكلف الليموزين عشان تمشي لمركز المدينة؟
+18614	corpus-6-test-corpus-26-train	KHA	من الصباح دا.
+18617	corpus-6-test-corpus-26-train	KHA	نحن أحسن نسرع. هم بالفعل بركبوا.
+18632	corpus-6-test-corpus-26-test	KHA	بناسب صاح بس.
+18639	corpus-6-test-corpus-26-train	KHA	سألت عن جداد.
+18640	corpus-6-test-corpus-26-train	KHA	لعشرة أيام.
+18642	corpus-6-test-corpus-26-train	KHA	كم عمر الولد دا؟
+18643	corpus-6-test-corpus-26-train	KHA	كم كله كدا؟
+18646	corpus-6-test-corpus-26-train	KHA	داير نفس داك، من فضلك.
+18685	corpus-6-test-corpus-26-train	KHA	أنا ضيعت شيكات المسافر حقتي.
+18687	corpus-6-test-corpus-26-train	KHA	من فضلك اديني بعض دواء النزلة.
+18690	corpus-6-test-corpus-26-train	KHA	من فضلك خته في شكل مخروط.
+18725	corpus-6-test-corpus-26-train	KHA	انا دايما بشوفه كل صباح في القطر.
+18727	corpus-6-test-corpus-26-train	KHA	ممكن تتعشي معانا المساء دا؟
+18747	corpus-6-test-corpus-26-train	KHA	ح أقعد في فندق بي لغاية بكرة. ح اكون سعيد لو كلمته اني هنا.
+18770	corpus-6-test-corpus-26-train	KHA	رحلة أخرت لخمسة وأربعين دقيقة.
+18771	corpus-6-test-corpus-26-train	KHA	اسمي شينو يامادا.
+18784	corpus-6-test-corpus-26-train	KHA	الكافيتيريا دي تخصصها شنو؟
+18798	corpus-6-test-corpus-26-test	KHA	عندنا خمرة بيضاء ممتازة.
+18830	corpus-6-test-corpus-26-train	KHA	بس بعض دواء النزلة.
+18834	corpus-6-test-corpus-26-dev	KHA	ممكن تجيب عفشي تحت اللوبي صباح بكرة؟
+18836	corpus-6-test-corpus-26-train	KHA	اوه، يبدو أني بفقد حاجة كل مرة أسافر.
+18845	corpus-6-test-corpus-26-train	KHA	انا فقدت استعمال يدي اليمين.
+18847	corpus-6-test-corpus-26-train	KHA	الو، هل دا رويس؟
+18848	corpus-6-test-corpus-26-test	KHA	بعد داك، ح تجي لشارع تسوق. لو كملت بالشارع ح تصل المحطة.
+18872	corpus-6-test-corpus-26-train	KHA	لا، ما هنا. هناك غرفة تدخين في مؤخرة العربة دي.
+18877	corpus-6-test-corpus-26-train	KHA	ممكن احصل على دليل؟
+18879	corpus-6-test-corpus-26-train	KHA	أوصل هناك عند التاسعة، من فضلك.
+18906	corpus-6-test-corpus-26-train	KHA	نعم، سيدي. كيف دايرني اقطعه؟
+18912	corpus-6-test-corpus-26-test	KHA	أعتقد أن في غلط في الفاتورة.
+18917	corpus-6-test-corpus-26-train	KHA	فقط زيت و خل ح يكون كويس.
+18919	corpus-6-test-corpus-26-train	KHA	عندي تحديدا الدايره انت. ممكن أقترح دا؟
+18938	corpus-6-test-corpus-26-train	KHA	قهوة بسكر.
+18948	corpus-6-test-corpus-26-train	KHA	هو سبعتاشر ايه . اوه، انا آسف. عملت غلط.
+18951	corpus-6-test-corpus-26-test	KHA	هل سبق سمعت ب قولدن ويك في اليابان؟
+18957	corpus-6-test-corpus-26-train	KHA	شكرا ليك. من فضلك تعال راجع تاني.
+18963	corpus-6-test-corpus-26-test	KHA	هل هو لسة محجوز كله؟
+18974	corpus-6-test-corpus-26-test	KHA	هل ممكن اخليه في اي محل في البلد؟
+18986	corpus-6-test-corpus-26-test	KHA	ياتو رقم مفروض اتصل عليه من هنا؟
+19002	corpus-6-test-corpus-26-train	KHA	كيف أصل لديزني لاند؟
+19005	corpus-6-test-corpus-26-train	KHA	هل بتعتقد كدا؟
+19007	corpus-6-test-corpus-26-train	KHA	أعذرني . وين الكافيتيريا الرئيسية؟
+19009	corpus-6-test-corpus-26-train	KHA	داير أعمل مكالمة لليابان.
+19036	corpus-6-test-corpus-26-test	KHA	رقم مقعدي هو دي اتناشر. وين هو؟
+19037	corpus-6-test-corpus-26-dev	KHA	دا شنو، من فضلك؟
+19038	corpus-6-test-corpus-26-train	KHA	ياتو نوع عندك في بالك؟
+19045	corpus-6-test-corpus-26-train	KHA	نعم. ح نصل عند التامنة توقيت محلي.
+19050	corpus-6-test-corpus-26-train	KHA	إذا لقيت اي حاجة، من فضلك اتصل على.
+19057	corpus-6-test-corpus-26-train	KHA	ممكن احصل على بعض لحم الخنزير و بيض؟
+19064	corpus-6-test-corpus-26-train	KHA	عصير بطيخ للتحلية، من فضلك.
+19068	corpus-6-test-corpus-26-train	KHA	الموية السخنة ما ساخنة كفاية.
+19085	corpus-6-test-corpus-26-train	KHA	هل ح توضح كيف اعمل داك؟
+19094	corpus-6-test-corpus-26-train	KHA	من فضلك أكتب عنوانك هنا.
+19100	corpus-6-test-corpus-26-train	KHA	ممكن استخدم فلاش؟
+19101	corpus-6-test-corpus-26-train	KHA	شكرا ليك. تعال راجع لغرفتي في نفس الزمن بكرة. ح يكون عندي الصور جاهزة بذلك الوقت.
+19103	corpus-6-test-corpus-26-train	KHA	أنا آسف الآن انت ممكن تطلب فقط من المنيو الليلي.
+19113	corpus-6-test-corpus-26-train	KHA	عادي ول نقي؟
+19144	corpus-6-test-corpus-26-train	KHA	عندي صداع.
+19147	corpus-6-test-corpus-26-test	KHA	دي الغرفة اتناشر صفر سبعة.
+19148	corpus-6-test-corpus-26-test	KHA	داير غرفة مختلفة.
+19156	corpus-6-test-corpus-26-train	KHA	لكم من الزمن الفيزا دي جيدة؟
+19162	corpus-6-test-corpus-26-train	KHA	هل هنا في مستشفى حوالي هنا؟
+19170	corpus-6-test-corpus-26-train	KHA	داير بدلة.
+19196	corpus-6-test-corpus-26-train	KHA	هل عندك عرض أكبر؟
+19215	corpus-6-test-corpus-26-test	KHA	ممكن أجرب تسعة؟
+19217	corpus-6-test-corpus-26-train	KHA	فندق آمن بخدم فطور عظيم، من فضلك.
+19226	corpus-6-test-corpus-26-train	KHA	وين حديقة الحيوان؟
+19232	corpus-6-test-corpus-26-train	KHA	واحدات أكبر؟
+19250	corpus-6-test-corpus-26-dev	KHA	تلاتين دولار تمنين.
+19251	corpus-6-test-corpus-26-train	KHA	بيعتمد على كيفية دفء المكان، لكن في وسط اليابان، بداية أبريل.
+19258	corpus-6-test-corpus-26-train	KHA	بيرقر بالجبنة و مقليات.
+19269	corpus-6-test-corpus-26-train	KHA	إنه متأخر جدا لآخر قطر.
+19281	corpus-6-test-corpus-26-train	KHA	ما عندي اي فكة.
+19294	corpus-6-test-corpus-26-train	KHA	هل حصلت على تزكرة بصك؟
+19306	corpus-6-test-corpus-26-train	KHA	رصيد، من فضلك.
+19307	corpus-6-test-corpus-26-train	KHA	كنت في رحلة خطوط يونايتد تمنية اتنين تمنية.
+19317	corpus-6-test-corpus-26-train	KHA	إنه مزعج جدا حول الغرفة.
+19318	corpus-6-test-corpus-26-train	KHA	في الساحل الشرقي، انت برضه ألقى محلات مشهورة، زي نيويورك، واشنطن دي سي و بوسطن.
+19327	corpus-6-test-corpus-26-train	KHA	هل عندك أوراق يابانية؟
+19329	corpus-6-test-corpus-26-train	KHA	يبدوا جيدا.
+19346	corpus-6-test-corpus-26-train	KHA	كله تمام إذا خليت عفشي معاك لغاية الساعة واحدة؟
+19347	corpus-6-test-corpus-26-train	KHA	هل هناك جولة للمدينة؟
+19360	corpus-6-test-corpus-26-train	KHA	نعم. أنا لازم. كيف الأمن في المنطقة دي؟
+19391	corpus-6-test-corpus-26-train	KHA	أنا شايف. بحاول أأجر سيتروين.
+19401	corpus-6-test-corpus-26-dev	KHA	عندي موهبة مولودة طبيعية.
+19413	corpus-6-test-corpus-26-train	KHA	داك بكون كويس. وين العيش؟
+19415	corpus-6-test-corpus-26-train	KHA	مدخن، من فضلك. و مقعد شباك، من فضلك.
+19423	corpus-6-test-corpus-26-train	KHA	و كم سعرك للخياطة؟
+19444	corpus-6-test-corpus-26-dev	KHA	ياتو ح يكون أسرع، تكسي ول إسعاف؟
+19460	corpus-6-test-corpus-26-train	KHA	هل عندك التي شيرت دا بأي لون تاني؟
+19463	corpus-6-test-corpus-26-test	KHA	ما مفروض تشاهد التلفزيون كل الزمن.
+19466	corpus-6-test-corpus-26-train	KHA	أيوة، نحن جاين عليه، جاين عليه.
+19467	corpus-6-test-corpus-26-train	KHA	أنت أحسن تخش مستشفتنا.
+19469	corpus-6-test-corpus-26-train	KHA	وين ممكن ألقى سوبرماركت؟
+19475	corpus-6-test-corpus-26-train	KHA	إنه غالي شوية. ما ممكن تديني بريك؟
+19479	corpus-6-test-corpus-26-train	KHA	كم استوب لغاية اغير؟
+19490	corpus-6-test-corpus-26-train	KHA	الراجل داك سرق محفظتي.
+19494	corpus-6-test-corpus-26-train	KHA	حبوب الهضم و هبوب ألم المعدة مختلفات، صاح؟
+19497	corpus-6-test-corpus-26-test	KHA	داير اشوف الميناء.
+19500	corpus-6-test-corpus-26-test	KHA	فكرة جميلة.
+19501	corpus-6-test-corpus-26-train	KHA	كم من الزمن بياخد بالرجل؟
+19505	corpus-6-test-corpus-26-train	KHA	ح اخد عشرين من أكبر خمرة تيدي، من فضلك.
+19507	corpus-6-test-corpus-26-dev	KHA	ما الرقم للكاشير؟
+19508	corpus-6-test-corpus-26-train	KHA	إنه ساهل. انا فقط ح انظر لكتاب التلفون.
+19509	corpus-6-test-corpus-26-dev	KHA	هل عندك اي غرف أكبر؟
+19547	corpus-6-test-corpus-26-train	KHA	كم فاتورتي؟
+19548	corpus-6-test-corpus-26-train	KHA	حابي اني أقعد في الغرفة دي لليلة إضافية.
+19560	corpus-6-test-corpus-26-train	KHA	اعزرني، لكن انا داير اسلم تقرير السرقة.
+19572	corpus-6-test-corpus-26-train	KHA	طيب، هو بيعتمد على ياتو نوع المواصلات ال ح تاخدها. هل أنت ماشى بالبص ول الطيارة؟
+19578	corpus-6-test-corpus-26-train	KHA	هل تمانع إذا قعدت هنا؟
+19581	corpus-6-test-corpus-26-train	KHA	هل ممكن أرسل ايميل واحد فقط بدولار؟
+19589	corpus-6-test-corpus-26-train	KHA	نعم، من فضلك رسله لغرفة اتناشر أربعة وتلاتين.
+19610	corpus-6-test-corpus-26-dev	KHA	املأ فورمة التسجيل دي، من فضلك.
+19617	corpus-6-test-corpus-26-test	KHA	داير تزكرتين ذهاب وعودة لاكسفورد.
+19619	corpus-6-test-corpus-26-train	KHA	بأي زمن مفروض اجي المطار؟
+19620	corpus-6-test-corpus-26-train	KHA	دا بطئ.
+19623	corpus-6-test-corpus-26-train	KHA	وين ممكن اطور فيلم؟
+19643	corpus-6-test-corpus-26-test	KHA	لا، من فضلك ما تعمل، ممكن تحفظ أسئلتك لنهاية كلامي، لم اسأل منهم؟
+19648	corpus-6-test-corpus-26-dev	KHA	داير مقعد جيد.
+19649	corpus-6-test-corpus-26-train	KHA	آسف المرحاض ما شغال. أنا محتاج مساعدة.
+19651	corpus-6-test-corpus-26-test	KHA	هو ماشى صعب ولا غامض.
+19654	corpus-6-test-corpus-26-train	KHA	ح آخدك لمقعدك. الشارع دا، من فضلك.
+19656	corpus-6-test-corpus-26-train	KHA	اعزرني، ممكن أسألك سؤال؟
+19666	corpus-6-test-corpus-26-train	KHA	أعتقد ذلك.
+19675	corpus-6-test-corpus-26-train	KHA	هاي. إنه جميل ان ألاقيك.
+19691	corpus-6-test-corpus-26-train	KHA	داير اسجل العفش لطوكيو، من فضلك.
+19694	corpus-6-test-corpus-26-train	KHA	هل ح توريني واحد أكبر شوية؟
+19703	corpus-6-test-corpus-26-train	KHA	أعتقد أن الملابس المصنوعة في اليابان قطعا مصممة أحسن.
+19715	corpus-6-test-corpus-26-train	KHA	كان عليك أن تستسلم.
+19716	corpus-6-test-corpus-26-dev	KHA	قول تاني من فضلك.
+19722	corpus-6-test-corpus-26-train	KHA	ممكن تكتب لي العنوان و رقم الهاتف، من فضلك؟
+19726	corpus-6-test-corpus-26-train	KHA	هو سخن؟
+19732	corpus-6-test-corpus-26-train	KHA	ياتو مطار انا مغادر منو؟
+19733	corpus-6-test-corpus-26-train	KHA	ما استلمت الفورمة في الطيارة؟
+19735	corpus-6-test-corpus-26-train	KHA	انا داير مكوة.
+19752	corpus-6-test-corpus-26-dev	KHA	بيكون تمنية وتلاتين دولار كله سوا.
+19754	corpus-6-test-corpus-26-train	KHA	شكرا لمشاركة أفكارك الفريدة معانا.
+19755	corpus-6-test-corpus-26-train	KHA	أنا بعمل تزلج مرتين بالشهر خلال الموسم.
+19760	corpus-6-test-corpus-26-train	KHA	انا ولدت في واحد أبريل في ألف وتسعمية خمسة وخمسين.
+19769	corpus-6-test-corpus-26-test	KHA	ممكن أأجر مضارب؟
+19809	corpus-6-test-corpus-26-train	KHA	هل دا البص الصحيح إلى وسط المدينة؟
+19813	corpus-6-test-corpus-26-train	KHA	كم سعر العطر؟
+19814	corpus-6-test-corpus-26-train	KHA	هو لشنو؟
+19819	corpus-6-test-corpus-26-train	KHA	وين ممكن أمشي للاجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	KHA	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	KHA	هل داك بشمل الضرائب؟
+19853	corpus-6-test-corpus-26-test	KHA	شنو الخراجات؟
+19862	corpus-6-test-corpus-26-train	KHA	من فضلك نادي إسعاف.
+19864	corpus-6-test-corpus-26-dev	KHA	ح أراهن تلاتة دولارات في دا.
+19871	corpus-6-test-corpus-26-train	KHA	كيف هو جاي؟
+19889	corpus-6-test-corpus-26-train	KHA	ما في أكل المابحبه.
+19902	corpus-6-test-corpus-26-train	KHA	"يوم الدستور أو ""كيمبو كينينبي"" هو عطلة تلاتة مايو لذكرى تأسيس الدستور الياباني الحالي."
+19912	corpus-6-test-corpus-26-train	KHA	هل الجولة دي بتشمل زيارة إلى برج ميرس؟
+19923	corpus-6-test-corpus-26-train	KHA	في مكتبة هنا؟
+19928	corpus-6-test-corpus-26-train	KHA	انا ح أحضر المدرسة الصيفية في جامعة هاواي.
+19935	corpus-6-test-corpus-26-train	KHA	وين نحن مارين الآن؟
+19945	corpus-6-test-corpus-26-train	KHA	اتنين بالغين و طفل عمره تلاتة سنوات.
+19959	corpus-6-test-corpus-26-train	KHA	في حمام في المحطة.

@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	SAN	هوذاك هاناك، قبال مكتب المعلومات السياحيه بالضبط.
+9	corpus-6-test-corpus-26-train	SAN	ماقد سمعتش ابدا بهذا العنوان هانا.
+11	corpus-6-test-corpus-26-train	SAN	امشي طوالي لوما تبسر صيدليه.
+26	corpus-6-test-corpus-26-train	SAN	بكم هو الصبوح؟
+27	corpus-6-test-corpus-26-train	SAN	كيف اقدر اساعدك؟
+30	corpus-6-test-corpus-26-train	SAN	اخطى يسار عند الركن الثالث.
+50	corpus-6-test-corpus-26-train	SAN	تشتي كريمه وسكر في القهوة؟
+64	corpus-6-test-corpus-26-train	SAN	تقدر تصرف لي شيك الميتين الدولار؟
+74	corpus-6-test-corpus-26-train	SAN	اذا لازم يظهر، لو سمحت اتصل لي.
+86	corpus-6-test-corpus-26-train	SAN	اين هو الكافيه؟
+87	corpus-6-test-corpus-26-train	SAN	أشتي سترة أطفالي.
+91	corpus-6-test-corpus-26-train	SAN	تمام. يكلف خمسه وثمانين سنت للبريد العادي و ثلاثه دولار بالضبط زياده للتوصيل الخاص.
+120	corpus-6-test-corpus-26-test	SAN	شا اشتري ذيه لو كنت مكانك.
+129	corpus-6-test-corpus-26-train	SAN	هل شا اواجه مشاكل مع الجمارك؟
+130	corpus-6-test-corpus-26-train	SAN	به معك جزمه رسميه واسعه عند الاصابع؟
+140	corpus-6-test-corpus-26-train	SAN	لا. ممكن اقترح عليك غرفة مزدوجة ل استخدام فرد بدله؟ عندنا واحدة.
+143	corpus-6-test-corpus-26-train	SAN	اشتي تجعيد قوي، لو سمحت.
+145	corpus-6-test-corpus-26-train	SAN	هي تشتي بيره.
+157	corpus-6-test-corpus-26-train	SAN	صباح الخير. كيف حالك؟
+158	corpus-6-test-corpus-26-train	SAN	أسف مضطر اطلب منك تبرز اي شي يثيت هويتك.
+169	corpus-6-test-corpus-26-train	SAN	ما هو نوع الصوص؟
+170	corpus-6-test-corpus-26-train	SAN	هذا بارد شويه. عتحميه؟
+173	corpus-6-test-corpus-26-test	SAN	أسف، هذه البقعه قدي محجوزه.
+176	corpus-6-test-corpus-26-train	SAN	أنا بخير. لكن ممكن تتصل لصاحبي؟
+177	corpus-6-test-corpus-26-test	SAN	شكرا، ذيه كفايه.
+184	corpus-6-test-corpus-26-train	SAN	من هو أعز أصحابك؟
+187	corpus-6-test-corpus-26-train	SAN	يوم الصحة والرياضه عشره اكتوبر هو اجازه وطنيه عملوها عسب يشجعو الناس يهتمو بصحتهم.
+192	corpus-6-test-corpus-26-train	SAN	تشتيني افحص لك الطبلون؟
+206	corpus-6-test-corpus-26-train	SAN	عتقدر تساعدني القى شنطتي؟
+221	corpus-6-test-corpus-26-train	SAN	ممكن تعمل التجهيزات مقدما؟
+238	corpus-6-test-corpus-26-train	SAN	به احد بيساعدني. شكرا.
+261	corpus-6-test-corpus-26-train	SAN	لوما قدك هناك، اسال احد ثاني، لو سمحت.
+280	corpus-6-test-corpus-26-train	SAN	أشتي توصيله اربعه وعشرين، لو سمحت.
+285	corpus-6-test-corpus-26-train	SAN	هولا اثنين دولار. خلي الباقي.
+315	corpus-6-test-corpus-26-train	SAN	واحد همبرجر و واحد برجر بالجبنه، لو سمحت.
+319	corpus-6-test-corpus-26-train	SAN	كم ب تشل على العمليه؟
+320	corpus-6-test-corpus-26-train	SAN	احنا الأثنين نشتي ندفع حق وجباتنا.
+326	corpus-6-test-corpus-26-train	SAN	الموقع كان فوق كرسي في اللوبي.
+333	corpus-6-test-corpus-26-test	SAN	لو سمحت اصرف لي هولا من ين ل جنيهات.
+346	corpus-6-test-corpus-26-train	SAN	اشتي قاموس جيب، لو سمحت.
+360	corpus-6-test-corpus-26-train	SAN	لشخصين الساعه سبع. الاسم هو وطنابي.
+368	corpus-6-test-corpus-26-train	SAN	ساعتي. كانت سايكو رقميه.
+370	corpus-6-test-corpus-26-train	SAN	عيكون الشرف لنا انه نقدم لك مشروب على حسب اختيارك، بعده ندي الغداء. المنيو حق المشروبات اللي بنقدمها في هذه الرحله موجود بدليل المعلومات في حقنا المجله.
+373	corpus-6-test-corpus-26-test	SAN	أنت بتعيش هانا؟
+375	corpus-6-test-corpus-26-train	SAN	أين محل الهدايا؟
+386	corpus-6-test-corpus-26-test	SAN	أنا في الطريق السريع رقم واحد قريب خليج مورو.
+391	corpus-6-test-corpus-26-train	SAN	ممكن منبه، لو سمحت.
+398	corpus-6-test-corpus-26-dev	SAN	بالمناسبه، انا اسمي هيروشي ايجيما.
+401	corpus-6-test-corpus-26-dev	SAN	هذا القطار بيوقف عند ليك فورست، او ماشي؟
+408	corpus-6-test-corpus-26-train	SAN	معظم اليابانيين ياكلو اخطبوط و حبار.
+416	corpus-6-test-corpus-26-train	SAN	ممكن تقطع تذكرتين درجه ثانيه ل شيكاغو، لو سمحت؟
+419	corpus-6-test-corpus-26-train	SAN	انا سرت نيو يورك.
+423	corpus-6-test-corpus-26-train	SAN	ماهو رقم الرحله؟
+442	corpus-6-test-corpus-26-test	SAN	واحد ل نيو يورك، لو سمحت.
+446	corpus-6-test-corpus-26-train	SAN	لحوالي ايام قليله.
+447	corpus-6-test-corpus-26-train	SAN	الثاني على اليسار.
+471	corpus-6-test-corpus-26-dev	SAN	هذا الكرت، تمام؟
+488	corpus-6-test-corpus-26-train	SAN	هذا مكتب الاستقبال؟ به هانا عياده قريبه؟
+493	corpus-6-test-corpus-26-train	SAN	هل عتكفي العشره الدولار بالتكس؟
+503	corpus-6-test-corpus-26-train	SAN	هذا طعمه غريب.
+512	corpus-6-test-corpus-26-train	SAN	أيوة. راعي، شا ادي لك واحده.
+516	corpus-6-test-corpus-26-train	SAN	نص القاروره، لو سمحت.
+540	corpus-6-test-corpus-26-train	SAN	مش بالضبط. بس حاجه مش غاليه.
+548	corpus-6-test-corpus-26-train	SAN	أنت بتدور على حاجه؟
+551	corpus-6-test-corpus-26-train	SAN	أربع ليالي.
+553	corpus-6-test-corpus-26-train	SAN	أشتي شويه شرابات.
+565	corpus-6-test-corpus-26-train	SAN	ممكن ترخصه لأنه به شويه بقع؟
+571	corpus-6-test-corpus-26-train	SAN	رجال صدمني. وبعدها ركزت انه محفظتي أختفت.
+599	corpus-6-test-corpus-26-train	SAN	مش أنا متأكد اذا انا وكفت ملابس لرحله ثلاث أسابيع.
+612	corpus-6-test-corpus-26-train	SAN	طيب، نشتي نجرب النبيذ الابيض.
+631	corpus-6-test-corpus-26-train	SAN	اذا احد سأل عليا، قلهم ان انا شا اكون في الكافيه.
+632	corpus-6-test-corpus-26-train	SAN	أنا متأكد انه كان في الجيب الداخلي في الكوت حقي.
+641	corpus-6-test-corpus-26-test	SAN	ممكن أسم و رقم الجهه اللي بتتصلو بها؟
+643	corpus-6-test-corpus-26-train	SAN	عتدفع لي شركه الطيران لشروة احتياجاتي الشخصية؟
+650	corpus-6-test-corpus-26-train	SAN	أشتي غرفة مع حمام.
+652	corpus-6-test-corpus-26-dev	SAN	مابش حاجه خرجت من المكينه؟
+667	corpus-6-test-corpus-26-test	SAN	كان المفروض نطلع رحله ثمانيه اثنين صفر، اللي اقلعت قبل خمسطعشر دقيقه. تمام. اقدر ارتب لك لرحله ثانيه.
+673	corpus-6-test-corpus-26-train	SAN	به واحد فتح حقي الطرد.
+679	corpus-6-test-corpus-26-test	SAN	يوة، ولا به شي. قدك هانا، بكل الأحوال.
+680	corpus-6-test-corpus-26-train	SAN	طيران اليابان، رحلة رقم واحد اثنين ثلاثة.
+681	corpus-6-test-corpus-26-train	SAN	أحتاج اشتري شامبو.
+683	corpus-6-test-corpus-26-train	SAN	ممكن تقول لي لوما نوصل مركز سيفيك؟
+688	corpus-6-test-corpus-26-train	SAN	أين هو أقرب جزار؟
+703	corpus-6-test-corpus-26-train	SAN	أشتي اجلس لمده اربع ليالي من أول أغسطس.
+708	corpus-6-test-corpus-26-train	SAN	ما أسم هذيك الورده؟
+719	corpus-6-test-corpus-26-train	SAN	خمسطاعش سبتمبر هو يوم احترام المسنين.
+723	corpus-6-test-corpus-26-train	SAN	مابش صابون في غرفتي.
+741	corpus-6-test-corpus-26-dev	SAN	به أي شي اقدر اشله ل هذا الطفح؟
+742	corpus-6-test-corpus-26-train	SAN	ممكن تغير الصياغه للذي عادك قلتهن؟
+761	corpus-6-test-corpus-26-test	SAN	كم عيشل وقت الطلب؟
+773	corpus-6-test-corpus-26-train	SAN	ممكن تتحاكى بصوت اعلى شويه، لو سمحت؟
+777	corpus-6-test-corpus-26-train	SAN	كم عيشل وقت قبل ما يخرج؟
+786	corpus-6-test-corpus-26-train	SAN	أين هن معلومات الرياضة؟
+787	corpus-6-test-corpus-26-train	SAN	هذا المقاس، اللي انتو تسموة مقاس عادي، يفي بالغرض.
+793	corpus-6-test-corpus-26-test	SAN	أين عتنتهي الجوله، ومتى؟
+848	corpus-6-test-corpus-26-train	SAN	متى اغير القطار عسب اوصل ايدنبره؟
+855	corpus-6-test-corpus-26-train	SAN	أشتي اطرح هذا بصندوق امانات.
+859	corpus-6-test-corpus-26-train	SAN	أين شا اقدر اصرف زلطي؟
+897	corpus-6-test-corpus-26-train	SAN	ممكن نطرح أشيائنا، غير الحاجات الثمينه، في الباص؟
+902	corpus-6-test-corpus-26-train	SAN	بين اتساءل حق ماهي القيمه اللي بالفاتوره.
+917	corpus-6-test-corpus-26-train	SAN	أنا شا ادفع خمسين دولار.
+941	corpus-6-test-corpus-26-train	SAN	الان انا داري ما كان الغلط.
+957	corpus-6-test-corpus-26-dev	SAN	انا ايكيدا بتتحاكى. معي حجز بطاوله على الساعه ست ونص هذا المساء. بس انا اسف شا اوصل نص ساعه متأخر.
+1003	corpus-6-test-corpus-26-train	SAN	كم اقدر اشل اوقيه عطر من غير جمركه؟
+1007	corpus-6-test-corpus-26-train	SAN	فقط سياحه.
+1010	corpus-6-test-corpus-26-train	SAN	هذا تمام، لو سمحت وقعهن. كيف تشتيه يوقع؟
+1023	corpus-6-test-corpus-26-test	SAN	عاد باقي معاكم مقاعد للعرض حق الليله؟
+1036	corpus-6-test-corpus-26-train	SAN	اشتي واحده كبيره.
+1037	corpus-6-test-corpus-26-dev	SAN	انا رقدت على منبه ال ست وثلاثين.
+1038	corpus-6-test-corpus-26-train	SAN	أنا مصور مستقل.
+1047	corpus-6-test-corpus-26-train	SAN	التجار يقدرو يبدلو لك الدولارات؟
+1056	corpus-6-test-corpus-26-dev	SAN	معانا حوالي ثلاثين نوع من حمام الزيت.
+1062	corpus-6-test-corpus-26-train	SAN	انا معي لك الطلب الاسبوع الجاي.
+1074	corpus-6-test-corpus-26-train	SAN	شكرا. بكم هذا الجوانتي؟
+1098	corpus-6-test-corpus-26-train	SAN	انا لازم اخطى. شا اتصل بك بعدين.
+1100	corpus-6-test-corpus-26-train	SAN	أشتي شويه حفاظات.
+1122	corpus-6-test-corpus-26-train	SAN	اين كانين بينشأين اسماك الفراشة؟
+1124	corpus-6-test-corpus-26-train	SAN	ممكن تصرفهم لي دولارات، لو سمحت؟
+1139	corpus-6-test-corpus-26-train	SAN	احنا محظوظين. معاهم قطعه واحده مقاس اربعه في محل الاا موانا.
+1146	corpus-6-test-corpus-26-train	SAN	به اي ليموزين؟
+1163	corpus-6-test-corpus-26-dev	SAN	ممكن غطوه الصبح تتصل بي تقيمني الساعة خمس ونص؟
+1165	corpus-6-test-corpus-26-train	SAN	أفضل غرفة هادئه.
+1167	corpus-6-test-corpus-26-train	SAN	أشتي شويه مزيل طلاء الاظافر.
+1183	corpus-6-test-corpus-26-train	SAN	أشتي بطاريه.
+1193	corpus-6-test-corpus-26-test	SAN	به فرقة موسيقية لايف أو دي جي؟
+1194	corpus-6-test-corpus-26-train	SAN	اقدر استاجر معدات الغطس؟
+1199	corpus-6-test-corpus-26-dev	SAN	اشتي احجز غرفه ل اربع ليالي من ثنين وعشرين ديسمبر.
+1212	corpus-6-test-corpus-26-train	SAN	هذه الشنطه مناسبه لكل الاجواء؟
+1213	corpus-6-test-corpus-26-train	SAN	أشتي دونات، لو سمحت.
+1218	corpus-6-test-corpus-26-train	SAN	أشتي استاجر سيارة توماتيك ل يومين.
+1224	corpus-6-test-corpus-26-train	SAN	فاتتني رحلة عشرين حق سان فرانسيسكو.
+1234	corpus-6-test-corpus-26-train	SAN	بكم للمطار؟
+1235	corpus-6-test-corpus-26-train	SAN	هذا تمام. ايحين هو؟
+1276	corpus-6-test-corpus-26-train	SAN	كم عمر بنتك؟
+1312	corpus-6-test-corpus-26-train	SAN	عتقل لي على بعض الفنادق الرخاص والنظاف؟
+1321	corpus-6-test-corpus-26-train	SAN	عنقدر نحجز لك غرفه مريحه في قلعه قديمه قريب من ملعب جولف مشهور.
+1329	corpus-6-test-corpus-26-train	SAN	انا انصحك ب هذا لانه معمول ميه بالميه من مكونات طبيعيه.
+1361	corpus-6-test-corpus-26-dev	SAN	القطار بيوقف في بريغتون؟
+1369	corpus-6-test-corpus-26-train	SAN	ممكن تقل لي اين اقدر القى سياره اجره؟
+1375	corpus-6-test-corpus-26-train	SAN	تذكرتين درجه ثانيه، لو سمحت.
+1384	corpus-6-test-corpus-26-train	SAN	أشتي ارسل فاكس.
+1394	corpus-6-test-corpus-26-train	SAN	اشتي كاويه سفري.
+1396	corpus-6-test-corpus-26-train	SAN	أقدر اقدم لك أي شي؟
+1404	corpus-6-test-corpus-26-train	SAN	يومي؟ انا خايف اسال، لكن ما قصدك؟
+1418	corpus-6-test-corpus-26-train	SAN	اشتي واحد الذي يسع حجم الورق الطبيعي للرسايل بدون ما يتعطفين.
+1433	corpus-6-test-corpus-26-test	SAN	أيوة، بس مش قوي.
+1434	corpus-6-test-corpus-26-train	SAN	أنا اتحسس من القطط.
+1436	corpus-6-test-corpus-26-train	SAN	ايوة، ضروري يكون معك رخصه قياده و، ااه، ضروري يكون معك ترخيص من لجنه تاكسي وليموزين.
+1462	corpus-6-test-corpus-26-train	SAN	اتفضل، سيدي.
+1465	corpus-6-test-corpus-26-test	SAN	شكلي ما شاحصلش ماء حامي.
+1474	corpus-6-test-corpus-26-train	SAN	أشتي احجز غرفه الليله.
+1492	corpus-6-test-corpus-26-train	SAN	ماشي، هو بدون الضرايب وتكلفه الخدمه.
+1506	corpus-6-test-corpus-26-train	SAN	تشتي تجي تتسوق معي بعد الظهر؟
+1508	corpus-6-test-corpus-26-test	SAN	اهلا، الصدق هذا فستان حالي.
+1519	corpus-6-test-corpus-26-train	SAN	الان، اتصالك بدا. لو سمحت اتفضل.
+1525	corpus-6-test-corpus-26-train	SAN	ماهو رقم البوابه؟
+1539	corpus-6-test-corpus-26-train	SAN	ما هو التذكار النموذجي ل هاواي؟
+1556	corpus-6-test-corpus-26-train	SAN	أقدر اسير لاهاناك بمترو؟
+1560	corpus-6-test-corpus-26-train	SAN	أشتي مجفف شعر.
+1562	corpus-6-test-corpus-26-train	SAN	عنقدر نوصل اي بقعه واحنا بنتحاكى هكذا؟
+1585	corpus-6-test-corpus-26-train	SAN	انا من النرويج.
+1603	corpus-6-test-corpus-26-dev	SAN	من عشره ل حداعش لوسمحت.
+1619	corpus-6-test-corpus-26-train	SAN	بالتأكيد. خليني ابسره. انت اوتجعت بالمرجان، اعتقد.
+1620	corpus-6-test-corpus-26-train	SAN	فقط للاحتياط، اديلي رقم الشخص المسؤول.
+1622	corpus-6-test-corpus-26-train	SAN	به طريق سريع؟
+1630	corpus-6-test-corpus-26-train	SAN	ليش ما جاء الحفله امس؟
+1637	corpus-6-test-corpus-26-train	SAN	كان به حادث مروري.
+1650	corpus-6-test-corpus-26-train	SAN	أسف، شليت الرقم الغلط.
+1653	corpus-6-test-corpus-26-test	SAN	لو سمحت دخل رقم التعريف الشخصي.
+1663	corpus-6-test-corpus-26-dev	SAN	مقدرش اعدل الصوره.
+1668	corpus-6-test-corpus-26-train	SAN	واحد برجر بالجبنه و عصير برتقال، لو سمحت.
+1670	corpus-6-test-corpus-26-test	SAN	هوذا جوازي.
+1682	corpus-6-test-corpus-26-test	SAN	ليش، شكرا قوي. اوه، اقدر اطلع لا طالع؟
+1702	corpus-6-test-corpus-26-train	SAN	اقدر القى تذكرتين للمسرحيه الموسيقيه للجمعه الجايه؟
+1718	corpus-6-test-corpus-26-train	SAN	المسافر اللي هناك قال انه عيقدر يبدل المقاعد معك.
+1754	corpus-6-test-corpus-26-train	SAN	أقدر امدد جلستي؟
+1766	corpus-6-test-corpus-26-train	SAN	قول، هل به حاجه تستحق نبسرها قريب من هانا؟
+1768	corpus-6-test-corpus-26-dev	SAN	ماشي، اشتي استاجر نص مجموعة مضارب و جزمة.
+1782	corpus-6-test-corpus-26-train	SAN	ممكن تقول لي لمن تلتقي الشنطه الضايعه؟
+1788	corpus-6-test-corpus-26-train	SAN	ما بيسمو الحديقة الوطنية؟
+1791	corpus-6-test-corpus-26-train	SAN	معي خدش معلم.
+1792	corpus-6-test-corpus-26-dev	SAN	اين في مكان حالي للسياحه؟
+1800	corpus-6-test-corpus-26-train	SAN	ممكن شويه فواكه؟
+1834	corpus-6-test-corpus-26-train	SAN	اقدر اتغدى الان؟
+1837	corpus-6-test-corpus-26-train	SAN	اشتي اصرف هولا الدولارات.
+1867	corpus-6-test-corpus-26-train	SAN	أشتي تاكسي. انا في ساوث مين وليبرتي.
+1876	corpus-6-test-corpus-26-dev	SAN	بالتاكيد، تشتيه مجعد؟
+1878	corpus-6-test-corpus-26-train	SAN	مش هي تفاحه لكن هي فرسك.
+1903	corpus-6-test-corpus-26-train	SAN	شا ادي لك رشده. شلها للصيدليه.
+1927	corpus-6-test-corpus-26-train	SAN	معانا رحلات ثلاث مرات بالاسبوع، الثلوث، الجمعه، و السبت.
+1931	corpus-6-test-corpus-26-dev	SAN	هذا غالي، صح؟
+1948	corpus-6-test-corpus-26-train	SAN	ايوة، معانا هذا. احنا عنجهزه لك الان.
+1950	corpus-6-test-corpus-26-dev	SAN	عتقدر تمسك حقي الشنط للساعه ثلاث؟
+1951	corpus-6-test-corpus-26-train	SAN	لا، اشتي فقط ادخل.
+1954	corpus-6-test-corpus-26-dev	SAN	اقدر احجز اجر-سيارة هانا؟
+1968	corpus-6-test-corpus-26-train	SAN	انت امريكي؟
+1980	corpus-6-test-corpus-26-test	SAN	لهذا المكان، لو سمحت.
+1985	corpus-6-test-corpus-26-train	SAN	سيارتي موقفه.
+1988	corpus-6-test-corpus-26-train	SAN	أين هو ظل العيون؟
+1993	corpus-6-test-corpus-26-train	SAN	نشتي زووه هادئه، اذا امكن.
+1997	corpus-6-test-corpus-26-train	SAN	ذيه التاكسي فاضي؟
+1998	corpus-6-test-corpus-26-train	SAN	هذه محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	SAN	ايش من وقت المفروض اجي به؟
+2003	corpus-6-test-corpus-26-train	SAN	اشتي قاروره صغيره نبيذ ابيض.
+2005	corpus-6-test-corpus-26-train	SAN	اوه. اقدر أتغدى بعدين؟ ما بين احسش ان انا بخير الان.
+2025	corpus-6-test-corpus-26-train	SAN	في الواقع، معي لكم خبر. قد انا شا اتزوج.
+2033	corpus-6-test-corpus-26-train	SAN	اي بنطلونات ثانيه؟
+2035	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي برنامج؟
+2052	corpus-6-test-corpus-26-train	SAN	واحد اقتحم غرفتي ليله امس.
+2055	corpus-6-test-corpus-26-train	SAN	وريني السمكه اللي ابسرتها في كتاب الصور، لو سمحت.
+2083	corpus-6-test-corpus-26-train	SAN	ابسر التعليمات اللي فوق غلاف الاكل المفرغ من الهواء.
+2086	corpus-6-test-corpus-26-train	SAN	اشتي زلط ورقيه.
+2100	corpus-6-test-corpus-26-test	SAN	هو سرق محفظتي وجري بعيد.
+2119	corpus-6-test-corpus-26-train	SAN	مابش معك دروس تجريبيه؟
+2147	corpus-6-test-corpus-26-train	SAN	من اين اقدر اشتري طوابع البريد؟
+2148	corpus-6-test-corpus-26-train	SAN	انا من بريطانيا العظمى.
+2156	corpus-6-test-corpus-26-train	SAN	لازم اسال مرتي على هذا.
+2161	corpus-6-test-corpus-26-train	SAN	اشتي ترجع لي الزلط حق هذا.
+2179	corpus-6-test-corpus-26-train	SAN	به هناك كبينه اتصالات قبال البنك ذياك.
+2180	corpus-6-test-corpus-26-train	SAN	انا شا اوصل على تسعه مارس وارح لي على اربعطعش.
+2205	corpus-6-test-corpus-26-train	SAN	هذا شويه غالي، ما رايك؟
+2235	corpus-6-test-corpus-26-train	SAN	معك البقيه؟
+2236	corpus-6-test-corpus-26-train	SAN	اين هي محطه الباص؟
+2238	corpus-6-test-corpus-26-train	SAN	بيعجبك الحالي؟
+2302	corpus-6-test-corpus-26-train	SAN	انت تتكلم؟
+2306	corpus-6-test-corpus-26-train	SAN	نفس الشي لي، لو سمحت.
+2318	corpus-6-test-corpus-26-train	SAN	طلبي ماقد وصلش.
+2324	corpus-6-test-corpus-26-train	SAN	به ينابيع حاميه ملان.
+2329	corpus-6-test-corpus-26-train	SAN	لو سمحت اصرف خمسين الف ين ل دولار امريكي.
+2338	corpus-6-test-corpus-26-train	SAN	هذا عادي عندي. اصلا اشتي اشقر.
+2347	corpus-6-test-corpus-26-test	SAN	اين اقدر استأجر أدوات تزلج وجزمات؟
+2353	corpus-6-test-corpus-26-dev	SAN	او نسيت حقنا المشروبات؟
+2368	corpus-6-test-corpus-26-test	SAN	عتقدر ترسله لي لعنواني في اليابان ب بريد جمع الطرود الدوليه؟
+2381	corpus-6-test-corpus-26-train	SAN	اشتي قلص نبيذ احمر.
+2389	corpus-6-test-corpus-26-train	SAN	الا اذا هو حقك، يا سيدي. ههههه، هي الا نكته.
+2401	corpus-6-test-corpus-26-train	SAN	طبعا. كيف اقدر اخدمك؟
+2412	corpus-6-test-corpus-26-dev	SAN	معانا بيره، ويسكي، براندي، جين، فودكا و خمر.
+2425	corpus-6-test-corpus-26-train	SAN	البطاقة. ها، صح. الجواز ينفع؟
+2428	corpus-6-test-corpus-26-train	SAN	رقم غرفتي ثلاثه ستة وعشرين. عتقدر تشل الغسيل حقي؟
+2440	corpus-6-test-corpus-26-train	SAN	شا ابسر اذا اي واحد من هولا عيضبط.
+2441	corpus-6-test-corpus-26-train	SAN	اشتي كتلي.
+2445	corpus-6-test-corpus-26-train	SAN	ادي لي شويه جبن مبشور.
+2462	corpus-6-test-corpus-26-train	SAN	عيقدرين يوقعين الاداه نظاف ل غطوة الصبح؟
+2476	corpus-6-test-corpus-26-train	SAN	ممكن تخليه يرجع يتصل بي؟
+2490	corpus-6-test-corpus-26-train	SAN	طيب ليش؟
+2492	corpus-6-test-corpus-26-train	SAN	عفوا. به مكتبه قريبه من هانا؟
+2496	corpus-6-test-corpus-26-test	SAN	اعتقد انك غلطت. الغرفه مدفوعه. معي الفاتوره.
+2505	corpus-6-test-corpus-26-train	SAN	الباص هاناك.
+2516	corpus-6-test-corpus-26-train	SAN	اشتي لفتين من ايزو ميه، فلم ملون، وسته وثلاثين لقطه، لو سمحت.
+2519	corpus-6-test-corpus-26-train	SAN	اشتي اصرف هذا الشيك ب سبعين دولار.
+2521	corpus-6-test-corpus-26-train	SAN	اشتي اشتري طوابع لعشره بطاقات بريديه لليابان، لو سمحت.
+2528	corpus-6-test-corpus-26-train	SAN	به اي بنك قريب من المحطه؟
+2531	corpus-6-test-corpus-26-train	SAN	انا خايف او هذه غلطه بالفاتوره.
+2552	corpus-6-test-corpus-26-test	SAN	انا هانا.
+2557	corpus-6-test-corpus-26-train	SAN	واحد برجر بالجبنه، لو سمحت.
+2578	corpus-6-test-corpus-26-test	SAN	مستحيل انك تقدر تعمل اي تصميم بدون الكمبيوتر.
+2591	corpus-6-test-corpus-26-train	SAN	اجري.
+2601	corpus-6-test-corpus-26-train	SAN	به شط هانا في الفنيليه حقي. بين افكر لو تقدر تخيطه لي، لو سمحت؟
+2613	corpus-6-test-corpus-26-dev	SAN	كم الايجار الى مانشستر؟
+2643	corpus-6-test-corpus-26-train	SAN	عتقدر تسلفني كيبل معزز؟
+2644	corpus-6-test-corpus-26-train	SAN	من اين شاقدر اشتري حصره للساحل؟
+2670	corpus-6-test-corpus-26-test	SAN	اذا، اديلي حجز جديد لو سمحت.
+2676	corpus-6-test-corpus-26-train	SAN	اديلي ذيك لحم الخنزير، بس مش ثخين مثل هذاك*.
+2678	corpus-6-test-corpus-26-train	SAN	احنا عنجي على سبع.
+2687	corpus-6-test-corpus-26-train	SAN	لوما ابسر الاسعار بهذا الرخص، يبان سخيف انك تشتري اي شي في اليابان.
+2690	corpus-6-test-corpus-26-train	SAN	حقي التسجيلات انسرقين، والكل.
+2695	corpus-6-test-corpus-26-train	SAN	ايسكريم بالفانيليا ابو بسكت، لو سمحت.
+2702	corpus-6-test-corpus-26-train	SAN	أنا معك. قدوة الان طبيعي قوي.
+2704	corpus-6-test-corpus-26-train	SAN	اوبه من الحفره، اوبه من الحفره، وبعدين قريب من الابواب، لو سمحت.
+2707	corpus-6-test-corpus-26-train	SAN	شا احتاج بطاقة الائتمان.
+2708	corpus-6-test-corpus-26-dev	SAN	هوذا هاه الرقم.
+2715	corpus-6-test-corpus-26-test	SAN	قل لي على بقعه حاليه ب هذا النهر، لو سمحت.
+2726	corpus-6-test-corpus-26-train	SAN	لو سمحت اديلي تقرير عن الحادث.
+2729	corpus-6-test-corpus-26-train	SAN	لا، شكرا بس الان.
+2734	corpus-6-test-corpus-26-train	SAN	تمام، لو سمحت اجلس على الخط. السيد ناكاجيما، السيده سايتو سكلهم ما بيجاوبو على الاتصال؟ تشتيني اتصل لهم بعدين؟
+2736	corpus-6-test-corpus-26-dev	SAN	يمكن، لكن ضروري نوزنهن مفرقات.
+2747	corpus-6-test-corpus-26-train	SAN	شكله نادر قوي شويه.
+2748	corpus-6-test-corpus-26-train	SAN	اين استلام الشنط حق رحله سبعه صفر ثلاثه؟
+2760	corpus-6-test-corpus-26-train	SAN	به حاجه غلط ب شنطتك.
+2765	corpus-6-test-corpus-26-train	SAN	عيخرب ذيه؟
+2772	corpus-6-test-corpus-26-train	SAN	لا، شكرا. احسن لو ما ازيدش اشرب بعد الان.
+2808	corpus-6-test-corpus-26-train	SAN	لو سمحت قل لي على بعض الشوارع المريحه للتسوق.
+2811	corpus-6-test-corpus-26-dev	SAN	هذا الباص بيسير ل فندق هيلتون؟
+2816	corpus-6-test-corpus-26-train	SAN	الان، هذه اللوحه قوي مميزة. هيه ل تسوروتارو كاتاوكا. معروف ب الرسام العالمي.
+2850	corpus-6-test-corpus-26-train	SAN	انا اقدر الموسيقى الكلاسيكيه تقدير عظيم.
+2851	corpus-6-test-corpus-26-dev	SAN	اقدر اعزمك عشاء في اي وقت؟
+2862	corpus-6-test-corpus-26-train	SAN	تمام. ما اسم جهة الاتصال حقك وكم رقمها، لو سمحت.
+2871	corpus-6-test-corpus-26-train	SAN	عفوا. خليني اخرج، لو سمحت.
+2878	corpus-6-test-corpus-26-train	SAN	ممكن تتصل بموظف بيتحاكى ياباني؟
+2898	corpus-6-test-corpus-26-train	SAN	احنا ب نزور اقاربنا اكثر الاحيان.
+2939	corpus-6-test-corpus-26-train	SAN	ميكي هاياكاوا. هذه غرفة سبعه صفر اثنين.
+2945	corpus-6-test-corpus-26-train	SAN	المفروض ان انا اجلس الليله هانا، اولا ماشي؟ عتقدر تساعدني احجز غرفه فندقيه؟
+2947	corpus-6-test-corpus-26-train	SAN	ما ينفعش يكون طويل. خمسطاعشر دقيقة بالكثير.
+2960	corpus-6-test-corpus-26-train	SAN	ممكن تقل لي كم هي تكلفه الاتصال؟
+2964	corpus-6-test-corpus-26-train	SAN	طيب، ممكن تقل لها ان انا اتصلت لو سمحت؟ شا اتصل لها بعدين مره ثانية.
+2973	corpus-6-test-corpus-26-train	SAN	به جولة سياحية الصبح؟
+2982	corpus-6-test-corpus-26-train	SAN	انت بتصرف عملات اجنبيه؟
+2983	corpus-6-test-corpus-26-test	SAN	ميزانيتنا حوالي خمسين دولار بالمجموع ل ثلاثه اشخاص.
+2990	corpus-6-test-corpus-26-train	SAN	من اين شا اقدر اشتري لفه فلم؟
+2995	corpus-6-test-corpus-26-train	SAN	معك يبره يابانيه؟
+3001	corpus-6-test-corpus-26-test	SAN	اشتي ملابس سباحه صغيره، لو سمحت.
+3016	corpus-6-test-corpus-26-train	SAN	اشتي اسجل شنطي.
+3029	corpus-6-test-corpus-26-train	SAN	انا الانسه كاوزو في غرفه سطاعشر حداعش.
+3030	corpus-6-test-corpus-26-train	SAN	عفوا.
+3038	corpus-6-test-corpus-26-dev	SAN	مابش شي.
+3040	corpus-6-test-corpus-26-train	SAN	ماهو الاهم بالنسبه لكم انتو اليابانيين، يوم راس السنه او يوم الكريسمس؟
+3041	corpus-6-test-corpus-26-test	SAN	رقم مقعدك هو اثنين وثلاثين إيه. بعدين، امشي طوالي لنهاية هذا الممر. المقعد اللي جمب الطاقه.
+3073	corpus-6-test-corpus-26-train	SAN	دقيقه، لو سمحت.
+3109	corpus-6-test-corpus-26-train	SAN	لو سمحت عبي تقرير المفقودات.
+3111	corpus-6-test-corpus-26-dev	SAN	انا مفهمش امريكي، انا اتحاكى انجليزي بريطاني.
+3120	corpus-6-test-corpus-26-train	SAN	من امس.
+3129	corpus-6-test-corpus-26-train	SAN	به تامين يشمل الصدمات والمسئولية القانونية.
+3134	corpus-6-test-corpus-26-test	SAN	ضيعت اللصقه حق الاستلام حقي.
+3152	corpus-6-test-corpus-26-train	SAN	معك اي بروشات بتصاميم حاليه؟
+3155	corpus-6-test-corpus-26-train	SAN	انا بين اتصل لك من كشك عام في ماسي.
+3170	corpus-6-test-corpus-26-test	SAN	هذولا كبار قوي.
+3176	corpus-6-test-corpus-26-train	SAN	كم قيمه الموقف بالساعه؟
+3179	corpus-6-test-corpus-26-train	SAN	سيداتي وسادتي، في رحلتنا اليوم، معانا حضور يابانيين تقدرو تتعرفو عليهم بالاوسمه اللذي هم لابسين لها. اذا تعرفو احد يحتاج اي مساعده باللغه، لو سمحتو قولو لنا.
+3182	corpus-6-test-corpus-26-train	SAN	هل به اي فتره فنيه محدده تفضلها؟
+3185	corpus-6-test-corpus-26-train	SAN	لو سمحت جرب مره ثانيه.
+3195	corpus-6-test-corpus-26-train	SAN	امشي طوالي على طول النهر حوالي نص ميل. انت عتوصل للحديقه.
+3201	corpus-6-test-corpus-26-dev	SAN	ماشي، هن يتحملين قوي.
+3207	corpus-6-test-corpus-26-train	SAN	حاضر، شا ارسلهن لك ل لاس فيغاس.
+3209	corpus-6-test-corpus-26-train	SAN	بين ادور على فنايل للجري.
+3220	corpus-6-test-corpus-26-train	SAN	تشتي اي شي تشربه من البار؟
+3222	corpus-6-test-corpus-26-dev	SAN	هذا الطريق لو سمحت. اطلع الاصنصير.
+3238	corpus-6-test-corpus-26-train	SAN	احسن لك سير بقطار ثمانيه وثلاثين.
+3267	corpus-6-test-corpus-26-test	SAN	به هانا سينيما قريبه؟
+3269	corpus-6-test-corpus-26-train	SAN	الان هو موسم المحار، عيوقعين حاليات.
+3279	corpus-6-test-corpus-26-train	SAN	اشتي ساعه يد ثانية.
+3284	corpus-6-test-corpus-26-train	SAN	شا اخرج حوالي الساعه تسع بالعشيه.
+3285	corpus-6-test-corpus-26-train	SAN	قدوة متاخر. ضروري اخطى.
+3289	corpus-6-test-corpus-26-train	SAN	ماقد استخدمت خدمه الغسيل حقك. ممكن تبسره مره ثانيه؟
+3292	corpus-6-test-corpus-26-train	SAN	اشتي شاهي، لو سمحت.
+3295	corpus-6-test-corpus-26-train	SAN	ماشي، مابش.
+3304	corpus-6-test-corpus-26-train	SAN	هذه اخر نقطه؟
+3318	corpus-6-test-corpus-26-train	SAN	هيا نتصله.
+3323	corpus-6-test-corpus-26-train	SAN	ذيه البسباس فح؟
+3334	corpus-6-test-corpus-26-train	SAN	من اين اقدر الاقي باص السياحه؟
+3335	corpus-6-test-corpus-26-train	SAN	ايوة، اشتي ابسر معالم المدينه.
+3351	corpus-6-test-corpus-26-test	SAN	به هانا سواح ملان حول العماره، اللي شكلهم اتجمعو عسب يبسرو ما بيحصل.
+3359	corpus-6-test-corpus-26-train	SAN	شكرا لكم على ضيافتكم.
+3375	corpus-6-test-corpus-26-train	SAN	الامانه احسن سيايه.
+3385	corpus-6-test-corpus-26-train	SAN	تقدر تقومني الساعه ست، لو سمحت؟
+3392	corpus-6-test-corpus-26-train	SAN	كم عتكلف ل نص يوم؟
+3397	corpus-6-test-corpus-26-train	SAN	انا كنجي.
+3402	corpus-6-test-corpus-26-train	SAN	تعرف اي بقع حاليه ابسرها في شيكاغو؟
+3404	corpus-6-test-corpus-26-train	SAN	طيب، اذا انتو الاثنين اصريتو، شا اجي معاكم.
+3413	corpus-6-test-corpus-26-dev	SAN	عتبدل هذا بواحد ثاني من نفس النوع، لو سمحت؟
+3446	corpus-6-test-corpus-26-train	SAN	اشتي افعل حجز ل ثلاث ونص مساءا.
+3489	corpus-6-test-corpus-26-train	SAN	صندوق الامانات، لو سمحت.
+3502	corpus-6-test-corpus-26-train	SAN	لو سمحت اختار خمره مناسبه.
+3512	corpus-6-test-corpus-26-test	SAN	اشتي مكان صغير.
+3522	corpus-6-test-corpus-26-train	SAN	ضروري ادفع حق البترول؟
+3557	corpus-6-test-corpus-26-train	SAN	سارق. امسكه.
+3562	corpus-6-test-corpus-26-test	SAN	احنا مراعيين ل اصحابنا يجو.
+3572	corpus-6-test-corpus-26-train	SAN	لو سمحت اديلي فكه.
+3619	corpus-6-test-corpus-26-test	SAN	مجعد قوي، لو سمحت.
+3628	corpus-6-test-corpus-26-train	SAN	هي صغيره و حاليه.
+3638	corpus-6-test-corpus-26-test	SAN	ما هو الاوبرا حق اليوم؟
+3640	corpus-6-test-corpus-26-train	SAN	مقلي، لو سمحت.
+3644	corpus-6-test-corpus-26-train	SAN	الغسيل حقي ما قد رجعش للان.
+3649	corpus-6-test-corpus-26-train	SAN	بالمناسبة، انت فاضي السبت الجاي؟
+3667	corpus-6-test-corpus-26-train	SAN	طيب، اذا، يمكن نوقع جمعه سابرين.
+3669	corpus-6-test-corpus-26-train	SAN	عاملتني وكأن انا كنت شحات.
+3683	corpus-6-test-corpus-26-train	SAN	بين ابسر. والكل، تقدر تساعدني بمشكله ثانيه؟
+3685	corpus-6-test-corpus-26-train	SAN	ممكن تطرح عدسات موصوفه طبيا ل هولا النظارات الشمسية؟
+3698	corpus-6-test-corpus-26-dev	SAN	شا اشل اثنين من هولا.
+3705	corpus-6-test-corpus-26-train	SAN	كلب حالي. ما فصيلته؟
+3721	corpus-6-test-corpus-26-train	SAN	نكعت الشوكه حقي. لو سمحت ادي واحده غيرها.
+3742	corpus-6-test-corpus-26-train	SAN	كان ممتع.
+3747	corpus-6-test-corpus-26-train	SAN	اكيد. اخطى طوالي ولف يمين عند الركن الثالث. عتلاقيه على يمينك.
+3765	corpus-6-test-corpus-26-dev	SAN	عندك فلم او شرايح ملونه؟
+3780	corpus-6-test-corpus-26-train	SAN	تعرف كاثي؟ هذه حفله عيدميلادها.
+3789	corpus-6-test-corpus-26-train	SAN	عندك تدرجات الالوان؟
+3792	corpus-6-test-corpus-26-dev	SAN	اقدر ادفع ب شيك سياحي؟
+3806	corpus-6-test-corpus-26-train	SAN	لكن، هو، يا رجال، كيف اعرف انه هذا هو الصدق؟
+3825	corpus-6-test-corpus-26-train	SAN	اقدر احصله بدون ضرايب؟
+3829	corpus-6-test-corpus-26-train	SAN	مقدرش اطرح شنطي تحت الكرسي. تقدر تخليهن عندك، لو سمحت؟
+3835	corpus-6-test-corpus-26-train	SAN	ممكن تطرح لي الشنطه في شنطة السيارة؟
+3847	corpus-6-test-corpus-26-train	SAN	انا شا اخرج الان، يعني شا اشله.
+3856	corpus-6-test-corpus-26-train	SAN	لو سمحت ارسل حد لطالع يشل شنطي على ست و ثلاثين.
+3858	corpus-6-test-corpus-26-dev	SAN	اشتي خريطه حق سان فرانسيسكو والمنطقه اللي حولها.
+3859	corpus-6-test-corpus-26-train	SAN	ايش نوع الخبز اللي عندك؟
+3860	corpus-6-test-corpus-26-train	SAN	اين هو الاصنصير؟
+3861	corpus-6-test-corpus-26-train	SAN	به احد يقدر يعزف بيانو؟
+3872	corpus-6-test-corpus-26-test	SAN	ايش من محطه المفروض اوصل لها عسب اسير لامباير ستايت بيلدينج؟
+3887	corpus-6-test-corpus-26-test	SAN	الميزانيه تحت الالف الدولار.
+3892	corpus-6-test-corpus-26-train	SAN	شكرا لك، بس اعتقد انه مابش وقت عسب اجلس ليلتين. ممكن تحجز لي غرفه مزدوجه في هذاك الفندق ل ليله اثناعشر مارس بس؟
+3900	corpus-6-test-corpus-26-dev	SAN	اقدر احجز غرفه مزدوجه تطل على المحيط؟
+3920	corpus-6-test-corpus-26-train	SAN	عادوة ماقد قررناش.
+3928	corpus-6-test-corpus-26-train	SAN	صاحبي ادرب وعسف كاحله.
+3936	corpus-6-test-corpus-26-train	SAN	شا اجرب شويه شربات.
+3961	corpus-6-test-corpus-26-train	SAN	به هانا مطعم تايلندي قريب؟
+3972	corpus-6-test-corpus-26-train	SAN	هو على اليمين بعد العماره الطويلة. يعني، ارجع من الطريق اللي جيت منه لوما توصل عند اشاره المرور. بعدين، لف يسار.
+3974	corpus-6-test-corpus-26-train	SAN	لازم الحق طياره ل لوس انجلس بكره الصبح بدري.
+3988	corpus-6-test-corpus-26-train	SAN	"ذاحين شا اقدر انصحك وانا واثق ب ""جولة مدينه سان فرانسيسكو"" هذه. هذا يدي لك الخطوط العريضة حق سان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	SAN	اشتي احصل ضمان.
+3995	corpus-6-test-corpus-26-test	SAN	جي نجرب الضغط البارد عسب يسير الوجع.
+4013	corpus-6-test-corpus-26-train	SAN	تشتي تشتري فستان.
+4016	corpus-6-test-corpus-26-train	SAN	بكم التاكسي للفندق؟
+4017	corpus-6-test-corpus-26-train	SAN	أين هو الحمام؟
+4034	corpus-6-test-corpus-26-train	SAN	هل بيكلف اي شي عسب ادخل لهذه العماره؟
+4036	corpus-6-test-corpus-26-train	SAN	اعملها بطريقتك.
+4082	corpus-6-test-corpus-26-test	SAN	بين ادور على شي انيق.
+4104	corpus-6-test-corpus-26-train	SAN	الطاقه حانبه.
+4109	corpus-6-test-corpus-26-dev	SAN	ايش من جهه هو في يونيون سكوير؟
+4119	corpus-6-test-corpus-26-train	SAN	نص وقيه من شانيل رقم خمسه، لو سمحت.
+4129	corpus-6-test-corpus-26-train	SAN	ما رايك ب قهوة؟
+4143	corpus-6-test-corpus-26-train	SAN	احتاج تذكره؟
+4182	corpus-6-test-corpus-26-train	SAN	حوالي كم تكلفه الخدمه؟
+4185	corpus-6-test-corpus-26-train	SAN	كم هو بعيد من هانا؟
+4187	corpus-6-test-corpus-26-train	SAN	كريمه وسكر؟
+4193	corpus-6-test-corpus-26-train	SAN	به معك اي تخفيض للاعضاء؟
+4219	corpus-6-test-corpus-26-train	SAN	به سوبر اكسبريس على تسع ونص؟
+4221	corpus-6-test-corpus-26-train	SAN	خليني افحص زيت البريك والمكينه. شكل مكينتك قديه خاربه.
+4224	corpus-6-test-corpus-26-train	SAN	ما كانتش غلطتي.
+4262	corpus-6-test-corpus-26-train	SAN	مابش كهرباء.
+4263	corpus-6-test-corpus-26-train	SAN	شا ابلغ هذا للشرطه.
+4269	corpus-6-test-corpus-26-train	SAN	عيدفع كل واحد على مشروبه؟
+4275	corpus-6-test-corpus-26-train	SAN	ب اي بقعه من ثلاثين الى خمسين دولار بالليله.
+4278	corpus-6-test-corpus-26-train	SAN	لو سمحت صلح ذيه.
+4284	corpus-6-test-corpus-26-train	SAN	في ليله راس السنه. وفي مناسبات خاصه مثل حفلات الزفاف، حفلات التكريم و العزاء.
+4285	corpus-6-test-corpus-26-test	SAN	زيادة خردل، لو سمحت.
+4305	corpus-6-test-corpus-26-train	SAN	ليش ما تدي لها هديه؟
+4321	corpus-6-test-corpus-26-test	SAN	ايش من فلم تشتي؟
+4324	corpus-6-test-corpus-26-test	SAN	هذه عشرين وادي لي صرف اثنين دولار، لو سمحت.
+4326	corpus-6-test-corpus-26-train	SAN	هي ضربتني بالجمب.
+4335	corpus-6-test-corpus-26-train	SAN	شا اقدر امر على ثنتين.
+4341	corpus-6-test-corpus-26-train	SAN	هل هذلا الشنط من رحله جيه إيه إل صفر واحد؟
+4346	corpus-6-test-corpus-26-train	SAN	هذه رحلتي الاولى لباريس.
+4348	corpus-6-test-corpus-26-train	SAN	تقدر تخمن التكلفه قبل ما تبدا تشتغل عليه؟
+4358	corpus-6-test-corpus-26-train	SAN	ادخل، لو سمحت.
+4364	corpus-6-test-corpus-26-test	SAN	رحله المشي الطويل حقنا المفروض توقع ممتعه قوي.
+4365	corpus-6-test-corpus-26-train	SAN	من اين نطلع للقارب؟
+4373	corpus-6-test-corpus-26-train	SAN	مابش معانا شنطه ل هذه الكميه لهذا شا اطرحهن في علاقيه بلاستيك كبيره.
+4374	corpus-6-test-corpus-26-train	SAN	اشتي العب تنس.
+4375	corpus-6-test-corpus-26-train	SAN	به عصير اناناس، برتقال و طماط.
+4377	corpus-6-test-corpus-26-train	SAN	الجهه اليسار ل هذا الدور، قريب من الدرج الكهربائي.
+4382	corpus-6-test-corpus-26-test	SAN	ايش بيعرضو اليوم بصاله الاحتفالات؟
+4409	corpus-6-test-corpus-26-train	SAN	تمانع لو تبسر فلم ثاني؟
+4418	corpus-6-test-corpus-26-train	SAN	لو سمحت اصرف ذيه الشيك السياحي ل كاش.
+4432	corpus-6-test-corpus-26-dev	SAN	اشتي نفس الكورس ذيه غطوه، لو سمحت.
+4450	corpus-6-test-corpus-26-train	SAN	شا اقدر ادي لك اجابه احسن لهذا بعد عدد من العروضات.
+4451	corpus-6-test-corpus-26-test	SAN	اشتي هديه لذكرى سنوية.
+4464	corpus-6-test-corpus-26-train	SAN	ايش من عروض موسيقيه بتنعرض الان؟
+4475	corpus-6-test-corpus-26-train	SAN	معك مرايه؟
+4478	corpus-6-test-corpus-26-dev	SAN	عفوا، لكن شكلي ضعت. عتقدر تساعدني؟
+4479	corpus-6-test-corpus-26-train	SAN	شا اشل هذا، لو سمحت.
+4497	corpus-6-test-corpus-26-train	SAN	ما تقدرش تدي العاب ناريه لداخل كندا.
+4501	corpus-6-test-corpus-26-train	SAN	ايش من طباخه رائعه هي زوجتك.
+4503	corpus-6-test-corpus-26-train	SAN	تحتاج اي مساعده؟
+4505	corpus-6-test-corpus-26-train	SAN	ممكن تحجز لي تاكسي ل ست الصبح بكره، لو سمحت؟
+4510	corpus-6-test-corpus-26-train	SAN	ايش تشتي ب دخلتك؟
+4540	corpus-6-test-corpus-26-test	SAN	هل به محل ملابس قريب من هانا؟
+4549	corpus-6-test-corpus-26-train	SAN	هذا البقعه ملان ناس، صح؟
+4558	corpus-6-test-corpus-26-train	SAN	عفوا. عيوقعين جاهزات في حوالي خمس دقايق.
+4588	corpus-6-test-corpus-26-train	SAN	وقعت لي عصبه في رقبتي وانا راقد.
+4594	corpus-6-test-corpus-26-train	SAN	تمام، مابش مشكله. ممكن ابسر جوازك؟
+4615	corpus-6-test-corpus-26-test	SAN	مابش معي زلط.
+4624	corpus-6-test-corpus-26-train	SAN	في اي وقت المفروض اكون بالمحطه؟
+4630	corpus-6-test-corpus-26-train	SAN	به هانا مطاعم خيرات.
+4635	corpus-6-test-corpus-26-train	SAN	هو جمب غرفة الامانات.
+4640	corpus-6-test-corpus-26-train	SAN	اتشرفت بمعرفتك.
+4644	corpus-6-test-corpus-26-test	SAN	به جوله بعد الظهر؟
+4648	corpus-6-test-corpus-26-test	SAN	انا مع اصحابي.
+4653	corpus-6-test-corpus-26-train	SAN	استمتعت ب جلستي. شكرا لك.
+4654	corpus-6-test-corpus-26-train	SAN	الساحل تحت تماما. ما احلى المنظر.
+4658	corpus-6-test-corpus-26-train	SAN	شكرا لش حين راعيتي، انسه مكجواير. هوذا هوه. اتفضلي، لو سمحتي.
+4662	corpus-6-test-corpus-26-train	SAN	معك صوره بطاقه؟
+4671	corpus-6-test-corpus-26-train	SAN	سبعه، لو سمحت.
+4674	corpus-6-test-corpus-26-train	SAN	اشتي ارسل هذا للمغسله. ايحين عيوقع جاهز؟
+4685	corpus-6-test-corpus-26-train	SAN	معي بنطلون مخطط.
+4699	corpus-6-test-corpus-26-train	SAN	ايوة. به شنطه حق واحد ثاني وصلت لغرفتي الان. ممكن تبسر كيف، لو سمحت؟
+4714	corpus-6-test-corpus-26-train	SAN	اقدر احصلها مشروحه بتفاصيل اكثر؟
+4729	corpus-6-test-corpus-26-train	SAN	رقدت سوا؟
+4733	corpus-6-test-corpus-26-train	SAN	ممكن تضغط زر التصوير؟
+4740	corpus-6-test-corpus-26-train	SAN	اثنين مفاتيح، لو سمحت.
+4742	corpus-6-test-corpus-26-dev	SAN	اشتي لمبه.
+4744	corpus-6-test-corpus-26-train	SAN	هو في نهايه الممر.
+4773	corpus-6-test-corpus-26-dev	SAN	اشتي مفكره.
+4788	corpus-6-test-corpus-26-train	SAN	عنسير بباص؟
+4790	corpus-6-test-corpus-26-train	SAN	ف انت قلت انك عتسافر غطوة طوكيو؟
+4795	corpus-6-test-corpus-26-test	SAN	خليني ارقد للساعه تسع.
+4801	corpus-6-test-corpus-26-train	SAN	انا لازم احول ل اي دبليو واحد صفر صفر. هلو هو ممكن؟
+4813	corpus-6-test-corpus-26-train	SAN	كيف لعبتك هذا الايام؟
+4814	corpus-6-test-corpus-26-dev	SAN	بين احس كتمه في صدري.
+4826	corpus-6-test-corpus-26-train	SAN	مابش مشكله. اذا جيت ب خمسه سبتمبر، عتقدر تستمتع ب عرض الفلم العلمي لانه معانا يوم مفتوح خاص في اول جمعه من كل شهر.
+4828	corpus-6-test-corpus-26-train	SAN	معك اي جوله ثانيه؟
+4836	corpus-6-test-corpus-26-train	SAN	تمام، تخفيض خمسه بالميه. هل هذا سابر؟
+4845	corpus-6-test-corpus-26-train	SAN	انا ساير باريس.
+4848	corpus-6-test-corpus-26-train	SAN	مشو اخر موديل، اولا؟
+4857	corpus-6-test-corpus-26-train	SAN	قدوة محدد ل ثمان و ثلاثين في الليل حسب التوقيت المحلي.
+4889	corpus-6-test-corpus-26-train	SAN	شل هذا المبنى معانا، لو سمحت.
+4894	corpus-6-test-corpus-26-train	SAN	تمام. شا اشل طايه متوسطه و كره رز.
+4901	corpus-6-test-corpus-26-train	SAN	كيف هذا اللوك؟
+4924	corpus-6-test-corpus-26-train	SAN	اشتي ابسر هذاك في الطاقه، لو سمحت.
+4945	corpus-6-test-corpus-26-train	SAN	مستحيل. احنا في عطله. انا ارفض الجلسه بالفندق ونبسر البيسبول في التلفزيون. اشتي اسير ابسر اللعب.
+4957	corpus-6-test-corpus-26-train	SAN	اقدر اعسه؟
+4974	corpus-6-test-corpus-26-train	SAN	تقدر تجي هانا تصلحه؟
+4983	corpus-6-test-corpus-26-train	SAN	اشتي شويه الياف اصطناعيه.
+4985	corpus-6-test-corpus-26-train	SAN	انا اسمي تارو تانكا. معي حجز.
+4990	corpus-6-test-corpus-26-train	SAN	اشتي شويه كريم مطهر.
+5004	corpus-6-test-corpus-26-train	SAN	اشتي جمبر ابو اكمام طوال.
+5009	corpus-6-test-corpus-26-train	SAN	سرقت من شنطتي.
+5017	corpus-6-test-corpus-26-train	SAN	شكل ان طريقنا بيتقاطع خيرات مرات، صح؟
+5035	corpus-6-test-corpus-26-train	SAN	ممكن ابسر المنيو مرة ثانية؟
+5045	corpus-6-test-corpus-26-train	SAN	عادهن شكلهن خضر شوية.
+5082	corpus-6-test-corpus-26-train	SAN	كم؟
+5083	corpus-6-test-corpus-26-train	SAN	فراولة، لوسمحت.
+5090	corpus-6-test-corpus-26-dev	SAN	ماونت فوجي هي اعلى قمه ب ثلاثه الف وسبعميه وسته وسبعين متر.
+5091	corpus-6-test-corpus-26-train	SAN	ماشي، عادو. به خيرات للإختيار منهم.
+5098	corpus-6-test-corpus-26-dev	SAN	اشتي شوية كريم ليلي.
+5104	corpus-6-test-corpus-26-test	SAN	هو بين المخبز والجزار.
+5116	corpus-6-test-corpus-26-train	SAN	ممكن تقصر الأكمام؟
+5117	corpus-6-test-corpus-26-train	SAN	اسف مابش ملعب غولف هانا.
+5121	corpus-6-test-corpus-26-train	SAN	ممكن توريني ثاني خاتم من اليسار؟
+5124	corpus-6-test-corpus-26-train	SAN	ممكن تقوله يتصلي؟
+5138	corpus-6-test-corpus-26-train	SAN	حاولت اتصل اتصال دولي. قد وصلت؟
+5148	corpus-6-test-corpus-26-test	SAN	هذا غلط.
+5175	corpus-6-test-corpus-26-train	SAN	ايوه. لأنك عتبسر العلم قدام مكتب البريد.
+5207	corpus-6-test-corpus-26-test	SAN	عترسلهن اكيد، صح؟
+5219	corpus-6-test-corpus-26-train	SAN	اشتي افعل اتصال بإستخدام بطاقة الإئتمان حقي.
+5224	corpus-6-test-corpus-26-train	SAN	اشتي حقي يسير.
+5245	corpus-6-test-corpus-26-train	SAN	لما توصل، عندفع عاسب نوصلها لا عنوان بيتك.
+5246	corpus-6-test-corpus-26-dev	SAN	هذه الأيام دائما استخدم كمبيوتر في العمل.
+5250	corpus-6-test-corpus-26-train	SAN	ها، تمام. فهمت. شاجي انا لا بقعتك.
+5259	corpus-6-test-corpus-26-train	SAN	لأ، هذا يكفي.
+5261	corpus-6-test-corpus-26-train	SAN	ممكن اخذ بطانية و وسادة؟
+5262	corpus-6-test-corpus-26-train	SAN	ممكن تجي هانا في أقرب وقت، لوسمحت؟
+5263	corpus-6-test-corpus-26-train	SAN	قلص قهوة، لوسمحت.
+5267	corpus-6-test-corpus-26-test	SAN	بين ادور على بعض البطايق اللي هن عادة هاواويات.
+5272	corpus-6-test-corpus-26-train	SAN	ممكن تخصر الخصر ثلاثة سنتي متر؟
+5289	corpus-6-test-corpus-26-train	SAN	انا في نفس العمر.
+5300	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي قهوة؟
+5307	corpus-6-test-corpus-26-dev	SAN	ثلاثمية وخمسين دولار؟ هذا اكثر من ميزانيتي.
+5323	corpus-6-test-corpus-26-train	SAN	هل عنحتاج نطرح هذا بالتصويت؟ اذا لا، اعتقد ان احنا اتوصلنا لخلاصه، شا ارسلها ل مجلس ادارتنا بكرة الصبح.
+5334	corpus-6-test-corpus-26-train	SAN	تعرف لو به اي فنادق رخيصة؟
+5361	corpus-6-test-corpus-26-train	SAN	صباح الخير. رقدت سوا؟
+5364	corpus-6-test-corpus-26-train	SAN	ايش انت ناوي تفعل لما تتم المدرسة؟
+5366	corpus-6-test-corpus-26-train	SAN	سرق الشنطة من كتفي في الشارع.
+5367	corpus-6-test-corpus-26-train	SAN	معك اي خدمات جمب الصبوح اليوم الصبح؟
+5407	corpus-6-test-corpus-26-train	SAN	اشتي قلص قهوة بيضاء، لوسمحت.
+5410	corpus-6-test-corpus-26-test	SAN	اوكي. فندق شيراتون هاناك؟
+5411	corpus-6-test-corpus-26-train	SAN	اتمنى ماتكونش تاعب قوي.
+5431	corpus-6-test-corpus-26-train	SAN	اشتي استأجر سيارة من هذا النوع ليومين.
+5436	corpus-6-test-corpus-26-train	SAN	شا آخذ لقطة لجاك دانيلز.
+5437	corpus-6-test-corpus-26-train	SAN	اشتي كيس تنفاش، لوسمحت.
+5447	corpus-6-test-corpus-26-train	SAN	انا نكعت عصا التزلج.
+5455	corpus-6-test-corpus-26-train	SAN	احنا ما نديش اي هدايا لمكتب الاستقبال. بالمقابل، الضيوف يدو كاش.
+5458	corpus-6-test-corpus-26-train	SAN	اشتي ارسلهن عبر البريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	SAN	الطايرة وصلت متأخر بسبب الثلج الكثيف.
+5518	corpus-6-test-corpus-26-train	SAN	الحساب، لوسمحت.
+5521	corpus-6-test-corpus-26-train	SAN	ممكن تاخذ رسالة، لوسمحت؟
+5540	corpus-6-test-corpus-26-train	SAN	عفوا، مابين اقدرش الحقك. ممكن تتحاكى ابطأ شوية، لوسمحت؟
+5549	corpus-6-test-corpus-26-dev	SAN	ايش ممكن ارويك؟
+5559	corpus-6-test-corpus-26-train	SAN	ممكن أصور؟
+5570	corpus-6-test-corpus-26-train	SAN	من ميه.
+5584	corpus-6-test-corpus-26-dev	SAN	رقم الرحله هو اتش بي تسعه وثمانين ل طوكيو في حداعش مارس.
+5585	corpus-6-test-corpus-26-train	SAN	ممكن اشل طبق ساع هذا؟
+5594	corpus-6-test-corpus-26-dev	SAN	معاك واحدة ثانية؟
+5596	corpus-6-test-corpus-26-train	SAN	لوسمحت ادي حقي الصبوح لاغرفتي بكرة الساعة سبع الصبح.
+5615	corpus-6-test-corpus-26-train	SAN	صاحب الصيانه عيوقع هانا قريب.
+5617	corpus-6-test-corpus-26-dev	SAN	انا اسف. شارجع بعدين.
+5640	corpus-6-test-corpus-26-test	SAN	كيف ممكن اشلها؟
+5648	corpus-6-test-corpus-26-train	SAN	به اي شواغر في جوله يوم الخميس؟
+5657	corpus-6-test-corpus-26-train	SAN	عفوا. بس ممكن أعدي؟
+5680	corpus-6-test-corpus-26-train	SAN	معك أي نباتات أو فواكة؟
+5684	corpus-6-test-corpus-26-train	SAN	لو سمحت قل لي كيف اعبي بطاقه النزول؟
+5695	corpus-6-test-corpus-26-train	SAN	اعتقد ان سيارتي تستحق حوالي خمسة ألف دولار.
+5706	corpus-6-test-corpus-26-train	SAN	هل هذا الأكل قليل السعرات الحرارية؟
+5717	corpus-6-test-corpus-26-train	SAN	ايش من باص لازم اشل عاسب اسير المحطة؟
+5723	corpus-6-test-corpus-26-train	SAN	ايوه، هو. بس لازم تلف شمال عند الإشارة الثالثة وبعدا اخطا طوالي لما تجي لا شارع سته وستين.
+5733	corpus-6-test-corpus-26-dev	SAN	اشتي قلص ماء عاسب اشرب العلاج، لوسمحت.
+5761	corpus-6-test-corpus-26-train	SAN	شاكون ممنونه لك لو تشلني للشاطئ.
+5772	corpus-6-test-corpus-26-train	SAN	اعتذر. معك الرقم الغلط. هذه تانكيوشا برس.
+5779	corpus-6-test-corpus-26-train	SAN	عنخرج.
+5830	corpus-6-test-corpus-26-dev	SAN	ايش هذه الموسيقى؟
+5847	corpus-6-test-corpus-26-train	SAN	لوسمحت ادي هذا الشراب لإبنك، مقياس واحد، بعد كل وجبة.
+5848	corpus-6-test-corpus-26-train	SAN	هذا الموديل موجود بمقاس ثمانية وعشرين، واحد وثلاثين وخمسة وثلاثين سنتيمتر.
+5875	corpus-6-test-corpus-26-train	SAN	اوه، هذا شكله خيرات.
+5898	corpus-6-test-corpus-26-train	SAN	ممكن استخدم تلفونك؟
+5902	corpus-6-test-corpus-26-test	SAN	شمه حالي قوي. بكم هو؟
+5906	corpus-6-test-corpus-26-train	SAN	اشتي أرجع أأكد رحلتي لا شيكاغو في سبعطعش.
+5913	corpus-6-test-corpus-26-train	SAN	أكلت شوية خيرات.
+5914	corpus-6-test-corpus-26-train	SAN	ممكن احاكي الآنسة براون؟
+5916	corpus-6-test-corpus-26-train	SAN	هذا البيت شكله مريح للمعيشه به، صح؟
+5934	corpus-6-test-corpus-26-dev	SAN	اشتي اعمل حجز ب طيران نورثويست رحلة صفر ثمانيه سته لخمسه الشهر.
+5940	corpus-6-test-corpus-26-train	SAN	محفظتي، جوازي واشياء شخصية ثانية.
+5956	corpus-6-test-corpus-26-train	SAN	ايحين تغلق؟
+5974	corpus-6-test-corpus-26-test	SAN	راعي دقيقة. يمكن فلته في الحمام.
+5987	corpus-6-test-corpus-26-train	SAN	هذا بالضبط اللي كنت شاقوله.
+5988	corpus-6-test-corpus-26-train	SAN	ايوه، اعتقد.
+5997	corpus-6-test-corpus-26-train	SAN	هذا البيت كبير. كم به غرف؟
+6006	corpus-6-test-corpus-26-train	SAN	استمتعنا بالعشاء.
+6024	corpus-6-test-corpus-26-test	SAN	فهمت، بس ماسترش اقوله.
+6047	corpus-6-test-corpus-26-train	SAN	ايوه، لوسمحت. اتمنى انهم مايصابوش بدوار البحر.
+6056	corpus-6-test-corpus-26-test	SAN	لا طوكيو، لوسمحت.
+6073	corpus-6-test-corpus-26-train	SAN	ماهو الوقت التقريبي حقنا للوصول؟
+6086	corpus-6-test-corpus-26-train	SAN	شارحلي بدري بكرة، اشتي ادفع ذلحين.
+6100	corpus-6-test-corpus-26-test	SAN	دراي شيري، لو سمحت.
+6109	corpus-6-test-corpus-26-test	SAN	كرسي لغير المدخنين، لوسمحت.
+6156	corpus-6-test-corpus-26-train	SAN	هو مشغول ذلحين.
+6167	corpus-6-test-corpus-26-train	SAN	عادي الأجانب يستخدموا الكتب في هذه المكتبة؟
+6179	corpus-6-test-corpus-26-train	SAN	هل ممكن اجلس في غرفتي لا الساعة ثنتين بعد الظهر؟
+6190	corpus-6-test-corpus-26-train	SAN	ههههه. صباح الخير. عادي.
+6193	corpus-6-test-corpus-26-train	SAN	اشتي فيلم من رقم هذا ال ايه اس ايه لهذه الكيمره، لو سمحت.
+6205	corpus-6-test-corpus-26-train	SAN	اين هن اللوحات حق مونت؟
+6214	corpus-6-test-corpus-26-train	SAN	هذه البيتزا طعيمة. من فعلها؟
+6221	corpus-6-test-corpus-26-train	SAN	ساع ايش طعم هذا الطبق؟
+6227	corpus-6-test-corpus-26-train	SAN	والكل غاليات.
+6228	corpus-6-test-corpus-26-train	SAN	ايحين عيخطا القطار الثاني لا بوسطن؟
+6232	corpus-6-test-corpus-26-dev	SAN	بين اخطط اتعلم غولف.
+6247	corpus-6-test-corpus-26-dev	SAN	لوسمحت اديلي مشروب ثاني.
+6253	corpus-6-test-corpus-26-train	SAN	ايش من متزلج رهيب.
+6272	corpus-6-test-corpus-26-train	SAN	أسف الأكمام قصار قوي.
+6283	corpus-6-test-corpus-26-train	SAN	ممكن توريني كيف أعبي بترول؟
+6285	corpus-6-test-corpus-26-train	SAN	هل رسوم الفنوق تتضمن الصبوح؟
+6287	corpus-6-test-corpus-26-train	SAN	قدو هذا كله؟
+6291	corpus-6-test-corpus-26-train	SAN	في نهايه هذا الطريق.
+6339	corpus-6-test-corpus-26-train	SAN	لو سمحت شغل العداد.
+6363	corpus-6-test-corpus-26-train	SAN	غرفتي باردة قوي.
+6411	corpus-6-test-corpus-26-train	SAN	شارجع لك لما نفضى شوية.
+6413	corpus-6-test-corpus-26-dev	SAN	معاك واحدة أكير؟
+6418	corpus-6-test-corpus-26-train	SAN	قدني احسن.
+6430	corpus-6-test-corpus-26-dev	SAN	هل انت متعود على جغرافية اليابان؟
+6436	corpus-6-test-corpus-26-train	SAN	لو سمحت وريني وين انا في هذه الخريطة.
+6437	corpus-6-test-corpus-26-train	SAN	مية في المية قطن.
+6466	corpus-6-test-corpus-26-train	SAN	اشتي اغير لا غرفة مطلة على المحيط. هل به اي رسوم إضافية؟
+6472	corpus-6-test-corpus-26-train	SAN	كم ايجار القارب لنص يوم؟
+6481	corpus-6-test-corpus-26-train	SAN	عشرة نوفمبر.
+6484	corpus-6-test-corpus-26-dev	SAN	اشتي شريط الة الكتابه.
+6492	corpus-6-test-corpus-26-train	SAN	طعيم قوي.
+6497	corpus-6-test-corpus-26-train	SAN	ايحين عنقلع؟
+6498	corpus-6-test-corpus-26-train	SAN	كيف تخلي السواق يعرف لما تشتي تنزل؟
+6513	corpus-6-test-corpus-26-train	SAN	اربعة وعشرين دولار. تشتي أكثر؟
+6515	corpus-6-test-corpus-26-train	SAN	فعلت الحجز في طوكيو من قبل شهر .
+6517	corpus-6-test-corpus-26-train	SAN	شكرا من وسط قلبي.
+6525	corpus-6-test-corpus-26-train	SAN	اقدر انزل من هانا لمركز روكفيلر؟
+6539	corpus-6-test-corpus-26-train	SAN	لوسمحت صلح لي مقاس جزمتي.
+6547	corpus-6-test-corpus-26-train	SAN	يجنن.
+6550	corpus-6-test-corpus-26-train	SAN	عتخرج معي في موعد؟
+6552	corpus-6-test-corpus-26-train	SAN	لوسمحت نظف هذا الكوت.
+6553	corpus-6-test-corpus-26-train	SAN	اشتي استأجر قارب.
+6574	corpus-6-test-corpus-26-train	SAN	وينو قسم النسوان؟
+6581	corpus-6-test-corpus-26-train	SAN	ماتتضمنش قهوة؟
+6593	corpus-6-test-corpus-26-train	SAN	ايش كان مجاله من أول؟
+6602	corpus-6-test-corpus-26-train	SAN	اللعنه. اللعنه. اللعنه. اللعنه. اتعودت على وجهها.
+6609	corpus-6-test-corpus-26-train	SAN	مفروض ادفع رسوم زيادة لما ادخل البناية؟
+6613	corpus-6-test-corpus-26-test	SAN	اهلا، جهة الاتصال على الخط. من هانا، لو سمحت.
+6625	corpus-6-test-corpus-26-train	SAN	جرحي بيوجعني.
+6635	corpus-6-test-corpus-26-train	SAN	وين المحطة؟
+6657	corpus-6-test-corpus-26-train	SAN	انا بارد وفيني رجفه.
+6659	corpus-6-test-corpus-26-train	SAN	ثلاثة ايام.
+6660	corpus-6-test-corpus-26-dev	SAN	اقطع الجسر هذاك، وعتلاقي المكتبة على يدك الشمال.
+6692	corpus-6-test-corpus-26-dev	SAN	لوسمحت ساعدني الاقي مرشد يتحاكى ياباني.
+6699	corpus-6-test-corpus-26-train	SAN	مشتيش واحدة ضخمة.
+6700	corpus-6-test-corpus-26-train	SAN	عيكون به شوية تأخير.
+6715	corpus-6-test-corpus-26-train	SAN	هو هذا الفرق بين هولا الفنادق؟
+6724	corpus-6-test-corpus-26-test	SAN	انا فوت النقطه حقي.
+6736	corpus-6-test-corpus-26-train	SAN	كان يجنن. شكرا.
+6740	corpus-6-test-corpus-26-dev	SAN	شاوقع هاناك حوالي ست الليل.
+6746	corpus-6-test-corpus-26-train	SAN	مابش حاجة أطول شوية؟
+6766	corpus-6-test-corpus-26-train	SAN	تاريخ الانتهاء في مارس الف وتسعمية وتسعه وتسعين.
+6780	corpus-6-test-corpus-26-test	SAN	كيف كان؟
+6800	corpus-6-test-corpus-26-train	SAN	به اي كازنوهات حاليه؟
+6810	corpus-6-test-corpus-26-train	SAN	ذا هي الزلط حق الاقلام. فاتوره بميه دولار.
+6812	corpus-6-test-corpus-26-train	SAN	اين قسم السيدات؟
+6825	corpus-6-test-corpus-26-train	SAN	وينهو قسم النسوان؟
+6832	corpus-6-test-corpus-26-train	SAN	صاحبي موجوع.
+6835	corpus-6-test-corpus-26-train	SAN	شكلك بخير.
+6836	corpus-6-test-corpus-26-dev	SAN	عيفتح المحل غطوة؟
+6862	corpus-6-test-corpus-26-test	SAN	هو على طول في نهايه القاعه.
+6864	corpus-6-test-corpus-26-train	SAN	ممكن لوسمحت ترتب لي شنبي؟
+6866	corpus-6-test-corpus-26-dev	SAN	بيجي مع سلطة و اختيارك من بطاط مشوي او شبس .
+6875	corpus-6-test-corpus-26-dev	SAN	منين اقدر اشتري طاسة؟
+6914	corpus-6-test-corpus-26-train	SAN	مااقدرش ابيع هذا بدون روشته .
+6917	corpus-6-test-corpus-26-train	SAN	ممكن احجز خمسة كراسي سوا في نفس البقعة؟
+6923	corpus-6-test-corpus-26-test	SAN	ممكن تسلفني الحبل، لو سمحت؟
+6944	corpus-6-test-corpus-26-train	SAN	ايش من سياره تقطع اكثر اميال؟
+6960	corpus-6-test-corpus-26-train	SAN	ماعتاخذش تخفيض حتى لو حاولت قوي.
+6966	corpus-6-test-corpus-26-train	SAN	ممكن تفتح لي هذه الشنطة، لوسمحت؟ ايش معاك هانا؟
+6970	corpus-6-test-corpus-26-train	SAN	اشتي افعل مكالمة بعيدة لا فندق هيلتون في بوسطن.
+6984	corpus-6-test-corpus-26-test	SAN	النسوان يقبلين هذا؟
+6991	corpus-6-test-corpus-26-train	SAN	اوبه، السقف واطي.
+6999	corpus-6-test-corpus-26-train	SAN	زرت الشلالات العظيمة لأول مرة؟
+7030	corpus-6-test-corpus-26-train	SAN	انا زرت البحيره العظيمة لاول مره.
+7048	corpus-6-test-corpus-26-train	SAN	به شي غلط ب الة البيع هذه.
+7057	corpus-6-test-corpus-26-train	SAN	احتاج دكتور.
+7070	corpus-6-test-corpus-26-train	SAN	كم قدلها في المملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	SAN	محبي الفنون الجديدة مثلك قد يعجبهم اللوحات الهييبيش وموسيقى الشارع.
+7098	corpus-6-test-corpus-26-train	SAN	ايحين؟
+7099	corpus-6-test-corpus-26-dev	SAN	شا اخذ نقانق وبيبسي.
+7104	corpus-6-test-corpus-26-dev	SAN	معك عامل المكالمات الخارجي.
+7123	corpus-6-test-corpus-26-train	SAN	بتبسر بناية بيضاء، صح؟ هي قدام هذه البناية.
+7130	corpus-6-test-corpus-26-test	SAN	من ايحين؟
+7137	corpus-6-test-corpus-26-test	SAN	مابش معي شي أصرحه.
+7198	corpus-6-test-corpus-26-dev	SAN	ايش؟ لازم تدفع ضرايب لما تاخذ اكثر من ثلاث قوارير كحول؟
+7206	corpus-6-test-corpus-26-dev	SAN	صاحبي مريض قوي. ممكن تتصل لدكتور، لوسمحت؟
+7227	corpus-6-test-corpus-26-test	SAN	مافهمش قوي في الخمر. ايشو الأحسن لهذا الطبق؟
+7233	corpus-6-test-corpus-26-dev	SAN	ممكن تتصلي الصبح بدري، لوسمحت؟
+7248	corpus-6-test-corpus-26-dev	SAN	به محطة بترول بعد شارعين من هانا.
+7253	corpus-6-test-corpus-26-train	SAN	اليابانيين ماياخذوش إجازات طويلة.
+7264	corpus-6-test-corpus-26-train	SAN	بين احس انه بيتبسروني. هل هو نادر انهم يبسرو واحد ياباني؟
+7269	corpus-6-test-corpus-26-test	SAN	اكيد ماشي. ليش بتقول لو؟
+7270	corpus-6-test-corpus-26-train	SAN	ايش من طريق هو المدخل لمكتب البريد الرئيسي؟
+7274	corpus-6-test-corpus-26-train	SAN	اين مستودع باص جريهاوند في هذه المدينه؟
+7281	corpus-6-test-corpus-26-train	SAN	بس او ماش ان المطاعم اليابانيه في كيوتو غاليه؟
+7289	corpus-6-test-corpus-26-train	SAN	اعتقد عالي قوي عليا.
+7291	corpus-6-test-corpus-26-test	SAN	معانا غرفة مزدوجة مع حمام بخمسة وثمانين دولار.
+7305	corpus-6-test-corpus-26-train	SAN	اشتي تقييم الكتاب.
+7314	corpus-6-test-corpus-26-test	SAN	هذه السنه ابرد من العادة، بس مش برد لدرجة الثلج.
+7321	corpus-6-test-corpus-26-train	SAN	منين اقدر اشتري تذكرة المترو؟
+7335	corpus-6-test-corpus-26-train	SAN	شااحصل على مقاعد درجة رجال الأعمال، صح؟
+7343	corpus-6-test-corpus-26-train	SAN	كم رسوم التكسي من هذا الفندق للمحطة؟
+7349	corpus-6-test-corpus-26-train	SAN	ممكن اشل هذه وهذه، لوسمحت؟
+7381	corpus-6-test-corpus-26-train	SAN	قالوا اليابان دولة غنية قوي.
+7386	corpus-6-test-corpus-26-train	SAN	به اي غرف فاضيه ب الكارافان؟
+7391	corpus-6-test-corpus-26-dev	SAN	ممكن ترخصها لي لا عشرين دولار، لوسمحت؟
+7395	corpus-6-test-corpus-26-train	SAN	هذه هدية لصاحب.
+7412	corpus-6-test-corpus-26-train	SAN	الثلج بيخلي الطريق مطاحسه.
+7414	corpus-6-test-corpus-26-train	SAN	مالقيتش حقي الكاميرا.
+7416	corpus-6-test-corpus-26-test	SAN	شافعل بعض ساندوتشات لحم الخنزير.
+7438	corpus-6-test-corpus-26-train	SAN	معك شي توضحه؟
+7439	corpus-6-test-corpus-26-train	SAN	ابسرت كوت ازرق؟ طرحته في هذا الكرسي.
+7470	corpus-6-test-corpus-26-test	SAN	به محل ورد على هذا طريق.
+7478	corpus-6-test-corpus-26-train	SAN	انا من طوكيو.
+7479	corpus-6-test-corpus-26-train	SAN	اشتي كريم غسول ريفلون .
+7485	corpus-6-test-corpus-26-train	SAN	معي شوية اشياء للغسيل.
+7507	corpus-6-test-corpus-26-dev	SAN	طلبتها قبل وقت طويل.
+7533	corpus-6-test-corpus-26-dev	SAN	ممكن ترسلي حمال لاغرفتي الساعة ست الصبح؟
+7549	corpus-6-test-corpus-26-train	SAN	شا اخذ هوت تشوكلت.
+7550	corpus-6-test-corpus-26-train	SAN	عنقدر نرتب عسب ينظفين غرفك.
+7574	corpus-6-test-corpus-26-train	SAN	مميز، لوسمحت.
+7583	corpus-6-test-corpus-26-train	SAN	بكم لافندق سي؟
+7612	corpus-6-test-corpus-26-test	SAN	ممكن اخذ تذكرة متعددة؟
+7622	corpus-6-test-corpus-26-train	SAN	اشتي احجز طاولة لشخصين الساعة سبع، لوسمحت.
+7626	corpus-6-test-corpus-26-train	SAN	اشتي شوية كريم ليلي.
+7627	corpus-6-test-corpus-26-train	SAN	ممكن تغلفها لي كهدية؟
+7636	corpus-6-test-corpus-26-train	SAN	الساعه ثلاث وربع.
+7650	corpus-6-test-corpus-26-train	SAN	شا اخطط لارسال فواتير احتياجاتي اليوميه، ف لو سمحت قل لي عنوان واسم الشخص المسؤول.
+7656	corpus-6-test-corpus-26-test	SAN	صعب علينا نتحاكى انجليزي بطلاقة.
+7662	corpus-6-test-corpus-26-train	SAN	معك هولا بنفس التصميم بس بكعب اعلى؟
+7663	corpus-6-test-corpus-26-train	SAN	اشتي سترة لولد عمرة عشر سنين.
+7671	corpus-6-test-corpus-26-train	SAN	شلني لا شارع أببي، لوسمحت.
+7684	corpus-6-test-corpus-26-dev	SAN	شكرا. مرحبا، شكرا لإنتظارك.
+7693	corpus-6-test-corpus-26-train	SAN	متأكد ان معي حجز.
+7708	corpus-6-test-corpus-26-train	SAN	شارسله لك، لذلك لوسمحت راعي هانا.
+7712	corpus-6-test-corpus-26-dev	SAN	احنا هانا لمدة يوم.
+7721	corpus-6-test-corpus-26-train	SAN	عندي صداع خفيف.
+7736	corpus-6-test-corpus-26-train	SAN	استمتعت بالوجبه قوي.
+7756	corpus-6-test-corpus-26-train	SAN	ماشي، لو سمحت اجلس وراعي. شا ارجع لك.
+7761	corpus-6-test-corpus-26-test	SAN	ممكن ابسر السياره؟
+7767	corpus-6-test-corpus-26-train	SAN	ممكن ترسم لي الخريطه، لو سمحت؟
+7789	corpus-6-test-corpus-26-test	SAN	حاضر، سيدي. لو سمحت ابقى في غرفتك لوما يجي الدكتور.
+7811	corpus-6-test-corpus-26-train	SAN	انا مودف ب شاطئ وايمانالو. لو سمحت جي ذاحين.
+7812	corpus-6-test-corpus-26-train	SAN	طيب ما رايك بميه دولار؟
+7814	corpus-6-test-corpus-26-train	SAN	اشتي هذا مقرطس.
+7831	corpus-6-test-corpus-26-train	SAN	اشتي اقدم طلب اعاده اصدار.
+7834	corpus-6-test-corpus-26-train	SAN	الحكومه دعمت تقدم المصانع.
+7838	corpus-6-test-corpus-26-train	SAN	هو فوق الخمسين سنه، اتوقع.
+7858	corpus-6-test-corpus-26-dev	SAN	ايش اقل عمر عسب تفعل هذا؟
+7860	corpus-6-test-corpus-26-train	SAN	معك اي خرايط بسيطه للمدينه؟
+7867	corpus-6-test-corpus-26-test	SAN	اذا هو ممكن، افضل انه ما تبتعدش السنه.
+7871	corpus-6-test-corpus-26-dev	SAN	العد كره واحده، ضربتين. **.
+7883	corpus-6-test-corpus-26-train	SAN	ايحين عيوصل القطار ل سان دييغو، لو سمحت؟
+7913	corpus-6-test-corpus-26-train	SAN	اشتي اعمل نظره لحقك الصندوق.
+7925	corpus-6-test-corpus-26-train	SAN	اشتي شويه شامبوه.
+7947	corpus-6-test-corpus-26-train	SAN	انا جالس في فندق هيلتون.
+7948	corpus-6-test-corpus-26-train	SAN	بين احس بتعب وغاثي.
+7957	corpus-6-test-corpus-26-train	SAN	لكن معي موعد عسب ابسرها الساعه ثنتين.
+7972	corpus-6-test-corpus-26-train	SAN	تيه السياره بتمشي ل ايدنبره؟
+7976	corpus-6-test-corpus-26-train	SAN	ايوة، لو سمحت عبي الاستمارة.
+7983	corpus-6-test-corpus-26-train	SAN	كم بتفعل كلفه للوزن الزايد؟
+7991	corpus-6-test-corpus-26-dev	SAN	انا اسمي كيمورا. اشتي اكنسل الحجز حق الجمعه.
+7996	corpus-6-test-corpus-26-test	SAN	اوه، انا اسف. كان به مشكله و احنا بنصلحها. عتراعي لحوالي ثلاثين دقيقه؟
+8039	corpus-6-test-corpus-26-train	SAN	ف اي وقت اقدر اخرج؟
+8050	corpus-6-test-corpus-26-train	SAN	فهمت.
+8058	corpus-6-test-corpus-26-train	SAN	شا اتصل ب واحد.
+8067	corpus-6-test-corpus-26-test	SAN	تشتي تصفي الفاتوره الان؟
+8068	corpus-6-test-corpus-26-train	SAN	السياره جت لاعرضي من جهه التقاطع.
+8094	corpus-6-test-corpus-26-train	SAN	هو صندوق موسيقي.
+8095	corpus-6-test-corpus-26-train	SAN	اين هي الضاحيه؟
+8098	corpus-6-test-corpus-26-train	SAN	به جوله بباص المدينه؟
+8108	corpus-6-test-corpus-26-train	SAN	ب ايش وقت نبدا؟
+8114	corpus-6-test-corpus-26-train	SAN	تمام، سيدي. بالحجم الوسط نقدر نعرض عليك ميركيوري سايبل. هل هذا سابر؟
+8116	corpus-6-test-corpus-26-train	SAN	معك عضله مدكومه.
+8141	corpus-6-test-corpus-26-train	SAN	لكن ضروري انك توعدني انك تضرب الكره، مش انا. تمام؟
+8143	corpus-6-test-corpus-26-train	SAN	كم هو ابعد؟
+8149	corpus-6-test-corpus-26-train	SAN	ممكن اتسلف شويه كتان؟
+8156	corpus-6-test-corpus-26-train	SAN	من ايش من جلد الشنطه هذه مصنوعه؟
+8161	corpus-6-test-corpus-26-train	SAN	ما اعتقد ان هذه السكينه نظيفه. ممكن تدي لي واحده ثانيه؟
+8164	corpus-6-test-corpus-26-train	SAN	انا اشتريت هذه قبل شويه، لكن عتقدر تغير هذا بدل ذيك؟
+8173	corpus-6-test-corpus-26-train	SAN	بصراحه، ما اتفقش مع هذا.
+8177	corpus-6-test-corpus-26-train	SAN	ذيه الطريق الصح للمحطه المركزية؟
+8183	corpus-6-test-corpus-26-train	SAN	قارب مع مرشد، لو سمحت.
+8193	corpus-6-test-corpus-26-train	SAN	اشتي اطلب بدله غامقه لنفسي.
+8194	corpus-6-test-corpus-26-train	SAN	هذه المظلة عتنفع عصية.
+8202	corpus-6-test-corpus-26-test	SAN	هل المفروض اطرح كل الشنط حقي بغرفة الامانات؟
+8210	corpus-6-test-corpus-26-train	SAN	لو سمحت رويني جوازك.
+8227	corpus-6-test-corpus-26-train	SAN	به هانا اي بقعه يقبلو الغسيل ايام الاحد؟
+8233	corpus-6-test-corpus-26-train	SAN	اثنين برجر بالجبنه، لو سمحت.
+8234	corpus-6-test-corpus-26-train	SAN	ايش من باص يسير ل ميامي؟
+8236	corpus-6-test-corpus-26-train	SAN	لكن البقشيش مش ضروري.
+8248	corpus-6-test-corpus-26-train	SAN	عتقدر تبسر واحد في قاعه كارنيجي.
+8250	corpus-6-test-corpus-26-train	SAN	انا مش معتمد.
+8271	corpus-6-test-corpus-26-train	SAN	ايش خاصية البيت؟
+8280	corpus-6-test-corpus-26-train	SAN	اشتي احجز عند دكتور.
+8291	corpus-6-test-corpus-26-dev	SAN	بين افكر اذا به طاوله قريبه من الطاقه للساعه سبع الليله.
+8295	corpus-6-test-corpus-26-train	SAN	ما عندكش مانع اجي لعندك؟
+8305	corpus-6-test-corpus-26-train	SAN	شكل انه به مجال للتحسين.
+8316	corpus-6-test-corpus-26-train	SAN	اين هو قطار الانفاق؟
+8334	corpus-6-test-corpus-26-train	SAN	به معك منه بمقاس اصغر؟
+8338	corpus-6-test-corpus-26-train	SAN	من اين اقدر احصل اسبرين؟
+8342	corpus-6-test-corpus-26-train	SAN	هذا هو قاع الصخره؟
+8349	corpus-6-test-corpus-26-train	SAN	لو سمحت اديلي تذكره دخول لمده اسبوع.
+8355	corpus-6-test-corpus-26-train	SAN	هذا هو زميلي.
+8358	corpus-6-test-corpus-26-train	SAN	ايش به من انواع البترول؟ بريميم، عادي، ونقي؟
+8368	corpus-6-test-corpus-26-train	SAN	به هانا واحد.
+8371	corpus-6-test-corpus-26-train	SAN	عيصبني زكام.
+8409	corpus-6-test-corpus-26-test	SAN	هو مغلق كل اثنين، لكن يوم ثاني بيكون تمام. على ما اعتقد انه مفتوح من تسع ل خمس.
+8418	corpus-6-test-corpus-26-train	SAN	هو انقليس مشوي مع صلصه خاصه على راس طاسه الرز.
+8435	corpus-6-test-corpus-26-train	SAN	"هو قال ""هيا نحتفل"" وشلني للبار. هو قال انه كان عيسير يتصل و خطي وماعد رجعش وانا حنبت بفاتوره غاليه."
+8454	corpus-6-test-corpus-26-train	SAN	بكم هو لكل جالون؟
+8456	corpus-6-test-corpus-26-train	SAN	كان معي جوازي وبطاقه الائتمان في شنطتي.
+8485	corpus-6-test-corpus-26-train	SAN	الحجز على سبع، تحت اسم مانوو.
+8495	corpus-6-test-corpus-26-train	SAN	ما عتشل قلص شاهي؟
+8497	corpus-6-test-corpus-26-dev	SAN	ممكن تقل لي اين شا الاقي قنصليه اليابان؟
+8509	corpus-6-test-corpus-26-train	SAN	به دكتور الفندق او اللذي بالعقد؟
+8516	corpus-6-test-corpus-26-train	SAN	هو دايما يتسوق في شارع بوند.
+8527	corpus-6-test-corpus-26-train	SAN	ورقه انجليزيه، لو سمحت.
+8535	corpus-6-test-corpus-26-train	SAN	به اي بقعه بيشغلو اغاني وطنيه؟
+8539	corpus-6-test-corpus-26-test	SAN	اشتي اتاكد من حاجاتي الثمينه.
+8543	corpus-6-test-corpus-26-train	SAN	به صوفيات ثانيات؟
+8551	corpus-6-test-corpus-26-train	SAN	بكم هو لكل ورقه؟
+8574	corpus-6-test-corpus-26-train	SAN	طيب، اضغظ تسعه و صفر واحد واحد، وبعدين رمز البلده و رقم التلفون.
+8577	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي كوك دايت؟
+8584	corpus-6-test-corpus-26-train	SAN	ممكن اطلب طلب؟
+8595	corpus-6-test-corpus-26-train	SAN	كانت سواقه حاليه. شكرا لك.
+8604	corpus-6-test-corpus-26-test	SAN	عفوا. ممكن ادخل؟
+8610	corpus-6-test-corpus-26-train	SAN	مجموع سكان اليابان هو حوالي ميه وثلاثين مليون.
+8618	corpus-6-test-corpus-26-train	SAN	اشتي استاجر مظله.
+8625	corpus-6-test-corpus-26-train	SAN	ايوة، و اشتي تعكس الرسوم.
+8636	corpus-6-test-corpus-26-train	SAN	محفظه داخلها ميه دولار و ثنتين بطايق ائتمان.
+8637	corpus-6-test-corpus-26-train	SAN	الماء حامي.
+8675	corpus-6-test-corpus-26-train	SAN	انت هانا.
+8688	corpus-6-test-corpus-26-dev	SAN	كتلي قهوة، لو سمحت.
+8690	corpus-6-test-corpus-26-train	SAN	قوي مابش شبه.
+8696	corpus-6-test-corpus-26-train	SAN	بطني توجعني بعد الوجبات.
+8734	corpus-6-test-corpus-26-train	SAN	واو، هذا مكان حالي.
+8741	corpus-6-test-corpus-26-train	SAN	يمكن وقع له انسداد جوي.
+8749	corpus-6-test-corpus-26-train	SAN	قد قررت؟
+8788	corpus-6-test-corpus-26-train	SAN	اذا انت تشتي، نقدر نريح هانا.
+8791	corpus-6-test-corpus-26-test	SAN	انا ضيعت طريق بريد مسجل.
+8803	corpus-6-test-corpus-26-train	SAN	ما تقدر تغير وظيفتك بسهوله.
+8805	corpus-6-test-corpus-26-train	SAN	ما هي المحطه اللي عتجي؟
+8811	corpus-6-test-corpus-26-train	SAN	تمام، لكن مش تشماس. قوي حما اليوم.
+8823	corpus-6-test-corpus-26-dev	SAN	اخرج من هانا، وانتقل للباص رقم سته.
+8824	corpus-6-test-corpus-26-dev	SAN	لازم الحق رحلة عشر الصبح.
+8827	corpus-6-test-corpus-26-train	SAN	عاد انا بين احس انه اشتي ارجع.
+8833	corpus-6-test-corpus-26-train	SAN	مشتيش اي شي ثقيل.
+8840	corpus-6-test-corpus-26-train	SAN	ابسر، لو سمحت.
+8844	corpus-6-test-corpus-26-test	SAN	بكم الفطر الطري؟
+8850	corpus-6-test-corpus-26-train	SAN	الرسوم، لو سمحت. انت بتاخذ فيزا؟
+8851	corpus-6-test-corpus-26-train	SAN	اليوم شا اسير ابسر كيف مدينه الصين.
+8880	corpus-6-test-corpus-26-train	SAN	اثنين صفر اثنين تسعه ثلاثه تسعه سته سبعه صفر صفر.
+8900	corpus-6-test-corpus-26-train	SAN	اشتي سنتي تقتلع.
+8905	corpus-6-test-corpus-26-train	SAN	اشتي شنطه مكياج.
+8907	corpus-6-test-corpus-26-dev	SAN	بين اتساءل كم اطرح بقشيش.
+8914	corpus-6-test-corpus-26-train	SAN	"اين شا اقدر ابسر ""الفانتوم اوبرا""؟"
+8915	corpus-6-test-corpus-26-train	SAN	اشتي اشتري هدايا لاصحابي. تقدر تنصحني ببعضهن؟
+8918	corpus-6-test-corpus-26-train	SAN	ابطئ زيادة، لو سمحت.
+8919	corpus-6-test-corpus-26-dev	SAN	كم متوسط رسوم الفاكس الدولي حقك كل شهر؟
+8947	corpus-6-test-corpus-26-train	SAN	مقلي من الجهتين، لو سمحت.
+8966	corpus-6-test-corpus-26-dev	SAN	طيب، هذا شكله واضح قوي. انتو الاثنين لو سمحتو ادو لي رخصكم وتسجيلاتكم. و يا ابني، اسف انه احنا عنضطر نعمل لك اختبار التنفس.
+9011	corpus-6-test-corpus-26-train	SAN	بيكون جاهز بعد بكره في المساء.
+9022	corpus-6-test-corpus-26-train	SAN	ذيه مصنوع من القطن؟
+9029	corpus-6-test-corpus-26-dev	SAN	معي علاجي.
+9034	corpus-6-test-corpus-26-train	SAN	ايش شاقدر ابسر في هذك الجوله؟
+9041	corpus-6-test-corpus-26-train	SAN	ايوة، به اقل شي مشروب واحد.
+9051	corpus-6-test-corpus-26-train	SAN	بكم هو لليوم الواحد؟
+9061	corpus-6-test-corpus-26-dev	SAN	ذيه الباص بيوقف قريب من الفندق؟
+9073	corpus-6-test-corpus-26-train	SAN	اشتي سي دي.
+9077	corpus-6-test-corpus-26-train	SAN	به رحلات الخطوط الجوية اليابانية و أول نيبون اللي يمشين على عشر وخمسه-وخمسين. لكن، لسوء الحظ الرحلتين ملان.
+9094	corpus-6-test-corpus-26-train	SAN	جاء عليا سوى.
+9098	corpus-6-test-corpus-26-train	SAN	ممكن طاوله لخمسه؟
+9100	corpus-6-test-corpus-26-train	SAN	هي ما تفهمش انجليزي بالخالص.
+9126	corpus-6-test-corpus-26-dev	SAN	لو سمحت اصرف الشيك السياحي.
+9150	corpus-6-test-corpus-26-train	SAN	عتقدر تعتني بها من تسع الصبح ل حوالي ثلاث؟
+9160	corpus-6-test-corpus-26-train	SAN	بكم البريد الجوي لليابان؟
+9176	corpus-6-test-corpus-26-train	SAN	انا مقفل عليا. تقدر تفتح الباب حقي، لو سمحت.
+9211	corpus-6-test-corpus-26-train	SAN	ايش احسن جوله عسب نبسر احسن المناطق المعروفه؟
+9229	corpus-6-test-corpus-26-test	SAN	به هانا اي مضيفه تتحاكى ياباني؟
+9242	corpus-6-test-corpus-26-test	SAN	كم اقدر ادي شنط لداخل الطايره؟
+9263	corpus-6-test-corpus-26-train	SAN	لا، يا سيدي. بعد الظهر محجوز كامل. بس بكره تمام.
+9267	corpus-6-test-corpus-26-train	SAN	شا اسال الحارس عن الاجره بالضبط.
+9303	corpus-6-test-corpus-26-train	SAN	انا حقا، اسف.
+9308	corpus-6-test-corpus-26-train	SAN	معانا حفله ليله الجمعة. ليش ما تجي تنضم لنا؟
+9312	corpus-6-test-corpus-26-train	SAN	طيب، غرفتش هي تسعه صفر ثمانيه، آنسه. هوذا مفتاحش.
+9316	corpus-6-test-corpus-26-dev	SAN	مهم قوي انحنا نوصل للمواد الخام الذي نحتاجها للمشروع.
+9324	corpus-6-test-corpus-26-train	SAN	عفوا، فندم؟
+9325	corpus-6-test-corpus-26-train	SAN	هذا القطار عيسير طوالي ل أدنبرة؟
+9329	corpus-6-test-corpus-26-train	SAN	هذا ضمن الحد اللي مابش فيها ضرايب؟
+9337	corpus-6-test-corpus-26-train	SAN	خرج حقي الأشياء الغاليات، لوسمحت.
+9358	corpus-6-test-corpus-26-train	SAN	كيف الزحمه في الجولات السياحيه؟
+9367	corpus-6-test-corpus-26-train	SAN	أشتي أشتري شوية هدايا تذكارية. به محل مناسب قريب من هانا؟
+9372	corpus-6-test-corpus-26-train	SAN	لا ايحين عيجلس فاتح؟
+9384	corpus-6-test-corpus-26-train	SAN	هو خارج ذاحين.
+9385	corpus-6-test-corpus-26-train	SAN	مايومي، ممكن تعبي هذه الورقه مع توقيعش؟
+9431	corpus-6-test-corpus-26-train	SAN	هوذا واحد لك، سيدي.
+9432	corpus-6-test-corpus-26-train	SAN	مابش معي شنطه أدخلها.
+9446	corpus-6-test-corpus-26-test	SAN	أكيد، خذ وقتك.
+9450	corpus-6-test-corpus-26-train	SAN	أنا هانا عاسب عمل إعلامي.
+9463	corpus-6-test-corpus-26-train	SAN	معك أفلام الصيف؟
+9481	corpus-6-test-corpus-26-train	SAN	ايحين القطار الثاني ل واشنطن دي سي؟
+9494	corpus-6-test-corpus-26-test	SAN	الطوال قدهن الموضه الان.
+9516	corpus-6-test-corpus-26-train	SAN	شرجع لليابان الاثنين الثاني.
+9526	corpus-6-test-corpus-26-train	SAN	ممكن تديلي خريطة المترو؟
+9542	corpus-6-test-corpus-26-train	SAN	هل هي مسافه طويله؟
+9560	corpus-6-test-corpus-26-train	SAN	ممكن تبدل هذا بواحد جديد؟
+9576	corpus-6-test-corpus-26-train	SAN	شخصين.
+9579	corpus-6-test-corpus-26-test	SAN	من أين أقدر أشل شنطتي؟
+9581	corpus-6-test-corpus-26-train	SAN	بينحس أنني مش بخير. ممكن امدد حقي الكرسي؟
+9604	corpus-6-test-corpus-26-train	SAN	هدعش وخمسه وأربعين في الصبح.
+9605	corpus-6-test-corpus-26-train	SAN	ممكن تقولي على مطعم مشهور بين الشباب؟
+9606	corpus-6-test-corpus-26-train	SAN	حقه السيارة كانت بتسرع بأقصى سرعه.
+9611	corpus-6-test-corpus-26-dev	SAN	ممكن أطرح رساله؟ أنا بينتصل عاسب أأكد على الموعد مع السيد إبيرت الاربعاء الثاني على حداعش الصبح.
+9628	corpus-6-test-corpus-26-dev	SAN	ممكن بأي طريقه تشرح مرضك بالأنجليزي؟
+9634	corpus-6-test-corpus-26-test	SAN	ممكن ترسل تاكسي للمدخل الرئيسي حق ويستمينستر مول؟
+9651	corpus-6-test-corpus-26-train	SAN	كم مرات أغير القطارات عاسب أوصل لا هاناك؟
+9657	corpus-6-test-corpus-26-train	SAN	هذا صح؟ خليني اتأكد. يوو أنا آسف قوي، انسة تاكانو. هذه غلطتنا. هيذه حقك الفاتوره الجديده. ممكن توقعي هانا، لوسمحتي؟
+9673	corpus-6-test-corpus-26-train	SAN	رجع خمسه دولارات، لوسمحت.
+9683	corpus-6-test-corpus-26-train	SAN	سدادة البانيو ما بتتغلقش سوى.
+9687	corpus-6-test-corpus-26-train	SAN	هو مجرد تذكار من تقديري.
+9688	corpus-6-test-corpus-26-train	SAN	ممكن تعبي هذه الاستماره؟
+9695	corpus-6-test-corpus-26-test	SAN	ايش بالنسبه لهذلا النماذج البلاستيك؟
+9701	corpus-6-test-corpus-26-train	SAN	أيش من ماركات معك؟
+9702	corpus-6-test-corpus-26-train	SAN	الكعب قوي عالي عليا.
+9710	corpus-6-test-corpus-26-test	SAN	مغلق عليا خارج غرفتي.
+9730	corpus-6-test-corpus-26-train	SAN	كم قدلك في باريس؟
+9732	corpus-6-test-corpus-26-train	SAN	ممكن تديلي طوابع بريديه ل ثلاث بطايق بريد جوي ل اليابان؟
+9746	corpus-6-test-corpus-26-train	SAN	يتهجى ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	SAN	تشتي تشرب شي؟
+9748	corpus-6-test-corpus-26-train	SAN	تمدد هانا.
+9752	corpus-6-test-corpus-26-train	SAN	خليها برقية طارئه، لوسمحت.
+9788	corpus-6-test-corpus-26-train	SAN	على حسب تقرير الجو، عينزل ثلج بكرة.
+9792	corpus-6-test-corpus-26-train	SAN	أشتي كرة.
+9822	corpus-6-test-corpus-26-train	SAN	أكيد. عيكون لنا الشرف انحنا نفعله.
+9829	corpus-6-test-corpus-26-train	SAN	هيه، كتاب كوميدي ماليزي. اشتي اشتري واحد اشله للبيت ك قطعه محادثه.
+9862	corpus-6-test-corpus-26-train	SAN	"الطريق للنجاح هو "" جينمياكو، "" صح؟"
+9866	corpus-6-test-corpus-26-dev	SAN	شوصل لحقك الفندق على تسع في الليل.
+9885	corpus-6-test-corpus-26-train	SAN	معي حوالي ألفين وخمسمية دولار ب الين الياباني.
+9903	corpus-6-test-corpus-26-train	SAN	ايوه، بنفعل. شاوريك شويه.
+9906	corpus-6-test-corpus-26-train	SAN	أشتي شوية حبوب منوم.
+9910	corpus-6-test-corpus-26-train	SAN	شاكون هانا للساعه تسع. أتمنى أنك تمسك المجرم في أقرب وقت ممكن.
+9945	corpus-6-test-corpus-26-train	SAN	انا متأكد ان المجرم قريب.
+9948	corpus-6-test-corpus-26-train	SAN	عشرة طوابع لو سمحت.
+9949	corpus-6-test-corpus-26-train	SAN	فيني التهاب في الحلق.
+9955	corpus-6-test-corpus-26-train	SAN	أحتاج شوية هدايا تذكاريه من نيويورك.
+9969	corpus-6-test-corpus-26-train	SAN	أنا شخرج. ممكن ترسل حمال؟
+9979	corpus-6-test-corpus-26-train	SAN	ساعتي وقفت.
+9983	corpus-6-test-corpus-26-train	SAN	أوه، صدق هكذا؟ كيف عجبتك؟
+10006	corpus-6-test-corpus-26-train	SAN	احنا نفتح الساعه تسع في الصبح.
+10032	corpus-6-test-corpus-26-train	SAN	اشتي كتاب ملون.
+10037	corpus-6-test-corpus-26-train	SAN	بينحس بدوخه.
+10043	corpus-6-test-corpus-26-train	SAN	ضروري أسير لا بنك ياباني؟
+10045	corpus-6-test-corpus-26-train	SAN	لازم تصرف الزلط في البنك.
+10065	corpus-6-test-corpus-26-train	SAN	عاد باقي وقت خيرات عاسب أسجل خروج؟
+10069	corpus-6-test-corpus-26-train	SAN	زوجش واحد من أفضل الزباين.
+10078	corpus-6-test-corpus-26-train	SAN	تعرف دكتور أسنان كويس؟
+10084	corpus-6-test-corpus-26-train	SAN	يو، لازم تبلغ القنصلية الان.
+10091	corpus-6-test-corpus-26-train	SAN	مرجوج، مش مخلوط.
+10098	corpus-6-test-corpus-26-dev	SAN	تشتي ماسه في المطعم الرئيسي أو في الغرفه الخاصه، سيدي؟
+10102	corpus-6-test-corpus-26-train	SAN	عدد كبير من الناس بيسيروا الشاطئ خلال الموسم.
+10107	corpus-6-test-corpus-26-train	SAN	انا وزني حوالي ميه وخمسين رطل.
+10111	corpus-6-test-corpus-26-train	SAN	اين المفروض انتقل؟
+10114	corpus-6-test-corpus-26-train	SAN	اين هو مكتب الممتلكات المفقوده؟
+10116	corpus-6-test-corpus-26-train	SAN	به أي باص يسير لا هاناك طوالي؟
+10125	corpus-6-test-corpus-26-train	SAN	أنا أحتاج معاملة خاصة؟
+10129	corpus-6-test-corpus-26-train	SAN	ذيك عيوقع كاش والا رسوم؟
+10134	corpus-6-test-corpus-26-test	SAN	نقلنا ل هذا البيت قبل سنه.
+10155	corpus-6-test-corpus-26-train	SAN	كم عتاخذ وقت عاسب فيزتي تطلع؟
+10156	corpus-6-test-corpus-26-train	SAN	أين الحمامات؟
+10160	corpus-6-test-corpus-26-train	SAN	المبلغ الأجمالي مئتين وثلاثه وأربعين جنيه، يا مدام.
+10164	corpus-6-test-corpus-26-train	SAN	هذه هدية. ممكن تلفها بورق لف حالي؟
+10182	corpus-6-test-corpus-26-train	SAN	يوو والمنظر. به طرق كبار.
+10187	corpus-6-test-corpus-26-dev	SAN	به ناس جرحى.
+10191	corpus-6-test-corpus-26-dev	SAN	عفوا. أين المحطه الذي هانا؟
+10224	corpus-6-test-corpus-26-train	SAN	ايوه، معانا حجز لك.
+10238	corpus-6-test-corpus-26-train	SAN	عفوا، لكن اشتي اسير للفندق حقي في المدينة بالباص. من أين أقدر اشل باص؟
+10243	corpus-6-test-corpus-26-test	SAN	دجاج، لو سمحت.
+10257	corpus-6-test-corpus-26-train	SAN	هذه الغرفه اثنين صفر واحد. اشتي اطلب صبوح بكرة.
+10272	corpus-6-test-corpus-26-test	SAN	ما رأيك في التحرش الجنسي في مكان العمل؟
+10318	corpus-6-test-corpus-26-dev	SAN	معي ثنتين خوات.
+10336	corpus-6-test-corpus-26-dev	SAN	رقم الرحلة اثنين صفر ثمانيه، ل طوكيو.
+10354	corpus-6-test-corpus-26-train	SAN	بعدين هيا نطرح حشوة داخلز.
+10366	corpus-6-test-corpus-26-test	SAN	هيا نجتمع عاسب نناقش هذا أكثر.
+10372	corpus-6-test-corpus-26-train	SAN	كيف تشتي شعرك يتصلح اليوم؟
+10403	corpus-6-test-corpus-26-train	SAN	ممكن تقوله بكلمات ثانية؟
+10408	corpus-6-test-corpus-26-train	SAN	شا اعمل لك ب اي حاجه معك.
+10411	corpus-6-test-corpus-26-train	SAN	نشتي طاوله قريب من المنصه.
+10416	corpus-6-test-corpus-26-train	SAN	انا بخير. طيب، عتسير اي بقعه؟
+10433	corpus-6-test-corpus-26-train	SAN	هو مرتفع الفين واربعميه متر.
+10435	corpus-6-test-corpus-26-train	SAN	هيا. لو سمحت اطرحه فوق الماسه هاناك.
+10440	corpus-6-test-corpus-26-train	SAN	لو سمحت ألغي رقم البطاقه حقي.
+10468	corpus-6-test-corpus-26-train	SAN	انا اسف، كلهن قد ابتاعين، لكن عيجين بعد كم يوم.
+10473	corpus-6-test-corpus-26-test	SAN	ممكن تديلي شويه قهوه؟
+10477	corpus-6-test-corpus-26-train	SAN	مابش معي موعد، لكنو ضروري.
+10479	corpus-6-test-corpus-26-train	SAN	هذا معمول بردائه.
+10480	corpus-6-test-corpus-26-train	SAN	اين هو الدرج المتحرك؟
+10497	corpus-6-test-corpus-26-train	SAN	معاكم بروشور للاحداث؟
+10500	corpus-6-test-corpus-26-train	SAN	من اين مدخل المترو؟
+10504	corpus-6-test-corpus-26-train	SAN	ضيعت تذكرة الطيران حقي.
+10559	corpus-6-test-corpus-26-train	SAN	ماتقدرش تجلس هانا في الأجازه؟
+10562	corpus-6-test-corpus-26-train	SAN	يو، انا اسف أزعجتك.
+10563	corpus-6-test-corpus-26-dev	SAN	ممكن تحجز للاحداث؟
+10565	corpus-6-test-corpus-26-train	SAN	به حمام عام قريب من هانا؟
+10590	corpus-6-test-corpus-26-train	SAN	ايشو الفندق؟
+10593	corpus-6-test-corpus-26-train	SAN	هذا قوي حالي. الان للاسئله، لو سمحت.
+10599	corpus-6-test-corpus-26-train	SAN	معك فكة للعداد حق الموقف؟
+10617	corpus-6-test-corpus-26-test	SAN	حقنا الاعلى مبيعا لاخر اربع سنوات هي مكينة التصوير أيه أكس اربعميه وخمسين.
+10645	corpus-6-test-corpus-26-train	SAN	الف لليسار؟
+10662	corpus-6-test-corpus-26-test	SAN	به اي مضيفات يتحاكين ياباني؟
+10670	corpus-6-test-corpus-26-train	SAN	سعر حالي، صح؟
+10680	corpus-6-test-corpus-26-train	SAN	لازم تاخذه تسعه-وتسعين مره باليوم، قبل الوجبة.
+10707	corpus-6-test-corpus-26-train	SAN	انا بين احبه.
+10733	corpus-6-test-corpus-26-train	SAN	اشتي تريبود.
+10736	corpus-6-test-corpus-26-dev	SAN	اشتي جاكت رياضي.
+10749	corpus-6-test-corpus-26-dev	SAN	تقدر تجلس في بيتي.
+10753	corpus-6-test-corpus-26-test	SAN	اقدر لو ادكي على مقعدي، لو سمحت؟
+10756	corpus-6-test-corpus-26-train	SAN	عظيم. كنت بين ادور تكس، لكن هذا احسن.
+10760	corpus-6-test-corpus-26-train	SAN	كوت حالي. هل هو صناعة بريطانية؟
+10778	corpus-6-test-corpus-26-train	SAN	اشتي اسير مركز هارفرد. ممكن تقول لي لمن نوصل هاناك؟
+10790	corpus-6-test-corpus-26-train	SAN	اثنين كبار واثنين جهال، لو سمحت.
+10817	corpus-6-test-corpus-26-train	SAN	كم السعر؟
+10824	corpus-6-test-corpus-26-train	SAN	ستار وارز كان اعظم نجاح في الف وتسعمية واربعة وثمانين.
+10830	corpus-6-test-corpus-26-train	SAN	اين قسم غير المدخنين؟
+10831	corpus-6-test-corpus-26-train	SAN	ت مثل ماهو ب توم، ايوة هوذا هانا، يا تارو.
+10848	corpus-6-test-corpus-26-test	SAN	أعتقد ان المنظر خلاب.
+10851	corpus-6-test-corpus-26-test	SAN	اشتي شويه تفاح، لو سمحت.
+10869	corpus-6-test-corpus-26-train	SAN	لايش هو هذا؟
+10882	corpus-6-test-corpus-26-train	SAN	ايش من بطاقة ائتمان تقبل؟
+10922	corpus-6-test-corpus-26-train	SAN	معي وقت خيرات.
+10930	corpus-6-test-corpus-26-train	SAN	طيب، قدوة وقت الغداء. تشتي تناقش الموضوع وقت الغداء؟
+10937	corpus-6-test-corpus-26-dev	SAN	مسجل الفيديو استرق من غرفتي.
+10950	corpus-6-test-corpus-26-train	SAN	اهلا، اسمي أودا. انا معي حجز اليوم في الليل، بس شاتأخرشوية بتسجيل الدخول. لذلك لوسمحت خلي الحجز حقي.
+10953	corpus-6-test-corpus-26-train	SAN	هذلا الجزمات متينات؟
+10955	corpus-6-test-corpus-26-test	SAN	لو سمحت قل له انه مراعي ل اتصاله.
+10964	corpus-6-test-corpus-26-train	SAN	بيقولو ان الانفلونزا منتشره هناك.
+10973	corpus-6-test-corpus-26-train	SAN	بالداخل.
+10975	corpus-6-test-corpus-26-train	SAN	انا اسف. احنا محجوزين بكره الليل.
+10976	corpus-6-test-corpus-26-train	SAN	انا مع شويه من الاصحاب.
+10985	corpus-6-test-corpus-26-train	SAN	على ما قال جورو، السيد يامادا معه اثنين جهال.
+10994	corpus-6-test-corpus-26-dev	SAN	ممكن تقوله مره ثانيه؟
+10997	corpus-6-test-corpus-26-train	SAN	بنفسي اعمل لفه لبرج لندن.
+11019	corpus-6-test-corpus-26-train	SAN	لو سمحت اربط حزام الامان.
+11027	corpus-6-test-corpus-26-test	SAN	كود المنطقه هو ثلاثه. رقم التلفون هو اثنين ثلاثه اربعه ثلاثه اربعه صفر صفر.
+11030	corpus-6-test-corpus-26-test	SAN	عفوا. به هانا اي جسر قريب؟
+11041	corpus-6-test-corpus-26-dev	SAN	عفوا، اشتي استخدم الحمام.
+11046	corpus-6-test-corpus-26-train	SAN	قدوة فل.
+11047	corpus-6-test-corpus-26-test	SAN	اداته دايما تبع الموضه.
+11054	corpus-6-test-corpus-26-train	SAN	معاكم ماكولات بحريه؟
+11057	corpus-6-test-corpus-26-train	SAN	هذا شويه غالي.
+11058	corpus-6-test-corpus-26-train	SAN	بنفسي، لكن أسف ماقدرش اعمله هذه المره.
+11064	corpus-6-test-corpus-26-train	SAN	طيب، ما اعرفش لحد الان، لكن اكيد شا احاول.
+11069	corpus-6-test-corpus-26-dev	SAN	ملح، لو سمحت.
+11082	corpus-6-test-corpus-26-train	SAN	لو سمحت استخدم غرفه القياس هاناك.
+11100	corpus-6-test-corpus-26-train	SAN	تسعين دولار لتذكره ذهاب. كاش والا بطاقه؟
+11109	corpus-6-test-corpus-26-dev	SAN	ممكن تفضي لي الطاوله، لو سمحت؟
+11123	corpus-6-test-corpus-26-train	SAN	كيف الاباء اليابانيين يربو عيالهم؟ هل هم زريين مع جهالهم؟
+11126	corpus-6-test-corpus-26-train	SAN	ممكن تقل لي ماهن ساعات العمل؟
+11131	corpus-6-test-corpus-26-dev	SAN	لو سمحت غلفهن منفصلات.
+11161	corpus-6-test-corpus-26-train	SAN	بطني بين احسها ثقيله.
+11171	corpus-6-test-corpus-26-dev	SAN	سابر. اين نقدر نراعي لك؟
+11174	corpus-6-test-corpus-26-train	SAN	عنقدر نبدا نلعب لمن يتمو؟
+11190	corpus-6-test-corpus-26-train	SAN	عدد السكان في اليابان حوالي ميه وعشرين مليون.
+11197	corpus-6-test-corpus-26-train	SAN	عبي هولا النقط في بطاقه التسجيل.
+11199	corpus-6-test-corpus-26-train	SAN	اقدر اشل حاجاتي؟
+11240	corpus-6-test-corpus-26-train	SAN	معك مقارم حرير؟ بين ادور على هديه لمرتي.
+11246	corpus-6-test-corpus-26-train	SAN	عنديه الان. ما رقم غرفتك؟
+11264	corpus-6-test-corpus-26-test	SAN	السيد كوبايشي بيدور عليك.
+11267	corpus-6-test-corpus-26-train	SAN	بنفسي اسافر من شنغاهاي ل هاواي بباخره.
+11278	corpus-6-test-corpus-26-test	SAN	ممكن ترسل اي واحد؟
+11282	corpus-6-test-corpus-26-train	SAN	تقدر تجهزة ل بكره خمس الليل؟
+11302	corpus-6-test-corpus-26-train	SAN	يشل عشر دقايق مشي رجل.
+11316	corpus-6-test-corpus-26-train	SAN	قبل ما نسميه يوم، ممكن تدو لي شويه دقايق؟
+11325	corpus-6-test-corpus-26-dev	SAN	اين شا اقدر اجنب سيارتي؟
+11336	corpus-6-test-corpus-26-dev	SAN	بين احس ان انا بارد و بطني بتوجعني قوي.
+11342	corpus-6-test-corpus-26-train	SAN	سكوتش و ماء، لو سمحت. معك اي وجبه خفيفه؟
+11343	corpus-6-test-corpus-26-train	SAN	كيف اطفي هذا السراج؟
+11360	corpus-6-test-corpus-26-train	SAN	هل هو مشغول اليوم قوي؟
+11374	corpus-6-test-corpus-26-train	SAN	اشتي خيط.
+11375	corpus-6-test-corpus-26-train	SAN	اديلي رخصه طبيه، لو سمحت.
+11378	corpus-6-test-corpus-26-train	SAN	اشتيك تقصرها لي انش واحد من هانا.
+11392	corpus-6-test-corpus-26-train	SAN	مش انا بخير. لو سمحت اديلي لي علاج.
+11403	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي جريده يابانيه، لو سمحت؟
+11404	corpus-6-test-corpus-26-train	SAN	طيب. اقدر اجنب السياره ب اي بقعه؟ كم رسوم التجنيب؟
+11412	corpus-6-test-corpus-26-train	SAN	ايش من باص يسير ل مركز المدينه؟
+11420	corpus-6-test-corpus-26-train	SAN	به اكسبريس لبوسطن؟
+11435	corpus-6-test-corpus-26-train	SAN	لو سمحت كون صديقي بالمراسلة.
+11438	corpus-6-test-corpus-26-dev	SAN	انا شا اجلس مع صديق.
+11442	corpus-6-test-corpus-26-train	SAN	انا قوي متحمس، ما اقدرش اقر.
+11449	corpus-6-test-corpus-26-train	SAN	اقدر انزل في فندق هيلتون؟
+11450	corpus-6-test-corpus-26-train	SAN	انا اشتيك تبعده.
+11457	corpus-6-test-corpus-26-train	SAN	امشي يسار نهايه هذا الشارع و ادخل اول لفه يمين.
+11462	corpus-6-test-corpus-26-train	SAN	اشتي ادرى اذا هو ممكن اقدر ارسل هذلا الصحون لطوكيو.
+11467	corpus-6-test-corpus-26-train	SAN	اشتي طاقه جسديه.
+11478	corpus-6-test-corpus-26-train	SAN	به هانا اي اكل مشو مبسبس وحامي؟
+11479	corpus-6-test-corpus-26-train	SAN	هل هو قريب كفايه نخطى؟
+11491	corpus-6-test-corpus-26-dev	SAN	اشتي شويه كريم يد.
+11493	corpus-6-test-corpus-26-train	SAN	ممكن تمرر لي الملح؟
+11500	corpus-6-test-corpus-26-train	SAN	اشتي اسير لشارع وول؟
+11541	corpus-6-test-corpus-26-train	SAN	الرياضه الخيرات عتضرك.
+11544	corpus-6-test-corpus-26-train	SAN	يتضمن الصبوح، الضرايب، وقيمه الخدمه، عتوقع حوالي خمسه واربعين دولار للشخص بالليله.
+11550	corpus-6-test-corpus-26-train	SAN	عتقدر تصلح ذيه؟
+11574	corpus-6-test-corpus-26-train	SAN	مساء الخير. حيا.
+11576	corpus-6-test-corpus-26-train	SAN	ما قدرتش القى شنطك.
+11595	corpus-6-test-corpus-26-train	SAN	امشي طوالي، لو سمحت.
+11600	corpus-6-test-corpus-26-train	SAN	الماء هانا امن للشرب؟
+11622	corpus-6-test-corpus-26-train	SAN	اهاي، هيا. هو الا دولارين.
+11626	corpus-6-test-corpus-26-train	SAN	لو سمحت ممكن تبدل لي هذا الفستان بمقاس اكبر؟
+11631	corpus-6-test-corpus-26-train	SAN	طيب، هيا نمشي. شا اقدر اساعدك بعملك بعد ما ناكل بيتزا.
+11633	corpus-6-test-corpus-26-train	SAN	ايوة، مستر تاناكا. به رسالتين لك.
+11643	corpus-6-test-corpus-26-train	SAN	ما بيجيش عليا.
+11646	corpus-6-test-corpus-26-train	SAN	بكره يوم ثاني.
+11663	corpus-6-test-corpus-26-train	SAN	ممكن اقدر اساعدك. تحتاج فيتامين سي؟
+11689	corpus-6-test-corpus-26-train	SAN	محفظتي استرقت من الجيب بالقطار.
+11704	corpus-6-test-corpus-26-train	SAN	هو قوي بعيد. احسن تاخذ تاكسي.
+11708	corpus-6-test-corpus-26-train	SAN	اشتي مقعد على الممر، لو سمحت.
+11709	corpus-6-test-corpus-26-train	SAN	ساكن بشقه ب ثمانيه الف ين بالشهر.
+11714	corpus-6-test-corpus-26-train	SAN	ممكن اتدخل؟
+11720	corpus-6-test-corpus-26-dev	SAN	وريني واحد اوسع.
+11734	corpus-6-test-corpus-26-train	SAN	عفوا. عندك مانع نغير المقاعد؟
+11746	corpus-6-test-corpus-26-train	SAN	ايوة، بالتاكيد.
+11751	corpus-6-test-corpus-26-train	SAN	انزل منزل للركن ولف يسار عند اشاره المرور.
+11754	corpus-6-test-corpus-26-dev	SAN	تشتي بكرات صغار او كبار؟
+11767	corpus-6-test-corpus-26-test	SAN	اشتي غرفه مفرد مع حمام ب ثمانين دولار، لو سمحت.
+11800	corpus-6-test-corpus-26-train	SAN	اشتي اطرح حاجاتي الغاليه في خزنه الفندق.
+11817	corpus-6-test-corpus-26-dev	SAN	معك غرفه فاضيه الليله؟
+11821	corpus-6-test-corpus-26-train	SAN	ايوة، بس اتاكد ان تذكرتك تكون معك.
+11862	corpus-6-test-corpus-26-train	SAN	شويه ناس بس اللي بينضمو للرحله الاختياريه.
+11872	corpus-6-test-corpus-26-train	SAN	لا تهم.
+11879	corpus-6-test-corpus-26-train	SAN	ناس جدد بيتوظفو في ابريل.
+11880	corpus-6-test-corpus-26-train	SAN	اتمنى ذلك.
+11885	corpus-6-test-corpus-26-train	SAN	اثنين سكوتش و ماء، لو سمحت.
+11901	corpus-6-test-corpus-26-train	SAN	من اللي بيلعب؟
+11913	corpus-6-test-corpus-26-dev	SAN	ممكن تتصل لي اذا لقيت شنطتي؟
+11916	corpus-6-test-corpus-26-train	SAN	لليسار، لو سمحت.
+11932	corpus-6-test-corpus-26-test	SAN	ممكن تجي جمبي نتصور؟
+11938	corpus-6-test-corpus-26-dev	SAN	ماشي. تشتي تبلغ عليه؟
+11949	corpus-6-test-corpus-26-train	SAN	هذه السنه اللي بالقدام توجع.
+11959	corpus-6-test-corpus-26-train	SAN	ما هي اخر لعبه بالكمبيوتر ل عمر خمسطعشر سنه؟
+11972	corpus-6-test-corpus-26-train	SAN	عنبسرك بكره.
+11973	corpus-6-test-corpus-26-test	SAN	به مطعم ارخص قريب من هانا؟
+11975	corpus-6-test-corpus-26-train	SAN	ماشي، بس شكرا. قد انا احسن.
+11976	corpus-6-test-corpus-26-train	SAN	معك اي خبز؟
+11977	corpus-6-test-corpus-26-train	SAN	كيف انت بالكمان؟
+11990	corpus-6-test-corpus-26-train	SAN	صاحبي طحس وادرب للقاع بالحمام.
+11991	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي طفايه؟
+11997	corpus-6-test-corpus-26-train	SAN	المسيحيه ممنوعه والبلاد غلقت ابوابها على بقيه العالم.
+12005	corpus-6-test-corpus-26-train	SAN	كم تشتي؟
+12012	corpus-6-test-corpus-26-train	SAN	كوكتيل جمبري لها ونفس الشي لي.
+12033	corpus-6-test-corpus-26-train	SAN	ممكن تجي توقع هانا؟ ولو سمحت الاختصار هانا.
+12035	corpus-6-test-corpus-26-train	SAN	كان الشرف لي بزياره مكتبكم الرئيسي والحصول على مناقشات هامه معك. شكرا لك لتعاونك الكريم.
+12054	corpus-6-test-corpus-26-train	SAN	شخارك مزعج.
+12056	corpus-6-test-corpus-26-train	SAN	ما اعجبنيش اللون بالنهايه. اقدر ارجع هذا؟
+12057	corpus-6-test-corpus-26-dev	SAN	اخرج من ذيك الباب اللي هاناك، وراعي بالنقطه رقم خمسه.
+12060	corpus-6-test-corpus-26-dev	SAN	دجاج مشوي، لو سمحت.
+12069	corpus-6-test-corpus-26-train	SAN	ممكن شويه بيبار؟
+12074	corpus-6-test-corpus-26-test	SAN	ايوة، اشتي حاجه اقراها.
+12101	corpus-6-test-corpus-26-train	SAN	انا مستر تاكهاشي في غرفه خمسه تسعه واربعين. تقدر ترسل اربع قوارير بيره بدويسير، لو سمحت؟
+12131	corpus-6-test-corpus-26-train	SAN	هذه سبعين دولار.
+12140	corpus-6-test-corpus-26-train	SAN	لو سمحت اتصل لفندقي لوما تحصل شنطي.
+12150	corpus-6-test-corpus-26-train	SAN	اشتي اتصال تقومني على الساعه ثمان ونص بكره الصبح، لو سمحت.
+12167	corpus-6-test-corpus-26-train	SAN	ايوة، بس هذا خيرات قوي و انا قد انا ملان.
+12172	corpus-6-test-corpus-26-train	SAN	اشتي شويه غسول فم.
+12173	corpus-6-test-corpus-26-train	SAN	بين احس ان انا مش بخير.
+12182	corpus-6-test-corpus-26-train	SAN	تدي خصومات بالجمله؟
+12193	corpus-6-test-corpus-26-train	SAN	طوكيو صفر ثلاثه اربع تسعات اربعه خمسه سته سبعه.
+12240	corpus-6-test-corpus-26-train	SAN	تقدر تساعدني الاقي حديقه الحيوانات؟
+12246	corpus-6-test-corpus-26-train	SAN	عتقل لي كيف اعدله؟
+12247	corpus-6-test-corpus-26-train	SAN	ايش من وقت عتتم جوله الباص؟
+12254	corpus-6-test-corpus-26-train	SAN	تعرف كيف تستخدم التلفون؟
+12259	corpus-6-test-corpus-26-train	SAN	اكيد. معانا علامات كتب امريكيه اصلية حاليه.
+12298	corpus-6-test-corpus-26-train	SAN	عامل مكالمات بيتحاكى ياباني، لو سمحت.
+12331	corpus-6-test-corpus-26-train	SAN	احنا مهتمين بالموضه.
+12333	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي حبل؟
+12345	corpus-6-test-corpus-26-train	SAN	هذه عيادة اف؟
+12364	corpus-6-test-corpus-26-train	SAN	حيا، الانسه ياماجوتشي؟ جهة الاتصال على الخط. اتصالك مقبول. اتفضلي، لو سمحتي.
+12391	corpus-6-test-corpus-26-test	SAN	من اين اقدر اشتري كوبونات النقل؟
+12396	corpus-6-test-corpus-26-train	SAN	ايحين عنوصل لوس انجلس؟
+12403	corpus-6-test-corpus-26-train	SAN	امشي طوالي لحوالي خمس دقايق، ولف يسار.
+12416	corpus-6-test-corpus-26-train	SAN	من هذا الطريق لجهه الشاطئ.
+12420	corpus-6-test-corpus-26-train	SAN	هذا شاي الاعشاب يساعد على تجديد الجسم.
+12421	corpus-6-test-corpus-26-train	SAN	هذلا مشن مصنوعات في اليابان، او ماشي؟
+12443	corpus-6-test-corpus-26-train	SAN	تمام. هذا الطريق لو سمحت. شا اوريك لغرفتك.
+12479	corpus-6-test-corpus-26-train	SAN	ضروري اخرج من الفندق قبل ظهر.
+12495	corpus-6-test-corpus-26-train	SAN	اثنين برجر و اثنين قهوة، لو سمحت. اشتي اشلهن لخارج.
+12510	corpus-6-test-corpus-26-train	SAN	ممكن اشل هذلا الشنطتين؟
+12527	corpus-6-test-corpus-26-train	SAN	انا طلبت لحم، مش سمك. ممكن تغير هذا؟
+12546	corpus-6-test-corpus-26-train	SAN	ابني منهك تماما.
+12551	corpus-6-test-corpus-26-train	SAN	انا تاعب لبطني.
+12556	corpus-6-test-corpus-26-train	SAN	هذا الجاكت مشو مقاسي.
+12557	corpus-6-test-corpus-26-train	SAN	اشتي اقابل مستر ويليام.
+12560	corpus-6-test-corpus-26-train	SAN	يحتوي على سبع فيتامينات و معادن.
+12562	corpus-6-test-corpus-26-test	SAN	السنه راخيه.
+12589	corpus-6-test-corpus-26-train	SAN	اقدر اشل الزلط لمن ارجع اليابان؟
+12599	corpus-6-test-corpus-26-train	SAN	من ايش معمول هذه الطبخه؟
+12603	corpus-6-test-corpus-26-train	SAN	من اي بلده هذا مصنوع؟
+12608	corpus-6-test-corpus-26-train	SAN	تقدر تعمله بعشر دقايق؟
+12611	corpus-6-test-corpus-26-dev	SAN	مش انا تمام بالانجليزي. به احد هانا يتحاكى ياباني؟
+12615	corpus-6-test-corpus-26-train	SAN	من اين اقدر اشل رمز مترو الانفاق؟
+12638	corpus-6-test-corpus-26-train	SAN	بيرتسل لك عشرين عينه اضافيه.
+12644	corpus-6-test-corpus-26-train	SAN	ما اعتقدش ان هذا لي لانه بشرتي جافه نوعا ما.
+12650	corpus-6-test-corpus-26-train	SAN	ممكن جدول زمني، لو سمحت؟
+12658	corpus-6-test-corpus-26-dev	SAN	ايوة، شكلي شا اراعي.
+12671	corpus-6-test-corpus-26-train	SAN	تسعه-وتسعين دولار بالساعه على الجاهل.
+12672	corpus-6-test-corpus-26-train	SAN	انا اسف، قد ابتاعين.
+12677	corpus-6-test-corpus-26-train	SAN	لازم يكون هادئ.
+12678	corpus-6-test-corpus-26-dev	SAN	معي مكينتي.
+12679	corpus-6-test-corpus-26-train	SAN	مفتاح الغرفه، خمسه صفر ثلاثه، لو سمحت.
+12699	corpus-6-test-corpus-26-test	SAN	ايش من وقت بينعرض تيرمينال مان؟
+12701	corpus-6-test-corpus-26-train	SAN	اين الصالون؟
+12708	corpus-6-test-corpus-26-train	SAN	الساعه سبع، لو سمحت.
+12712	corpus-6-test-corpus-26-train	SAN	شنطتي اتخربت.
+12713	corpus-6-test-corpus-26-train	SAN	سياحه.
+12732	corpus-6-test-corpus-26-train	SAN	انا من اسبانيا.
+12750	corpus-6-test-corpus-26-dev	SAN	به مشكله بمفتاح كرت الغرفه. ممكن تديلي واحد ثاني، لو سمحت؟
+12755	corpus-6-test-corpus-26-dev	SAN	معي طفح جلدي في يدي.
+12761	corpus-6-test-corpus-26-train	SAN	ارسل هذا ببريد جوي لليابان، لو سمحت.
+12766	corpus-6-test-corpus-26-test	SAN	اين هو اقرب صيدلي؟
+12770	corpus-6-test-corpus-26-dev	SAN	نبيذ اخر، لو سمحت.
+12773	corpus-6-test-corpus-26-train	SAN	الناس حبوبين قوي.
+12776	corpus-6-test-corpus-26-test	SAN	كم عدد المشروبات المحسوبات بالسعر؟
+12777	corpus-6-test-corpus-26-test	SAN	فعلتها.
+12782	corpus-6-test-corpus-26-train	SAN	اين بوابه الصعود لهذه الرحله؟
+12790	corpus-6-test-corpus-26-test	SAN	اذا به واحده فاضيه، لو سمحت احجز طاوله جمب الطاقه؟
+12805	corpus-6-test-corpus-26-dev	SAN	قد كان معمول اعلان الصعود؟
+12810	corpus-6-test-corpus-26-train	SAN	احنا على ارتفاع اثناعشر الف قدم.
+12820	corpus-6-test-corpus-26-train	SAN	اولا، نشتي نبسر شارع وول.
+12822	corpus-6-test-corpus-26-train	SAN	اين محطة الباصان حق اوكسفورد؟
+12823	corpus-6-test-corpus-26-train	SAN	شا اراعي لوما تفضى البلكونه.
+12835	corpus-6-test-corpus-26-train	SAN	ممكن نبسر بعض المحافظ الجلدية؟
+12861	corpus-6-test-corpus-26-dev	SAN	هيا نبسر تلفزيون. به مباراه بيسبول.
+12878	corpus-6-test-corpus-26-train	SAN	عتكتب عنوانك هانا؟
+12884	corpus-6-test-corpus-26-train	SAN	لو سمحت قل لي اين اقرب صيدليه هانا.
+12903	corpus-6-test-corpus-26-train	SAN	لحقي الفندق، لو سمحت. عنوان الفندق هانا.
+12905	corpus-6-test-corpus-26-dev	SAN	كم عدد المحافظات غير طوكيو؟
+12917	corpus-6-test-corpus-26-train	SAN	ارفع السماعه وراعي شويه لو سمحت.
+12936	corpus-6-test-corpus-26-train	SAN	ايش عادة تفعل بالبيت بعد العشاء؟
+12941	corpus-6-test-corpus-26-train	SAN	بالتاكيد. ايحين تشتي نلعب جولف؟
+12945	corpus-6-test-corpus-26-train	SAN	عتوقع بالبيت على حوالي ثلاث.
+12952	corpus-6-test-corpus-26-train	SAN	اشتي اتصل للسفاره اليابانيه.
+12968	corpus-6-test-corpus-26-train	SAN	زياده شويه.
+12969	corpus-6-test-corpus-26-train	SAN	من اين بيتحركين باصات السياحه؟
+12973	corpus-6-test-corpus-26-train	SAN	كم بتاخذ ل ارسالهن لليابان؟
+12976	corpus-6-test-corpus-26-dev	SAN	مابش معي اي مضارب ولا جزمات.
+13015	corpus-6-test-corpus-26-train	SAN	الين الياباني تمام؟
+13022	corpus-6-test-corpus-26-train	SAN	معك موستانق؟
+13027	corpus-6-test-corpus-26-train	SAN	احنا عنقفز من هانا؟
+13069	corpus-6-test-corpus-26-train	SAN	مستر كاواي، معانا لك الان طاوله. جي من هانا، لو سمحت.
+13072	corpus-6-test-corpus-26-train	SAN	اكيد. انزل الدرج هاناك وعتبسر بعض الاتجاهات. اخطى بعدهن.
+13075	corpus-6-test-corpus-26-dev	SAN	مكتب الاستقبال. اقدر اساعدك؟
+13076	corpus-6-test-corpus-26-train	SAN	تقدر تطرحني في فندق هيلتون، لو سمحت؟
+13077	corpus-6-test-corpus-26-dev	SAN	غالبا ما تضطر تشتغل لوقت متاخر؟
+13090	corpus-6-test-corpus-26-dev	SAN	قوي اسف، لكن ماعد بش معانا. ما رايك بورق امريكي؟
+13095	corpus-6-test-corpus-26-train	SAN	طاوله لغير المدخنين، لو سمحت.
+13096	corpus-6-test-corpus-26-train	SAN	ممكن تقل لي قبل ما نوصل ل دورهام؟
+13113	corpus-6-test-corpus-26-test	SAN	هذا طري؟
+13116	corpus-6-test-corpus-26-train	SAN	هذا مشو صح. انت دايما بتعالجني.
+13118	corpus-6-test-corpus-26-dev	SAN	ممكن توريني بعض الفساتين؟
+13126	corpus-6-test-corpus-26-train	SAN	اتهجيها، لو سمحت.
+13133	corpus-6-test-corpus-26-train	SAN	قد انا بين اسكر من الخمر.
+13134	corpus-6-test-corpus-26-train	SAN	اوبه لانه الجو بيتغير قوي بالجبال.
+13159	corpus-6-test-corpus-26-train	SAN	شيك سياحي و ين ياباني، تمام؟
+13162	corpus-6-test-corpus-26-train	SAN	اسف، بحثت عند الاثنين خدمه الغرف و قسم المفقودات. مش هو معاهم.
+13172	corpus-6-test-corpus-26-train	SAN	هو مكان صعب نلقاه. هو في شارع صغير خارج الطريق السريع الرئيسي.
+13183	corpus-6-test-corpus-26-train	SAN	ما اعرفش حاجه عنه.
+13184	corpus-6-test-corpus-26-train	SAN	نقدر نتحاكى عليه في كافيه.
+13188	corpus-6-test-corpus-26-train	SAN	بين ابسر، في هذه الحاله مش انا مضطر ادفع رسوم التغيير، صح؟
+13202	corpus-6-test-corpus-26-train	SAN	عامل المكالمات، لو سمحت.
+13262	corpus-6-test-corpus-26-train	SAN	ممكن توطي السرج، لو سمحت؟
+13264	corpus-6-test-corpus-26-dev	SAN	عتسكني الليله؟
+13267	corpus-6-test-corpus-26-train	SAN	طيب. شا اشل بس ثنتين. شكرا.
+13268	corpus-6-test-corpus-26-train	SAN	هيذا هاه فاتورتك. هي ثلاثمية وسبعة وتسعين دولار.
+13269	corpus-6-test-corpus-26-train	SAN	انت محظوظ.
+13287	corpus-6-test-corpus-26-train	SAN	لو سمحت جهز طاوله بمنظر ليلي حالي.
+13290	corpus-6-test-corpus-26-train	SAN	تيه مصنوعه يدويا او بالمكينه؟
+13291	corpus-6-test-corpus-26-train	SAN	اشتي استاجر تيه السياره ب اربعه وعشرين ساعه.
+13306	corpus-6-test-corpus-26-train	SAN	كان قوي حالي ان انا قابلتك.
+13322	corpus-6-test-corpus-26-train	SAN	قدوة مشطوط.
+13333	corpus-6-test-corpus-26-dev	SAN	طيب الان، هيا نبسرك كيف.
+13347	corpus-6-test-corpus-26-train	SAN	طيب، تخيل كم عياخذ عمله وقت اطول لو سأل سؤال واحد زيادة لكل شخص. هيا نسرع ندي حقنا الشنط. لازم نسير للجمارك بعد.
+13396	corpus-6-test-corpus-26-train	SAN	ايش هو الوزن؟
+13399	corpus-6-test-corpus-26-train	SAN	به هانا مطعم صيني قريب؟
+13407	corpus-6-test-corpus-26-train	SAN	منصه خمسه هي هاناك.
+13408	corpus-6-test-corpus-26-train	SAN	ايحين هي مباراه كره القدم؟
+13423	corpus-6-test-corpus-26-dev	SAN	قدهي معاد بتشتغلش. تقدر تشيك على حقي الكاميرا؟
+13424	corpus-6-test-corpus-26-test	SAN	قهوه مع كريمة و سكر، لوسمحت.
+13436	corpus-6-test-corpus-26-train	SAN	أعتقد أن به شوية أخطاء في الفاتورة.
+13438	corpus-6-test-corpus-26-train	SAN	لو سمحت اديلي هذا.
+13440	corpus-6-test-corpus-26-train	SAN	هي البوابه السابعه.
+13444	corpus-6-test-corpus-26-train	SAN	أنت اسكتلندي؟
+13446	corpus-6-test-corpus-26-train	SAN	ثلاثه-اثنين-واحد-اثنين. راعي ثانيه، تمام؟ أشتي ارسلك حاجه هانا. عفوا.
+13471	corpus-6-test-corpus-26-test	SAN	مائه و خمسة وثلاثين ين لكل دولار.
+13476	corpus-6-test-corpus-26-train	SAN	الفوط القصار مع البواتي مستحيل يخرجين عن الموضة.
+13477	corpus-6-test-corpus-26-train	SAN	ممكن أحاكي المدير؟
+13480	corpus-6-test-corpus-26-train	SAN	ليش أجرتك غير الذي في العداد؟
+13484	corpus-6-test-corpus-26-train	SAN	ممكن أبسر هذا؟
+13487	corpus-6-test-corpus-26-train	SAN	وعدت نفسي أنني لما أبسرك، أنني شتعرف عليك.
+13488	corpus-6-test-corpus-26-train	SAN	أيش بيحصل لهذا الوقت المتأخر؟
+13492	corpus-6-test-corpus-26-train	SAN	بينحس أنني مش بخير. ممكن تقترح عليا دكتور؟
+13504	corpus-6-test-corpus-26-train	SAN	الطرف الثاني على الخط. اتفضل.
+13515	corpus-6-test-corpus-26-train	SAN	به عرض على الارض؟
+13528	corpus-6-test-corpus-26-dev	SAN	المرحاض مابيصرفش.
+13532	corpus-6-test-corpus-26-dev	SAN	كم عيشل وقت من هانا لسيتي هول رجل؟
+13547	corpus-6-test-corpus-26-train	SAN	اشرب هذا العلاج بعد كل وجبة لما يوجعك قوي.
+13550	corpus-6-test-corpus-26-train	SAN	أطرح الزلط في ظرف مميز مزين يسموه شوجيبوكورو.
+13553	corpus-6-test-corpus-26-train	SAN	واحد مجروح.
+13609	corpus-6-test-corpus-26-test	SAN	بينتسائل أيش أشل منه؟
+13624	corpus-6-test-corpus-26-train	SAN	معك خريطه للمترو؟
+13629	corpus-6-test-corpus-26-train	SAN	معي غرفه جاهزه لك في فندق جراند. تقدر تسير هاناك؟
+13635	corpus-6-test-corpus-26-train	SAN	فيني وجع في عيني اليمين.
+13657	corpus-6-test-corpus-26-train	SAN	أنا ماناش قوي في الألماني.
+13660	corpus-6-test-corpus-26-train	SAN	لازم نرجع جمعه مره ثانيه.
+13666	corpus-6-test-corpus-26-train	SAN	عتضيق هذا البنطلون؟
+13682	corpus-6-test-corpus-26-train	SAN	ممكن أتسلف مضرب وكرات؟
+13685	corpus-6-test-corpus-26-test	SAN	ممكن تطرح شوية فكة؟
+13694	corpus-6-test-corpus-26-train	SAN	ممكن تديلي نص قارورة؟
+13707	corpus-6-test-corpus-26-train	SAN	حيا. أنا جون.
+13717	corpus-6-test-corpus-26-train	SAN	ناكاي.
+13719	corpus-6-test-corpus-26-train	SAN	عندك مانع اذا صورتك أنت وحقك التاكسي؟
+13733	corpus-6-test-corpus-26-train	SAN	أتصلت عاسب شنطة ضايعه قبل ثلاثه أيام.
+13748	corpus-6-test-corpus-26-test	SAN	أشتي فندق أرخص.
+13755	corpus-6-test-corpus-26-dev	SAN	اوه، به حاجات خيرات لازم انك تبسرها في قريه جرينويتش.
+13769	corpus-6-test-corpus-26-train	SAN	في البزنس. معي صلات تجاريه هانا.
+13783	corpus-6-test-corpus-26-train	SAN	مناسب على بدلتك.
+13784	corpus-6-test-corpus-26-train	SAN	ممكن لو سمحت تنتبه لحقي الشنطه؟
+13788	corpus-6-test-corpus-26-train	SAN	كيف تحب هذه الفكرة؟ عنقبل شرطك بإشعار ستة شهور بشرط تديلنا الحق بالبيع لستة شهور بعد انتهاء العقد.
+13803	corpus-6-test-corpus-26-train	SAN	عفوا، تعرف نيويورك سوى؟
+13824	corpus-6-test-corpus-26-test	SAN	اذا راعي. لوسمحت اتصل لنا لما قدك جاهز.
+13827	corpus-6-test-corpus-26-train	SAN	اشي ابسر جراح.
+13828	corpus-6-test-corpus-26-dev	SAN	هذلا مكونات طبيعيه؟
+13831	corpus-6-test-corpus-26-train	SAN	أشتي أركب في سيارة رياضية.
+13843	corpus-6-test-corpus-26-train	SAN	رمز المنطقه صفر ثلاثه. الرقم هو واحد اثنين ثلاثه أربعه خمسه سته سبعه.
+13854	corpus-6-test-corpus-26-train	SAN	استبرد.
+13856	corpus-6-test-corpus-26-test	SAN	سياره صغيره بيكون احسن شي.
+13862	corpus-6-test-corpus-26-train	SAN	أشتي أرسل هذا التوصيل العادي.
+13903	corpus-6-test-corpus-26-train	SAN	خليني أحول هذا الاتصال للرجال المسؤول.
+13913	corpus-6-test-corpus-26-train	SAN	أيش من مقاس تشتي؟
+13919	corpus-6-test-corpus-26-train	SAN	يو، ياعزيزي. ما كنتش داري أن عاد معي هذلا.
+13920	corpus-6-test-corpus-26-train	SAN	معك مجموعه صناديق لارسال الطرود؟
+13921	corpus-6-test-corpus-26-train	SAN	الطيران عيدفع لحقي الفندق و قيمة الوجبات؟
+13938	corpus-6-test-corpus-26-train	SAN	كل هذلا حقك الشنط؟
+13942	corpus-6-test-corpus-26-train	SAN	كيف تشتي تفعل هذا الاتصال؟
+13946	corpus-6-test-corpus-26-train	SAN	طيب، هذا غالي. مشو مصنوع في اليابان. صح؟
+13953	corpus-6-test-corpus-26-train	SAN	ممكن تمكني الملح؟
+13966	corpus-6-test-corpus-26-train	SAN	أينو أقرب مطعم من هذا الفندق؟
+13993	corpus-6-test-corpus-26-train	SAN	أشتي شامبو للشعر العادي.
+14008	corpus-6-test-corpus-26-train	SAN	أيحين تعتقد أنهم عيلاقوه؟
+14014	corpus-6-test-corpus-26-train	SAN	أتمنى لك سنه جديده سعيدة.
+14018	corpus-6-test-corpus-26-train	SAN	الطيران عيدفع لحقي الفندق و قيمة الوجبات.
+14043	corpus-6-test-corpus-26-test	SAN	لو سمحت قوله مره ثانيه ببطئ أكثر.
+14045	corpus-6-test-corpus-26-train	SAN	عفوا، أشتي أطلب طلب.
+14059	corpus-6-test-corpus-26-test	SAN	معانا جمبري نيوبرق و رجل غنمي مشوي.
+14069	corpus-6-test-corpus-26-train	SAN	أشتي غرفه بمنظر حالي.
+14074	corpus-6-test-corpus-26-train	SAN	ثلاثه قلاصات عصير حبحب، لو سمحت.
+14086	corpus-6-test-corpus-26-train	SAN	معي ثلاثه عيال.
+14088	corpus-6-test-corpus-26-train	SAN	أخطى طوالي لنهايه هذه القاعه ولف يسار عند الركن . عتبسره على يمينك.
+14089	corpus-6-test-corpus-26-dev	SAN	هي رحلة ليوم كامل؟
+14094	corpus-6-test-corpus-26-train	SAN	كم بتكلف تذكره سيره وجيه ل اكسفورد؟
+14098	corpus-6-test-corpus-26-train	SAN	انا اسير لنادي رياضي كل يومين.
+14099	corpus-6-test-corpus-26-train	SAN	أين شقدر أجلس خلال الرحله؟
+14104	corpus-6-test-corpus-26-train	SAN	أيشو وقت الخروج؟
+14108	corpus-6-test-corpus-26-train	SAN	بكم المرشد باليوم؟
+14120	corpus-6-test-corpus-26-train	SAN	من اين شا اقدر احصل سيديهات؟
+14147	corpus-6-test-corpus-26-train	SAN	عفوا. انا طالب جامعي من اليابان. انتو طلاب ان واي يو؟
+14150	corpus-6-test-corpus-26-train	SAN	ممكن تقل لنا كيف بتقيم هذه الخطه؟
+14167	corpus-6-test-corpus-26-train	SAN	اكي، تعرف محل تسجيل حالي قريب من هانا؟
+14168	corpus-6-test-corpus-26-train	SAN	كاش او على الحساب؟
+14174	corpus-6-test-corpus-26-train	SAN	بينشتغل في شركة تدريب.
+14175	corpus-6-test-corpus-26-train	SAN	مشو من الادب انك تسال الناس كم بيستلمو.
+14184	corpus-6-test-corpus-26-train	SAN	هل هذولا ليفيز خمسمية وواحد اصليات؟
+14195	corpus-6-test-corpus-26-train	SAN	أيش من وقت أقدر أتحمم؟
+14198	corpus-6-test-corpus-26-train	SAN	ما يبانش عليك ان عمرك واحد وعشرين سنه.
+14219	corpus-6-test-corpus-26-train	SAN	بين ابسر. بالحقيقه، حقها الفلم عالي السرعه. عندك مانع اذا خرجته؟
+14224	corpus-6-test-corpus-26-train	SAN	أشتريته الان.
+14232	corpus-6-test-corpus-26-train	SAN	شدي واحد الان.
+14235	corpus-6-test-corpus-26-train	SAN	ثمانيه دولار. وهذه واحده الان.
+14242	corpus-6-test-corpus-26-train	SAN	لو سمحت اظهره مع المشتريات للجمارك في المطار.
+14261	corpus-6-test-corpus-26-train	SAN	به هانا اي محلات شاملة عاملين الان تخفيضات؟
+14265	corpus-6-test-corpus-26-train	SAN	عامل المكالمات، وصلني ب محطه الحريق.
+14266	corpus-6-test-corpus-26-train	SAN	معي بطاربه عتنتهي.
+14289	corpus-6-test-corpus-26-train	SAN	وقف في التقاطع الجاي.
+14292	corpus-6-test-corpus-26-train	SAN	اوه، هوذا هاه. و ضروري كل يواحد يعبي استماره البيان الجمركي؟
+14304	corpus-6-test-corpus-26-train	SAN	و ممكن اسمك لو سمحت؟
+14306	corpus-6-test-corpus-26-train	SAN	عندك مانع لو اتصل اتصال على حساب المتلقي؟
+14311	corpus-6-test-corpus-26-train	SAN	سلام. كيف حالك؟
+14317	corpus-6-test-corpus-26-train	SAN	اين قسم السفر؟
+14336	corpus-6-test-corpus-26-train	SAN	ما اسم الشخص اللي تشتي تتحاكى معه؟
+14347	corpus-6-test-corpus-26-test	SAN	انا اسف، مشو هانا في هذه اللحظه.
+14363	corpus-6-test-corpus-26-train	SAN	ابسر هذا، ابسر هذا. عتقولي ان الفرق بين هذا الرجال وهذاك الرجال هو الحظ؟ محمد، جنب لوسمحت. عادي لو نزلتك هانا. انا قدنا متأخر ياخي. فرصة سعيدة، تمام؟
+14373	corpus-6-test-corpus-26-dev	SAN	غرفتك مطله على المدينه؟
+14389	corpus-6-test-corpus-26-train	SAN	به اي رسايل لي؟
+14400	corpus-6-test-corpus-26-test	SAN	عادوة غالي غالي قوي. اقدر اشله ب ثلاثه دولار؟
+14402	corpus-6-test-corpus-26-train	SAN	نشتي غرفه بالخلف.
+14403	corpus-6-test-corpus-26-dev	SAN	معي قلص خمر.
+14416	corpus-6-test-corpus-26-train	SAN	شكلك حالي.
+14426	corpus-6-test-corpus-26-test	SAN	اشتي غرفه مزدوجه. بكم الغرفه بالليله؟
+14434	corpus-6-test-corpus-26-train	SAN	تبعد حوالي تسعه وتسعين ميل.
+14441	corpus-6-test-corpus-26-train	SAN	فينس وليندا يشتوا يجلسوا لوحدهم، لذلك أسف شاضطر اجلس هانا الليلة.
+14444	corpus-6-test-corpus-26-train	SAN	لو سمحت خلي هذه الشنط مربوطة.
+14448	corpus-6-test-corpus-26-train	SAN	انا اسمي ساتو.
+14457	corpus-6-test-corpus-26-train	SAN	انا اعرف نادي جاز قديم وسطه المدينه.
+14459	corpus-6-test-corpus-26-train	SAN	اشتي هذه الوجبة الرئيسية.
+14462	corpus-6-test-corpus-26-dev	SAN	اشتي اجرب نفس الطبق ذياك.
+14475	corpus-6-test-corpus-26-train	SAN	اذا شا اشله.
+14477	corpus-6-test-corpus-26-train	SAN	هذا بيطلع للدور السادس؟
+14478	corpus-6-test-corpus-26-dev	SAN	جلد التمساح؟
+14483	corpus-6-test-corpus-26-train	SAN	لو سمحت اطرحه في كيس غسيل وخليه هاناك.
+14484	corpus-6-test-corpus-26-train	SAN	اشتي هذا الفلم يكون جاهز. ايحين عيكون جاهز؟
+14495	corpus-6-test-corpus-26-dev	SAN	لو سمحت لا تديش هذا المفتاح لاحد غيري.
+14500	corpus-6-test-corpus-26-test	SAN	طيب. شا اجي اشلك من الفندق على الساعه ثمان.
+14502	corpus-6-test-corpus-26-train	SAN	الطاقه تمام.
+14505	corpus-6-test-corpus-26-train	SAN	خلي نبعتي لانازل، لو سمحت.
+14507	corpus-6-test-corpus-26-train	SAN	هل بيشمل كل مصاريف النقل؟
+14509	corpus-6-test-corpus-26-train	SAN	محافظه بيت الاوبرا.
+14514	corpus-6-test-corpus-26-train	SAN	اين هو مكتب اجر-سياره؟
+14519	corpus-6-test-corpus-26-dev	SAN	قد لي محموم من امس.
+14520	corpus-6-test-corpus-26-train	SAN	مش هو ذوقي.
+14530	corpus-6-test-corpus-26-train	SAN	ايش معك من خضروات؟
+14531	corpus-6-test-corpus-26-test	SAN	اشتي تجعيدة واسعة لوسمحت.
+14534	corpus-6-test-corpus-26-train	SAN	ايحين عيجي الدكتور؟
+14537	corpus-6-test-corpus-26-train	SAN	هذا اللون الغلط.
+14538	corpus-6-test-corpus-26-train	SAN	السنه اكتسرت.
+14542	corpus-6-test-corpus-26-train	SAN	هذا مقعد على الممر او عند الطاقه؟
+14557	corpus-6-test-corpus-26-train	SAN	انا ما بين امشيش رجل.
+14564	corpus-6-test-corpus-26-dev	SAN	تقدر توصل شنطتي للغرفه؟
+14573	corpus-6-test-corpus-26-train	SAN	وريني واحده ل شابه.
+14590	corpus-6-test-corpus-26-train	SAN	تقدر تسحب ل هانا؟
+14593	corpus-6-test-corpus-26-dev	SAN	معك اي شي ب ثمانيه دولار بالضبط؟
+14605	corpus-6-test-corpus-26-train	SAN	انا عاطش.
+14612	corpus-6-test-corpus-26-train	SAN	بدون حليب، لو سمحت.
+14683	corpus-6-test-corpus-26-dev	SAN	معي ثلاث شنط.
+14685	corpus-6-test-corpus-26-train	SAN	اين هي البحيره؟
+14693	corpus-6-test-corpus-26-test	SAN	عفوا. اضغط على زر التصوير، لو سمحت.
+14709	corpus-6-test-corpus-26-train	SAN	ممكن اشل مجله او اي شي؟
+14718	corpus-6-test-corpus-26-train	SAN	هو جنوب.
+14721	corpus-6-test-corpus-26-train	SAN	بكم مقاعد اللي بالبلكونه؟
+14734	corpus-6-test-corpus-26-test	SAN	نشتي بحيره مطله على البحيره.
+14737	corpus-6-test-corpus-26-train	SAN	به هانا صندوق بريد قريب من هانا؟
+14757	corpus-6-test-corpus-26-train	SAN	طيب. شا اشلك لاهاناك.
+14761	corpus-6-test-corpus-26-train	SAN	الجزء المكتوب بالمائل يشير الى التغييرات الي وقعت بالتسعينات.
+14763	corpus-6-test-corpus-26-train	SAN	هو عمره ثلاثين سنه.
+14777	corpus-6-test-corpus-26-test	SAN	تمام. تقدرتكتب لي العنوان زد مرة فوق هذا الظرف؟
+14783	corpus-6-test-corpus-26-train	SAN	اشتي اسير ل هاررودز. ممكن ترسم لي الخريطه، لو سمحت؟
+14786	corpus-6-test-corpus-26-train	SAN	ايش بتفعل في وقت فراغك؟
+14789	corpus-6-test-corpus-26-train	SAN	معك بطاريات لهذلا الكيمرات؟
+14805	corpus-6-test-corpus-26-train	SAN	اشتي كيبل تصوير عن بعد.
+14807	corpus-6-test-corpus-26-train	SAN	انت الاخير بهذا الطابور؟
+14810	corpus-6-test-corpus-26-train	SAN	اعتقد انه قدوة كله محجوز.
+14813	corpus-6-test-corpus-26-train	SAN	رميه سابره. خارج بالضبط.
+14818	corpus-6-test-corpus-26-train	SAN	ممكن تقل لي على الاماكن الحاليه هانا؟
+14820	corpus-6-test-corpus-26-train	SAN	به هانا محلات شاملة قريبه هانا؟
+14854	corpus-6-test-corpus-26-dev	SAN	انا والكل.
+14862	corpus-6-test-corpus-26-train	SAN	اشتي انضم من سان ديغو.
+14863	corpus-6-test-corpus-26-train	SAN	كنت بين افكر اشل هذاك الكورس الترم الجاي.
+14887	corpus-6-test-corpus-26-train	SAN	الخمر ماهو بارد كفايه. عتخليه يبرد اكثر؟
+14901	corpus-6-test-corpus-26-dev	SAN	تقدر تغير هذاك الخرص ل كليبسات؟
+14903	corpus-6-test-corpus-26-train	SAN	ب ايش انت مهتم اكثر شي الان؟
+14905	corpus-6-test-corpus-26-train	SAN	اشتي فلوس. ممكن ترجع لي فلوسي؟
+14926	corpus-6-test-corpus-26-train	SAN	تقريبا ما شا اقدر احصل مشروب نفس هذا ب اي بقعه.
+14933	corpus-6-test-corpus-26-train	SAN	لو تشتري هذه والكل، عيوقع معفى من الجمارك.
+14952	corpus-6-test-corpus-26-train	SAN	ممكن ابسر شهاده التلقيح حقك، لو سمحت؟
+14960	corpus-6-test-corpus-26-train	SAN	انت بتسافر خيرات؟
+14969	corpus-6-test-corpus-26-train	SAN	انا من امريكا.
+14976	corpus-6-test-corpus-26-train	SAN	معي تذكره طيران ل سان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	SAN	اذا هي خمسطعشر دقيقه من المحطه، انا شا امشي رجل.
+15019	corpus-6-test-corpus-26-train	SAN	اشتي فندق ارخص ب شويه.
+15020	corpus-6-test-corpus-26-test	SAN	بونساي يستمع كانها هوايه واحد عجوز.
+15024	corpus-6-test-corpus-26-dev	SAN	ماقد قررتش للان. ممكن تدي لي وقت شويه زياده؟
+15025	corpus-6-test-corpus-26-train	SAN	فيني صداع.
+15036	corpus-6-test-corpus-26-dev	SAN	عتجي معي نشرب قهوة؟
+15037	corpus-6-test-corpus-26-train	SAN	اشتي شهاده طبيه و فاتوره للتامين حقي.
+15046	corpus-6-test-corpus-26-test	SAN	اوة، لا. لو سمحت اقطب. قد احنا متاخرين.
+15051	corpus-6-test-corpus-26-train	SAN	مشتيش اصرف اكثر من عشرين دولار.
+15062	corpus-6-test-corpus-26-train	SAN	ليش الطايره ماقد اقلعتش؟ قل لي ما بيحصل.
+15073	corpus-6-test-corpus-26-test	SAN	كم الرسوم؟ ممكن تكتب الرسوم في ورقه؟
+15083	corpus-6-test-corpus-26-train	SAN	اشتي استاجر كرسي على ظهر السفينه.
+15087	corpus-6-test-corpus-26-train	SAN	راعي دقيقه، لو سمحت.
+15088	corpus-6-test-corpus-26-test	SAN	هل المفروض النسوان يلبسين رسمي؟
+15095	corpus-6-test-corpus-26-train	SAN	لا تلمسني.
+15109	corpus-6-test-corpus-26-train	SAN	معك شقاره؟
+15123	corpus-6-test-corpus-26-train	SAN	اذا الريح مش هيه قوي قويه، عنقدر نسير لتيكي بوينت.
+15126	corpus-6-test-corpus-26-train	SAN	يجنن.
+15133	corpus-6-test-corpus-26-train	SAN	شا اغلق الان. شكرا لانتباهك.
+15145	corpus-6-test-corpus-26-dev	SAN	معك الوان ثانيه لهذا؟
+15149	corpus-6-test-corpus-26-train	SAN	من هو؟
+15157	corpus-6-test-corpus-26-train	SAN	عفوا. ممكن تقل لي اين موقف التكاسي؟
+15170	corpus-6-test-corpus-26-train	SAN	و للشرب؟
+15181	corpus-6-test-corpus-26-train	SAN	هوذا هاه.
+15201	corpus-6-test-corpus-26-train	SAN	اين اقرب محل اجهزه؟
+15206	corpus-6-test-corpus-26-train	SAN	ممم. ما بيشتغلش، صح؟ تقدر تنقل ل مقعد فاضي، اذا تشتي.
+15221	corpus-6-test-corpus-26-train	SAN	انا بين ادور على ذيه.
+15240	corpus-6-test-corpus-26-train	SAN	حاضر سيدي. و ما تشتي للحلى؟
+15246	corpus-6-test-corpus-26-train	SAN	عربة والا بولمان؟
+15247	corpus-6-test-corpus-26-train	SAN	شيكات سياحية. شكرا. هذه تذكرتك و بطاقة صعودك. كون هاناك، لو سمحت، قبل وقت الرحله بساعه.
+15257	corpus-6-test-corpus-26-test	SAN	وجع حاد.
+15259	corpus-6-test-corpus-26-train	SAN	الاسم هو جورو موتوياما. والرقم هو صفر ثلاثه ثلاثه اثنين سته واحد اثنين اربعه تسعه خمسه.
+15262	corpus-6-test-corpus-26-train	SAN	بين احسن ان انا تاعب قوي.
+15274	corpus-6-test-corpus-26-train	SAN	"ايش اوقات عرض ""كوسيز لف""؟"
+15283	corpus-6-test-corpus-26-train	SAN	طيب. تشتي قهوتك الان او بعدين؟
+15292	corpus-6-test-corpus-26-train	SAN	قل لي اقوى نادي ريغغي في نيو يورك.
+15295	corpus-6-test-corpus-26-test	SAN	ب ايش من طريقه بيختلفين منتجاتكم عن المنافسين حقكم؟
+15296	corpus-6-test-corpus-26-train	SAN	هل هو عادي انه محد بيسمع لتعليمات السلامه؟
+15319	corpus-6-test-corpus-26-train	SAN	هل الشارع الخلفي خطير؟
+15320	corpus-6-test-corpus-26-train	SAN	ايوة. لو سمحت اعمل الاجراءات اللازمه.
+15323	corpus-6-test-corpus-26-train	SAN	ايوة، انا بس. ايحين شا ادرى؟ كيف با اتعوض؟
+15331	corpus-6-test-corpus-26-dev	SAN	هيذا هاه هويتي.
+15337	corpus-6-test-corpus-26-train	SAN	احنا نفضل طاوله جمب الطاقه.
+15347	corpus-6-test-corpus-26-train	SAN	لو سمحت قل لي عن ارخص طريقه اسير بها ل سان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	SAN	انت تعرف المطعم، كيويا؟
+15378	corpus-6-test-corpus-26-train	SAN	اتجاه واحد.
+15380	corpus-6-test-corpus-26-train	SAN	انا شا اسمن وانا جالس بين اكل هانا واصل.
+15400	corpus-6-test-corpus-26-train	SAN	به هانا نادي ليلي حالي مع عرض الفلامينكو؟
+15419	corpus-6-test-corpus-26-train	SAN	الفستان اللي لابسه له حالي.
+15431	corpus-6-test-corpus-26-train	SAN	ارجلي بيوجعني.
+15436	corpus-6-test-corpus-26-train	SAN	اين اقرب غرفه غسيل؟
+15443	corpus-6-test-corpus-26-train	SAN	ممكن تغير مقعدك معي، لو سمحت؟
+15447	corpus-6-test-corpus-26-train	SAN	مقاعدنا اتفرقين.
+15452	corpus-6-test-corpus-26-train	SAN	بالحقيقه، اشيتي هذا الطرد يتامن والكل.
+15463	corpus-6-test-corpus-26-train	SAN	الفاتوره توصل لميه دولار.
+15464	corpus-6-test-corpus-26-test	SAN	مخارج الطوارئ موقعهن قدام المبنى، والوسط، وخلف الطايره.
+15470	corpus-6-test-corpus-26-train	SAN	طيب، حجزك مؤكد.
+15476	corpus-6-test-corpus-26-train	SAN	الكعب قوي عالي.
+15477	corpus-6-test-corpus-26-train	SAN	نشتي طاوله في البلكونه.
+15482	corpus-6-test-corpus-26-train	SAN	هذا يعني ان الفلم الليله ما عيوقعش مناسب للاطفال تحت الخمسطاعش. لذلك الاباء لازم يطرحو في اعتبارهم يخلو الجهال يبسرو الفلم او لا.
+15487	corpus-6-test-corpus-26-train	SAN	كيف تشتي الزلط؟ لو سمحت عبي الورقه ووقع هانا.
+15509	corpus-6-test-corpus-26-train	SAN	بعض الاحيان بطني توجعني.
+15522	corpus-6-test-corpus-26-train	SAN	معك اطباق السعرات الحراريه حقه قليله؟ انا عامل ريجيم، الان.
+15529	corpus-6-test-corpus-26-dev	SAN	مابش رسوم لازمه.
+15539	corpus-6-test-corpus-26-train	SAN	ايوة، معي تذكرتين ل جاينتس و دودجرز.
+15546	corpus-6-test-corpus-26-train	SAN	احنا من كبار الموردين للكمبيوترات الصغيره.
+15553	corpus-6-test-corpus-26-train	SAN	شكرا. حتى انا. معسلامه لوقتها.
+15564	corpus-6-test-corpus-26-train	SAN	غرفة مزدوجة مع حمام، لو سمحت.
+15566	corpus-6-test-corpus-26-train	SAN	نكعت بالدرج.
+15575	corpus-6-test-corpus-26-train	SAN	ايش من ايس كريم تقترح؟
+15577	corpus-6-test-corpus-26-dev	SAN	ممم. ذيه. اللون طلع حالي عليك.
+15598	corpus-6-test-corpus-26-test	SAN	اين كتب اللغه الاجنبية؟
+15604	corpus-6-test-corpus-26-train	SAN	شريحتين و سبرايت.
+15607	corpus-6-test-corpus-26-test	SAN	اديلي شويه شقاره.
+15610	corpus-6-test-corpus-26-dev	SAN	غير قانوني انك تدخله للبلده - اسف. طيب، اتوقع هذاك كل شي.
+15652	corpus-6-test-corpus-26-train	SAN	ايوة، انا. كانو عايشين جمبي في كاليفورنيا لكن انتقلو لفلوريدا قبل سنتين. وانت كيف؟ عتسافر لوحدك؟
+15664	corpus-6-test-corpus-26-train	SAN	انا تاعب.
+15666	corpus-6-test-corpus-26-train	SAN	طفلي شكله تاعب من الحمى.
+15673	corpus-6-test-corpus-26-train	SAN	بهذا المقاس، لو سمحت.
+15674	corpus-6-test-corpus-26-train	SAN	طلبات المزايا الثقافيه بيدوهن للفنانين والعلماء المميزين في هذا اليوم.
+15676	corpus-6-test-corpus-26-train	SAN	انا ياباني.
+15692	corpus-6-test-corpus-26-train	SAN	هذا قوي غالي.
+15699	corpus-6-test-corpus-26-train	SAN	ايوة. شل باص اللي بيسير ل كيوتو-ايكي.
+15710	corpus-6-test-corpus-26-train	SAN	هي للاعضاء بس؟
+15735	corpus-6-test-corpus-26-dev	SAN	الغرفه بتكلف سته الف ين بالليله.
+15763	corpus-6-test-corpus-26-train	SAN	اقدر اشل هذلا لفوق الطايره؟
+15775	corpus-6-test-corpus-26-train	SAN	طيب. كل اللي اشتي اعرفه اذا البزنس بيدفع بطريقته.
+15784	corpus-6-test-corpus-26-train	SAN	عادي. تشتي مقرمه تناسب هذا؟
+15788	corpus-6-test-corpus-26-train	SAN	اشحن البطاريه، لو سمحت.
+15791	corpus-6-test-corpus-26-train	SAN	انا جاهز للطلب.
+15798	corpus-6-test-corpus-26-dev	SAN	الاملاح العشبيه حق البانيو تخلي بشرتك ملمسها ناعم وطاسي.
+15804	corpus-6-test-corpus-26-train	SAN	اكتب اسم شركة الطيران ورقم الرحله، والكل.
+15814	corpus-6-test-corpus-26-train	SAN	صدق. اليوم احد، والاحد اخس يوم.
+15896	corpus-6-test-corpus-26-train	SAN	ايوه، هي مشكله التخلص من القمامه.
+15897	corpus-6-test-corpus-26-train	SAN	اشتي هذه النقشه لوضع بخمس مجالس.
+15899	corpus-6-test-corpus-26-train	SAN	معظم العوايل معاهم معاشين.
+15902	corpus-6-test-corpus-26-train	SAN	"اوه. هذه الفضه نادره ""القمر والجرس"". اكيد تشتي تبدلهن؟"
+15911	corpus-6-test-corpus-26-train	SAN	امي واختي عيجو من اليابان عسب يبسروني. عيوصلو هانا حوالي سبع الليل.
+15942	corpus-6-test-corpus-26-train	SAN	البني قوي مشهور هذه السنه.
+15950	corpus-6-test-corpus-26-test	SAN	فكره حاليه. ايحين مخطط تجي؟
+15967	corpus-6-test-corpus-26-train	SAN	طيب. مقعدين، لو سمحت.
+15989	corpus-6-test-corpus-26-train	SAN	اين هو السوق؟
+16007	corpus-6-test-corpus-26-train	SAN	انا مراعي اجرب بدل السباق الجديده.
+16016	corpus-6-test-corpus-26-train	SAN	انا اتهيا لي يا شباب انكم عادكم اكلتم دوناتس.
+16034	corpus-6-test-corpus-26-train	SAN	بكم تذكرة الدرجه الاولى ل ايدنبره، لو سمحت؟
+16042	corpus-6-test-corpus-26-train	SAN	شكل ان الزلط اللي جبتها لي عشرة دولار بالضبط.
+16046	corpus-6-test-corpus-26-train	SAN	عاد انا اتصلت ل مستر سميث في غرفه اثنين صفر واحد، لكن محد رد. ممكن تبسر اذا عاد هو بيجلس هانا؟
+16061	corpus-6-test-corpus-26-train	SAN	اشتي واحده حديثه.
+16070	corpus-6-test-corpus-26-train	SAN	بين اشتغل لشركه نشر.
+16073	corpus-6-test-corpus-26-train	SAN	ممكن لو سمحت تعبي هذا؟
+16080	corpus-6-test-corpus-26-test	SAN	ايش من شارع هذا؟
+16082	corpus-6-test-corpus-26-test	SAN	ممكن توزن هذا الطرد؟
+16089	corpus-6-test-corpus-26-train	SAN	ايش يسمو هذا بالانجليزي؟
+16091	corpus-6-test-corpus-26-train	SAN	امشي طوالي على هذا الممر، بعدين بتلاقيه على جهه اليمين.
+16098	corpus-6-test-corpus-26-train	SAN	اشتي ااكد هذا.
+16106	corpus-6-test-corpus-26-train	SAN	صباح الخير. هذا مكتب الاستقبال. ممكن اساعدك؟
+16127	corpus-6-test-corpus-26-train	SAN	حاضر. لو سمحت ادخل.
+16130	corpus-6-test-corpus-26-test	SAN	ايوة، استاذ. انا اجي هانا اصتبح كل يوم، من الاثنين للجمعه، قبل ما اسير العمل.
+16140	corpus-6-test-corpus-26-dev	SAN	مابش مشكله.
+16141	corpus-6-test-corpus-26-train	SAN	لو سمحت وصلني ب ثلاثه اثنين سته اثنين تسعه واحد ثمانيه.
+16158	corpus-6-test-corpus-26-train	SAN	ايوة، نقدر نخدمك من الساعة سبع.
+16167	corpus-6-test-corpus-26-train	SAN	لوسمحت تمدد هانا.
+16169	corpus-6-test-corpus-26-test	SAN	ايش الخدمة السريعة هذه.
+16191	corpus-6-test-corpus-26-train	SAN	يمكن عادهو عيرجع يظهر.
+16217	corpus-6-test-corpus-26-train	SAN	لو سمحت لف يسار بالتقاطع الجاي.
+16219	corpus-6-test-corpus-26-dev	SAN	عفوا، كيف اقدر اوصل للبنك؟
+16222	corpus-6-test-corpus-26-train	SAN	به خدمة باصات لمتحف فورد؟
+16227	corpus-6-test-corpus-26-train	SAN	ايوة. اسمك ورقم غرفتك لوسمحت.
+16231	corpus-6-test-corpus-26-train	SAN	كم عتاخذ وقت لما توصل لليابان بالبريد الجوي؟
+16238	corpus-6-test-corpus-26-train	SAN	طيب. أشوفك الساعة ثنتين يوم الأحد.
+16258	corpus-6-test-corpus-26-train	SAN	اشتي اسير عبر نيويورك لا تورونتو.
+16259	corpus-6-test-corpus-26-train	SAN	السستة مكسورة. معك ثانيات نفسه؟
+16271	corpus-6-test-corpus-26-train	SAN	هذا كأنو وسخ.
+16279	corpus-6-test-corpus-26-dev	SAN	تقدر تعيد تأكيد رحلتي؟ هذي حقي التذكرة.
+16291	corpus-6-test-corpus-26-train	SAN	معك هذا بلون اخضر غامق؟
+16292	corpus-6-test-corpus-26-test	SAN	عتشلني لا كانتربري وترجعني؟
+16311	corpus-6-test-corpus-26-train	SAN	اقدر اشل شوكة جديدة؟
+16312	corpus-6-test-corpus-26-train	SAN	شكرا جزيلا على لطفك.
+16335	corpus-6-test-corpus-26-train	SAN	عفوا، ما نبيعش تذاكر للمسرح.
+16337	corpus-6-test-corpus-26-train	SAN	اشتي ابسر هذا.
+16339	corpus-6-test-corpus-26-train	SAN	ها، هذا حالي. ايش لازم اعمل؟
+16344	corpus-6-test-corpus-26-dev	SAN	اشتي امدد جلستي هانا يومين اطول.
+16351	corpus-6-test-corpus-26-train	SAN	لوسمحت غير مقعدي.
+16365	corpus-6-test-corpus-26-train	SAN	معانا جمبري حالي قوي اليوم.
+16371	corpus-6-test-corpus-26-train	SAN	للساعة كم هو فاتح؟
+16395	corpus-6-test-corpus-26-train	SAN	للمدخنين او لغير؟
+16403	corpus-6-test-corpus-26-train	SAN	غالي قوي عليا. ما تقدرش ترخصه؟
+16409	corpus-6-test-corpus-26-dev	SAN	انا فاتح يوم الربوع الصبح او الجمعة بعد الظهر.
+16413	corpus-6-test-corpus-26-train	SAN	انا ما عملتش حجز.
+16434	corpus-6-test-corpus-26-train	SAN	لان الصيف في اليابان بالعادة حما قوي، وماكانش معانا تكييف زمان.
+16444	corpus-6-test-corpus-26-train	SAN	تقدرتتصل بتكسي لي الساعة ثمان غدوة الصبح؟
+16453	corpus-6-test-corpus-26-train	SAN	هو شرير.
+16465	corpus-6-test-corpus-26-train	SAN	ليش ما نراعي للباص تحت المظلة؟
+16477	corpus-6-test-corpus-26-train	SAN	تعال يا كينجي. جي اعملك لفة حول المكتب.
+16478	corpus-6-test-corpus-26-train	SAN	ايوة، هو مفتوح من تسع لا تسع.
+16484	corpus-6-test-corpus-26-dev	SAN	مقدرش أرقد سوا في الليل.
+16487	corpus-6-test-corpus-26-train	SAN	كيف اثر الركود الاقتصادي على الاعمال؟
+16495	corpus-6-test-corpus-26-train	SAN	انا معي موعد ثاني.
+16516	corpus-6-test-corpus-26-train	SAN	معي خريطة طرق للمدينة؟
+16536	corpus-6-test-corpus-26-dev	SAN	الشي نفسه الي كنت بين ادوره.
+16542	corpus-6-test-corpus-26-train	SAN	ما فهمتش شرحك.
+16546	corpus-6-test-corpus-26-train	SAN	لازم اعمل صلة. عدسير بوسطن.
+16547	corpus-6-test-corpus-26-train	SAN	اين احسن بقعة للسياحة؟
+16576	corpus-6-test-corpus-26-train	SAN	هل هو متين؟
+16577	corpus-6-test-corpus-26-train	SAN	استمتعت بوقتي قوي.
+16581	corpus-6-test-corpus-26-train	SAN	طيب اذا، اشتي يوقع معي وجه صغير ساع جوليا روبرتس.
+16586	corpus-6-test-corpus-26-train	SAN	تقدر تشل هذا لوسمحت؟
+16601	corpus-6-test-corpus-26-train	SAN	الراكبين المسافرين على طيران ايه بي سي الرحلة سبعة صفر ثلاثة متجهة الى طوكيو لوسمحتوا تقدموا الى البوابة رقم عشرين للاجرائات الحكومية.
+16607	corpus-6-test-corpus-26-train	SAN	وين محطة الباص حق بي؟
+16643	corpus-6-test-corpus-26-train	SAN	في الفردي، لوسمحت.
+16653	corpus-6-test-corpus-26-dev	SAN	اين ممكن اشتي مفرش للطاولة؟
+16679	corpus-6-test-corpus-26-train	SAN	اقدر اوظف مرشد يتحاكى ياباني؟
+16696	corpus-6-test-corpus-26-train	SAN	تشتيني اشل صورتك؟
+16709	corpus-6-test-corpus-26-train	SAN	ما حصلتش هذا الطبق.
+16718	corpus-6-test-corpus-26-train	SAN	قطعت اصبعي. به مطهر؟
+16723	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي طابع ابو خمسه-وتسعين؟
+16736	corpus-6-test-corpus-26-train	SAN	شا اكون هانا على ثمان الا ربع.
+16746	corpus-6-test-corpus-26-train	SAN	اشتي شويه عطر.
+16747	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي جدول زمني؟
+16751	corpus-6-test-corpus-26-test	SAN	عتسير المدرسه هانا؟
+16758	corpus-6-test-corpus-26-dev	SAN	كم كان داخله؟
+16760	corpus-6-test-corpus-26-train	SAN	فندق هيلتون بعيد من هانا؟
+16769	corpus-6-test-corpus-26-train	SAN	انا متاكد ان انا طرحته في شنطتي.
+16770	corpus-6-test-corpus-26-train	SAN	ارفعو ايديكم.
+16771	corpus-6-test-corpus-26-train	SAN	تنصحونا بطعم قريب من هانا؟
+16773	corpus-6-test-corpus-26-train	SAN	ايش يعجبك، الظلمي او الضوء؟
+16781	corpus-6-test-corpus-26-train	SAN	ممكن تقل لي لاين عنسافر؟
+16793	corpus-6-test-corpus-26-train	SAN	تذكره نقل، لو سمحت.
+16796	corpus-6-test-corpus-26-train	SAN	اين به بقعه حاليه نعمل لها يوم رحله؟
+16799	corpus-6-test-corpus-26-train	SAN	اشتي شنطه كيلي الحمراء نفس هذا الموديل.
+16805	corpus-6-test-corpus-26-train	SAN	عادك عتفعل هذاك الجدول؟
+16810	corpus-6-test-corpus-26-train	SAN	ايحين بيفتح البنك؟
+16811	corpus-6-test-corpus-26-train	SAN	بين احس بتعب.
+16819	corpus-6-test-corpus-26-train	SAN	قد انا مربوش. ممكن ترسم لي خريطه؟
+16822	corpus-6-test-corpus-26-test	SAN	خارج.
+16829	corpus-6-test-corpus-26-test	SAN	شلني للمستشفى.
+16833	corpus-6-test-corpus-26-train	SAN	ضروري اجي للمستشفى يوميه؟
+16837	corpus-6-test-corpus-26-train	SAN	بطني بتوجعني.
+16839	corpus-6-test-corpus-26-train	SAN	بكم ارسل هذه الرساله لليابان عبر البريد؟
+16842	corpus-6-test-corpus-26-train	SAN	اشتي قلص شيري.
+16869	corpus-6-test-corpus-26-train	SAN	تشتي احد يشل لك من المطار؟
+16872	corpus-6-test-corpus-26-dev	SAN	بيقلع الساعه اربع وثلاثين لهذا لو سمحت كون هناك قبل هذاك الوقت.
+16878	corpus-6-test-corpus-26-train	SAN	من ثلاثين الف ين.
+16879	corpus-6-test-corpus-26-train	SAN	من اين اقدر اشتري كرت للتلفون؟
+16888	corpus-6-test-corpus-26-train	SAN	اقدر ارجعه ب مدينه ثانيه؟
+16889	corpus-6-test-corpus-26-dev	SAN	انا مخطط اجلس ل اثناعشر يوم.
+16893	corpus-6-test-corpus-26-train	SAN	لو سمحت خلي الفنيليه اطول شويه.
+16896	corpus-6-test-corpus-26-train	SAN	لازم تبسر متخصص.
+16899	corpus-6-test-corpus-26-dev	SAN	شويه دقايق زياده، لو سمحت.
+16904	corpus-6-test-corpus-26-train	SAN	طريق رقم اربعطاعش.
+16911	corpus-6-test-corpus-26-train	SAN	اوه، صدق؟ انت اكيد معك قسم كبير.
+16928	corpus-6-test-corpus-26-dev	SAN	مقدرتش الاقيهم ب اي بقعه.
+16936	corpus-6-test-corpus-26-test	SAN	معك مقاعد فاضيه للندن؟
+16952	corpus-6-test-corpus-26-train	SAN	اشتي نسخه من تقرير السرقه.
+16955	corpus-6-test-corpus-26-dev	SAN	على بعد تقاطع في الشارع.
+16960	corpus-6-test-corpus-26-train	SAN	ممكن تقل لي لمن تكون هناك؟
+16962	corpus-6-test-corpus-26-test	SAN	هذلا السجاير خفيفات؟
+16964	corpus-6-test-corpus-26-train	SAN	ايوة. هكذا بالضبط.
+16967	corpus-6-test-corpus-26-train	SAN	الاكسبريس الجاي بيوصل خلال ساعه.
+16976	corpus-6-test-corpus-26-train	SAN	اشتي تطول اكمام الجاكت الرياضي.
+16992	corpus-6-test-corpus-26-train	SAN	معي حجز. هذا رقم التاكيد.
+17027	corpus-6-test-corpus-26-train	SAN	عيدميلادك قدو عيجي.
+17030	corpus-6-test-corpus-26-dev	SAN	القطارات توقفت بسبب الاضراب.
+17038	corpus-6-test-corpus-26-train	SAN	تقدر تصلح هذا؟
+17068	corpus-6-test-corpus-26-dev	SAN	الشارع مزحوم بالسيارات.
+17079	corpus-6-test-corpus-26-train	SAN	هي العمارة الثانية على يسار هذك العمارة البيضاء.
+17094	corpus-6-test-corpus-26-train	SAN	حجزنا كرسي ليوم خمسة وعشرين اكتوبر يمشي الساعة حداعش الصبح.
+17097	corpus-6-test-corpus-26-train	SAN	ماشي، قدام شوية. هاناك، ايوة.
+17115	corpus-6-test-corpus-26-train	SAN	ايوة، هذاك ما يشملش الوجبات.
+17117	corpus-6-test-corpus-26-train	SAN	فين اقدر ارجع تيه التذكرة؟
+17120	corpus-6-test-corpus-26-train	SAN	ليش بيحصل؟
+17149	corpus-6-test-corpus-26-train	SAN	اشتي ارتاح.
+17158	corpus-6-test-corpus-26-train	SAN	سيارتي تعطلت، لوسمحت جي شلها.
+17163	corpus-6-test-corpus-26-train	SAN	اشتي يوقع شعري اطول شوية من ورا.
+17177	corpus-6-test-corpus-26-train	SAN	ايش معاكم من انواع؟
+17179	corpus-6-test-corpus-26-dev	SAN	اتفق معك. هو واحد من اماكني المفضلة.
+17180	corpus-6-test-corpus-26-train	SAN	ايش براسك من موديل؟
+17204	corpus-6-test-corpus-26-test	SAN	اسمي ميكيتو تاناكا، ورقم الرحلة هو خمسة صفر واحد الى طوكيو.
+17216	corpus-6-test-corpus-26-train	SAN	تقدر لوسمحت ترسم لي خريطة مبسطة من هانا؟
+17217	corpus-6-test-corpus-26-train	SAN	وين نلتقي؟
+17222	corpus-6-test-corpus-26-train	SAN	اشتي يتصلح شعري مثل ما كان.
+17229	corpus-6-test-corpus-26-train	SAN	هاتلي خمسين لوسمحت.
+17272	corpus-6-test-corpus-26-train	SAN	وين اقدر اسجل دخولي للخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	SAN	وين المحتويات؟
+17295	corpus-6-test-corpus-26-train	SAN	هل به اماكن في المنطقة ينصحوا بها بشدة؟
+17311	corpus-6-test-corpus-26-train	SAN	هاتلي فكة لوسمحت.
+17313	corpus-6-test-corpus-26-train	SAN	طيب. شاتأكد انو حقك الشنط يوقعين هانا.
+17315	corpus-6-test-corpus-26-train	SAN	هذا هو تخصصنا، دوفر سول مشوي.
+17339	corpus-6-test-corpus-26-train	SAN	عنجلس.
+17350	corpus-6-test-corpus-26-train	SAN	قد استرقت.
+17356	corpus-6-test-corpus-26-train	SAN	تمام. لازم اركزعليه؟
+17381	corpus-6-test-corpus-26-dev	SAN	عنشارك.
+17394	corpus-6-test-corpus-26-train	SAN	مابش معانا هذا الموديل بالصبط الان. شابسر المخزن. راعي شوية لوسمحت.
+17398	corpus-6-test-corpus-26-train	SAN	سكوتش مع ماء، لوسمحت.
+17399	corpus-6-test-corpus-26-train	SAN	شكله حالي. كم يكلف؟
+17414	corpus-6-test-corpus-26-train	SAN	شل هذه الوصفة للصيدلية. تقدر تشل العلاج من هاناك.
+17438	corpus-6-test-corpus-26-train	SAN	انا طلبت هذاك.
+17453	corpus-6-test-corpus-26-train	SAN	ايوة، تقدرتوقف في اي محطة بين هانا وشيكاجو.
+17460	corpus-6-test-corpus-26-train	SAN	وين اقدر اشتري تذكارات؟
+17475	corpus-6-test-corpus-26-train	SAN	هو غالي قوي. مقدرش اشتريه.
+17482	corpus-6-test-corpus-26-train	SAN	اقدر احصل على رقم أيه بي سي أند كومباني في شيكاجو، لوسمحت.
+17488	corpus-6-test-corpus-26-test	SAN	وين الكاثدرائية؟
+17496	corpus-6-test-corpus-26-train	SAN	كيف تشتي حقك البيض؟
+17504	corpus-6-test-corpus-26-train	SAN	هو جنب هذا المبنى بالضبط.
+17526	corpus-6-test-corpus-26-train	SAN	ماشي، شكلهم نسيوا يدوا لنا واحد.
+17537	corpus-6-test-corpus-26-train	SAN	تمام، قدو مأكد. نقدر نشل رقم تلفونك، احتياط لو احتجنا نتواصل معك؟
+17548	corpus-6-test-corpus-26-train	SAN	ايش اسم المرنج؟
+17559	corpus-6-test-corpus-26-train	SAN	اخليه يرجع يتصل بك لما يجي؟
+17593	corpus-6-test-corpus-26-train	SAN	اشتي اشل هذاك.
+17606	corpus-6-test-corpus-26-train	SAN	تعجبني هذه الخدمة حق الترحيب بالشامبانيا بعد ما نطلع. خلينا نشرب في صحتك.
+17609	corpus-6-test-corpus-26-train	SAN	اربعين دولار باليوم زايد ثمانية سنت بالميل.
+17615	corpus-6-test-corpus-26-train	SAN	شاراهنك بخمسة دولار.
+17636	corpus-6-test-corpus-26-train	SAN	مشو هذا طلب احد ثاني؟
+17645	corpus-6-test-corpus-26-train	SAN	تقدر تقولي كيف اوصل للمتحف؟
+17649	corpus-6-test-corpus-26-train	SAN	انا اسف قوي، بس انا اشتي ااجل الموعد.
+17652	corpus-6-test-corpus-26-test	SAN	تقدر تنصحني ب رحلة صغيرة؟
+17660	corpus-6-test-corpus-26-train	SAN	القطارحقك عيخطى من المنصة الثامنة.
+17673	corpus-6-test-corpus-26-train	SAN	بين ادور شنطة بحزام قابل للتعديل.
+17674	corpus-6-test-corpus-26-train	SAN	اشتي اجلس تحت مية وثمانين دولار.
+17739	corpus-6-test-corpus-26-train	SAN	شاسألك بعد ما ادورفي المنطقة.
+17745	corpus-6-test-corpus-26-test	SAN	ايوة. حجز لست ليالي، لوسمحت. يبدأ ثلاثة وعشرين يوليو.
+17757	corpus-6-test-corpus-26-train	SAN	تقدر توريني ثانيات بموديلات ثانية مختلفة؟
+17765	corpus-6-test-corpus-26-train	SAN	ايش من نوع عصير تشتي؟
+17780	corpus-6-test-corpus-26-train	SAN	عتروح بلدك في الاجازة؟
+17782	corpus-6-test-corpus-26-dev	SAN	وين اقدر اسير ابسر منظر حالي قوي؟
+17786	corpus-6-test-corpus-26-test	SAN	هذا قد كان مكسور لما فتحت العلبة.
+17790	corpus-6-test-corpus-26-test	SAN	ثمانية وعشرين اغسطس.
+17797	corpus-6-test-corpus-26-train	SAN	اشتي ارسل هذا بالبريد الجوي لليابان.
+17798	corpus-6-test-corpus-26-train	SAN	يوم الشكر للعمال. هو يوم شكر لكل هذولا الي بيدعموا المجتمع باشغالهم.
+17799	corpus-6-test-corpus-26-train	SAN	الغرفة صغيرة قوي.
+17803	corpus-6-test-corpus-26-train	SAN	ممكن شوية شاهي زيادة، لوسمحت؟
+17805	corpus-6-test-corpus-26-train	SAN	اشتي هذولا الملابس نظيفات لا بعدين.
+17808	corpus-6-test-corpus-26-train	SAN	به بنك بقريب من هانا؟
+17811	corpus-6-test-corpus-26-train	SAN	ممكن تنظف الطاولة، لوسمحت؟
+17840	corpus-6-test-corpus-26-train	SAN	سكينة لوسمحت.
+17841	corpus-6-test-corpus-26-train	SAN	هن كلهن مطبوعات.
+17842	corpus-6-test-corpus-26-train	SAN	لوسمحت اكتب رقم غرفتك ورا.
+17847	corpus-6-test-corpus-26-train	SAN	احنا نستخدم عيدان اكل صينية لمن ناكل.
+17852	corpus-6-test-corpus-26-train	SAN	ديلتا الرحلة رقم ثمانية وعشرين الى نيو اورلينز عتتاخر تقريبا ساعة واحدة.
+17854	corpus-6-test-corpus-26-train	SAN	لما ارجع لليابان، شاكتب رسالة. لو معك وقت لوسمحت رسل لي رسالة.
+17855	corpus-6-test-corpus-26-train	SAN	فلتت تذكرة الطيارة حقي في الفندق.
+17861	corpus-6-test-corpus-26-train	SAN	غرفة فردية بدون دش، لوسمحت.
+17869	corpus-6-test-corpus-26-train	SAN	شكرا مرة ثانية لانك ذكرتني. هل ناس خيرات ينسوا يوقعوا؟
+17886	corpus-6-test-corpus-26-train	SAN	طيب، الوقت بيكمل علينا. نقدر نكمل هذا النقاش يوم الخميس الساعة واحدة؟
+17899	corpus-6-test-corpus-26-test	SAN	اشتي بيجاما.
+17919	corpus-6-test-corpus-26-train	SAN	طيب. شاتصل بك لما يجهزين.
+17935	corpus-6-test-corpus-26-train	SAN	مارايك نتغدى؟
+17947	corpus-6-test-corpus-26-test	SAN	الليموزين عتوقف في البوابة الشمالية اول.
+17963	corpus-6-test-corpus-26-train	SAN	لاي ساعة اقدر استخدم مطعم الفندق؟
+17966	corpus-6-test-corpus-26-dev	SAN	هل هو قطار مباشر؟
+17977	corpus-6-test-corpus-26-train	SAN	طيب، قدو متأخر. اعتقد اننا لازم اخطى الان. شكرا جزيلا لك على المساء الرائع.
+17986	corpus-6-test-corpus-26-train	SAN	ممكن اخذ علاج لوجع معدتي؟
+18003	corpus-6-test-corpus-26-train	SAN	اشتي دجاجة مشوية.
+18018	corpus-6-test-corpus-26-train	SAN	هو غلطي. مشو غلطك.
+18036	corpus-6-test-corpus-26-train	SAN	عفوا، ايحين يكمل هذا الفلم؟
+18040	corpus-6-test-corpus-26-train	SAN	هذاك لوسمحت.
+18077	corpus-6-test-corpus-26-train	SAN	مجوهراتي انسرقت. لازم اقدم بلاغ.
+18103	corpus-6-test-corpus-26-train	SAN	لحظة بس، لوسمحت. شاوصلك بمستر جونز.
+18110	corpus-6-test-corpus-26-train	SAN	اهلا. هذه شركة طيران يونايتد.
+18131	corpus-6-test-corpus-26-test	SAN	وين تعلم مستر جونز اللغة اليابانية؟
+18138	corpus-6-test-corpus-26-train	SAN	معي واحدة صغيرة نفس الموديل.
+18155	corpus-6-test-corpus-26-train	SAN	تقدر تضيق هذا البنطلون؟
+18161	corpus-6-test-corpus-26-train	SAN	الجمعة الليل، الساعة تسعة.
+18166	corpus-6-test-corpus-26-train	SAN	هل هذه البوابة لا لاس فيغاس؟
+18181	corpus-6-test-corpus-26-train	SAN	معك باص من المطار؟
+18189	corpus-6-test-corpus-26-train	SAN	ملعقة ثانية، لوسمحت.
+18211	corpus-6-test-corpus-26-train	SAN	هو مالح شوية، بس عجبني. اديته معك من اليابان؟
+18226	corpus-6-test-corpus-26-train	SAN	لوسمحت استعجله، اذا ممكن.
+18254	corpus-6-test-corpus-26-train	SAN	تقدر تدفع عشرة دولار هانا كعربون؟
+18264	corpus-6-test-corpus-26-train	SAN	ايوة. قومني بعد ثلاث ساعات، لوسمحت.
+18273	corpus-6-test-corpus-26-dev	SAN	اشتي اطلب، لوسمحت.
+18274	corpus-6-test-corpus-26-test	SAN	هل اقول ايوة ولا لا؟
+18282	corpus-6-test-corpus-26-train	SAN	ملعقتين، لوسمحت.
+18323	corpus-6-test-corpus-26-train	SAN	ايش المحطة الجاية؟
+18334	corpus-6-test-corpus-26-dev	SAN	السيارة بتطلع اصوات غريبة.
+18336	corpus-6-test-corpus-26-test	SAN	اي وقت بيغلق مكتب البريد؟
+18338	corpus-6-test-corpus-26-dev	SAN	دفعت عربون خمسين دولار لما سجلت دخولي.
+18341	corpus-6-test-corpus-26-train	SAN	معك علاج لمعدة وجيعة؟
+18342	corpus-6-test-corpus-26-train	SAN	هل لازم البس كوت وكرفتة؟
+18344	corpus-6-test-corpus-26-train	SAN	اقدر احول فلوس لحاسب التوفير حقي؟
+18355	corpus-6-test-corpus-26-train	SAN	نسيت شنطة اليد حقي.
+18382	corpus-6-test-corpus-26-train	SAN	اشتي ازيد أاكد رحلتي.
+18401	corpus-6-test-corpus-26-train	SAN	ساعتي. هي كانت جديدة سويسرية رقمية.
+18409	corpus-6-test-corpus-26-test	SAN	عديت هذاك الاختبار بألوان طايرة.
+18412	corpus-6-test-corpus-26-dev	SAN	اشتيك تشلني اماكن محمسة. انا سايح، مثل ما انت تعرف.
+18419	corpus-6-test-corpus-26-train	SAN	اقدر اسير اتفرج على معالم سياحية والسفينة في الميناء؟
+18437	corpus-6-test-corpus-26-train	SAN	احسن لك تعدل المراية الخلفية.
+18440	corpus-6-test-corpus-26-dev	SAN	عيوقع به انتظار عشر دقايق ولا شي.
+18441	corpus-6-test-corpus-26-train	SAN	اقدر اشل صحونكم؟
+18451	corpus-6-test-corpus-26-train	SAN	شاكون سعيد. اي وقت تحب؟
+18487	corpus-6-test-corpus-26-train	SAN	اعتقد اننا فلت حقي الكاميرا لما تعشيت هانا امس.
+18492	corpus-6-test-corpus-26-train	SAN	شلهن عند البوابة.
+18502	corpus-6-test-corpus-26-train	SAN	ها، ماشي. مشو ضروري. اقدر اهتم بالموضوع. قد عملت كفاية وزيادة.
+18519	corpus-6-test-corpus-26-train	SAN	يا اما تصلحه ولا تبدله، لوسمحت.
+18521	corpus-6-test-corpus-26-train	SAN	اقدر اعمله اي وقت الشهر الجاي.
+18527	corpus-6-test-corpus-26-train	SAN	لوسمحت خذ وقتك.
+18531	corpus-6-test-corpus-26-train	SAN	كيف يقارن هذا المنتج الجديد بالمنتجات الموجودة؟
+18540	corpus-6-test-corpus-26-train	SAN	اللي بيشتغلو بهذا المحل قوي حبوبين.
+18552	corpus-6-test-corpus-26-train	SAN	ممكن تخلي هذا لي؟
+18562	corpus-6-test-corpus-26-train	SAN	دقيقه بس، لو سمحت.
+18569	corpus-6-test-corpus-26-train	SAN	معك العلامات حق الاستلام حقك؟
+18572	corpus-6-test-corpus-26-train	SAN	اشتي استخدم سياره لمده اسبوع.
+18580	corpus-6-test-corpus-26-train	SAN	ايوة، بالبدايه، غسله لوحده.
+18585	corpus-6-test-corpus-26-train	SAN	لو سمحت وريني بعض الساعات للرجال.
+18595	corpus-6-test-corpus-26-train	SAN	قديه اربع وعشر.
+18612	corpus-6-test-corpus-26-dev	SAN	كم بتكلف الليموزين لوسط المدينه؟
+18614	corpus-6-test-corpus-26-train	SAN	من الصبح.
+18617	corpus-6-test-corpus-26-train	SAN	احسن لو نسرع. قد هم بيطلعوا من الان.
+18632	corpus-6-test-corpus-26-test	SAN	جاء بالضبط.
+18639	corpus-6-test-corpus-26-train	SAN	طلبت دجاج.
+18640	corpus-6-test-corpus-26-train	SAN	لعشر ايام.
+18642	corpus-6-test-corpus-26-train	SAN	كم عمر هذا الولد؟
+18643	corpus-6-test-corpus-26-train	SAN	بكم هو كله؟
+18646	corpus-6-test-corpus-26-train	SAN	اشتي نفس هذاك، لو سمحت.
+18685	corpus-6-test-corpus-26-train	SAN	ضيعت شيكي السياحي.
+18687	corpus-6-test-corpus-26-train	SAN	لو سمحت جيب لي علاج للبرد.
+18690	corpus-6-test-corpus-26-train	SAN	لو سمحت اطرحهن في كون.
+18725	corpus-6-test-corpus-26-train	SAN	انا دايما ابسره كل صباح بالقطار.
+18727	corpus-6-test-corpus-26-train	SAN	ممكن تتعشى معانا في الليل؟
+18747	corpus-6-test-corpus-26-train	SAN	شا اجلس في فندق بي لبكره. شا اكون فرح لو تقل له ان انا هانا.
+18770	corpus-6-test-corpus-26-train	SAN	الرحله اتاجلت خمسه-واربعين دقيقه.
+18771	corpus-6-test-corpus-26-train	SAN	انا اسمي شينو يامادا.
+18784	corpus-6-test-corpus-26-train	SAN	ايش تخصص هذا المطعم؟
+18798	corpus-6-test-corpus-26-test	SAN	معانا نبيذ ابيض ممتاز.
+18830	corpus-6-test-corpus-26-train	SAN	علاج برد بس.
+18834	corpus-6-test-corpus-26-dev	SAN	ممكن تنزل شنطتي لصاله الفندق نازل بكره الصبح؟
+18836	corpus-6-test-corpus-26-train	SAN	اوة، شكلي دايما اضيع حاجه كل مره اسافر.
+18845	corpus-6-test-corpus-26-train	SAN	ان فقدت استخدام ايدي اليمين.
+18847	corpus-6-test-corpus-26-train	SAN	مرحبا، هذا روي؟
+18848	corpus-6-test-corpus-26-test	SAN	اذا، انت عتجي للسوق. اذا خطيت على الشارع عتوصل للمحطه.
+18872	corpus-6-test-corpus-26-train	SAN	لا، مش هانا. به غرفه للمشقرين خلف هذه العربة.
+18877	corpus-6-test-corpus-26-train	SAN	ممكن بروشور؟
+18879	corpus-6-test-corpus-26-train	SAN	اوصل هاناك على تسع، لو سمحت.
+18906	corpus-6-test-corpus-26-train	SAN	ايوة، سيدي. كيف تشتيني اقصه لك؟
+18912	corpus-6-test-corpus-26-test	SAN	اعتقد ان به غلط بالفاتوره.
+18917	corpus-6-test-corpus-26-train	SAN	بس زيت وخل وعيكون تمام.
+18919	corpus-6-test-corpus-26-train	SAN	انا لقيت بالضبط اللي كنت تشتيه. اقدر اقترح هذا؟
+18938	corpus-6-test-corpus-26-train	SAN	قهوة مع سكر.
+18948	corpus-6-test-corpus-26-train	SAN	هو سبعطاعش ايه. يوة، انا اسف. غلطت.
+18951	corpus-6-test-corpus-26-test	SAN	قد عمرك سمعت بالاسبوع الذهبي في اليابان؟
+18957	corpus-6-test-corpus-26-train	SAN	شكرا. لو سمحت ارجع مره ثانيه.
+18963	corpus-6-test-corpus-26-test	SAN	عادوة محجوز بكله؟
+18974	corpus-6-test-corpus-26-test	SAN	ممكن اخليه ب اي بقعه بالبلاد؟
+18986	corpus-6-test-corpus-26-test	SAN	ايش من رقم المفروض اتصل له من هانا؟
+19002	corpus-6-test-corpus-26-train	SAN	كيف أوصل لا ديزني لاند؟
+19005	corpus-6-test-corpus-26-train	SAN	هل تعتقد؟
+19007	corpus-6-test-corpus-26-train	SAN	عفوا، اين المطعم الرئيسي؟
+19009	corpus-6-test-corpus-26-train	SAN	اشتي افعل اتصال ل اليابان.
+19036	corpus-6-test-corpus-26-test	SAN	رقم مقعدي اثنعشر دي. اين هو؟
+19037	corpus-6-test-corpus-26-dev	SAN	ايشو هذا، لوسمحت؟
+19038	corpus-6-test-corpus-26-train	SAN	ايش من نوع معك في راسك؟
+19045	corpus-6-test-corpus-26-train	SAN	ايوه. عنوصل على ثمان بالتوقيت المحلي.
+19050	corpus-6-test-corpus-26-train	SAN	اذا لقيت اي حاجه، لوسمحت اتواصل معي.
+19057	corpus-6-test-corpus-26-train	SAN	ممكن تدي لي لحم خنزير وبيض؟
+19064	corpus-6-test-corpus-26-train	SAN	عصير شمام نحلي، لو سمحت.
+19068	corpus-6-test-corpus-26-train	SAN	الماء الحامي مشو حامي كفايه.
+19085	corpus-6-test-corpus-26-train	SAN	ممكن تشرح كيف تفعل هذا؟
+19094	corpus-6-test-corpus-26-train	SAN	لوسمحت اكتب عنوانك هانا.
+19100	corpus-6-test-corpus-26-train	SAN	ممكن استخدم الفلاش؟
+19101	corpus-6-test-corpus-26-train	SAN	شكرا. ارجع لا غرفتي في نفس الوقت بكرة. عيكونين الصور جاهزات لا هذاك الساع.
+19103	corpus-6-test-corpus-26-train	SAN	انا اسف الان تقدر بس تطلب من المنيو حق الليل.
+19113	corpus-6-test-corpus-26-train	SAN	عادي والا منقى؟
+19144	corpus-6-test-corpus-26-train	SAN	فيني صداع.
+19147	corpus-6-test-corpus-26-test	SAN	هذه غرفه اثناعش صفر سبعه.
+19148	corpus-6-test-corpus-26-test	SAN	اشتي غرفه ثانيه.
+19156	corpus-6-test-corpus-26-train	SAN	ليحين الفيزا هذه صالحه؟
+19162	corpus-6-test-corpus-26-train	SAN	به مستشفى هانا قريب؟
+19170	corpus-6-test-corpus-26-train	SAN	اشتي بدله.
+19196	corpus-6-test-corpus-26-train	SAN	معك عرض اكبر؟
+19215	corpus-6-test-corpus-26-test	SAN	اقدر اجرب على التسعه؟
+19217	corpus-6-test-corpus-26-train	SAN	فندق امن يقدم صبوح حالي، لو سمحت.
+19226	corpus-6-test-corpus-26-train	SAN	اين حديقه الحيوانات؟
+19232	corpus-6-test-corpus-26-train	SAN	به اكبر من هذلا؟
+19250	corpus-6-test-corpus-26-dev	SAN	ثلاثين دولار و ثمانين.
+19251	corpus-6-test-corpus-26-train	SAN	يعتمد على كيف المكان دافي، لكن في وسط اليابان، بدايه ابريل.
+19258	corpus-6-test-corpus-26-train	SAN	برجر بالجبنه مع شبس.
+19269	corpus-6-test-corpus-26-train	SAN	قدوة متاخر قوي للقطار الاخير.
+19281	corpus-6-test-corpus-26-train	SAN	مابش عندي فكه.
+19294	corpus-6-test-corpus-26-train	SAN	شليت تذكره الباص حقك؟
+19306	corpus-6-test-corpus-26-train	SAN	رصيد، لو سمحت.
+19307	corpus-6-test-corpus-26-train	SAN	كنت في رحله طيران يونايتد ثمانيه اثنين ثمانيه.
+19317	corpus-6-test-corpus-26-train	SAN	قوي ازعاج جمب غرفتي.
+19318	corpus-6-test-corpus-26-train	SAN	في الساحل الشرقي، بين بتلاقي اماكن مشهوره، مثل نيو يورك، واشنطن دي سي و بسطون.
+19327	corpus-6-test-corpus-26-train	SAN	معك اوراق يابانيه؟
+19329	corpus-6-test-corpus-26-train	SAN	فكره سابره.
+19346	corpus-6-test-corpus-26-train	SAN	عادي لو اخلي شنطتي معك للساعه واحده؟
+19347	corpus-6-test-corpus-26-train	SAN	به رحله للمدينه؟
+19360	corpus-6-test-corpus-26-train	SAN	ايوة، أسف مضطر. كيف الامن متمكن في هذه المنطقه؟
+19391	corpus-6-test-corpus-26-train	SAN	بين ابسر. با احاول استاجر سيتروين.
+19401	corpus-6-test-corpus-26-dev	SAN	معي موهبه طبيعيه من حين ما ولدت.
+19413	corpus-6-test-corpus-26-train	SAN	هذا عيكون تمام. اين الخبز؟
+19415	corpus-6-test-corpus-26-train	SAN	جهه المدخنين، لو سمحت. ومقعد على الطاقه، لو سمحت.
+19423	corpus-6-test-corpus-26-train	SAN	وكم بتشل على الخياطه؟
+19444	corpus-6-test-corpus-26-dev	SAN	اين اسرع، تاكسي واللا اسعاف؟
+19460	corpus-6-test-corpus-26-train	SAN	معك هذا التيشرت ب الوان ثانيه؟
+19463	corpus-6-test-corpus-26-test	SAN	ما ينفعش تبسر تلفزيون طول الوقت.
+19466	corpus-6-test-corpus-26-train	SAN	ايوة، احنا جايين عليه، جايين عليه.
+19467	corpus-6-test-corpus-26-train	SAN	كان احسن لو دخلت حقنا المستشفى.
+19469	corpus-6-test-corpus-26-train	SAN	اين ممكن الاقي سوبرماركت؟
+19475	corpus-6-test-corpus-26-train	SAN	هو شويه غالي. ما تقدرش تديلي فرصه؟
+19479	corpus-6-test-corpus-26-train	SAN	كم باقي نقط لوما اغير؟
+19490	corpus-6-test-corpus-26-train	SAN	هذا الرجال سرق محفظتي.
+19494	corpus-6-test-corpus-26-train	SAN	حبوب الهضم وحبوب وجع البطن ثانيات، صح؟
+19497	corpus-6-test-corpus-26-test	SAN	اشتي ابسر الميناء.
+19500	corpus-6-test-corpus-26-test	SAN	فكرة حالية.
+19501	corpus-6-test-corpus-26-train	SAN	كم ياخذ وقت بالمشي؟
+19505	corpus-6-test-corpus-26-train	SAN	شا اشل عشرين من الدبدوب الكبير، لوسمحت.
+19507	corpus-6-test-corpus-26-dev	SAN	ايش هو رقم الكاشير؟
+19508	corpus-6-test-corpus-26-train	SAN	هو سهل. انا بس شابسر في دفتر التلفون.
+19509	corpus-6-test-corpus-26-dev	SAN	معك اي غرف اكبر؟
+19547	corpus-6-test-corpus-26-train	SAN	كم هي حقي الفاتورة؟
+19548	corpus-6-test-corpus-26-train	SAN	اشتي اجلس في هذه الغرفة زد ليلة.
+19560	corpus-6-test-corpus-26-train	SAN	عفوا، لكن اشتي اسلم تقرير السرقه.
+19572	corpus-6-test-corpus-26-train	SAN	طيب، يعتمد على نوع المواصلات اللي عتاخذ. عتسير بالباص ولا بالطايره؟
+19578	corpus-6-test-corpus-26-train	SAN	عندك مانع لو اجلس هانا؟
+19581	corpus-6-test-corpus-26-train	SAN	ممكن ارسل بس إيميل واحد بدولار؟
+19589	corpus-6-test-corpus-26-train	SAN	ايوة، لو سمحت ارسله لغرفه اثناعش اربعه-وثلاثين.
+19610	corpus-6-test-corpus-26-dev	SAN	عبي إستمارة التسجيل هذه، لوسمحت.
+19617	corpus-6-test-corpus-26-test	SAN	اشتي ثنتين تذاكر سيرة ورجعة لا اوكسفورد.
+19619	corpus-6-test-corpus-26-train	SAN	ايحين المفروض اجي المطار؟
+19620	corpus-6-test-corpus-26-train	SAN	هذا بطيء.
+19623	corpus-6-test-corpus-26-train	SAN	اين اقدر اعمل فلم؟
+19643	corpus-6-test-corpus-26-test	SAN	ماشي، لوسمحت لأ. ممكن تحتفظ بسؤالك لما اكمل اتحاكى. لما اسأل عليهن؟
+19648	corpus-6-test-corpus-26-dev	SAN	اشتي مقعد حالي.
+19649	corpus-6-test-corpus-26-train	SAN	أسف الحمام مايشتغلش. احتاج مساعدة.
+19651	corpus-6-test-corpus-26-test	SAN	مش هي حاجة صعبة ولا غامضة.
+19654	corpus-6-test-corpus-26-train	SAN	شا اشلك لا مقعدك. من هانا، لوسمحت.
+19656	corpus-6-test-corpus-26-train	SAN	اسمحلي، ممكن اسألك سؤال؟
+19666	corpus-6-test-corpus-26-train	SAN	اعتقد هذا والكل.
+19675	corpus-6-test-corpus-26-train	SAN	مرحبا. تشرفت بمعرفتك.
+19691	corpus-6-test-corpus-26-train	SAN	اشتي اشيك هذولا الشنط لا طوكيو، لوسمحت.
+19694	corpus-6-test-corpus-26-train	SAN	ممكن توريني واحدة اكبر شوية؟
+19703	corpus-6-test-corpus-26-train	SAN	اعتقد الملابس المصنوعه باليابان خياطهن احسن.
+19715	corpus-6-test-corpus-26-train	SAN	لو كنت استسلمت احسن.
+19716	corpus-6-test-corpus-26-dev	SAN	قول مرة ثانية لوسمحت.
+19722	corpus-6-test-corpus-26-train	SAN	ممكن تكتب لي رقم التلفون والعنوان، لوسمحت؟
+19726	corpus-6-test-corpus-26-train	SAN	هو حامي؟
+19732	corpus-6-test-corpus-26-train	SAN	من أي مطار شاسير؟
+19733	corpus-6-test-corpus-26-train	SAN	شليت النموذج في الطائرة؟
+19735	corpus-6-test-corpus-26-train	SAN	اشتي كاوية.
+19752	corpus-6-test-corpus-26-dev	SAN	وقعين ب ثمانيه وثلاثين دولار كلهن.
+19754	corpus-6-test-corpus-26-train	SAN	شكرا لأنك شاركتنا افكارك المميزة.
+19755	corpus-6-test-corpus-26-train	SAN	أسير اتزلج مرتين في الشهر خلال الموسم.
+19760	corpus-6-test-corpus-26-train	SAN	ولدت في واحد ابريل سنة الف وتسعمية وخمسة وتسعين.
+19769	corpus-6-test-corpus-26-test	SAN	ممكن استأجر مضارب؟
+19809	corpus-6-test-corpus-26-train	SAN	هو هذا الباص الصح لاوسط المدينة؟
+19813	corpus-6-test-corpus-26-train	SAN	بكمو هذا العطر؟
+19814	corpus-6-test-corpus-26-train	SAN	لأيش هو؟
+19819	corpus-6-test-corpus-26-train	SAN	وين اقدر انجز الاجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	SAN	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	SAN	هل يتضمن الضرايب؟
+19853	corpus-6-test-corpus-26-test	SAN	ماهن الخراجات؟
+19862	corpus-6-test-corpus-26-train	SAN	لوسمحت اتصل بالإسعاف.
+19864	corpus-6-test-corpus-26-dev	SAN	شاراهن بثلاثة دولار على هذا.
+19871	corpus-6-test-corpus-26-train	SAN	كيف عيجي؟
+19889	corpus-6-test-corpus-26-train	SAN	مابش أكل مايعجبنيش.
+19902	corpus-6-test-corpus-26-train	SAN	"يوم الدستور او ""كيمبو كينيبي"" عطلة رسميه يوم ثلاثه مايو للاحتفال بإنشاء الدستور الياباني الحالي."
+19912	corpus-6-test-corpus-26-train	SAN	هذه الرحلة بتتضمن زيارة لا برج سيرز؟
+19923	corpus-6-test-corpus-26-train	SAN	به محل كتب هانا؟
+19928	corpus-6-test-corpus-26-train	SAN	شاحضر المدرسة الصيفية في جامعة هاواي.
+19935	corpus-6-test-corpus-26-train	SAN	منين بنخطى ذاحين؟
+19945	corpus-6-test-corpus-26-train	SAN	اثنين كبار وجاهل عمرة ثلاث سنين.
+19959	corpus-6-test-corpus-26-train	SAN	في حمام في المحطة.

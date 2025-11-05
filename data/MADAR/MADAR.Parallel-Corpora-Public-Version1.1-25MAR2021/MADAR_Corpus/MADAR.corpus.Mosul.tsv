@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	MOS	هو هنوك، بالضبط قدام مكتب المعلومات السياحيي.
+9	corpus-6-test-corpus-26-train	MOS	ابد ما كن اسمعتو بهذا العنوان هوني.
+11	corpus-6-test-corpus-26-train	MOS	امشي كبل الى ان اتشوف صيدليه.
+26	corpus-6-test-corpus-26-train	MOS	بشقد التغيوقه؟
+27	corpus-6-test-corpus-26-train	MOS	اشون اطيق اساعدك؟
+30	corpus-6-test-corpus-26-train	MOS	غوح لليساغ عد ثالث زاويه.
+50	corpus-6-test-corpus-26-train	MOS	اتغيذ كريمه وشكر بالقهوي مالتك؟
+64	corpus-6-test-corpus-26-train	MOS	تطيق تصرفلي شيك قيمتو ميتين دولار؟
+74	corpus-6-test-corpus-26-train	MOS	اذا لازم يبين، رجاءا اتصل بيي.
+86	corpus-6-test-corpus-26-train	MOS	وين مكان الجيخانه؟
+87	corpus-6-test-corpus-26-train	MOS	اغيد سترة اطفال.
+91	corpus-6-test-corpus-26-train	MOS	اوكي. اتكلف خميسي وثمانين سنت للبريد الاعتيادي وثلاث دولارات بالضبط اضافية للتوصيل الخاص.
+120	corpus-6-test-corpus-26-test	MOS	لو كنتو بمكانك كان اشتغيتونو.
+129	corpus-6-test-corpus-26-train	MOS	هل غاح اواجه اي صعوبات مع الجمارك؟
+130	corpus-6-test-corpus-26-train	MOS	عندك حذاء رسمي عغيض مكان الاصابع؟
+140	corpus-6-test-corpus-26-train	MOS	لا، ممكن اقترح عليكم غرفة مزدوجة لاستخدام ويحد امبدالو؟ عدنه ويحدة منها.
+143	corpus-6-test-corpus-26-train	MOS	اغيد كيرلي قوي، رجاءا.
+145	corpus-6-test-corpus-26-train	MOS	هيه تغيد بيره.
+157	corpus-6-test-corpus-26-train	MOS	صباح الخير. اشونك؟
+158	corpus-6-test-corpus-26-train	MOS	اسف انو لازم اشوف شوية اوراق اثبات شخصية.
+169	corpus-6-test-corpus-26-train	MOS	اي نوع من الصوص؟
+170	corpus-6-test-corpus-26-train	MOS	هذا شوية بيغد. تطيق تحمينو؟
+173	corpus-6-test-corpus-26-test	MOS	اسف، هذا المكان محجوز من قبل.
+176	corpus-6-test-corpus-26-train	MOS	انا مليح. بس تطيق تتصل بصديقي؟
+177	corpus-6-test-corpus-26-test	MOS	اشكرك، هذا يكفي.
+184	corpus-6-test-corpus-26-train	MOS	منو صديقك المفضل؟
+187	corpus-6-test-corpus-26-train	MOS	يوم الصحة والرياضة تسعه تشرين الاول هو عطلة وطنيي هدفا تعزز الصحة مال الشعب.
+192	corpus-6-test-corpus-26-train	MOS	تغيدني اجيك تحت الغطا مال السيارة؟
+206	corpus-6-test-corpus-26-train	MOS	تقدر تساعدني القي جنطة السفر مالتي؟
+221	corpus-6-test-corpus-26-train	MOS	هل غاح تعمل ترتيبات مسبقا؟
+238	corpus-6-test-corpus-26-train	MOS	حصلت على مساعدة، اشكرك.
+261	corpus-6-test-corpus-26-train	MOS	لمن تصل هنوك، اسال ويحد اللاخ، رجاءا.
+280	corpus-6-test-corpus-26-train	MOS	اغيد تمديد اربع وعشين، رجاءا.
+285	corpus-6-test-corpus-26-train	MOS	هاي دولارين، احتفض بالباقي.
+315	corpus-6-test-corpus-26-train	MOS	ويحد همبركر ويحد همبركر بالجبن، رجاءا.
+319	corpus-6-test-corpus-26-train	MOS	اشقد تاخد اتعاب العملية؟
+320	corpus-6-test-corpus-26-train	MOS	نغيد كل ويحد يدفع لوجبتو.
+326	corpus-6-test-corpus-26-train	MOS	الموقع كان على كغسي بالبهو.
+333	corpus-6-test-corpus-26-test	MOS	رجاءا غيرلي هذولي الينات الى جنيهات.
+346	corpus-6-test-corpus-26-train	MOS	اغيد قاموس بحجم الجيب، رجاءا.
+360	corpus-6-test-corpus-26-train	MOS	لشخصين بالسبعة، الاسم هو واتانبي.
+368	corpus-6-test-corpus-26-train	MOS	ساعتي. هي كانت سايكو رقميي.
+370	corpus-6-test-corpus-26-train	MOS	غاح يكون من سعادتنه انه نقدملك الشراب اللي تختارو، و وغانو عشا. الدليل الكامل للمشروبات اللي نقدما على هذي الرحلة موجود بدليل المعلومات بمجلتنه.
+373	corpus-6-test-corpus-26-test	MOS	هل تعيش قغيب من هوني؟
+375	corpus-6-test-corpus-26-train	MOS	وينو محل الهدايا؟
+386	corpus-6-test-corpus-26-test	MOS	انا على الطريق السريع واحد قريب على خليج مارو.
+391	corpus-6-test-corpus-26-train	MOS	اغيد منبه، رجاءا.
+398	corpus-6-test-corpus-26-dev	MOS	بالمناسبة، اسمي هو هيروشي ايجيما.
+401	corpus-6-test-corpus-26-dev	MOS	هذا القطار يقف عد بحيرة فوريست، مو تمام؟
+408	corpus-6-test-corpus-26-train	MOS	معظم اليابانيين ياكلون الاخطبوط والحبار.
+416	corpus-6-test-corpus-26-train	MOS	ممكن تذكرتين من الدرجة الثانية الى شيكاغو، رجاءا؟
+419	corpus-6-test-corpus-26-train	MOS	غحتو الى نيويورك.
+423	corpus-6-test-corpus-26-train	MOS	اشقد رقم الرحلة؟
+442	corpus-6-test-corpus-26-test	MOS	ويحد لنيويورك، رجاءا.
+446	corpus-6-test-corpus-26-train	MOS	تقريبا لشوية ايام.
+447	corpus-6-test-corpus-26-train	MOS	الثاني على اليساغ.
+471	corpus-6-test-corpus-26-dev	MOS	هذا الكارت، ماشي؟
+488	corpus-6-test-corpus-26-train	MOS	هل هذا هو مكتب الاستقبال؟ اكو عيادة قغيبي؟
+493	corpus-6-test-corpus-26-train	MOS	هل عشغ دولارات غاح تكفي بالتكسي؟
+503	corpus-6-test-corpus-26-train	MOS	هذا طعمو غريب.
+512	corpus-6-test-corpus-26-train	MOS	اي. انتظر، غاح اجيب ويحد الك.
+516	corpus-6-test-corpus-26-train	MOS	نص بطل، رجاءا.
+540	corpus-6-test-corpus-26-train	MOS	مو صحيح بالحقيقية، بس شي ما غالي.
+548	corpus-6-test-corpus-26-train	MOS	عدوغ على شي؟
+551	corpus-6-test-corpus-26-train	MOS	اربع ليالي.
+553	corpus-6-test-corpus-26-train	MOS	اغيد شويه جويغب.
+565	corpus-6-test-corpus-26-train	MOS	تطيق تعملو اغخص لان علينو شوية بقع؟
+571	corpus-6-test-corpus-26-train	MOS	غجال انطخ بيي، بعدا لاحظتو انه محفضتي كن اختفت.
+599	corpus-6-test-corpus-26-train	MOS	ما متاكد اذا حطيتو حواس تكفي لرحلة ثلاث اسابيع.
+612	corpus-6-test-corpus-26-train	MOS	خوش، نغيد نجغب خمر ابيض.
+631	corpus-6-test-corpus-26-train	MOS	اذا اي ويحد سال عني، قلولم غاح اكون بالجيخانه.
+632	corpus-6-test-corpus-26-train	MOS	انا متأكد عندي هيا بالجيب الداخلي لكبوطي.
+641	corpus-6-test-corpus-26-test	MOS	ممكن احصل على اسم ورقم الجهة اللي عتتصل علينا؟
+643	corpus-6-test-corpus-26-train	MOS	هل شركة الخطوط الجويي غاح تدفعلي حتى اشتغي شويه حاجات شخصيي ضروريي؟
+650	corpus-6-test-corpus-26-train	MOS	اغيد غرفة مع حمام.
+652	corpus-6-test-corpus-26-dev	MOS	ولا شي طلع من المكينة؟
+667	corpus-6-test-corpus-26-test	MOS	انت المفروض تركب بالرحلة ثمانميي وعشين، اللي اقلعت قبل خمسطعش دقيقة. مليح. اطيق ارتبلك رحلة غيغا.
+673	corpus-6-test-corpus-26-train	MOS	ويحد فرغ الطرود مالتي.
+679	corpus-6-test-corpus-26-test	MOS	اوه، هذا ولا شي. انت هوني، على كل حال.
+680	corpus-6-test-corpus-26-train	MOS	الخطوط الجويي اليابانيي، رحلة رقم ميي وثلاثي وعشين.
+681	corpus-6-test-corpus-26-train	MOS	احتاج اشتغي شامبو.
+683	corpus-6-test-corpus-26-train	MOS	تطيق تقلي لمن نصل للمركز المدني؟
+688	corpus-6-test-corpus-26-train	MOS	وين اقغب قصاب؟
+703	corpus-6-test-corpus-26-train	MOS	نغيد نبقى اربع ليالي من اول يوم بشهغ اب.
+708	corpus-6-test-corpus-26-train	MOS	اشنو اسم هذيك الوغداي؟
+719	corpus-6-test-corpus-26-train	MOS	خمسطعش من شهر ايلول هو يوم احترام للشيخوخه.
+723	corpus-6-test-corpus-26-train	MOS	ماكو صابون بغرفتي.
+741	corpus-6-test-corpus-26-dev	MOS	اكو اي شي اطيق اخذو لهذا الطفح الجلدي؟
+742	corpus-6-test-corpus-26-train	MOS	تطيق تغير الصياغة للشي اللي هسا قلتو؟
+761	corpus-6-test-corpus-26-test	MOS	اشقد غاح تاخذ وقت حتى تطلب؟
+773	corpus-6-test-corpus-26-train	MOS	تطيق تحكي شوية اعلى، رجاءا؟
+777	corpus-6-test-corpus-26-train	MOS	اشقد وقت غاح يتطلب قبل ما يخرج؟
+786	corpus-6-test-corpus-26-train	MOS	وين معلومات الرياضة؟
+787	corpus-6-test-corpus-26-train	MOS	هذا الحجم هوني، اللي انت تسمينو حجم منتظم، غاح نعمل.
+793	corpus-6-test-corpus-26-test	MOS	وين نهاية الجولة وايمتي؟
+848	corpus-6-test-corpus-26-train	MOS	وين لازم اغير القطارات حتى اصل لادنبره؟
+855	corpus-6-test-corpus-26-train	MOS	اغيد اخلي هذا بصندوق امانات.
+859	corpus-6-test-corpus-26-train	MOS	وين اطيق احول فلوسي؟
+897	corpus-6-test-corpus-26-train	MOS	ممكن نعوف شغلاتنه، عدا القيمي، بالباص؟
+902	corpus-6-test-corpus-26-train	MOS	عدتسائل علمود اشنو هذا الرسم على فاتورتي.
+917	corpus-6-test-corpus-26-train	MOS	غاح ادفع خمسين دولار.
+941	corpus-6-test-corpus-26-train	MOS	هسا انا اعغف اشنو كان غلط.
+957	corpus-6-test-corpus-26-dev	MOS	انا اكيدا عيحكي. عندي حجز طاولي بالستي ونص هالمسا. لكن انا اسف غاح اصل متأخر نص ساعه.
+1003	corpus-6-test-corpus-26-train	MOS	كم اونصه معفيي من الضرايب اطيق احصل من العطر؟
+1007	corpus-6-test-corpus-26-train	MOS	فقط سياحة.
+1010	corpus-6-test-corpus-26-train	MOS	ماكو مشكلة، رجاءا وقعم. اشون تحبو يكون؟
+1023	corpus-6-test-corpus-26-test	MOS	بعد عدكم مقاعد لعرض الليلي؟
+1036	corpus-6-test-corpus-26-train	MOS	اغيد ويحد كبيغ.
+1037	corpus-6-test-corpus-26-dev	MOS	نمتو خلال المنبه مال ستي ونص.
+1038	corpus-6-test-corpus-26-train	MOS	انا مصور حر.
+1047	corpus-6-test-corpus-26-train	MOS	التجار ممكن ايصرفون دولاراتك علمود بقشيش للكازينوز. نغوح؟
+1056	corpus-6-test-corpus-26-dev	MOS	عدنه تقريبا ثلاثين نوع من دهون الحمام.
+1062	corpus-6-test-corpus-26-train	MOS	غاح اجهز العرض الك الاسبوع اللي يجي.
+1074	corpus-6-test-corpus-26-train	MOS	شكرا الك، اشقد سعر هذا الزوج من الكفوف؟
+1098	corpus-6-test-corpus-26-train	MOS	لازم اغوح، غاح اخابرك بعدين.
+1100	corpus-6-test-corpus-26-train	MOS	اغيد شويه حفاضات ام الاستخدام الويحد.
+1122	corpus-6-test-corpus-26-train	MOS	وين نشأو اسماك الفراشه هذولي؟
+1124	corpus-6-test-corpus-26-train	MOS	ممكن تحولم الى دولارات، رجاءا؟
+1139	corpus-6-test-corpus-26-train	MOS	احنه كلش محضوضين. عندم ويحد حجم اربعه بمحل علا موانا.
+1146	corpus-6-test-corpus-26-train	MOS	اكو اي ليموزين؟
+1163	corpus-6-test-corpus-26-dev	MOS	ممكن احص على مخابره ساعه خمسي ونص غدا الصبح حتى اقعد؟
+1165	corpus-6-test-corpus-26-train	MOS	افضل غرفة هاديي.
+1167	corpus-6-test-corpus-26-train	MOS	اغيد مزيل مال صبغ الاضيفغ.
+1183	corpus-6-test-corpus-26-train	MOS	اغيد باتري.
+1193	corpus-6-test-corpus-26-test	MOS	اكو فرقه لايف او دي جي؟
+1194	corpus-6-test-corpus-26-train	MOS	اطيق استأجر معدات مال الغطس؟
+1199	corpus-6-test-corpus-26-dev	MOS	اغيد احجز غرفة لاربع ليالي من اثنين وعشرين كانون الاول.
+1212	corpus-6-test-corpus-26-train	MOS	هل هاذي الجنطه مثاليي لكل الاحوال الجويي؟
+1213	corpus-6-test-corpus-26-train	MOS	اغيد دونات وحدي، رجاءا.
+1218	corpus-6-test-corpus-26-train	MOS	اغيد استاجر سيارة اتوماتيكي ليومين.
+1224	corpus-6-test-corpus-26-train	MOS	فوتو رحلة عشرين لسانفراسيسكو.
+1234	corpus-6-test-corpus-26-train	MOS	بشقد للمطار؟
+1235	corpus-6-test-corpus-26-train	MOS	هذا مليح. ايمتي هو؟
+1276	corpus-6-test-corpus-26-train	MOS	اشقد عمغ بنتك؟
+1312	corpus-6-test-corpus-26-train	MOS	ممكمن تقلي على بعض الفنادق الغخيصة والنضيفي؟
+1321	corpus-6-test-corpus-26-train	MOS	ممكن نحجزلك غرفة مريحة بقلعة قديمي قريب على نادي كولف مشهور.
+1329	corpus-6-test-corpus-26-train	MOS	اوصي بهذا لانو مصنوع من مكونات طبيعي ميي بالميي.
+1361	corpus-6-test-corpus-26-dev	MOS	هل يتوقف القطار ببرايتون؟
+1369	corpus-6-test-corpus-26-train	MOS	ممكن تقلي وين اطيق احصل على تكسي؟
+1375	corpus-6-test-corpus-26-train	MOS	بطاقتين درجة ثانية، رجاءا.
+1384	corpus-6-test-corpus-26-train	MOS	اغيد ارسل فاكس.
+1394	corpus-6-test-corpus-26-train	MOS	اغيد اوتي مال سفر.
+1396	corpus-6-test-corpus-26-train	MOS	ممكن اقدملك اي شي؟
+1404	corpus-6-test-corpus-26-train	MOS	يومي، اخاف اسأل، لكن اش تقصد؟
+1418	corpus-6-test-corpus-26-train	MOS	اغيد ويحد من اللي يحوي اوراق حجم رساله اعتيادي بدون ان نطوييهم.
+1433	corpus-6-test-corpus-26-test	MOS	اي، بس ما كلش قوي.
+1434	corpus-6-test-corpus-26-train	MOS	انا عندي حساسية من البزيزين.
+1436	corpus-6-test-corpus-26-train	MOS	اي، لازم يكون عندك اجازة سوق و، اه، لازم يكون عندك ترخيص من لجنة التكسي والليموزين.
+1462	corpus-6-test-corpus-26-train	MOS	تفضل، سيدي.
+1465	corpus-6-test-corpus-26-test	MOS	انا ما عدطيق احصل على ماي حاغ.
+1474	corpus-6-test-corpus-26-train	MOS	اغيد احجز غرفه لهالليلي.
+1492	corpus-6-test-corpus-26-train	MOS	لا، هذا يستثني الضرايب ورسم الخدمه.
+1506	corpus-6-test-corpus-26-train	MOS	تغيد تغوح معاي نتسوق بعد الظهغ؟
+1508	corpus-6-test-corpus-26-test	MOS	مرحبا، هذا الفستان من صدق حلو.
+1519	corpus-6-test-corpus-26-train	MOS	هسا، اتصالك بدى. رجاءا تفضل.
+1525	corpus-6-test-corpus-26-train	MOS	اشقد رقم البوابة؟
+1539	corpus-6-test-corpus-26-train	MOS	اشني هيه الهديي النموذجي للهالوين؟
+1556	corpus-6-test-corpus-26-train	MOS	اطيق اغوح هناك بقطار الانفاق؟
+1560	corpus-6-test-corpus-26-train	MOS	اغيد مجفف شعر.
+1562	corpus-6-test-corpus-26-train	MOS	هل غاح نصل لاي مكان اذا نتكلم بهالطريقة؟
+1585	corpus-6-test-corpus-26-train	MOS	انا جيتو من النرويج.
+1603	corpus-6-test-corpus-26-dev	MOS	من عشغه الى ادعش رجاءا.
+1619	corpus-6-test-corpus-26-train	MOS	اكيد. خليني اشوفو. انت تاذيت بالمرجان، اتوقع.
+1620	corpus-6-test-corpus-26-train	MOS	للاحتياط، خليني اخذ رقم الشخص المسؤول.
+1622	corpus-6-test-corpus-26-train	MOS	اكو طريق سريع؟
+1630	corpus-6-test-corpus-26-train	MOS	ليش ما جا للحفله البيحة؟
+1637	corpus-6-test-corpus-26-train	MOS	اكو حادث اصطدام مروري.
+1650	corpus-6-test-corpus-26-train	MOS	اسف، حصلتو على الرقم الغلط.
+1653	corpus-6-test-corpus-26-test	MOS	رجاءا خلي رقمك التعريفي.
+1663	corpus-6-test-corpus-26-dev	MOS	ما اطيق اعدل الصورة.
+1668	corpus-6-test-corpus-26-train	MOS	لفة همبركر بالجبن وحدي مع عصير برتقال، رجاءا.
+1670	corpus-6-test-corpus-26-test	MOS	هذا جواز سفري.
+1682	corpus-6-test-corpus-26-test	MOS	ليش، شكرا جزيلا. اه، اطيق اصعد فوق للقمة؟
+1702	corpus-6-test-corpus-26-train	MOS	اطيق احصل على تذكرتين للحفل الموسيقي الجمعه الجيي؟
+1718	corpus-6-test-corpus-26-train	MOS	مسافر اخر هنوك قال يطيق غير مقعدو معالك.
+1754	corpus-6-test-corpus-26-train	MOS	اطيق امدد اقامتي؟
+1766	corpus-6-test-corpus-26-train	MOS	قللي، تعغف اي اي مكان يستحق الشوفي قغيب من هوني؟
+1768	corpus-6-test-corpus-26-dev	MOS	لا، اغيد استاجر نصف مجموعة مضارب مع حذاء.
+1782	corpus-6-test-corpus-26-train	MOS	تطيق تقلي ايمتي الجنطة المفقودي اتلقت؟
+1788	corpus-6-test-corpus-26-train	MOS	اشنو اسم الحديقة الوطنيي؟
+1791	corpus-6-test-corpus-26-train	MOS	صاغ عندي خدش.
+1792	corpus-6-test-corpus-26-dev	MOS	وين مكان مليح للسياحة؟
+1800	corpus-6-test-corpus-26-train	MOS	ممكن اخذ شوية فواكه؟
+1834	corpus-6-test-corpus-26-train	MOS	ممكن اخذ الغدى هسه؟
+1837	corpus-6-test-corpus-26-train	MOS	احتاج اصرف هالدولارات.
+1867	corpus-6-test-corpus-26-train	MOS	احتاج تكسي. انا عد ساوث مين و ليبرتي.
+1876	corpus-6-test-corpus-26-dev	MOS	بالتاكيد، هل تحتاج كيرلي؟
+1878	corpus-6-test-corpus-26-train	MOS	هو مو تفاح لكن خوخ.
+1903	corpus-6-test-corpus-26-train	MOS	غاح انطيك وصفه. خذا للصيدليي.
+1927	corpus-6-test-corpus-26-train	MOS	احنه نطيغ ثلاث مرات بالاسبوع، الثلاثاء، الجمعه، والسبت.
+1931	corpus-6-test-corpus-26-dev	MOS	هذا غالي، مو بله؟
+1948	corpus-6-test-corpus-26-train	MOS	نعم، عدنهوه، غاح نجهزو الك.
+1950	corpus-6-test-corpus-26-dev	MOS	ممكن تحتفظ بمتاعي حتى الساعه ثلاثي؟
+1951	corpus-6-test-corpus-26-train	MOS	لا اغيد بس اخلينو بالداخل.
+1954	corpus-6-test-corpus-26-dev	MOS	اطيق احجز اجر-سيارة هوني؟
+1968	corpus-6-test-corpus-26-train	MOS	انت امريكي؟
+1980	corpus-6-test-corpus-26-test	MOS	لهل مكان، رجاءا.
+1985	corpus-6-test-corpus-26-train	MOS	سيارتي متوقفي.
+1988	corpus-6-test-corpus-26-train	MOS	وين ظل العيون؟
+1993	corpus-6-test-corpus-26-train	MOS	نغيد زاويه هاديي، رجاءا.
+1997	corpus-6-test-corpus-26-train	MOS	هل هاذي التكسي ببلاش؟
+1998	corpus-6-test-corpus-26-train	MOS	هل هذي محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	MOS	اي وقت لازم اجي؟
+2003	corpus-6-test-corpus-26-train	MOS	اغيد قنينه صغيغي من النبيذ الابيض.
+2005	corpus-6-test-corpus-26-train	MOS	اه، اطيق اخذ وجبتي بعدين؟ ما عدشعر مليح هسا.
+2025	corpus-6-test-corpus-26-train	MOS	بالحقيقة، عندي اخبار، غاح اتزوج.
+2033	corpus-6-test-corpus-26-train	MOS	اي سراويل اخرى؟
+2035	corpus-6-test-corpus-26-train	MOS	اطيق احصل على برنامج؟
+2052	corpus-6-test-corpus-26-train	MOS	ويحد اقتحم غرفتي البيحه بالليل.
+2055	corpus-6-test-corpus-26-train	MOS	شوفني السمكي اللي شفتوهو بكتاب الصور، رجاءا.
+2083	corpus-6-test-corpus-26-train	MOS	شوف التعليمات على حزمة الاكل المفرغة من الهوا.
+2086	corpus-6-test-corpus-26-train	MOS	اغيد فلوس ورقيي.
+2100	corpus-6-test-corpus-26-test	MOS	هو اخذ محفضتي وانهزم.
+2119	corpus-6-test-corpus-26-train	MOS	ما عندك دروس تجريبيي؟
+2147	corpus-6-test-corpus-26-train	MOS	وين اطيق اشتغي طوابع بريديي؟
+2148	corpus-6-test-corpus-26-train	MOS	انا من برطانيا العظيمي.
+2156	corpus-6-test-corpus-26-train	MOS	انا لازم اجيك هذا مع مغتي.
+2161	corpus-6-test-corpus-26-train	MOS	اغيد احصل على تعويض لهذا.
+2179	corpus-6-test-corpus-26-train	MOS	اكو صندوق تليفون قدام هذاك البنك.
+2180	corpus-6-test-corpus-26-train	MOS	غاح اصل بالتاسع من اذار واغوح بالارباطعش.
+2205	corpus-6-test-corpus-26-train	MOS	هذا شويه غالي، ما تعتقد؟
+2235	corpus-6-test-corpus-26-train	MOS	هل عندك كعب؟
+2236	corpus-6-test-corpus-26-train	MOS	وين محطة الباص؟
+2238	corpus-6-test-corpus-26-train	MOS	هل تهتم بتحليه؟
+2302	corpus-6-test-corpus-26-train	MOS	هل تحكي؟
+2306	corpus-6-test-corpus-26-train	MOS	نفس الشي لليي، رجاءا.
+2318	corpus-6-test-corpus-26-train	MOS	الاكبر مالتي ما وصل.
+2324	corpus-6-test-corpus-26-train	MOS	اكو كثيغ ينابيع حاغه.
+2329	corpus-6-test-corpus-26-train	MOS	رجاءا حول خمسين الف ين لدولارات امريكيي.
+2338	corpus-6-test-corpus-26-train	MOS	هذا مليح بالنسبه لليي. بالحقيقه انا اغيد ادخن.
+2347	corpus-6-test-corpus-26-test	MOS	وين اكدر اشتري اشياء التزلج واحذية؟
+2353	corpus-6-test-corpus-26-dev	MOS	هل نسيت مشروباتنه؟
+2368	corpus-6-test-corpus-26-test	MOS	هل تطيق ترسلو لعنواني باليابان ببريد الطرود الدولي عليي؟
+2381	corpus-6-test-corpus-26-train	MOS	اغيد كلاص من الخمر الاحمر.
+2389	corpus-6-test-corpus-26-train	MOS	بس اذا كانت ملكك، سيدي. ههه-ههه، بس نكته زغيغي.
+2401	corpus-6-test-corpus-26-train	MOS	بالتاكيد، اشون نطيق نخدمك؟
+2412	corpus-6-test-corpus-26-dev	MOS	عدنه بيره، ويسكي، براندي، جين، فودكا، و خمر.
+2425	corpus-6-test-corpus-26-train	MOS	بطاقة تعريفية. اه، تمام. هل جواز السفر اوكي؟
+2428	corpus-6-test-corpus-26-train	MOS	رقم غرفتي هو ثلاثي ستي و عشيين. هل تطيق حواس الغسيل مالتي؟
+2440	corpus-6-test-corpus-26-train	MOS	غاح اشوف اذا اي وحدي من هذولي ترهم.
+2441	corpus-6-test-corpus-26-train	MOS	اغيد كتلي.
+2445	corpus-6-test-corpus-26-train	MOS	جيبلي شويه جبن مبشور.
+2462	corpus-6-test-corpus-26-train	MOS	اطيق احصل على تيشيرتي مغسول غدا الصبح؟
+2476	corpus-6-test-corpus-26-train	MOS	تطيق تخلينو يخابرني؟
+2490	corpus-6-test-corpus-26-train	MOS	ليش لعد؟
+2492	corpus-6-test-corpus-26-train	MOS	عفواً، اكو مكتبه قغيبي على هوني؟
+2496	corpus-6-test-corpus-26-test	MOS	اعتقد انه انت اعملت خطأ. الغرفه كانت مجهزي. عندي وصل.
+2505	corpus-6-test-corpus-26-train	MOS	الباص هنوك.
+2516	corpus-6-test-corpus-26-train	MOS	اغيد لفتين ايزو ميي، فلم ملون، ستي وثلاثين لقطه، رجاءاً.
+2519	corpus-6-test-corpus-26-train	MOS	اغيد احرر هذا الشيك لسبعين دولار.
+2521	corpus-6-test-corpus-26-train	MOS	اغيد اشتغي طوابع بريديي لعشغ كارتات بريديي الى اليابان، رجاءاً.
+2528	corpus-6-test-corpus-26-train	MOS	اكو اي بنك قغيب على المحطه؟
+2531	corpus-6-test-corpus-26-train	MOS	اخاف انو اكو خطأ بالفاتوره.
+2552	corpus-6-test-corpus-26-test	MOS	هذا صحيح هوني.
+2557	corpus-6-test-corpus-26-train	MOS	ويحد بركر مع الجبن اخذو معاي، رجاءاً.
+2578	corpus-6-test-corpus-26-test	MOS	ما تطييق من صدق انو تعمل تصميم بلا ما تستخدم الكومبيوتر بعد.
+2591	corpus-6-test-corpus-26-train	MOS	اركض.
+2601	corpus-6-test-corpus-26-train	MOS	اكو شق هوني ببلوزي. عدتسائل اذا تطيق تخيطو ليي، رجاءاً؟
+2613	corpus-6-test-corpus-26-dev	MOS	اشقد الاجره الى ماشستر؟
+2643	corpus-6-test-corpus-26-train	MOS	تطيق اتديني كيبل مال مسرع؟
+2644	corpus-6-test-corpus-26-train	MOS	وين اطيق اشتغي حصيرة مال شاطئ؟
+2670	corpus-6-test-corpus-26-test	MOS	لعد، رجاءا انطيني حجز جديد.
+2676	corpus-6-test-corpus-26-train	MOS	انطيني هذيك الستيك مال خنزير، بس مو بثخنها.
+2678	corpus-6-test-corpus-26-train	MOS	غاح نجي بالسبعة.
+2687	corpus-6-test-corpus-26-train	MOS	من اشوف الاسعار بهالغخص، يبين مثير للسخرية شراء اي شي باليابان.
+2690	corpus-6-test-corpus-26-train	MOS	محفوضاتي مسروقة، ايضاً.
+2695	corpus-6-test-corpus-26-train	MOS	قمع موطا فانيلا، رجاءا.
+2702	corpus-6-test-corpus-26-train	MOS	اتفق، لازم يصيغ كلش طبيعي.
+2704	corpus-6-test-corpus-26-train	MOS	دير بالك من الحفغه، دير بالك من الحفغه، بعدين قغيب من الابواب، رجاءا.
+2707	corpus-6-test-corpus-26-train	MOS	غاح احتاج بطاقة ائتمان.
+2708	corpus-6-test-corpus-26-dev	MOS	هيانو الرقم.
+2715	corpus-6-test-corpus-26-test	MOS	قلي على بقعه مليحة بهالنهر، رجاءا.
+2726	corpus-6-test-corpus-26-train	MOS	رجاءا انطيني تقرير حادث.
+2729	corpus-6-test-corpus-26-train	MOS	لا، شكرا بس هسا.
+2734	corpus-6-test-corpus-26-train	MOS	اوكي، رجاءا ابقى على الخط. سيد نكاجيما، الانسه سايتو ما مبين عتجاوب الاتصال. تغيدني اتصل بيها بعد فتره اطول؟
+2736	corpus-6-test-corpus-26-dev	MOS	ممكن، بس لازم نوزنم منفصلين.
+2747	corpus-6-test-corpus-26-train	MOS	يبين شويه كلش نادر.
+2748	corpus-6-test-corpus-26-train	MOS	وين استلام الامتعه مال رحلة سبعميي وثلاثه؟
+2760	corpus-6-test-corpus-26-train	MOS	اكو شي غلط بالقبضة مالتك.
+2765	corpus-6-test-corpus-26-train	MOS	هل هذا يفسد؟
+2772	corpus-6-test-corpus-26-train	MOS	لا، شكرا . من الاحسن انو ما اشغب بعد.
+2808	corpus-6-test-corpus-26-train	MOS	رجاءا قللي على شويه شوارع ملائمة للتسوق.
+2811	corpus-6-test-corpus-26-dev	MOS	هل هذا الباص يغوح على فندق الهلتون؟
+2816	corpus-6-test-corpus-26-train	MOS	الان، هذي اللوحة كلش خاصة. هي مال تسوروتارو كاتاوكا. هو معرف كفنان عالمي.
+2850	corpus-6-test-corpus-26-train	MOS	انا عندي تقدير عظيم للموسيقى الكلاسيكي.
+2851	corpus-6-test-corpus-26-dev	MOS	اطيق اعزمك بغى على عشا فغد وقت؟
+2862	corpus-6-test-corpus-26-train	MOS	مليح. اشنو اسم الشخص مالك ورقم تليفونو، رجاءا.
+2871	corpus-6-test-corpus-26-train	MOS	العفو، خليني اطلع، رجاءاً.
+2878	corpus-6-test-corpus-26-train	MOS	اتطيق تخبر على كادر يحكي ياباني؟
+2898	corpus-6-test-corpus-26-train	MOS	نحنه نزور كرايبنه كلش كثيغ.
+2939	corpus-6-test-corpus-26-train	MOS	ميكي هاياكاوا. هذي غرفة رقم سبعميي واثنين.
+2945	corpus-6-test-corpus-26-train	MOS	لازم ابقى هوني هالليلي، ما تمام؟ اتطيق تساعدني احجز غرفة فندق؟
+2947	corpus-6-test-corpus-26-train	MOS	ما المفروض تطوول. خمسطعش دقيقه بالكثيغ.
+2960	corpus-6-test-corpus-26-train	MOS	ممكن تقلي تكلفة هذا الاتصال؟
+2964	corpus-6-test-corpus-26-train	MOS	خوش، اتطيق تقلا انا اتصلتو، رجاءا. انا غاح اتصل بيها مره اللخ بعدين.
+2973	corpus-6-test-corpus-26-train	MOS	هل اكو اي جوله صباحيي؟
+2982	corpus-6-test-corpus-26-train	MOS	هل تصرف عملات اجنبيي؟
+2983	corpus-6-test-corpus-26-test	MOS	ميزانيتنه تقريبا خمسين دولار بالكامل لثلاث اشخاص.
+2990	corpus-6-test-corpus-26-train	MOS	وين اطيق اشتغي لفة فلم؟
+2995	corpus-6-test-corpus-26-train	MOS	عندك بيره يابنيي؟
+3001	corpus-6-test-corpus-26-test	MOS	اغيد بدلة سبح صغيغي، رجاءا.
+3016	corpus-6-test-corpus-26-train	MOS	اغيد اسجل امتعتي.
+3029	corpus-6-test-corpus-26-train	MOS	هذي السيده كاوازو بغرفة الف وستميي وايدعش.
+3030	corpus-6-test-corpus-26-train	MOS	العفو.
+3038	corpus-6-test-corpus-26-dev	MOS	ماكو منم.
+3040	corpus-6-test-corpus-26-train	MOS	ايو اهم بالنسبه اللكم يا يابانيين، يوم غاس السني لو يوم الكرسمي؟
+3041	corpus-6-test-corpus-26-test	MOS	رقم مقعدك هو اثنين و ثلاثين ايه. بعدين، غوح مباشرة نهاية هذا الممر. هو المقعد اللي يم الشباك.
+3073	corpus-6-test-corpus-26-train	MOS	بس دقيقه، رجاءا.
+3109	corpus-6-test-corpus-26-train	MOS	رجاءا املي تقرير الفقدان.
+3111	corpus-6-test-corpus-26-dev	MOS	انا ما افتهم امريكي، انا احكي الانكليزيه مال بريطانيا.
+3120	corpus-6-test-corpus-26-train	MOS	من البيحه.
+3129	corpus-6-test-corpus-26-train	MOS	يشمل تامين الاصطدام المسؤوليه القانونيه.
+3134	corpus-6-test-corpus-26-test	MOS	ضيعتو بطاقة الاستلام مالتي.
+3152	corpus-6-test-corpus-26-train	MOS	هل عدكم اي مثقب بتصميم مليح؟
+3155	corpus-6-test-corpus-26-train	MOS	انا عددتصل من كشك عام بميسس.
+3170	corpus-6-test-corpus-26-test	MOS	هذولي كلش كباغ.
+3176	corpus-6-test-corpus-26-train	MOS	اشقد رسوم الموقف لكل ساعه؟
+3179	corpus-6-test-corpus-26-train	MOS	انساتي سادتي، على رحلتنه اليوم، عدنه مضيفين يحكون ياباني وتطيقون تتعرفون عليهم من الاعلام اللي ليبسيهم. اذا تعغفون اي ويحد يحتاج مساعدة باللغه، رجاءا خلونه نعغف.
+3182	corpus-6-test-corpus-26-train	MOS	هل اكو اي حقبة معيني من الفن تفضلا؟
+3185	corpus-6-test-corpus-26-train	MOS	رجاءا جيكها مره اللخ.
+3195	corpus-6-test-corpus-26-train	MOS	غوح مستقيم على طول النهر حوالي نص ميل. غاح تجي للمنتزه.
+3201	corpus-6-test-corpus-26-dev	MOS	لا، هذولي كلش يقاومون.
+3207	corpus-6-test-corpus-26-train	MOS	اوكي، غاح ارسلا الى لاس فيكاس اللك.
+3209	corpus-6-test-corpus-26-train	MOS	عددوغ على شورتات مال ركض.
+3220	corpus-6-test-corpus-26-train	MOS	تغيد تشغب اي شي من البار؟
+3222	corpus-6-test-corpus-26-dev	MOS	هذا الطريق رجاءا. خذ المصعد.
+3238	corpus-6-test-corpus-26-train	MOS	من الاحسنلك تاخذ قطار ثمانميي وثلاثين.
+3267	corpus-6-test-corpus-26-test	MOS	هل اكو سينما حولنه؟
+3269	corpus-6-test-corpus-26-train	MOS	هسا موسم المحار، لذلك غاح يكونون ملاح.
+3279	corpus-6-test-corpus-26-train	MOS	اغيد مع ساعه يد ثانيه.
+3284	corpus-6-test-corpus-26-train	MOS	غاح اجيك حوالي الساعه تسعه المغب.
+3285	corpus-6-test-corpus-26-train	MOS	بدا يتأخر الوقت، لازم اغوح.
+3289	corpus-6-test-corpus-26-train	MOS	ما استخدمتو خدمة الغسيل مالتك. ممكن تجيك هاذا مره اللخ؟
+3292	corpus-6-test-corpus-26-train	MOS	اغيد جاي، رجاءا.
+3295	corpus-6-test-corpus-26-train	MOS	لا، ماكو.
+3304	corpus-6-test-corpus-26-train	MOS	هل هذا التوقف الاخير؟
+3318	corpus-6-test-corpus-26-train	MOS	خلي ندقلو.
+3323	corpus-6-test-corpus-26-train	MOS	هل هذي التوابل حاغه؟
+3334	corpus-6-test-corpus-26-train	MOS	وين اطيق احصل على باص سياحي؟
+3335	corpus-6-test-corpus-26-train	MOS	اي، اغيد اشوف معالم المدينه.
+3351	corpus-6-test-corpus-26-test	MOS	اكو كلش كثيغ سياح حول البنايه، اللي مبين متجمعين حتى يشوفون اش عيصيغ.
+3359	corpus-6-test-corpus-26-train	MOS	شكرا لكرم الضيافه.
+3375	corpus-6-test-corpus-26-train	MOS	الامانه افضل سياسه.
+3385	corpus-6-test-corpus-26-train	MOS	تطيق تقعدني ساعه ستي، رجاءا؟
+3392	corpus-6-test-corpus-26-train	MOS	اشقد تكلف لنص يوم؟
+3397	corpus-6-test-corpus-26-train	MOS	انا كينجي.
+3402	corpus-6-test-corpus-26-train	MOS	تعغف اي مكانات مليحه تنشاف بشيكاغو؟
+3404	corpus-6-test-corpus-26-train	MOS	مليح، اذا اثنينكم تلحون، غاح امشي معاكم.
+3413	corpus-6-test-corpus-26-dev	MOS	ممكن تبدل هذا بويحد اللاخ من نفس النوع، رجاءا؟
+3446	corpus-6-test-corpus-26-train	MOS	اغيد اعمل حجز بالثلاثي ونص بعد الظهر.
+3489	corpus-6-test-corpus-26-train	MOS	صندوق السلامه، رجاءا.
+3502	corpus-6-test-corpus-26-train	MOS	رجاءا اختار الخمر المناسب.
+3512	corpus-6-test-corpus-26-test	MOS	اغيد مكان صغيغ.
+3522	corpus-6-test-corpus-26-train	MOS	هل لازم ادفع للبنزين؟
+3557	corpus-6-test-corpus-26-train	MOS	حغامي، امسكونو.
+3562	corpus-6-test-corpus-26-test	MOS	احنه عننتضغ اصدقائنه حتى يجون.
+3572	corpus-6-test-corpus-26-train	MOS	رجاءا انطيني شويه فكة.
+3619	corpus-6-test-corpus-26-test	MOS	كيرلي قوي، رجاءا.
+3628	corpus-6-test-corpus-26-train	MOS	هي صغيغي ولطيفي.
+3638	corpus-6-test-corpus-26-test	MOS	اشنو الاوبيرا مال اليوم؟
+3640	corpus-6-test-corpus-26-train	MOS	مقلي، رجاءا.
+3644	corpus-6-test-corpus-26-train	MOS	حواس الغسيل مالتي ما رجعت بعد.
+3649	corpus-6-test-corpus-26-train	MOS	بالمناسبة، هل انته فاضي السبت اللي يجي؟
+3667	corpus-6-test-corpus-26-train	MOS	ماشي، يمكن غاح نلتقي سوه مره اللخ.
+3669	corpus-6-test-corpus-26-train	MOS	هي عاملتني عبالك انا مكدي.
+3683	corpus-6-test-corpus-26-train	MOS	افتهمتو، ممكن تساعدني بمشكله اللخ؟
+3685	corpus-6-test-corpus-26-train	MOS	تطيق تخلي عدسات الوصفه الطبيه لهل المناظر؟
+3698	corpus-6-test-corpus-26-dev	MOS	غاح اخذ اثنين من هذولي.
+3705	corpus-6-test-corpus-26-train	MOS	اشقد كلب لطيف. اي صنف؟
+3721	corpus-6-test-corpus-26-train	MOS	وقعتو شوكتي. رجاءا جيبلي وحدي اللخ.
+3742	corpus-6-test-corpus-26-train	MOS	هذا كان يونس.
+3747	corpus-6-test-corpus-26-train	MOS	اكيد. غوح مباشر وديور عد ثالث زاويه. غاح تلقينو على يمينك.
+3765	corpus-6-test-corpus-26-dev	MOS	عندك شويه افلام لشرائح ملوني؟
+3780	corpus-6-test-corpus-26-train	MOS	انت تعغف كاثي؟ هذا عيد ميلادها.
+3789	corpus-6-test-corpus-26-train	MOS	عندك مخطط ملون؟
+3792	corpus-6-test-corpus-26-dev	MOS	اطيق ادفع بشيك سياحي؟
+3806	corpus-6-test-corpus-26-train	MOS	لكن، هو، غجال، اشون اعغف هذاك الشي هو الحقيقي؟
+3825	corpus-6-test-corpus-26-train	MOS	اطيق اخذو معفي من الضرايب؟
+3829	corpus-6-test-corpus-26-train	MOS	ما اطيق اخلي امتعتي تحت الكغسي. ممكن تحفضيهم لليي، رجاءا؟
+3835	corpus-6-test-corpus-26-train	MOS	ممكن تخلي هذي الجنطه بصندوق السياره؟
+3847	corpus-6-test-corpus-26-train	MOS	انا غيح بغى هسا، لذلك غاح اخذو معاي.
+3856	corpus-6-test-corpus-26-train	MOS	رجاءا ارسلي شخص للاعلى علمود جنطيي ساعه ستي ونص.
+3858	corpus-6-test-corpus-26-dev	MOS	اغيد خريطه لسان فرانسيسكو والمناطق اللي تحيط بيها.
+3859	corpus-6-test-corpus-26-train	MOS	اي نوع من الخبز عندك؟
+3860	corpus-6-test-corpus-26-train	MOS	وين المصعد؟
+3861	corpus-6-test-corpus-26-train	MOS	اكو اي ويحد يطيق يعزف على البيانو؟
+3872	corpus-6-test-corpus-26-test	MOS	عند اي محطة لازم اقف حتى اصل لامباير ستيت بيلدينج؟
+3887	corpus-6-test-corpus-26-test	MOS	الميزانيه اقل من الف دولار.
+3892	corpus-6-test-corpus-26-train	MOS	شكرا، بس ما اتوقع عندي وقت حتى ابقى ليلتين. ممكن تحجزلي غرفة ام السريرين بهذاك الفندق لليله الاثنعش من اذار بس؟
+3900	corpus-6-test-corpus-26-dev	MOS	اطيق احجز غرفتين يطلون على المحيط؟
+3920	corpus-6-test-corpus-26-train	MOS	بعد ما قررنه لحد الان.
+3928	corpus-6-test-corpus-26-train	MOS	رفيقي تعثغ ولوا كاحلو.
+3936	corpus-6-test-corpus-26-train	MOS	غاح اجغب شوية شربت.
+3961	corpus-6-test-corpus-26-train	MOS	هل اكو مطعم تايلندي قغيب؟
+3972	corpus-6-test-corpus-26-train	MOS	هو بالضبط مجاور هذيك البنايه الطويلي. لذلك، ارجع بنفس الطريق اللي جيت بينو حتى تصل اشارة المرور. بعدين، ديوغ لليسار.
+3974	corpus-6-test-corpus-26-train	MOS	لازم الحق بطياره للوس انجلوس غدا الصبح من وقت.
+3988	corpus-6-test-corpus-26-train	MOS	"لعد اطيق اوصي بثقه بهذا ""جوله مدينه سان فرانسيسكو"". هذا يعغفك الشكل مال سان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	MOS	اغيد احصل على تأمين.
+3995	corpus-6-test-corpus-26-test	MOS	خلي نسلط ضغط بيغد حتى نخفف الالم.
+4013	corpus-6-test-corpus-26-train	MOS	هي تغيد تشتغي فستان.
+4016	corpus-6-test-corpus-26-train	MOS	اشقد حق التكسي لهذا الفندق؟
+4017	corpus-6-test-corpus-26-train	MOS	وين المرافق؟
+4034	corpus-6-test-corpus-26-train	MOS	هل يكلف اي شي دخول هذي البنايه؟
+4036	corpus-6-test-corpus-26-train	MOS	اعملا بطريقتك.
+4082	corpus-6-test-corpus-26-test	MOS	عددوغ على شي مثير.
+4104	corpus-6-test-corpus-26-train	MOS	الشباك عيلق.
+4109	corpus-6-test-corpus-26-dev	MOS	اوه اي جانب من يونيون سكوير هو؟
+4119	corpus-6-test-corpus-26-train	MOS	نص اونصه من شانيل رقم خمسي، رجاءا.
+4129	corpus-6-test-corpus-26-train	MOS	ماذا عن شوية قهوي؟
+4143	corpus-6-test-corpus-26-train	MOS	هل احتاج تذكره؟
+4182	corpus-6-test-corpus-26-train	MOS	تقريبا اشقد رسوم الخدمه؟
+4185	corpus-6-test-corpus-26-train	MOS	اشقد يبعد من هوني؟
+4187	corpus-6-test-corpus-26-train	MOS	كريم وشكر؟
+4193	corpus-6-test-corpus-26-train	MOS	عندك اي نسبة تخفيض لهل الارقام؟
+4219	corpus-6-test-corpus-26-train	MOS	هل اكو سوبر اكسبريس عد التسعه ونص؟
+4221	corpus-6-test-corpus-26-train	MOS	خليني اجيك دهن البريك والمحرك. محركك يبين تقريبا متوقف.
+4224	corpus-6-test-corpus-26-train	MOS	ما كانت غلطتي.
+4262	corpus-6-test-corpus-26-train	MOS	ماكو كهرب.
+4263	corpus-6-test-corpus-26-train	MOS	غاح ابلغ هذا للشرطه.
+4269	corpus-6-test-corpus-26-train	MOS	هل لازم كل ويحد يدفع لشرابو؟
+4275	corpus-6-test-corpus-26-train	MOS	ما بين الثلاثين والخمسين لكل ليلي.
+4278	corpus-6-test-corpus-26-train	MOS	رجاءا صلح هذا.
+4284	corpus-6-test-corpus-26-train	MOS	بايام غاس السني. وبالمناسبات الخاصه مثل حفلات الزواج، مراسيم توزيع الجوائز او الجنازات.
+4285	corpus-6-test-corpus-26-test	MOS	خردل اضافي، رجاءا.
+4305	corpus-6-test-corpus-26-train	MOS	ليش ما تعطيها هديي؟
+4321	corpus-6-test-corpus-26-test	MOS	اي فلم انت تنصح؟
+4324	corpus-6-test-corpus-26-test	MOS	هاذي عشين وانطيني دولارين صرافه، رجاءا.
+4326	corpus-6-test-corpus-26-train	MOS	زاغتني بالجانب.
+4335	corpus-6-test-corpus-26-train	MOS	اطيق اجي بالثنتين.
+4341	corpus-6-test-corpus-26-train	MOS	هل هاذي الامتعه من رحله جي ايه ال صفر واحد؟
+4346	corpus-6-test-corpus-26-train	MOS	هذي اول سفره اللي لباريس.
+4348	corpus-6-test-corpus-26-train	MOS	تطيق تحدد الكلفه قبل ما تبدي تشتغل علينو؟
+4358	corpus-6-test-corpus-26-train	MOS	تفضل، رجاءا.
+4364	corpus-6-test-corpus-26-test	MOS	رحلة المشي مالتنه لازم تكون كلش ممتعه.
+4365	corpus-6-test-corpus-26-train	MOS	وين نركن القارب؟
+4373	corpus-6-test-corpus-26-train	MOS	ما عدنه جنطه لكل هاي الكميي لذلك غاح احطم بهذا الجنطة البلاستيكي الكبيغه.
+4374	corpus-6-test-corpus-26-train	MOS	اغيد العب تنس.
+4375	corpus-6-test-corpus-26-train	MOS	اكو عصير اناناس، برتقال، وطماطه.
+4377	corpus-6-test-corpus-26-train	MOS	يساغ هذا الطابق، قغيب على الدرج الكهربائي.
+4382	corpus-6-test-corpus-26-test	MOS	اشنو اللعب عد زاويه البنايي اليوم؟
+4409	corpus-6-test-corpus-26-train	MOS	ما اتفضل اتشوف فلم مختلف؟
+4418	corpus-6-test-corpus-26-train	MOS	رجاءا بدل هذا الشيك مال السفر الى كاش.
+4432	corpus-6-test-corpus-26-dev	MOS	اغيد ان احصل على نفس الدوره غدا، رجاءا.
+4450	corpus-6-test-corpus-26-train	MOS	على الاغلب غاح اطيق انطيك اجابه احسن لهاذا بعد شويه عروض.
+4451	corpus-6-test-corpus-26-test	MOS	اغيد هديه لذكرى سنويي.
+4464	corpus-6-test-corpus-26-train	MOS	اي مسرحي موسيقي عتشتغل هسا؟
+4475	corpus-6-test-corpus-26-train	MOS	عندك مغيي؟
+4478	corpus-6-test-corpus-26-dev	MOS	اعذرني، بس انا ضيعتو طريقي. تطيق تساعدني؟
+4479	corpus-6-test-corpus-26-train	MOS	غاح اخذ هذا الويحد، رجاءا.
+4497	corpus-6-test-corpus-26-train	MOS	ما تطيق تجيب العاب ناريي لكندا.
+4501	corpus-6-test-corpus-26-train	MOS	اشقد طباخه رائعه مغتك.
+4503	corpus-6-test-corpus-26-train	MOS	تغيد اي مساعده؟
+4505	corpus-6-test-corpus-26-train	MOS	ممكن تعمل حجز لتكسي ساعه الستي غدا الصبح، رجاءا؟
+4510	corpus-6-test-corpus-26-train	MOS	اش اتغيد مع طبقك الرئيسي؟
+4540	corpus-6-test-corpus-26-test	MOS	اكو بوتيك قغيب حولنه؟
+4549	corpus-6-test-corpus-26-train	MOS	هذا المكان مليان بالناس، ما تمام؟
+4558	corpus-6-test-corpus-26-train	MOS	اسف، غاح يكون جاهز بحوالي خمس دقايق.
+4588	corpus-6-test-corpus-26-train	MOS	صاغ عندي الم بغقبتي من كنتو نيم.
+4594	corpus-6-test-corpus-26-train	MOS	اوكي، ماكو مشكله. ممكن اشوف جواز سفرك؟
+4615	corpus-6-test-corpus-26-test	MOS	ما عندي اي فلوس.
+4624	corpus-6-test-corpus-26-train	MOS	اي وقت لازم اكون عند المحطه؟
+4630	corpus-6-test-corpus-26-train	MOS	اكو كثيغ مطاعم حولنه.
+4635	corpus-6-test-corpus-26-train	MOS	هو قغيب على غرفة الامانات.
+4640	corpus-6-test-corpus-26-train	MOS	لطيف الكلام معاك.
+4644	corpus-6-test-corpus-26-test	MOS	هل اكو جوله بعد الظهغ؟
+4648	corpus-6-test-corpus-26-test	MOS	انا مع اصدقائي.
+4653	corpus-6-test-corpus-26-train	MOS	استمتعو باقامتي، شكرا الك.
+4654	corpus-6-test-corpus-26-train	MOS	الشاطئ تحت تماما، اشقد منظر حلو.
+4658	corpus-6-test-corpus-26-train	MOS	شكرا للانتظار، انسة ماك غوري. هيانو، تفضلي، رجاءا.
+4662	corpus-6-test-corpus-26-train	MOS	عندك هويه بيها صوره؟
+4671	corpus-6-test-corpus-26-train	MOS	سبعه، رجاءا.
+4674	corpus-6-test-corpus-26-train	MOS	اغيد ارسل هذا للغسل. ايمتي غاح يكون جاهز؟
+4685	corpus-6-test-corpus-26-train	MOS	عندي بنطرون مقلم.
+4699	corpus-6-test-corpus-26-train	MOS	اي. بعض حقائب شخص آخر وصلت لغرفتي هسا. ممكن تجيكا، رجاءا؟
+4714	corpus-6-test-corpus-26-train	MOS	ممكن تنشرح الليي بتفاصيل اكثر؟
+4729	corpus-6-test-corpus-26-train	MOS	هل نمت مليح؟
+4733	corpus-6-test-corpus-26-train	MOS	ممكن تدوس زر التصوير؟
+4740	corpus-6-test-corpus-26-train	MOS	مفتاحين، رجاءا.
+4742	corpus-6-test-corpus-26-dev	MOS	اغيدا كلوب.
+4744	corpus-6-test-corpus-26-train	MOS	هو بنهاية الممر.
+4773	corpus-6-test-corpus-26-dev	MOS	اغيد شوية اوراق ملاحظات.
+4788	corpus-6-test-corpus-26-train	MOS	هل غاح تغوح بالباص؟
+4790	corpus-6-test-corpus-26-train	MOS	انت قلت غاح تغوح لطوكيو غدا؟
+4795	corpus-6-test-corpus-26-test	MOS	خليني انام لحد ساعه تسعه.
+4801	corpus-6-test-corpus-26-train	MOS	انا لازم انتقل الى اي دبليو ويحد صفر صفر، هل هذا الشي ممكن؟
+4813	corpus-6-test-corpus-26-train	MOS	اشوني لعبتك هذي الايام؟
+4814	corpus-6-test-corpus-26-dev	MOS	اشعر بضيق في الصدر.
+4826	corpus-6-test-corpus-26-train	MOS	ماكو مشكله، اذا تجي بخمسه ايلول، تطيق تستمتع بعرض فلم علمي لان عدنه يوم خاص باول جمعه من كل شهغ.
+4828	corpus-6-test-corpus-26-train	MOS	هل عدكم اي جوله اللخ؟
+4836	corpus-6-test-corpus-26-train	MOS	ماشي، خمسي بالمي تخفيض. هل هذا اوكي؟
+4845	corpus-6-test-corpus-26-train	MOS	غاح اغوح لباريس.
+4848	corpus-6-test-corpus-26-train	MOS	هذا ما اخر موديل، ما تمام؟
+4857	corpus-6-test-corpus-26-train	MOS	هو محدد بالثميني ونص بالمغب بالتوقيت المحلي.
+4889	corpus-6-test-corpus-26-train	MOS	خذ البنايه معانه، رجاءا.
+4894	corpus-6-test-corpus-26-train	MOS	اوكي، غاح اخذ صحن حجم وسط وطبة تمن.
+4901	corpus-6-test-corpus-26-train	MOS	اشونو هذا الكتاب؟
+4924	corpus-6-test-corpus-26-train	MOS	اغيد اشوف هذاك الويحد بالشباك، رجاءا.
+4945	corpus-6-test-corpus-26-train	MOS	مستحيل، احنه باجازه. ما اقبل انو نقعد بغرفة الفندق ونطمش على كره سله عالتلفزيون. اغيد اغوح اشوف مسرحيه.
+4957	corpus-6-test-corpus-26-train	MOS	اطيق المسو؟
+4974	corpus-6-test-corpus-26-train	MOS	تطيق تجي هوني حتى تصلحو؟
+4983	corpus-6-test-corpus-26-train	MOS	اغيد شويه الياف اصطناعيه.
+4985	corpus-6-test-corpus-26-train	MOS	اسمي هو تارو تاناكا. عندي حجز.
+4990	corpus-6-test-corpus-26-train	MOS	اغيد شويه كريمات تطهير.
+5004	corpus-6-test-corpus-26-train	MOS	اغيد قمصله بغدين طويلي.
+5009	corpus-6-test-corpus-26-train	MOS	انباقت جنطتي.
+5017	corpus-6-test-corpus-26-train	MOS	طرقنه مبين عتتقاطع عدة مرات، مو بله؟
+5035	corpus-6-test-corpus-26-train	MOS	اطيق اشوف القائمة مره اللخ؟
+5045	corpus-6-test-corpus-26-train	MOS	بعدم يبينون شويه خضغ.
+5082	corpus-6-test-corpus-26-train	MOS	اشقد؟
+5083	corpus-6-test-corpus-26-train	MOS	فراوله، رجاءا.
+5090	corpus-6-test-corpus-26-dev	MOS	جبل فوجي هو اعلى قمة يابانيي بارتفاع ثلاثتالاف وسبعمي وستي وسبعين متر.
+5091	corpus-6-test-corpus-26-train	MOS	لا، بعد، اكو كثيغ حتى نختار منو.
+5098	corpus-6-test-corpus-26-dev	MOS	اغيد شويه كريمات ليل.
+5104	corpus-6-test-corpus-26-test	MOS	هو بين محل معجنات وقصاب.
+5116	corpus-6-test-corpus-26-train	MOS	تطيق تقصغ الغدان؟
+5117	corpus-6-test-corpus-26-train	MOS	اسف ماكو ملعب مال كولف حولنه.
+5121	corpus-6-test-corpus-26-train	MOS	اتطيق تشوفني ثاني حلقه من اليساغ؟
+5124	corpus-6-test-corpus-26-train	MOS	اتطيق تقلو ان يخابرني؟
+5138	corpus-6-test-corpus-26-train	MOS	حاولتو اعمل اتصال دولي. هل حصلت لو بعد؟
+5148	corpus-6-test-corpus-26-test	MOS	هذا خطأ.
+5175	corpus-6-test-corpus-26-train	MOS	اي، هو. لان تطيق تشوف العلم قدام مكتب البريد.
+5207	corpus-6-test-corpus-26-test	MOS	انت اكيد غاح ترسلم، صح؟
+5219	corpus-6-test-corpus-26-train	MOS	اغيد اعمل اتصال باستخدام بطاقة الائتمان.
+5224	corpus-6-test-corpus-26-train	MOS	اغيد اخذمالتي معاي.
+5245	corpus-6-test-corpus-26-train	MOS	عدما تجي، غاح ندفع حتى نرسلا لعنوان بيتك.
+5246	corpus-6-test-corpus-26-dev	MOS	هذي الايام انا دائما استخدم حاسبه بالشغل.
+5250	corpus-6-test-corpus-26-train	MOS	اوه، اوكي. افتهمتو. غاح اجي لمكانك.
+5259	corpus-6-test-corpus-26-train	MOS	لا، هذا كافي.
+5261	corpus-6-test-corpus-26-train	MOS	ممكن احل على بطانيي ومخدي؟
+5262	corpus-6-test-corpus-26-train	MOS	ممكن تجي هوني باسرع ما يمكن، رجاءا؟
+5263	corpus-6-test-corpus-26-train	MOS	كوب قهوي، رجاءا.
+5267	corpus-6-test-corpus-26-test	MOS	عددوغ على بعض البطاقات الللي هم بالضبط مال هواي.
+5272	corpus-6-test-corpus-26-train	MOS	اتطيق تضيق الخصر ثلاث سانتيمترات؟
+5289	corpus-6-test-corpus-26-train	MOS	انا نفس العمغ.
+5300	corpus-6-test-corpus-26-train	MOS	اتطيق تجيبلي شويه قهوي؟
+5307	corpus-6-test-corpus-26-dev	MOS	ثلاثمي وخمسين دولار؟ هذا فوق ميزانيتي.
+5323	corpus-6-test-corpus-26-train	MOS	تغيد تخلي هذا للتصويت؟ اذا لا، اتوقع احنه وصلنه الى استنتاج، واللي غاح ارسلو الى مجلس ادارتنا غدا الصبح.
+5334	corpus-6-test-corpus-26-train	MOS	هل تعغف اذا اكو اي فنادق غخيصه؟
+5361	corpus-6-test-corpus-26-train	MOS	صباح الخير. هل نمت مليح؟
+5364	corpus-6-test-corpus-26-train	MOS	اش نيوي تعمل بعد ما تخلص مدرسي؟
+5366	corpus-6-test-corpus-26-train	MOS	انباقت جنطتي مال الكتف بالشارع.
+5367	corpus-6-test-corpus-26-train	MOS	هل عندك اي خدمات اللخ بالاضافه الى التغيوقه هذا الصبح؟
+5407	corpus-6-test-corpus-26-train	MOS	اغيد كوب من القهوي البيضا، رجاءا.
+5410	corpus-6-test-corpus-26-test	MOS	اوكي. هل الشيراتون قغيب من هوني؟
+5411	corpus-6-test-corpus-26-train	MOS	اتمنى انو انت ما كلش تعبان.
+5431	corpus-6-test-corpus-26-train	MOS	اغيد أأجر سياره من هالصنف ليومين.
+5436	corpus-6-test-corpus-26-train	MOS	غاح اخذ صوره مال جاك دانيلز.
+5437	corpus-6-test-corpus-26-train	MOS	اغيد كيس شاميه، رجاءا.
+5447	corpus-6-test-corpus-26-train	MOS	وقعتو عصا التزلج.
+5455	corpus-6-test-corpus-26-train	MOS	احنه ما نجيب اي هدايه للاستقبال. مبداله، الضيوف يجيبون فلوس كاش.
+5458	corpus-6-test-corpus-26-train	MOS	اغيد ارسله بالبريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	MOS	الطياغه وصلت متاخر بسبب الثلج الكثيغ.
+5518	corpus-6-test-corpus-26-train	MOS	الحساب، رجاءا.
+5521	corpus-6-test-corpus-26-train	MOS	ممكن تاخذ رساله، رجاءا؟
+5540	corpus-6-test-corpus-26-train	MOS	اسف، ما اعدطيق اجاريك. ممكن تحكي شويه ابطأ، رجاءا؟
+5549	corpus-6-test-corpus-26-dev	MOS	اش اطيق اشوفك؟
+5559	corpus-6-test-corpus-26-train	MOS	ممكن اخذ صور؟
+5570	corpus-6-test-corpus-26-train	MOS	من ميي.
+5584	corpus-6-test-corpus-26-dev	MOS	رقم الرحله هو اج بي ثمانيه تسعه لليابان بايدعش من اذار.
+5585	corpus-6-test-corpus-26-train	MOS	اطيق احصل على نفس الطبق مثل هذاك؟
+5594	corpus-6-test-corpus-26-dev	MOS	هل عندك ويحد اللاخ؟
+5596	corpus-6-test-corpus-26-train	MOS	رجاءا جيبلي التغيوقه لغرفتي ساعه سبعه الصبح غدا.
+5615	corpus-6-test-corpus-26-train	MOS	غجال الصيانه غاح يكون موجود قريبا.
+5617	corpus-6-test-corpus-26-dev	MOS	اسف. غاح ارجع بعدين.
+5640	corpus-6-test-corpus-26-test	MOS	اشون اطيق اخذا؟
+5648	corpus-6-test-corpus-26-train	MOS	هل اكو اي شواغر بالجوله مال الخميس؟
+5657	corpus-6-test-corpus-26-train	MOS	اعذرني، ممكن اعبغ؟
+5680	corpus-6-test-corpus-26-train	MOS	هل عندك اي نباتات و فواكه؟
+5684	corpus-6-test-corpus-26-train	MOS	رجاءا قلي اشون املي بطاقة النزول؟
+5695	corpus-6-test-corpus-26-train	MOS	اتوقع سيارتي تسوى بحدود ال خمستالاف دولار.
+5706	corpus-6-test-corpus-26-train	MOS	هل هذا الاكل قليل السعرات الحراريه؟
+5717	corpus-6-test-corpus-26-train	MOS	اي باص لازم اخذ حتى اصل للمحطة؟
+5723	corpus-6-test-corpus-26-train	MOS	اي، هو. بس لازم تلوف لليساغ عد ثالث اشارة مرور وتبقى بالشارع الى ان تصل الى طريق ستي وستين.
+5733	corpus-6-test-corpus-26-dev	MOS	اغيد كلاص ماي علمود اخذ شويه ادويه، رجاءا.
+5761	corpus-6-test-corpus-26-train	MOS	غاح اكون كلش ممنون اذا تاخذني للشاطي.
+5772	corpus-6-test-corpus-26-train	MOS	اسف. الرقم خطأ. هذا تانكيوشا بريس.
+5779	corpus-6-test-corpus-26-train	MOS	احنه عنسجل خروج.
+5830	corpus-6-test-corpus-26-dev	MOS	اشني هاذي الموسيقى؟
+5847	corpus-6-test-corpus-26-train	MOS	رجاءا انطي هذا الشراب لاولادك، مقياس ويحد، بعد كل وجبي.
+5848	corpus-6-test-corpus-26-train	MOS	هذا الموديل متوفر بقياسات ثميني وعشين، ويحد وثلاثين و خمسي وثلاثين سانتيميتر.
+5875	corpus-6-test-corpus-26-train	MOS	اوه، هذا يبين كثيغ.
+5898	corpus-6-test-corpus-26-train	MOS	ممكن استخدم تليفونك؟
+5902	corpus-6-test-corpus-26-test	MOS	هذاك غيحتو كلش طيبي، اشقد سعرو؟
+5906	corpus-6-test-corpus-26-train	MOS	اغيد اعيد تأكيد الحجز لرحلتي الى شيكاغو يوم سباطعش.
+5913	corpus-6-test-corpus-26-train	MOS	اكلتو شويه كثيغ.
+5914	corpus-6-test-corpus-26-train	MOS	ممكن احكي مع السيد براون؟
+5916	corpus-6-test-corpus-26-train	MOS	هذا البيت يبين مريح للعيشي بينو، ما تمام؟
+5934	corpus-6-test-corpus-26-dev	MOS	اغيد اعمل حجز بشركة الخطوط الجويه نورثويست برحله صفر ثميني ستي يوم خمسه.
+5940	corpus-6-test-corpus-26-train	MOS	جزداني، جواز سفري وممتلكات شخصيه اخرى.
+5956	corpus-6-test-corpus-26-train	MOS	ايمتي تغلقون؟
+5974	corpus-6-test-corpus-26-test	MOS	انتظر دقيقه. يمكن عفتوها بالحمام.
+5987	corpus-6-test-corpus-26-train	MOS	هذا اللي كنتو غاح اقولو.
+5988	corpus-6-test-corpus-26-train	MOS	اي، اعتقد همين.
+5997	corpus-6-test-corpus-26-train	MOS	بيتك كبيغ. كم غرفة؟
+6006	corpus-6-test-corpus-26-train	MOS	استمتعنه بالعشويي.
+6024	corpus-6-test-corpus-26-test	MOS	افتهمت، لكن ما اطيق اقوله.
+6047	corpus-6-test-corpus-26-train	MOS	اوه، اي، رجاءا. اتمنى بس ما يصيغ بيهم دوار البحر.
+6056	corpus-6-test-corpus-26-test	MOS	الى طوكيو، رجاءا.
+6073	corpus-6-test-corpus-26-train	MOS	اي وقت متوقع وصولنا؟
+6086	corpus-6-test-corpus-26-train	MOS	انا غاح اغوح غدا مبكرا، لذلك اغيد ادفع هسا.
+6100	corpus-6-test-corpus-26-test	MOS	دراي شيري، رجاءا.
+6109	corpus-6-test-corpus-26-test	MOS	مقعد لغير المدخنين، رجاءا.
+6156	corpus-6-test-corpus-26-train	MOS	هو مشغول هسه.
+6167	corpus-6-test-corpus-26-train	MOS	هل يطيق الاجانب يصلون للكتب بالمكتبه؟
+6179	corpus-6-test-corpus-26-train	MOS	هل اطيق ابقى بغرفتي الى الساعه ثنتين بعد الظهغ؟
+6190	corpus-6-test-corpus-26-train	MOS	ها ها. صباح الخير وقتك. هو اوكي.
+6193	corpus-6-test-corpus-26-train	MOS	اغيد فيلم رقم هذا الايه اس ايه لهل الكامره، رجاءا.
+6205	corpus-6-test-corpus-26-train	MOS	وين لوحات مونيتس؟
+6214	corpus-6-test-corpus-26-train	MOS	البيتزه طيبي، منو عملا؟
+6221	corpus-6-test-corpus-26-train	MOS	مثل اشنو طعم هذا الطبق؟
+6227	corpus-6-test-corpus-26-train	MOS	ايضا همه مغاليين.
+6228	corpus-6-test-corpus-26-train	MOS	ايمتي يغوح القطار الثاني لبوسطن؟
+6232	corpus-6-test-corpus-26-dev	MOS	مخطط ان اتعلم كولف.
+6247	corpus-6-test-corpus-26-dev	MOS	رجاءا انطيني شراب اللاخ.
+6253	corpus-6-test-corpus-26-train	MOS	اشقد راكب امواج مليح.
+6272	corpus-6-test-corpus-26-train	MOS	اسف الغدان كلش قصاغ.
+6283	corpus-6-test-corpus-26-train	MOS	اتطيق تشوفني اشون اخلي البانزين؟
+6285	corpus-6-test-corpus-26-train	MOS	هل رسوم الفندق تتضمن التغيوقه؟
+6287	corpus-6-test-corpus-26-train	MOS	هل هذا كل ش؟
+6291	corpus-6-test-corpus-26-train	MOS	هو بنهاية هذا الطريق.
+6339	corpus-6-test-corpus-26-train	MOS	رجاءا ابدي العداد.
+6363	corpus-6-test-corpus-26-train	MOS	غرفتي كلش بيغدي.
+6411	corpus-6-test-corpus-26-train	MOS	غاح ارجع لك عدما نكون ما كلش مشغولين.
+6413	corpus-6-test-corpus-26-dev	MOS	عندك وحدي اكبغ؟
+6418	corpus-6-test-corpus-26-train	MOS	اشعر بتحسن.
+6430	corpus-6-test-corpus-26-dev	MOS	هل تألف الجغرافيه مال اليابان؟
+6436	corpus-6-test-corpus-26-train	MOS	رجاءا شوفني انا وين بهالخريطة.
+6437	corpus-6-test-corpus-26-train	MOS	ميي بالميي قطن.
+6466	corpus-6-test-corpus-26-train	MOS	اغيد اغير للغرفة الي تطل على المحيط. هل اكو اي رسوم اضافيي؟
+6472	corpus-6-test-corpus-26-train	MOS	اشقد يكلف استأجار المجلس لنص يوم؟
+6481	corpus-6-test-corpus-26-train	MOS	رقم عشغه.
+6484	corpus-6-test-corpus-26-dev	MOS	اغيد شريط الاله الكاتبه.
+6492	corpus-6-test-corpus-26-train	MOS	كلش طيب.
+6497	corpus-6-test-corpus-26-train	MOS	ايمتي غاح نقلع؟
+6498	corpus-6-test-corpus-26-train	MOS	اشون تخلي السايق يعغف لمن نغيد نطلع؟
+6513	corpus-6-test-corpus-26-train	MOS	اربعه وعشين دولار. تغيد اكثغ؟
+6515	corpus-6-test-corpus-26-train	MOS	اعملتو الحجز بطوكيو من قبل شهغ.
+6517	corpus-6-test-corpus-26-train	MOS	اشكرك من اعماق قلبي.
+6525	corpus-6-test-corpus-26-train	MOS	هل انزل هوني علمود مركز الروكيفيلر؟
+6539	corpus-6-test-corpus-26-train	MOS	رجاءا خذ مقاس حذائي.
+6547	corpus-6-test-corpus-26-train	MOS	هو رائع.
+6550	corpus-6-test-corpus-26-train	MOS	هل تطلعين معاي بموعد؟
+6552	corpus-6-test-corpus-26-train	MOS	رجاءا نظف هذا الكبوط.
+6553	corpus-6-test-corpus-26-train	MOS	اغيد استأجر قارب.
+6574	corpus-6-test-corpus-26-train	MOS	وين قسم النسوان؟
+6581	corpus-6-test-corpus-26-train	MOS	القهوي ما مشمولي؟
+6593	corpus-6-test-corpus-26-train	MOS	باي مجال كان هو قبل؟
+6602	corpus-6-test-corpus-26-train	MOS	لعنة علي. لعنة علي. لعنة علي. لعنة علي. اعتدت على وجا.
+6609	corpus-6-test-corpus-26-train	MOS	هل لازم ادفع الرسوم الاضافي من ادخل البنايه؟
+6613	corpus-6-test-corpus-26-test	MOS	هلو، الشخص اللي عتتصل علينو على الخط. اتفضل، رجاءا.
+6625	corpus-6-test-corpus-26-train	MOS	جغحي يوجع.
+6635	corpus-6-test-corpus-26-train	MOS	ويني المحطه؟
+6657	corpus-6-test-corpus-26-train	MOS	انا عندي بغد وقشعريره.
+6659	corpus-6-test-corpus-26-train	MOS	ثلاث ايام.
+6660	corpus-6-test-corpus-26-dev	MOS	اقطع البرج من هوني، وغاح تشوف المكتبه على ايدك اليسرى.
+6692	corpus-6-test-corpus-26-dev	MOS	رجاءا ساعدني القي دليل يحكي ياباني.
+6699	corpus-6-test-corpus-26-train	MOS	ما اغيد ويحد ضخم.
+6700	corpus-6-test-corpus-26-train	MOS	غاح يكون اكو تاخير خفيف.
+6715	corpus-6-test-corpus-26-train	MOS	اشنو الاختلاف بين هذولي الفنادق؟
+6724	corpus-6-test-corpus-26-test	MOS	انا فوتو مكان توقفي.
+6736	corpus-6-test-corpus-26-train	MOS	كان عظيم. شكرا.
+6740	corpus-6-test-corpus-26-dev	MOS	غاح اكون هنوك بحدود الستي هذي المغبيي.
+6746	corpus-6-test-corpus-26-train	MOS	عندك اي شي شويه اطول؟
+6766	corpus-6-test-corpus-26-train	MOS	تاريخ انتهاء الصلاحيه هو اذار الف وتسعمي وتسعه وتسعين.
+6780	corpus-6-test-corpus-26-test	MOS	هذا كان هو؟
+6800	corpus-6-test-corpus-26-train	MOS	هل اكو اي كازينوات مليحه؟
+6810	corpus-6-test-corpus-26-train	MOS	هاذي الفلوس مال الاقلام الحبغ. ورقه نقديي فئة المية دولار.
+6812	corpus-6-test-corpus-26-train	MOS	وين جزء النسوان؟
+6825	corpus-6-test-corpus-26-train	MOS	وين اطيق اركن القارب؟
+6832	corpus-6-test-corpus-26-train	MOS	صديقي انصاب.
+6835	corpus-6-test-corpus-26-train	MOS	تبين مليح.
+6836	corpus-6-test-corpus-26-dev	MOS	هل هذا المحل غاح يكون مفتوح غدا؟
+6862	corpus-6-test-corpus-26-test	MOS	هو بنهاية القاعه.
+6864	corpus-6-test-corpus-26-train	MOS	ممكن تقلم شويغبك رجاءا؟
+6866	corpus-6-test-corpus-26-dev	MOS	هذا يجي مع السلطة وخيارك ما بين البطاطه المخبوزي او البطاطا المقليي.
+6875	corpus-6-test-corpus-26-dev	MOS	وين اطيق اشتغي وعاء؟
+6914	corpus-6-test-corpus-26-train	MOS	ما اطيق ابيع هذا بدون وصفي طبيي.
+6917	corpus-6-test-corpus-26-train	MOS	اطيق احجز خمس مقاعد سوى بنفس الصف؟
+6923	corpus-6-test-corpus-26-test	MOS	ممكن تديني حبلين، رجاءا؟
+6944	corpus-6-test-corpus-26-train	MOS	ايي احسن سياره بالنسبه لاستهلاك الوقود؟
+6960	corpus-6-test-corpus-26-train	MOS	انت ما غاح تحصل على تخفض لو اشقد ما تحاول.
+6966	corpus-6-test-corpus-26-train	MOS	ممكن تفتح هذي الجنطه، رجاءا؟ اش عندك بداخلا؟
+6970	corpus-6-test-corpus-26-train	MOS	اغيد اعمل اتصال طويل المسافه لفندق هيلتون ببوسطن.
+6984	corpus-6-test-corpus-26-test	MOS	هل النسوان يقبلون هالشي؟
+6991	corpus-6-test-corpus-26-train	MOS	دير بالك، سقف ناصي.
+6999	corpus-6-test-corpus-26-train	MOS	ما اطيق اشوف الشاشة من هوني مليح كثيغ. اطيق اغير المقاعد شويه؟
+7030	corpus-6-test-corpus-26-train	MOS	زرتو البحيرات العظيمي لاول مرة.
+7048	corpus-6-test-corpus-26-train	MOS	اكو خلل ما بألة البيع هاذي.
+7057	corpus-6-test-corpus-26-train	MOS	احتاج طبيب.
+7070	corpus-6-test-corpus-26-train	MOS	اشقد صاغلها بالمملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	MOS	اللي يحبون الفنون الجديدة مثلك على الاكثغ غاح يستمتعون بالرسومات الهيبيش ومشهد موسيقى الشارع.
+7098	corpus-6-test-corpus-26-train	MOS	اي وقت؟
+7099	corpus-6-test-corpus-26-dev	MOS	غاح اخذ نقانق وكولا.
+7104	corpus-6-test-corpus-26-dev	MOS	معاك عامل البدالة الخارجي.
+7123	corpus-6-test-corpus-26-train	MOS	اتطيق تشوف بنايه بيضاء، تمام؟ هو مقابيل هذي البنايه.
+7130	corpus-6-test-corpus-26-test	MOS	من ايمتي؟
+7137	corpus-6-test-corpus-26-test	MOS	ما عندي اي شي افصح عنو.
+7198	corpus-6-test-corpus-26-dev	MOS	اشنو؟ هل لازم تدفع ضريبه لمن عندك اكثغ من ثلاث ابطولي كحول؟
+7206	corpus-6-test-corpus-26-dev	MOS	صديقي كلش مريض. اتطيق تتصل بطبيب، رجاءا؟
+7227	corpus-6-test-corpus-26-test	MOS	ما اعغف كثيغ عن الخمر. اشنو المناسب لهل طبق؟
+7233	corpus-6-test-corpus-26-dev	MOS	تطيق تتصل بي الصبح من وقت، رجاءا؟
+7248	corpus-6-test-corpus-26-dev	MOS	اكو محطة بنزين على بعد بلوكين من هوني.
+7253	corpus-6-test-corpus-26-train	MOS	اليابانيين ما ياخذون اجايز طويلي.
+7264	corpus-6-test-corpus-26-train	MOS	اشعر وكاني عدزيغ احد . هل هو كلش نادر شوفة ياباني؟
+7269	corpus-6-test-corpus-26-test	MOS	اكيد لا. ليش قلت هشكل؟
+7270	corpus-6-test-corpus-26-train	MOS	اي طريق هو المدخل لمكتب البريد المركزي؟
+7274	corpus-6-test-corpus-26-train	MOS	وين مستودع الباصات الكريهاوند بهالمدينه؟
+7281	corpus-6-test-corpus-26-train	MOS	بس مو المطاعم الياباني بكيوتو غاليي؟
+7289	corpus-6-test-corpus-26-train	MOS	اتوقع هو شويه عيلي بالنسبه لليي.
+7291	corpus-6-test-corpus-26-test	MOS	عدنه غرفه بسريرين مع حمام بخمسي وثمانين دولار.
+7305	corpus-6-test-corpus-26-train	MOS	اغيد نسبة الكتاب.
+7314	corpus-6-test-corpus-26-test	MOS	هاي السني ابغد من العاده، بس مو كلش بيغدي حتى تثلج.
+7321	corpus-6-test-corpus-26-train	MOS	وين اطيق اشتغي تذاكر مال قطار الانفاق؟
+7335	corpus-6-test-corpus-26-train	MOS	غاح يصيغ عندي مقاعد بدرجة رجال الاعمال، تمام؟
+7343	corpus-6-test-corpus-26-train	MOS	اشقد حق التكسي من هذا الفندق الى المحطة؟
+7349	corpus-6-test-corpus-26-train	MOS	ممكن اخذ هذا وهذا، رجاءا؟
+7381	corpus-6-test-corpus-26-train	MOS	يقولون اليابان بلد غني كثيغ.
+7386	corpus-6-test-corpus-26-train	MOS	هل اكو اي غرف مجانيي بسيارة النوم؟
+7391	corpus-6-test-corpus-26-dev	MOS	ممكن تخفضا الى عشين دولار، رجاءا؟
+7395	corpus-6-test-corpus-26-train	MOS	هذي هديي لصديق.
+7412	corpus-6-test-corpus-26-train	MOS	الثلج يعمل الطريق زلق.
+7414	corpus-6-test-corpus-26-train	MOS	ما عدطيق القي كامرتي.
+7416	corpus-6-test-corpus-26-test	MOS	غاح اعمل لفتين لحم خنزير.
+7438	corpus-6-test-corpus-26-train	MOS	هل عندك اي شي تفصح عنو؟
+7439	corpus-6-test-corpus-26-train	MOS	هل شفت معطف اصغق؟ انا خليتونو على هاي الكغسي.
+7470	corpus-6-test-corpus-26-test	MOS	اكو محل مال وغد عبغ الشارع.
+7478	corpus-6-test-corpus-26-train	MOS	انا من طوكيو.
+7479	corpus-6-test-corpus-26-train	MOS	اغيد كريم تنظيف ريفلون.
+7485	corpus-6-test-corpus-26-train	MOS	عندي شويه اشياء للغسيل.
+7507	corpus-6-test-corpus-26-dev	MOS	انا طلبتوها من وقت طويل.
+7533	corpus-6-test-corpus-26-dev	MOS	تطيق ترسلي حمال لغرفتي بالستي الصبح؟
+7549	corpus-6-test-corpus-26-train	MOS	غاح اخذ شوكلاته حاغه.
+7550	corpus-6-test-corpus-26-train	MOS	انطيق انرتب حتى تتنظف غرفتك.
+7574	corpus-6-test-corpus-26-train	MOS	خصوصي، رجاءا.
+7583	corpus-6-test-corpus-26-train	MOS	اشقد السعر الى الفندق سي؟
+7612	corpus-6-test-corpus-26-test	MOS	ممكن احصل على تذكره متعدده؟
+7622	corpus-6-test-corpus-26-train	MOS	اغيد احجز طاولي لشخصين ساعه سبعه، رجاءا.
+7626	corpus-6-test-corpus-26-train	MOS	اغيد شويه كريمات ليل.
+7627	corpus-6-test-corpus-26-train	MOS	ممكن تغلف هذا كهديي؟
+7636	corpus-6-test-corpus-26-train	MOS	هو ربع بعد ثلاثي.
+7650	corpus-6-test-corpus-26-train	MOS	عدخطط انو ارسل هذي الفواتير مال ضرورياتي اليوميي، لذلك رجاءا قلي عنوان واسم الشخص المسؤول.
+7656	corpus-6-test-corpus-26-test	MOS	صعب علينه انو نتكلم الانكليزي بطلاقه.
+7662	corpus-6-test-corpus-26-train	MOS	عندك من هذوي بنفس التصميم وبكعب اعلى؟
+7663	corpus-6-test-corpus-26-train	MOS	اغيد سترة لطفل بعمغ العش سنين.
+7671	corpus-6-test-corpus-26-train	MOS	خذني لشارع ابيي، رجاءا.
+7684	corpus-6-test-corpus-26-dev	MOS	شكرا . مرحبا، شكرا لانتضارك.
+7693	corpus-6-test-corpus-26-train	MOS	انا متأكد انو عندي حجز.
+7708	corpus-6-test-corpus-26-train	MOS	غاح ارسلها اللك، لذلك انتظر هوني راجاءا.
+7712	corpus-6-test-corpus-26-dev	MOS	احنه هوني ليوم.
+7721	corpus-6-test-corpus-26-train	MOS	عندي صداع خفيف.
+7736	corpus-6-test-corpus-26-train	MOS	استمتعتو بالوجبي كثيغ.
+7756	corpus-6-test-corpus-26-train	MOS	لا، رجاءا اقعد وانتضر. غاخ ارجعلك حالا.
+7761	corpus-6-test-corpus-26-test	MOS	ممكن اشوف السياره؟
+7767	corpus-6-test-corpus-26-train	MOS	تطيق ترسملي خريطة، رجاءا؟
+7789	corpus-6-test-corpus-26-test	MOS	اوكي، سيدي. رجاءا ابقى بغرفتك الى ان يجي الطبيب.
+7811	corpus-6-test-corpus-26-train	MOS	هاجموني بشاطئ وايمانالو. رجاءا تعال هسه.
+7812	corpus-6-test-corpus-26-train	MOS	ليش ما مية دولار؟
+7814	corpus-6-test-corpus-26-train	MOS	اغيد هذا معبا.
+7831	corpus-6-test-corpus-26-train	MOS	اغيد اقدم على اعادة الاصدار.
+7834	corpus-6-test-corpus-26-train	MOS	الحومه شجعت على تعزيز الصناعات.
+7838	corpus-6-test-corpus-26-train	MOS	هو عمغو اكثغ من خمسين سني، اتوقع.
+7858	corpus-6-test-corpus-26-dev	MOS	اشنو اقل عمغ للقيام بهالشي؟
+7860	corpus-6-test-corpus-26-train	MOS	هل عندك اي خرايط بسيطه للمدينه؟
+7867	corpus-6-test-corpus-26-test	MOS	اذا ممكن، ما افضل انو ينشلع السن.
+7871	corpus-6-test-corpus-26-dev	MOS	هذا ينحسب كره وحدي، محاولتين.
+7883	corpus-6-test-corpus-26-train	MOS	باي وقت غاح يصل القطار لسان دياغو، رجاءا؟
+7913	corpus-6-test-corpus-26-train	MOS	اغيد القي نضره على صندوقك.
+7925	corpus-6-test-corpus-26-train	MOS	اغيد شوية شامبو.
+7947	corpus-6-test-corpus-26-train	MOS	انا قيعد بفندق هيلتون.
+7948	corpus-6-test-corpus-26-train	MOS	اشعر بالضيق والغثيان.
+7957	corpus-6-test-corpus-26-train	MOS	لكن انا عندي موعد حتى اشوفها ساعه ثنتين.
+7972	corpus-6-test-corpus-26-train	MOS	هل هذي السياره تغوح لادنبره؟
+7976	corpus-6-test-corpus-26-train	MOS	اي، رجاءا املي هذي الاستماره.
+7983	corpus-6-test-corpus-26-train	MOS	اشقد تاخذ فلوس على الاوزان الاضافيه؟
+7991	corpus-6-test-corpus-26-dev	MOS	اسمي هو كيمورا. اغيد الغي حجزي ليوم الجمعه.
+7996	corpus-6-test-corpus-26-test	MOS	اوه، انا اسف. اكو مشكله وعنحلا. ممكن تنتظر حوالي ثلاثين دقيقه؟
+8039	corpus-6-test-corpus-26-train	MOS	اي وقت اطيق اسجل خروجي؟
+8050	corpus-6-test-corpus-26-train	MOS	حصلتو عليها.
+8058	corpus-6-test-corpus-26-train	MOS	غاح اتصل بشخص ما.
+8067	corpus-6-test-corpus-26-test	MOS	اتغيد تدفع هذي الفاتوره هسا؟
+8068	corpus-6-test-corpus-26-train	MOS	السياره جت اللي من الجانب بالتقاطع.
+8094	corpus-6-test-corpus-26-train	MOS	هو صندوق موسيقى.
+8095	corpus-6-test-corpus-26-train	MOS	وين هيه الضاحيه؟
+8098	corpus-6-test-corpus-26-train	MOS	هل اكو باص جولات بالمدينه؟
+8108	corpus-6-test-corpus-26-train	MOS	اي وقت احنه نبدي؟
+8114	corpus-6-test-corpus-26-train	MOS	تمام، سيدي. بالحجم الوسط نطيق نعرضلك اسود زئبقي. هل هذا تمام؟
+8116	corpus-6-test-corpus-26-train	MOS	انت اصبت عضله.
+8141	corpus-6-test-corpus-26-train	MOS	لكن لازم توعدني انو تضعب الطبي، مو انا. اوكي؟
+8143	corpus-6-test-corpus-26-train	MOS	اشقد اكثغ؟
+8149	corpus-6-test-corpus-26-train	MOS	ممكن استعير شويه كتان؟
+8156	corpus-6-test-corpus-26-train	MOS	من اي نوع من الجلود هلي البدلي مصنوعه؟
+8161	corpus-6-test-corpus-26-train	MOS	ما اتوقع هذي السكيني نظيفي. تطيق تجيبلي وحدي اللخ؟
+8164	corpus-6-test-corpus-26-train	MOS	اشتغيتو هذي قبل دقيقه، لكن ممكن تبدلها بهذيك؟
+8173	corpus-6-test-corpus-26-train	MOS	خل نحكي بصراحه، انا ما اتفق مع هذاك الشي.
+8177	corpus-6-test-corpus-26-train	MOS	هل هو هذا الطريق الصحيح للمحطه المركزيي؟
+8183	corpus-6-test-corpus-26-train	MOS	قارب مع مرشد، رجاءا.
+8193	corpus-6-test-corpus-26-train	MOS	اغيد اوصي بدلي غامقة اللون لنفسي.
+8194	corpus-6-test-corpus-26-train	MOS	هذي المظله غاح تعمل لعودي.
+8202	corpus-6-test-corpus-26-test	MOS	هل لازم اعوف كل امتعتي بغرفة الامانات؟
+8210	corpus-6-test-corpus-26-train	MOS	رجاءا شوفني جواز سفرك.
+8227	corpus-6-test-corpus-26-train	MOS	هل اكو اي مكان يقبل الغسيل يوم الاحد؟
+8233	corpus-6-test-corpus-26-train	MOS	اثنين بركر بالجبن، رجاءا.
+8234	corpus-6-test-corpus-26-train	MOS	اي باص يغوح لميامي؟
+8236	corpus-6-test-corpus-26-train	MOS	لكن ما يحتاج بقشيش.
+8248	corpus-6-test-corpus-26-train	MOS	تطيق تشوف ويحد بقاعة كارنيجي.
+8250	corpus-6-test-corpus-26-train	MOS	انا ما مؤهل.
+8271	corpus-6-test-corpus-26-train	MOS	اشنو اختصاص البيت؟
+8280	corpus-6-test-corpus-26-train	MOS	اغيد اعمل موعد مع طبيب.
+8291	corpus-6-test-corpus-26-dev	MOS	عدتسائل اذا اكو ميز قغيب على الشباك متوفر هالليلي بالسبعه.
+8295	corpus-6-test-corpus-26-train	MOS	انت ما تمانع جيتي لمكانك؟
+8305	corpus-6-test-corpus-26-train	MOS	يبين اكو مجال للتطوير.
+8316	corpus-6-test-corpus-26-train	MOS	وينو قطار الانفاق؟
+8334	corpus-6-test-corpus-26-train	MOS	موجود عندك بقياس اصغغ؟
+8338	corpus-6-test-corpus-26-train	MOS	وين اطيق احصل على اسبرين؟
+8342	corpus-6-test-corpus-26-train	MOS	هذاك قاع الصخور؟
+8349	corpus-6-test-corpus-26-train	MOS	رجاءا انطيني عبور لمدة اسبوع.
+8355	corpus-6-test-corpus-26-train	MOS	هذا رفيقي.
+8358	corpus-6-test-corpus-26-train	MOS	اي نوع من البنزين هذا؟ ممتاز، اعتيادي، ونقي؟
+8368	corpus-6-test-corpus-26-train	MOS	هوني ويحد.
+8371	corpus-6-test-corpus-26-train	MOS	انا راح اصاب ببغد.
+8409	corpus-6-test-corpus-26-test	MOS	هو مقفل ايام الاثنين، لكن اي يوم اللاخ المفروض يكون اوكي. اتوقع هو مفتوح من التسعه للخمسي.
+8418	corpus-6-test-corpus-26-train	MOS	هذا ثعبان البحغ مشوي مع صلصه خاصه اعلى وعاء من التمن.
+8435	corpus-6-test-corpus-26-train	MOS	"هو قال ""خلي نحتفل"" واخذني للبار. قال غاح يغوح يعمل اتصال وغاح وما رجع وانا بقيتو عيلق بفاتوره كبيغه."
+8454	corpus-6-test-corpus-26-train	MOS	اشقد سعرو لكل كالون؟
+8456	corpus-6-test-corpus-26-train	MOS	جواز سفري وبطاقه ائتماني بجنطتي.
+8485	corpus-6-test-corpus-26-train	MOS	الحجز بالسبعه، باسم مانو.
+8495	corpus-6-test-corpus-26-train	MOS	ما غاح تاخذ كوب جاي؟
+8497	corpus-6-test-corpus-26-dev	MOS	تطيق تقلي وين القي مستشار ياباني؟
+8509	corpus-6-test-corpus-26-train	MOS	هل اكو طبيب فندق او ويحد على اتصال؟
+8516	corpus-6-test-corpus-26-train	MOS	هو دائما يتسوق بشارع بوند.
+8527	corpus-6-test-corpus-26-train	MOS	ورق انكليزي، رجاءا.
+8535	corpus-6-test-corpus-26-train	MOS	هل اكو اي مكان يشغلون بينو اغاني الريف؟
+8539	corpus-6-test-corpus-26-test	MOS	اغيد اجيك قيمة اغراضي الثميني.
+8543	corpus-6-test-corpus-26-train	MOS	اكو بعد مصوفين؟
+8551	corpus-6-test-corpus-26-train	MOS	اشقد سعرو لكل ورقه؟
+8574	corpus-6-test-corpus-26-train	MOS	ماشي، دوس تسعه و صفر واحد واحد، بعدين رمز الدوله ورقم التليفون.
+8577	corpus-6-test-corpus-26-train	MOS	اطيق اخذ ببسي مال ريجيم؟
+8584	corpus-6-test-corpus-26-train	MOS	اطيق اعمل توصيه؟
+8595	corpus-6-test-corpus-26-train	MOS	كانت سياقه لطيفي. شكرا.
+8604	corpus-6-test-corpus-26-test	MOS	اعذرني. ممكن اعبغ؟
+8610	corpus-6-test-corpus-26-train	MOS	التعداد السكاني الكلي لليابان حوالي ميي وثلاثين مليون.
+8618	corpus-6-test-corpus-26-train	MOS	اغيد استأجر مظله.
+8625	corpus-6-test-corpus-26-train	MOS	اي، واغيد اعكس الخدمات.
+8636	corpus-6-test-corpus-26-train	MOS	محفظه بيها مية دولار وبطاقتين ائتمان.
+8637	corpus-6-test-corpus-26-train	MOS	الماي كلش حاغ.
+8675	corpus-6-test-corpus-26-train	MOS	انت هوني.
+8688	corpus-6-test-corpus-26-dev	MOS	دللي مال قهوي، رجاءا.
+8690	corpus-6-test-corpus-26-train	MOS	ما يتشابه كلش.
+8696	corpus-6-test-corpus-26-train	MOS	معدتي تاذي بعد الوجبات.
+8734	corpus-6-test-corpus-26-train	MOS	واو، هذاك مكان لطيف.
+8741	corpus-6-test-corpus-26-train	MOS	ممكن يكون عندو انسداد جوي.
+8749	corpus-6-test-corpus-26-train	MOS	هل قررت؟
+8788	corpus-6-test-corpus-26-train	MOS	اذا تحب، ممكن نستغيح هوني.
+8791	corpus-6-test-corpus-26-test	MOS	فقدتو متابعه بريد مسجل.
+8803	corpus-6-test-corpus-26-train	MOS	اتطيق تغير شغلك بسهوله.
+8805	corpus-6-test-corpus-26-train	MOS	اشني هيه المحطة المقبله؟
+8811	corpus-6-test-corpus-26-train	MOS	ماشي، لكن ما المبيضات. كلش حاغه اليوم.
+8823	corpus-6-test-corpus-26-dev	MOS	انزل هوني، وحول لباص رقم رقم سته.
+8824	corpus-6-test-corpus-26-dev	MOS	لازم الحق برحله العشغه الصبح.
+8827	corpus-6-test-corpus-26-train	MOS	بعدني عدشعر عبالك عدزوع.
+8833	corpus-6-test-corpus-26-train	MOS	ما اغيد اي شي ضخم.
+8840	corpus-6-test-corpus-26-train	MOS	جيك، رجاءا.
+8844	corpus-6-test-corpus-26-test	MOS	بشقد الفطر الطازج؟
+8850	corpus-6-test-corpus-26-train	MOS	الحساب، رجاءا. هل تاخذ فيزا؟
+8851	corpus-6-test-corpus-26-train	MOS	اليوم غاح اغوح اشوف اش تشبه القريه الصينيي.
+8880	corpus-6-test-corpus-26-train	MOS	اثنين صفر اثنين تسعه ثلاثي تسعه ستي سبعه صفر صفر.
+8900	corpus-6-test-corpus-26-train	MOS	اغيد اشلع سني.
+8905	corpus-6-test-corpus-26-train	MOS	اغيد جنطة مستحضرات تجميل.
+8907	corpus-6-test-corpus-26-dev	MOS	عدتسائل اشقد بقشيش لازم اخلي.
+8914	corpus-6-test-corpus-26-train	MOS	"وين اطيق اشوف ""شبح الاوبرا""؟"
+8915	corpus-6-test-corpus-26-train	MOS	اغيد اشتغي تذكار لصديقي. تطيق توصي بشي؟
+8918	corpus-6-test-corpus-26-train	MOS	ابطأ، رجاء.
+8919	corpus-6-test-corpus-26-dev	MOS	اشقد معدل تكلفه الفاكسات الدوليي كل شهغ؟
+8947	corpus-6-test-corpus-26-train	MOS	اقليها عالجانبين، رجاءا.
+8966	corpus-6-test-corpus-26-dev	MOS	اوكي، هذا مبين كلش واضح. رجاءا اثنينكم انطوني اجازة سوقكم والتسجيلات. وابني، اسف لازم نعطيك اختبار تنفس.
+9011	corpus-6-test-corpus-26-train	MOS	غاح تكون جاهزي بعد غدا المغب.
+9022	corpus-6-test-corpus-26-train	MOS	هل مصنوع من القطن؟
+9029	corpus-6-test-corpus-26-dev	MOS	عندي دواي الخاص.
+9034	corpus-6-test-corpus-26-train	MOS	اش اطيق اشوف بالجوله؟
+9041	corpus-6-test-corpus-26-train	MOS	اي، اكو شراب ويحد اقل شي.
+9051	corpus-6-test-corpus-26-train	MOS	اشقد تكلفتا ليوم ويحد؟
+9061	corpus-6-test-corpus-26-dev	MOS	هل هذا الباص يقف قغيب عالفندق؟
+9073	corpus-6-test-corpus-26-train	MOS	اغيد سي دي.
+9077	corpus-6-test-corpus-26-train	MOS	اكو رحلات الخطوط الجوية اليابانية وأول نيبون اللي تغادر بالعشغه وخمسي وخمسين دقيقه. لكن، للاسف الرحلتين مقبطات.
+9094	corpus-6-test-corpus-26-train	MOS	تناسبني مليح.
+9098	corpus-6-test-corpus-26-train	MOS	انطيق نحصل على طاولي لخمسي؟
+9100	corpus-6-test-corpus-26-train	MOS	ما يفتهم انكليزي عل الاطلاق.
+9126	corpus-6-test-corpus-26-dev	MOS	رجاءا صرف شيك مال مسافرين.
+9150	corpus-6-test-corpus-26-train	MOS	تطيق تعتني بيها من التسعه الصبح لحوالي الثلاثي؟
+9160	corpus-6-test-corpus-26-train	MOS	اشقد يكلف البريد الجوي لليابان؟
+9176	corpus-6-test-corpus-26-train	MOS	انا محصوغ بغا. ممكن تفتح بابي، رجاءا.
+9211	corpus-6-test-corpus-26-train	MOS	ايو احسن جوله تشووف احسن الاماكن؟
+9229	corpus-6-test-corpus-26-test	MOS	هل اكو اي مضيفات يحكون ياباني؟
+9242	corpus-6-test-corpus-26-test	MOS	كم جنطة اطيق اجيب بداخل الطياغه؟
+9263	corpus-6-test-corpus-26-train	MOS	لا، يا سيدي. هذا العضغ كلو محجوز . بس غدا اوكي.
+9267	corpus-6-test-corpus-26-train	MOS	انا غاح اغوح اسال البواب عن الاجرة الصحيحي.
+9303	corpus-6-test-corpus-26-train	MOS	انا من صدق، اسف.
+9308	corpus-6-test-corpus-26-train	MOS	غاح نعمل حفله الجمعه بالليل. ليش ما تجي؟
+9312	corpus-6-test-corpus-26-train	MOS	ماشي، غرفتك هيه تسعه صفر ثمانيه، هذا مفتاحك.
+9316	corpus-6-test-corpus-26-dev	MOS	كلش ضروري انه نطيق نصل للمواد الاوليي اللي نحتاجا للمشروع.
+9324	corpus-6-test-corpus-26-train	MOS	اعذرني، حضرة الشرطي؟
+9325	corpus-6-test-corpus-26-train	MOS	هل هذا القطار يغوح مباشرة الى ادنبره؟
+9329	corpus-6-test-corpus-26-train	MOS	هل هذا ضمن الحدود المعفيي من الضريبه؟
+9337	corpus-6-test-corpus-26-train	MOS	خذ غراضي، رجاءا.
+9358	corpus-6-test-corpus-26-train	MOS	اشقد مزدحمين الرحلات؟
+9367	corpus-6-test-corpus-26-train	MOS	اغيد اشتغي شويه تذكارات. هل اكو اي محل مناسب حولنه؟
+9372	corpus-6-test-corpus-26-train	MOS	حتى اي وقت هو مفتح؟
+9384	corpus-6-test-corpus-26-train	MOS	هو خارج هسا.
+9385	corpus-6-test-corpus-26-train	MOS	مايومي، تطيق تملي هذي الاستمارة مع توقيعك؟
+9431	corpus-6-test-corpus-26-train	MOS	هذا ويحد الك، سيدي.
+9432	corpus-6-test-corpus-26-train	MOS	ما عندي جنك للتسجيل.
+9446	corpus-6-test-corpus-26-test	MOS	اكيد، خذ وقتك.
+9450	corpus-6-test-corpus-26-train	MOS	انا هوني بواجب اعلامي.
+9463	corpus-6-test-corpus-26-train	MOS	هل عندك افلام مال الصيف؟
+9481	corpus-6-test-corpus-26-train	MOS	ايمتي القطار التالي لواشنطن دي سي؟
+9494	corpus-6-test-corpus-26-test	MOS	الاطول عندم شعبيه هسا.
+9516	corpus-6-test-corpus-26-train	MOS	غاح ارجع لليابان الاحد اليجي.
+9526	corpus-6-test-corpus-26-train	MOS	ممكن احصل على خريطه قطار الانفاق؟
+9542	corpus-6-test-corpus-26-train	MOS	هل المسافه طويلي؟
+9560	corpus-6-test-corpus-26-train	MOS	تطيق تبدل هذا بويحد جديد؟
+9576	corpus-6-test-corpus-26-train	MOS	شخصين.
+9579	corpus-6-test-corpus-26-test	MOS	وين اطيق اخذ امتعتي؟
+9581	corpus-6-test-corpus-26-train	MOS	ما عدشعر مليح. ممكن احني مقعدي؟
+9604	corpus-6-test-corpus-26-train	MOS	ايدعش وخمسي واربعين بالصبح.
+9605	corpus-6-test-corpus-26-train	MOS	تطيق تقلي على مطعم شائع بين الناس الشباب؟
+9606	corpus-6-test-corpus-26-train	MOS	سيارتو كانت عتمشي بالسرعه القصوى.
+9611	corpus-6-test-corpus-26-dev	MOS	ممكن اعوف رساله؟ عدتصل حتى اثبت موعدي مع السيد ايبيرت الاربعاء الليجي ساعه ايدعش الصبح.
+9628	corpus-6-test-corpus-26-dev	MOS	تطيق بطريقه ما تشرح مرضك بالانكليزي؟
+9634	corpus-6-test-corpus-26-test	MOS	تطيق ترسل تكسي للمدخل الرئيس مال ويستمنستر مول؟
+9651	corpus-6-test-corpus-26-train	MOS	كم مره لازم اغير القطارات حتى اصل هنوك؟
+9657	corpus-6-test-corpus-26-train	MOS	هل هذا صحيح؟ خليني اجيك؟ اوه، انا كلش اسف، انسة تاكانو. هذا خطأنه. هذي فتورتكي الجديدي. ممكن توقعين هوني، رجاءا؟
+9673	corpus-6-test-corpus-26-train	MOS	خمس دولارات راجعه، رجاءا.
+9683	corpus-6-test-corpus-26-train	MOS	السدادي مال حوض الحمام ما عتغلق مليح.
+9687	corpus-6-test-corpus-26-train	MOS	هذا فقط رمز على تقديري.
+9688	corpus-6-test-corpus-26-train	MOS	هل تملي هذي الاستمارة؟
+9695	corpus-6-test-corpus-26-test	MOS	اش تقول على هذا الموديل البلاستيكي؟
+9701	corpus-6-test-corpus-26-train	MOS	اي ماركات عندك؟
+9702	corpus-6-test-corpus-26-train	MOS	الكعب كلش عيلي علي.
+9710	corpus-6-test-corpus-26-test	MOS	انا محصوغ بغا غرفتي.
+9730	corpus-6-test-corpus-26-train	MOS	اشقد صاغلك بباريس؟
+9732	corpus-6-test-corpus-26-train	MOS	ممكن احصل على طوابع بريديي لثلاث بطاقات بريدي جويي لليابان؟
+9746	corpus-6-test-corpus-26-train	MOS	ينلفض ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	MOS	تغيد تشغب شي؟
+9748	corpus-6-test-corpus-26-train	MOS	اقعد هوني.
+9752	corpus-6-test-corpus-26-train	MOS	اعملا برقيه مستعجلي، رجاءا.
+9788	corpus-6-test-corpus-26-train	MOS	حسب تقرير الطقس، غاح تثلج غدا.
+9792	corpus-6-test-corpus-26-train	MOS	اغيدلي طبًي.
+9822	corpus-6-test-corpus-26-train	MOS	بالتأكيد. غاح نكون سعيدين حتى نعمل هذا.
+9829	corpus-6-test-corpus-26-train	MOS	مرحبا، كتاب ماليزي كوميدي. غاح اشتغي ويحد واودينو للبيت كنموذج للحوار.
+9862	corpus-6-test-corpus-26-train	MOS	"الطريق للنجاح هو ""جنمياكو، "" صح؟"
+9866	corpus-6-test-corpus-26-dev	MOS	غاح اصل للفندق مالتك بحدود التسعه المغب.
+9885	corpus-6-test-corpus-26-train	MOS	عندي حوالي الفين وخمسميت دولار بالين الياباني.
+9903	corpus-6-test-corpus-26-train	MOS	اي، نحنه نعمل. غاح اشوفك شويه.
+9906	corpus-6-test-corpus-26-train	MOS	اغيد شويه حبوب تنوم.
+9910	corpus-6-test-corpus-26-train	MOS	غاح ابقى هوني الى يوم تسعه. اتمنى تمسكون المجرم باقرب وقت ممكن.
+9945	corpus-6-test-corpus-26-train	MOS	انا متاكد المجرم قغيب.
+9948	corpus-6-test-corpus-26-train	MOS	عشغ طوابع بريديي رجاءا.
+9949	corpus-6-test-corpus-26-train	MOS	انا مصاب باحتقان بالحنجره.
+9955	corpus-6-test-corpus-26-train	MOS	احتاج شويه تذكارات من نيو يورك.
+9969	corpus-6-test-corpus-26-train	MOS	انا عدسجل خروجي. تطيق ترسل شيال؟
+9979	corpus-6-test-corpus-26-train	MOS	ساعتي توقفت.
+9983	corpus-6-test-corpus-26-train	MOS	اوه، هل هو؟ اشون تحبو؟
+10006	corpus-6-test-corpus-26-train	MOS	نحنه نفتح ساعه تسعه الصبح.
+10032	corpus-6-test-corpus-26-train	MOS	اغيد دفتغ تلوين.
+10037	corpus-6-test-corpus-26-train	MOS	اتوقع انا مصاب بدوار الجو.
+10043	corpus-6-test-corpus-26-train	MOS	هل لازم اعغوح لبنك ياباني؟
+10045	corpus-6-test-corpus-26-train	MOS	انت لازم تحول فلوس ببنك.
+10065	corpus-6-test-corpus-26-train	MOS	هل اكو وقت كثيغ لتسجيل الخروج؟
+10069	corpus-6-test-corpus-26-train	MOS	زوجكي ويحد من احسن اربع عملاء.
+10078	corpus-6-test-corpus-26-train	MOS	هل تعغف طبيب اسنان مليح؟
+10084	corpus-6-test-corpus-26-train	MOS	اوه. لازم تخبرالقنصليه هسه.
+10091	corpus-6-test-corpus-26-train	MOS	مخضوض، ما مخفوق.
+10098	corpus-6-test-corpus-26-dev	MOS	هل تغيد ميز بالمطعم الرئيسي لو بغرفه خاصه، سيدي؟
+10102	corpus-6-test-corpus-26-train	MOS	كميه كبيغه من الناس تغوح للشاطئ خلال الموسم.
+10107	corpus-6-test-corpus-26-train	MOS	وزني تقريبا ميي وخمسين رطل.
+10111	corpus-6-test-corpus-26-train	MOS	وين لازم احول؟
+10114	corpus-6-test-corpus-26-train	MOS	وين مكتب الممتلكات المفقودي؟
+10116	corpus-6-test-corpus-26-train	MOS	هل اكو اي باص يغوح هنوك مباشرة؟
+10125	corpus-6-test-corpus-26-train	MOS	هل احتاج الى اي علاج خاص؟
+10129	corpus-6-test-corpus-26-train	MOS	هل هذا غاح يكون نقد لو رسم؟
+10134	corpus-6-test-corpus-26-test	MOS	احنه انتقلنه لهالبيت قبل سني.
+10155	corpus-6-test-corpus-26-train	MOS	اشقد غاح تطول حتى تكمل فيزتي؟
+10156	corpus-6-test-corpus-26-train	MOS	وين الحمامات؟
+10160	corpus-6-test-corpus-26-train	MOS	المبلغ الكلي المستحق هو ميتين وثلاثي واربعين باوند، يا مدام.
+10164	corpus-6-test-corpus-26-train	MOS	هذي هديه. تطيق تغلفا بورق تغليف حلو؟
+10182	corpus-6-test-corpus-26-train	MOS	اشقد منظر حلو. هذي مسارات عظيمي.
+10187	corpus-6-test-corpus-26-dev	MOS	اكو ناس انصابت.
+10191	corpus-6-test-corpus-26-dev	MOS	اعذرني. ويني المحطة حولنه هوني؟
+10224	corpus-6-test-corpus-26-train	MOS	اي، عدنه حجز اللك.
+10238	corpus-6-test-corpus-26-train	MOS	اعذرني، لكن اغيد اغوح للفندق مالتي بالمدينه بالباص. وين اطيق اخذ باص؟
+10243	corpus-6-test-corpus-26-test	MOS	جيج، رجاءا.
+10257	corpus-6-test-corpus-26-train	MOS	هذي الغرفة اثنين صفر ويحد. اغيد اطلب تغيوقه غدا.
+10272	corpus-6-test-corpus-26-test	MOS	اشنو رأيك بالاعتداء الجنسي بورشة العمل؟
+10318	corpus-6-test-corpus-26-dev	MOS	عندي اختين.
+10336	corpus-6-test-corpus-26-dev	MOS	رحله رقم اثنين صفر ثميني، الى طوكيو.
+10354	corpus-6-test-corpus-26-train	MOS	لعد خلينه نخلي حشوي بالداهل.
+10366	corpus-6-test-corpus-26-test	MOS	خلينه نغوح سوا حتى اناقش هذا اكثغ.
+10372	corpus-6-test-corpus-26-train	MOS	اشون تغيد تعمل شعغك اليوم؟
+10403	corpus-6-test-corpus-26-train	MOS	تطيق تقوله بغيغ كلمي؟
+10408	corpus-6-test-corpus-26-train	MOS	انا غاح اعمل باي شي تملكو.
+10411	corpus-6-test-corpus-26-train	MOS	نغيد ميز قغيب على المسرج.
+10416	corpus-6-test-corpus-26-train	MOS	انا مليح. زين، غاح تغوح بمكان؟
+10433	corpus-6-test-corpus-26-train	MOS	هو الفين واربعميت متر ارتفاعو.
+10435	corpus-6-test-corpus-26-train	MOS	اتفضل. رجاءا حطو على الميز هوني.
+10440	corpus-6-test-corpus-26-train	MOS	رجاءا الغي رقم بطاقتي.
+10468	corpus-6-test-corpus-26-train	MOS	انا اسف، كلم انباعو، لكن غاح نجيبم خلال ايام قليلي.
+10473	corpus-6-test-corpus-26-test	MOS	ممكن احصل على شوية قهوي؟
+10477	corpus-6-test-corpus-26-train	MOS	ما عندي موعد، لكن انا مستعجل.
+10479	corpus-6-test-corpus-26-train	MOS	هذا مصنوع بشكل ما مليح.
+10480	corpus-6-test-corpus-26-train	MOS	وينو الدرج المتحرك؟
+10497	corpus-6-test-corpus-26-train	MOS	هل عندك كتبيب للمناسبات؟
+10500	corpus-6-test-corpus-26-train	MOS	وينو المدخل لقطار الانفاق؟
+10504	corpus-6-test-corpus-26-train	MOS	ضيعتو تذكرة الطياغه مالتي.
+10559	corpus-6-test-corpus-26-train	MOS	ما اطيق تبقى هوني خلال العطله؟
+10562	corpus-6-test-corpus-26-train	MOS	اوه، انا اسف لاني ازعجتوك.
+10563	corpus-6-test-corpus-26-dev	MOS	تحجز تحجز مناسبات؟
+10565	corpus-6-test-corpus-26-train	MOS	هل اكو مرافق عامه قغيبي على هوني؟
+10590	corpus-6-test-corpus-26-train	MOS	اشقد الكلي؟
+10593	corpus-6-test-corpus-26-train	MOS	هذا كلش مليح. هسا للاسئله، رجاءا.
+10599	corpus-6-test-corpus-26-train	MOS	عندك اي فراطه للعداد مال الموقف؟
+10617	corpus-6-test-corpus-26-test	MOS	احسن مبيعات عدنه لاخر اربع سنين مكينة التصوير ايه اكس اربعميه وخمسين.
+10645	corpus-6-test-corpus-26-train	MOS	هل اديور لليساغ؟
+10662	corpus-6-test-corpus-26-test	MOS	هل اكو اي مضيفات يحكون ياباني؟
+10670	corpus-6-test-corpus-26-train	MOS	سعر يخبل، ما تمام؟
+10680	corpus-6-test-corpus-26-train	MOS	لازم تاخذو تسعه وتسعين مره كل يوم، قبل الاكل.
+10707	corpus-6-test-corpus-26-train	MOS	انا احبو.
+10733	corpus-6-test-corpus-26-train	MOS	اغيدلي حامل بثلاث غجلين.
+10736	corpus-6-test-corpus-26-dev	MOS	اغيد ستره رياضي.
+10749	corpus-6-test-corpus-26-dev	MOS	شكرا الك، اشقد سعر هاي الكفوف.
+10753	corpus-6-test-corpus-26-test	MOS	ممكن احني مقعدي، رجاءا؟
+10756	corpus-6-test-corpus-26-train	MOS	عظيم. كنتو عددوغ على تكسي، بس هذا احسن.
+10760	corpus-6-test-corpus-26-train	MOS	معطف رائع. هل صناعتو بريطانيي؟
+10778	corpus-6-test-corpus-26-train	MOS	اغيد اغوح لمركز هارفرد. تطيق تقلي ايمتي نصل هنوك؟
+10790	corpus-6-test-corpus-26-train	MOS	اثنين بالغين واثنين اطفال، رجاءا.
+10817	corpus-6-test-corpus-26-train	MOS	اشقد السعر؟
+10824	corpus-6-test-corpus-26-train	MOS	حرب النجوم كان اعظم نجاح بالاف وتسعمي واربعه وثمانين.
+10830	corpus-6-test-corpus-26-train	MOS	وين القسم اللي ممنوع التدخين بينو؟
+10831	corpus-6-test-corpus-26-train	MOS	"هذا ""ت"" مثل اللي بتوم، اي صاغ معلوم عندي، يا تارو."
+10848	corpus-6-test-corpus-26-test	MOS	اعتقد هو منظر طبيعي خلاب.
+10851	corpus-6-test-corpus-26-test	MOS	اغيد شوية تفاح، رجاءا.
+10869	corpus-6-test-corpus-26-train	MOS	هذا لليش؟
+10882	corpus-6-test-corpus-26-train	MOS	اي بطاقات ائتمان تقبل؟
+10922	corpus-6-test-corpus-26-train	MOS	عندي كثيغ وقت.
+10930	corpus-6-test-corpus-26-train	MOS	ماشي، هسا وقت غدا. تغيد اناقشو على الغدا؟
+10937	corpus-6-test-corpus-26-dev	MOS	مسجل الفديو انباق من غرفتي.
+10950	corpus-6-test-corpus-26-train	MOS	هلو، اسمي اودا. عندي حجز لليلي، لكن شويه غاح اتاخر بالجيي. لذلك، رجاءا احتفضوا بحجزي.
+10953	corpus-6-test-corpus-26-train	MOS	هاي الاحذيه متيني؟
+10955	corpus-6-test-corpus-26-test	MOS	رجاءا قلو انا بانتظار مكالمتو.
+10964	corpus-6-test-corpus-26-train	MOS	يقولون الانفلونزا شائعه هوني.
+10973	corpus-6-test-corpus-26-train	MOS	جوا.
+10975	corpus-6-test-corpus-26-train	MOS	انا اسف. احنه مقبطين لليلة غدا.
+10976	corpus-6-test-corpus-26-train	MOS	انا مع شويه اصدقاء.
+10985	corpus-6-test-corpus-26-train	MOS	حسب كورو، السيد يامادا عندو طفلين.
+10994	corpus-6-test-corpus-26-dev	MOS	اتطيق تقول هذا مره اللخ؟
+10997	corpus-6-test-corpus-26-train	MOS	اغيد التف حول برج لندن.
+11019	corpus-6-test-corpus-26-train	MOS	رجاءا اربط احزمة المقاعد مالتك.
+11027	corpus-6-test-corpus-26-test	MOS	رمز المنطقه هو ثلاثي. رقم التليفون هو اثنين ثلاثي اربعه ثلاثي اربعه صفر صفر.
+11030	corpus-6-test-corpus-26-test	MOS	اعذرني. هل اكو اي جسر قغيب على هوني؟
+11041	corpus-6-test-corpus-26-dev	MOS	اعذرني، اغيد استخدم الحمام.
+11046	corpus-6-test-corpus-26-train	MOS	هو مشغول.
+11047	corpus-6-test-corpus-26-test	MOS	حواسو دائما ما على الموظه.
+11054	corpus-6-test-corpus-26-train	MOS	هل عندك اكل بحري؟
+11057	corpus-6-test-corpus-26-train	MOS	هذا كلش غالي.
+11058	corpus-6-test-corpus-26-train	MOS	اغيد، لكن اسف ما اطيق اعمله هالمره.
+11064	corpus-6-test-corpus-26-train	MOS	ماشي، ما اعغف بعد، لكن بالتأكيد غاح احاول.
+11069	corpus-6-test-corpus-26-dev	MOS	ملح، رجاءا.
+11082	corpus-6-test-corpus-26-train	MOS	رجاءا استخدم غرفه تبديل الملابس هنوك.
+11100	corpus-6-test-corpus-26-train	MOS	تسعين دولار للتكت غوحه بدون رجعه. نقد لو بطاقه؟
+11109	corpus-6-test-corpus-26-dev	MOS	ممكن تنظف الميز لي، رجاءا؟
+11123	corpus-6-test-corpus-26-train	MOS	اشون الاهالي اليابانيين يغبون اطفالم؟ هل همه صارمين مع اطفالم؟
+11126	corpus-6-test-corpus-26-train	MOS	تطيق تقلي اوقات العمل؟
+11131	corpus-6-test-corpus-26-dev	MOS	رجاءا لفم منفصلين.
+11161	corpus-6-test-corpus-26-train	MOS	معدتي تشعر بالثقل.
+11171	corpus-6-test-corpus-26-dev	MOS	هذا يبين مليح. وين نطيق ننتظرو؟
+11174	corpus-6-test-corpus-26-train	MOS	ممكن نبدي نلعب لمن يخلصون؟
+11190	corpus-6-test-corpus-26-train	MOS	التعداد السكاني لليابان حوالي ميي وعشين مليون.
+11197	corpus-6-test-corpus-26-train	MOS	املي الفقرات التاليه على بطاقة التسجيل.
+11199	corpus-6-test-corpus-26-train	MOS	اطيق احصل على اشيائي مره اللخ؟
+11240	corpus-6-test-corpus-26-train	MOS	هل عندك اشارات حرير؟ عددوغ على هديه لمغتي.
+11246	corpus-6-test-corpus-26-train	MOS	غاح نجيبو هسا. اشقد رقم غرفتك؟
+11264	corpus-6-test-corpus-26-test	MOS	السيد كوباياشي عيدوغ عليك.
+11267	corpus-6-test-corpus-26-train	MOS	اغيد اسافر من شنغهاي الى هاواي بالسفينه.
+11278	corpus-6-test-corpus-26-test	MOS	اتطيق ترسل احد؟
+11282	corpus-6-test-corpus-26-train	MOS	اتطيق اتجهزو بالخمسي العصغ غدا؟
+11302	corpus-6-test-corpus-26-train	MOS	استغرق عش دقايق مشي عالاقدام.
+11316	corpus-6-test-corpus-26-train	MOS	قبل ما نقول علينو يوم، ممكن تنطيني شويه دقايق؟
+11325	corpus-6-test-corpus-26-dev	MOS	وين اطيق اركن سيارتي؟
+11336	corpus-6-test-corpus-26-dev	MOS	عدشعر بالبغد ومعدتي عتأذيني كثيغ.
+11342	corpus-6-test-corpus-26-train	MOS	سكوتش مع ماي، رجاءا. وهل عندك اي شي كوجبي خفيفي؟
+11343	corpus-6-test-corpus-26-train	MOS	اشون اطيق اطفي هاللايت؟
+11360	corpus-6-test-corpus-26-train	MOS	هل هو كلش مشغول اليوم؟
+11374	corpus-6-test-corpus-26-train	MOS	اغيد شوية خيط.
+11375	corpus-6-test-corpus-26-train	MOS	انطيني شهاده صجيي، رجاءا.
+11378	corpus-6-test-corpus-26-train	MOS	اغيد تعملو انج ويحد اقصغ هوني.
+11392	corpus-6-test-corpus-26-train	MOS	ما عدشعر مليح. رجاءا انطيني شويه ادويه.
+11403	corpus-6-test-corpus-26-train	MOS	ممكن احصل على جريده يابانيي، رجاءا؟
+11404	corpus-6-test-corpus-26-train	MOS	ماشي، ممكن اعوف السياره باي مكان؟ اشقد كلفه ترك السياره؟
+11412	corpus-6-test-corpus-26-train	MOS	اي باص يغوح لمركز المدينه؟
+11420	corpus-6-test-corpus-26-train	MOS	هل اكو اي اكسبريس لبوسطن؟
+11435	corpus-6-test-corpus-26-train	MOS	رجاءا كون صديقي بالمراسلة.
+11438	corpus-6-test-corpus-26-dev	MOS	انا غاح ابقى مع صديق.
+11442	corpus-6-test-corpus-26-train	MOS	انا كلش متحمس، ما طيق اقعد ثانيه.
+11449	corpus-6-test-corpus-26-train	MOS	اطيق انزل عد فندق الهيلتون؟
+11450	corpus-6-test-corpus-26-train	MOS	اغيدك تمسحو.
+11457	corpus-6-test-corpus-26-train	MOS	غوع عاليساغ اسفل هذا الطريق وخد اول يمين.
+11462	corpus-6-test-corpus-26-train	MOS	اغيد اعغف اذا ممكن شحن هذا الطخم من المويعين الى طوكيو.
+11467	corpus-6-test-corpus-26-train	MOS	اغيد شويه طاقه جسم.
+11478	corpus-6-test-corpus-26-train	MOS	اكو اي اكل ما كلش حاغ وسبايسي؟
+11479	corpus-6-test-corpus-26-train	MOS	قغيب كلش للمشي؟
+11491	corpus-6-test-corpus-26-dev	MOS	اغيد شويه كريم للادين.
+11493	corpus-6-test-corpus-26-train	MOS	اتطيق تعبغلي الملح؟
+11500	corpus-6-test-corpus-26-train	MOS	اغيد اغوح للول ستريت. اشون اغوح هنوك؟
+11541	corpus-6-test-corpus-26-train	MOS	تمرين كلش كثيغ غاح يأذيك.
+11544	corpus-6-test-corpus-26-train	MOS	متضمن التغيوقه، الضرايب، ورسم الخدمه، غاح يكون خمسي واربعين دولار لكل شخص لكل ليلي.
+11550	corpus-6-test-corpus-26-train	MOS	اتطيق تصلح هذا؟
+11574	corpus-6-test-corpus-26-train	MOS	بعد الظهر الخيغ. هلو.
+11576	corpus-6-test-corpus-26-train	MOS	ما عدطيق القي غراضي.
+11595	corpus-6-test-corpus-26-train	MOS	غوح عدل، رجاءا.
+11600	corpus-6-test-corpus-26-train	MOS	هل الماي هوني امين للشغب؟
+11622	corpus-6-test-corpus-26-train	MOS	ااه، يلى. بس دولارين.
+11626	corpus-6-test-corpus-26-train	MOS	اتطيق رجاءا تبدل هذا الفستان بويحد نمره اكبغ؟
+11631	corpus-6-test-corpus-26-train	MOS	ماشي، خلي نغوح. اطيق اساعدك بواجباتك اليومي بعد ما ناكل شويه بيتزا.
+11633	corpus-6-test-corpus-26-train	MOS	نعم، سيد تاناكا. اكو رسالتين اللك.
+11643	corpus-6-test-corpus-26-train	MOS	ما تجي على قياسي.
+11646	corpus-6-test-corpus-26-train	MOS	غدا يوم اللاخ.
+11663	corpus-6-test-corpus-26-train	MOS	يمكن اطيق اساعدك. تحتاج فيتامين سي؟
+11689	corpus-6-test-corpus-26-train	MOS	محفظتي انباقت بالقطار.
+11704	corpus-6-test-corpus-26-train	MOS	كلش بعيد. الافضل اخذ تكسي.
+11708	corpus-6-test-corpus-26-train	MOS	اغيد مقعد يم الممر، رجاءا.
+11709	corpus-6-test-corpus-26-train	MOS	اعيش بشقه بثمانين الف ين كل شهغ.
+11714	corpus-6-test-corpus-26-train	MOS	ممكن اقاطع؟
+11720	corpus-6-test-corpus-26-dev	MOS	شوفني ويحد اعغض.
+11734	corpus-6-test-corpus-26-train	MOS	اعذرني. هل تمانع تبدل المقاعد معاي؟
+11746	corpus-6-test-corpus-26-train	MOS	اي، بالتاكيد.
+11751	corpus-6-test-corpus-26-train	MOS	غوح للاسفل للزاويه وديور لليساغ عد اشاره المرور.
+11754	corpus-6-test-corpus-26-dev	MOS	تحب بكغات اضغغ لو اكبغ؟
+11767	corpus-6-test-corpus-26-test	MOS	اغيد غرفة مفرده مع حمام بثمانين دولار، رجاءا.
+11800	corpus-6-test-corpus-26-train	MOS	اغيد اخلي ممتلكاتي الثميني بخزانه الفندق.
+11817	corpus-6-test-corpus-26-dev	MOS	هل عدكم غرفه متوفره لليلي؟
+11821	corpus-6-test-corpus-26-train	MOS	اي، لكن كون متاكد انه تذكرتك معاك.
+11862	corpus-6-test-corpus-26-train	MOS	بس شويه ناس غاح ينضمون للجوله الاختياريه.
+11872	corpus-6-test-corpus-26-train	MOS	ولا يهمك. على كل حال، رجاءا خذني لمركز المدينه الصينييي. غاح احاول القيها بنفسي.
+11879	corpus-6-test-corpus-26-train	MOS	الناس الجداد يتعينون بنيسان.
+11880	corpus-6-test-corpus-26-train	MOS	اتمنى.
+11885	corpus-6-test-corpus-26-train	MOS	اثنين سكوتش وماي، رجاءا.
+11901	corpus-6-test-corpus-26-train	MOS	منو عيلعب؟
+11913	corpus-6-test-corpus-26-dev	MOS	اتطيق تتصل بي اذا لقيت جنطتي؟
+11916	corpus-6-test-corpus-26-train	MOS	لليساغ، رجاءا.
+11932	corpus-6-test-corpus-26-test	MOS	ممكن تقف معاي للصوره؟
+11938	corpus-6-test-corpus-26-dev	MOS	لا. تحب تسجلا؟
+11949	corpus-6-test-corpus-26-train	MOS	هذا السن بالامام يوجع.
+11959	corpus-6-test-corpus-26-train	MOS	اشني احدث لعباية حاسبه لولد بعمغ خمسطعش سني؟
+11972	corpus-6-test-corpus-26-train	MOS	غاح نشوفك غدا.
+11973	corpus-6-test-corpus-26-test	MOS	هل اكو مطعم اغخص قغيب هوني؟
+11975	corpus-6-test-corpus-26-train	MOS	لا، لكن شكرا. اشعر بتحسن.
+11976	corpus-6-test-corpus-26-train	MOS	هب عندك اي خبز؟
+11977	corpus-6-test-corpus-26-train	MOS	اشقد مليح انت بالكمان؟
+11990	corpus-6-test-corpus-26-train	MOS	صديقي تزحلق ووقع بالحمام.
+11991	corpus-6-test-corpus-26-train	MOS	اطيق احصل على منفضه مال جكاير؟
+11997	corpus-6-test-corpus-26-train	MOS	المسيحيه كانت محضوره والدوله كانت مغلقه على بقيه العالم.
+12005	corpus-6-test-corpus-26-train	MOS	اشقد تغيد؟
+12012	corpus-6-test-corpus-26-train	MOS	كوكتيل الروبيان الها واللي نفس الشي.
+12033	corpus-6-test-corpus-26-train	MOS	ممكن توقع هوني، ورجاءا احرف اسمك الاوليي هوني.
+12035	corpus-6-test-corpus-26-train	MOS	متعه عظيمي ليي ان ازور مكاتبكم الرئيسي واقوم بنقاش جوهري معاكم. شكرا جزيلا لتعاونكم اللطيف.
+12054	corpus-6-test-corpus-26-train	MOS	شخيرك مزعج.
+12056	corpus-6-test-corpus-26-train	MOS	ما عيعجبني اللون ابد. اطيق ارجعو؟
+12057	corpus-6-test-corpus-26-dev	MOS	اطلع من هذاك الباب هنوك، وانتظر عند الموقف رقم سته.
+12060	corpus-6-test-corpus-26-dev	MOS	جيج مشوي، رجاءا.
+12069	corpus-6-test-corpus-26-train	MOS	ممكن اخذ شويه فلفل؟
+12074	corpus-6-test-corpus-26-test	MOS	اي، اغيد شي اقرانو.
+12101	corpus-6-test-corpus-26-train	MOS	هذا السيد تاكاهاشي بغرفة خمسي تسعة و اربعين. اتطيق ترسل اربع بطولي من بيره بدويسر، رجاءا؟
+12131	corpus-6-test-corpus-26-train	MOS	هذي سبعين دولار.
+12140	corpus-6-test-corpus-26-train	MOS	رجاءا اتصلي بفندقي لمن تلقي جنطي.
+12150	corpus-6-test-corpus-26-train	MOS	ارغب بمكالمه تقعدني غدا الصبح عد الثميني ونص، رجاءا.
+12167	corpus-6-test-corpus-26-train	MOS	اي، بس هذا كلش كثيغ وانا من هسه شبعان.
+12172	corpus-6-test-corpus-26-train	MOS	اغيد شويه غسول مال ثم.
+12173	corpus-6-test-corpus-26-train	MOS	ما عدشعر مليح.
+12182	corpus-6-test-corpus-26-train	MOS	هل تنطي اي تخفيضات بالجمله؟
+12193	corpus-6-test-corpus-26-train	MOS	طوكيو صفر ثلاثي اربع تسعات اربعه خمسي ستي سبعه.
+12240	corpus-6-test-corpus-26-train	MOS	اتطيق تساعدني اللقي حدقيقة الحيوان؟
+12246	corpus-6-test-corpus-26-train	MOS	ممكن تقلي اشون اعدل هذا؟
+12247	corpus-6-test-corpus-26-train	MOS	باي وقت تقريبا تنتهي جولة الباص؟
+12254	corpus-6-test-corpus-26-train	MOS	تعغف اشون تستخدم تليفون؟
+12259	corpus-6-test-corpus-26-train	MOS	اكيد. عدنه شويه علامات ديال الكتب حلوي خاصه بالامريكان الاصليين.
+12298	corpus-6-test-corpus-26-train	MOS	عامل بدالة يحكي ياباني، رجاءا.
+12331	corpus-6-test-corpus-26-train	MOS	نحنه مهتمين الازياء.
+12333	corpus-6-test-corpus-26-train	MOS	تطيق تنطيني سحب؟
+12345	corpus-6-test-corpus-26-train	MOS	هل هذي العياده اف؟
+12364	corpus-6-test-corpus-26-train	MOS	هلو، انسة ياماكوشي؟ الشخص اللي عتتصلي علينو على الخط. اتصالك بدى. اتفضلي، رجاءا.
+12391	corpus-6-test-corpus-26-test	MOS	وين اطيق اشتغي تذكره رفع القسيمه؟
+12396	corpus-6-test-corpus-26-train	MOS	اي وقت غاح نصل للوس انجلس؟
+12403	corpus-6-test-corpus-26-train	MOS	امشي مستقيم لحوالي خمس دقايق، واستديغ لليساغ.
+12416	corpus-6-test-corpus-26-train	MOS	هو هذا الطريق للشاطي.
+12420	corpus-6-test-corpus-26-train	MOS	جاي الاعشاب هذا يساعد على تجديد الجسم.
+12421	corpus-6-test-corpus-26-train	MOS	هذولي ما مصنوعين باليابان، ما تمام؟
+12443	corpus-6-test-corpus-26-train	MOS	ماشي. هذا الاتجاه رجاءا. غاح اشوفك غرفتك.
+12479	corpus-6-test-corpus-26-train	MOS	لازم اعوف الفندق قبل الظهغ.
+12495	corpus-6-test-corpus-26-train	MOS	اثنين هامبركر واثنين قهوي، رجاءا. اغيد اخذم بغا.
+12510	corpus-6-test-corpus-26-train	MOS	ها اطيق اشيل هذولي الجنطتين معاي؟
+12527	corpus-6-test-corpus-26-train	MOS	انا طلبتو لحم، ما سمك. اتطيق تغيرم؟
+12546	corpus-6-test-corpus-26-train	MOS	طفلي تعبان كلش.
+12551	corpus-6-test-corpus-26-train	MOS	انا مريض بالمعدي.
+12556	corpus-6-test-corpus-26-train	MOS	هاذي الجاكيت ما قياسي.
+12557	corpus-6-test-corpus-26-train	MOS	اغيد التقي بالسيد وليام.
+12560	corpus-6-test-corpus-26-train	MOS	بينو مجموعه متنوعي من الفيتامينات والمعادن.
+12562	corpus-6-test-corpus-26-test	MOS	السن عيتحرك.
+12589	corpus-6-test-corpus-26-train	MOS	ممكن احصل على تعويض من ارجع لليابان؟
+12599	corpus-6-test-corpus-26-train	MOS	من ايش مصنوع هذا الصحن؟
+12603	corpus-6-test-corpus-26-train	MOS	باي بلد هذا مصنوع؟
+12608	corpus-6-test-corpus-26-train	MOS	اتطيق تعملو بعشغ دقايق؟
+12611	corpus-6-test-corpus-26-dev	MOS	انا ما مليح بالانكليزي. هل اكو اي ويحد يحكي ياباني هوني؟
+12615	corpus-6-test-corpus-26-train	MOS	وين اطيق اخذ عمله معدنيي مال قطار الانفاق؟
+12638	corpus-6-test-corpus-26-train	MOS	عشين نموذج اضافي غاح ينشحنون الك.
+12644	corpus-6-test-corpus-26-train	MOS	ما اتوقع هذا اللي لان بشرتي جافي نوعا ما.
+12650	corpus-6-test-corpus-26-train	MOS	ممكن احصل على جدول المواعيد، رجاءا؟
+12658	corpus-6-test-corpus-26-dev	MOS	اي، اتوقع غاح انتظر.
+12671	corpus-6-test-corpus-26-train	MOS	تسعه وتسعين دولار لكل ساعه لكل طفل.
+12672	corpus-6-test-corpus-26-train	MOS	انا اسف، انباعو اللي عدنه.
+12677	corpus-6-test-corpus-26-train	MOS	لازم يكون هادي.
+12678	corpus-6-test-corpus-26-dev	MOS	عندي معداتي الخاصه.
+12679	corpus-6-test-corpus-26-train	MOS	مفتاح الغرفه، خمسي صفر ثلاثي، رجاءا.
+12699	corpus-6-test-corpus-26-test	MOS	باي وقت العرض مال ترمينال مان؟
+12701	corpus-6-test-corpus-26-train	MOS	وينو مصفف الشعغ؟
+12708	corpus-6-test-corpus-26-train	MOS	بالساعه سبعه، رجاءا.
+12712	corpus-6-test-corpus-26-train	MOS	جنطتي مكسوغه.
+12713	corpus-6-test-corpus-26-train	MOS	سياحة.
+12732	corpus-6-test-corpus-26-train	MOS	انا جيتو من اسبانيا.
+12750	corpus-6-test-corpus-26-dev	MOS	اكو شي غلط بهالبطاقة المفتاح. ممكن تنطيني وحدي اللخ، رجاءا؟
+12755	corpus-6-test-corpus-26-dev	MOS	عندي طفح جلدي على ايديي.
+12761	corpus-6-test-corpus-26-train	MOS	ارسلو بالبريد الجوي لليابان، رجاءا.
+12766	corpus-6-test-corpus-26-test	MOS	وينو اقغب صيدلاني؟
+12770	corpus-6-test-corpus-26-dev	MOS	خمر اللاخ، رجاءا.
+12773	corpus-6-test-corpus-26-train	MOS	الناس كلش ودودين.
+12776	corpus-6-test-corpus-26-test	MOS	كم شراب متضمن بالسعر؟
+12777	corpus-6-test-corpus-26-test	MOS	انت اعملتو.
+12782	corpus-6-test-corpus-26-train	MOS	وين بوابة الاقلاع لهاي الرحله؟
+12790	corpus-6-test-corpus-26-test	MOS	اذا ويحد متوفر، تطيق تحجز ميز قغيب عالشباك؟
+12805	corpus-6-test-corpus-26-dev	MOS	هل كان اعلان الطلعه للطياغه معمول مسبقا؟
+12810	corpus-6-test-corpus-26-train	MOS	احنه على ارتفاع اثنعش الف قدم.
+12820	corpus-6-test-corpus-26-train	MOS	اولا، نغيد نشوف ول ستريت.
+12822	corpus-6-test-corpus-26-train	MOS	وين موقف الباص مال اوكسفورد؟
+12823	corpus-6-test-corpus-26-train	MOS	غاح انتظر الى ان تكون المصطبه متاحه.
+12835	corpus-6-test-corpus-26-train	MOS	ممكن نشوف شويه محفظات جلديه؟
+12861	corpus-6-test-corpus-26-dev	MOS	خلونه نشوف تلفزيون. اكو مباراة كره سله عتنعرض.
+12878	corpus-6-test-corpus-26-train	MOS	ممكن تكتب عنوانك هوني؟
+12884	corpus-6-test-corpus-26-train	MOS	رجاءا قلي وين اقغب صيدليه.
+12903	corpus-6-test-corpus-26-train	MOS	لفندقي، رجاءا. عنوان فندقي هوني.
+12905	corpus-6-test-corpus-26-dev	MOS	كم محافظه اكو بجانب طوكيو؟
+12917	corpus-6-test-corpus-26-train	MOS	انهي المكالمه وانتضر شويه رجاءا.
+12936	corpus-6-test-corpus-26-train	MOS	اش تعمل عاده بعد العشوي بالبيت؟
+12941	corpus-6-test-corpus-26-train	MOS	بالتأكيد. ايمتي تغيد نلعب كولف؟
+12945	corpus-6-test-corpus-26-train	MOS	هيه غاح تكون بالبيت بحدود الثلاثي.
+12952	corpus-6-test-corpus-26-train	MOS	اغيد اتصل بالسفاره الياباني.
+12968	corpus-6-test-corpus-26-train	MOS	شويه اكثغ.
+12969	corpus-6-test-corpus-26-train	MOS	امين يغادر باص المعالم السياحيي؟
+12973	corpus-6-test-corpus-26-train	MOS	اشقد تاخذ فلوس حتى ترسلم لليابان؟
+12976	corpus-6-test-corpus-26-dev	MOS	ما عندي اي نوادي او احذيه.
+13015	corpus-6-test-corpus-26-train	MOS	هل الين الياباني اوكي؟
+13022	corpus-6-test-corpus-26-train	MOS	هل عندك موستانغ؟
+13027	corpus-6-test-corpus-26-train	MOS	احنه غاح نقفز من هوني؟
+13069	corpus-6-test-corpus-26-train	MOS	سيد كاواي، عدنه ميز اللك هسا. اتفضل من هوني، رجاءا.
+13072	corpus-6-test-corpus-26-train	MOS	اكيد. غوح اسفل الدرج هنوك وغاح تشوف شوية ارشادات. بس اتبعم.
+13075	corpus-6-test-corpus-26-dev	MOS	مكتب الاستقبال. هل ممكن اساعدك؟
+13076	corpus-6-test-corpus-26-train	MOS	اتطيق تنزلني عد فندق الهيلتون، رجاءا؟
+13077	corpus-6-test-corpus-26-dev	MOS	هل عاده لازم تعمل لوقت متاخر؟
+13090	corpus-6-test-corpus-26-dev	MOS	كلش اسف، بس ما عدنه بعد. اشنو رايكم بفلفل انكليزي؟
+13095	corpus-6-test-corpus-26-train	MOS	ميز لغير المدخنين، رجاءا.
+13096	corpus-6-test-corpus-26-train	MOS	ممكن تقلي قبل لا نصل لدورهام؟
+13113	corpus-6-test-corpus-26-test	MOS	هذا طازج؟
+13116	corpus-6-test-corpus-26-train	MOS	هذا ما صحيح. انت كل مره تدللني.
+13118	corpus-6-test-corpus-26-dev	MOS	اتطيق تشوفني شوية فسيتين؟
+13126	corpus-6-test-corpus-26-train	MOS	اتهجاها، رجاءا.
+13133	corpus-6-test-corpus-26-train	MOS	انا عدسكغ بالخمر.
+13134	corpus-6-test-corpus-26-train	MOS	دير بالك لان الطقس كلش متغير بالجبيل.
+13159	corpus-6-test-corpus-26-train	MOS	شيك سياحي و ين ياباني، اوكي؟
+13162	corpus-6-test-corpus-26-train	MOS	اسف، جيكتو مع خدمة الغرف وقسم المفقودات اثنينم. ما عندم هو.
+13172	corpus-6-test-corpus-26-train	MOS	هو مكان صعب ايجادو. هو على طريق صغيغ خارج الطريق السريع الرئيسي.
+13183	corpus-6-test-corpus-26-train	MOS	انا ما اعغف اي شي عنو.
+13184	corpus-6-test-corpus-26-train	MOS	ممكن نحكي عنو بمقهى.
+13188	corpus-6-test-corpus-26-train	MOS	عدشوف، بهالحاله ما لازم ادفع تكاليف التعديلات، تمام؟
+13202	corpus-6-test-corpus-26-train	MOS	عامل البدالة، رجاءا.
+13262	corpus-6-test-corpus-26-train	MOS	اتطيق تخفض السرج، رجاءا؟
+13264	corpus-6-test-corpus-26-dev	MOS	ممكن تستظيفني الليلي؟
+13267	corpus-6-test-corpus-26-train	MOS	اوكي. غاح اخذ بس اثنين. شكرا.
+13268	corpus-6-test-corpus-26-train	MOS	هوني فاتورتك. هي ثلاثمي وسبعه وتسعين دولار.
+13269	corpus-6-test-corpus-26-train	MOS	انت محضوض.
+13287	corpus-6-test-corpus-26-train	MOS	رجاءا اعملو ميز مع اطلالي ليلي حلوي.
+13290	corpus-6-test-corpus-26-train	MOS	هل هذا صنع مكينه لو يدوي؟
+13291	corpus-6-test-corpus-26-train	MOS	اغيد استاجر هكذ نوع سيارات لاربعه وعشين ساعه.
+13306	corpus-6-test-corpus-26-train	MOS	كلش لطيف مقابلتك.
+13322	corpus-6-test-corpus-26-train	MOS	هو ممزق.
+13333	corpus-6-test-corpus-26-dev	MOS	ماشي هسا، خلينه نلقي نضره عليك.
+13347	corpus-6-test-corpus-26-train	MOS	ماشي، بس فكر اشقد اطول غاح يكون شغلو اذا هو سال سوال اضافي لكل شخص. يلى، خلي نستعجل ونجيب امتعتنه. لازم نغوح للكمارك بعد.
+13396	corpus-6-test-corpus-26-train	MOS	اشقد الوزن؟
+13399	corpus-6-test-corpus-26-train	MOS	هل اكو مطعم صيني حولنه هوني؟
+13407	corpus-6-test-corpus-26-train	MOS	منصه خمسي هوني.
+13408	corpus-6-test-corpus-26-train	MOS	ايمتي تبدي مباره كرة القدم؟
+13423	corpus-6-test-corpus-26-dev	MOS	ما عيشتغل. اتطيق تجيك كامرتي؟
+13424	corpus-6-test-corpus-26-test	MOS	قهوي مع كريم وشكر، رجاءا.
+13436	corpus-6-test-corpus-26-train	MOS	اتوقع اكو شويه اخطاء بالفاتوره.
+13438	corpus-6-test-corpus-26-train	MOS	رجاءاء انطيني هذاك الويحد.
+13440	corpus-6-test-corpus-26-train	MOS	هو البوابه رقم سبعه.
+13444	corpus-6-test-corpus-26-train	MOS	هل انته سكوتلندي؟
+13446	corpus-6-test-corpus-26-train	MOS	ثلاثي-اثنين-ويحد-اثنين. انتظر ثانيه، ماشي؟ اغيد ارسلك شي هوني. اعذرني.
+13471	corpus-6-test-corpus-26-test	MOS	ميي وخمسي وثلاثين ين لكل دولار.
+13476	corpus-6-test-corpus-26-train	MOS	تنوره قصيغه مع احذيه طويلي ابد ما تكون خارج الموده.
+13477	corpus-6-test-corpus-26-train	MOS	اطيق احكي مع المدير؟
+13480	corpus-6-test-corpus-26-train	MOS	ليش كلفتك تختلف عن العداد؟
+13484	corpus-6-test-corpus-26-train	MOS	اطيق اشوف هذا الويحد؟
+13487	corpus-6-test-corpus-26-train	MOS	وعدتو نفسي انو من اشوفكي، غاح اتعرف عليكي.
+13488	corpus-6-test-corpus-26-train	MOS	اشنو اللي عيصيغ كمتاخر؟
+13492	corpus-6-test-corpus-26-train	MOS	ما عدشعر مليح. اتطيق تنصح بطبيب؟
+13504	corpus-6-test-corpus-26-train	MOS	الطرف الثاني على الخط. اتفضل.
+13515	corpus-6-test-corpus-26-train	MOS	هل اكو طابق مال عرض؟
+13528	corpus-6-test-corpus-26-dev	MOS	المرافق ما عتنزل ماي السيفون.
+13532	corpus-6-test-corpus-26-dev	MOS	اشقد تطول من هوني الى سيتي هول مشي؟
+13547	corpus-6-test-corpus-26-train	MOS	خذ هذا الدوا بعد كل وجبي عدما تتاذي كثيغ.
+13550	corpus-6-test-corpus-26-train	MOS	انت خلي الفلوس بضرف مصمم بشكل خاص يسمونو شوكيبوكورو.
+13553	corpus-6-test-corpus-26-train	MOS	ويحد مجغوح.
+13609	corpus-6-test-corpus-26-test	MOS	عدتسال اش لازم اخذ منو؟
+13624	corpus-6-test-corpus-26-train	MOS	هل عندك خريطه مال قطار الانفاق؟
+13629	corpus-6-test-corpus-26-train	MOS	عندي غرفة جاهزة اللك بفندق الكراند. اتطيق تغوح هنوك؟
+13635	corpus-6-test-corpus-26-train	MOS	عندي الم بعيني اليمين.
+13657	corpus-6-test-corpus-26-train	MOS	انا ما كلش مليح بالالماني.
+13660	corpus-6-test-corpus-26-train	MOS	احنه بالتاكيد لازم نلتقي سويه مره اللخ.
+13666	corpus-6-test-corpus-26-train	MOS	ممكن تضيق هذا البنطرون؟
+13682	corpus-6-test-corpus-26-train	MOS	ممكن اتدين مضرب وطبات؟
+13685	corpus-6-test-corpus-26-test	MOS	ممكن تخلي شويه صرافه؟
+13694	corpus-6-test-corpus-26-train	MOS	ممكن احصل على نص قنينه؟
+13707	corpus-6-test-corpus-26-train	MOS	هاي. انا جن.
+13717	corpus-6-test-corpus-26-train	MOS	ناكاي.
+13719	corpus-6-test-corpus-26-train	MOS	هل تمانع اذا اخذ صوره اللك ولتكسيك؟
+13733	corpus-6-test-corpus-26-train	MOS	انا خابرتو بخصوص جنطه ضيعه قبل ثلاث ايام.
+13748	corpus-6-test-corpus-26-test	MOS	اغيد فندق اغخص.
+13755	corpus-6-test-corpus-26-dev	MOS	اوه، اكو كثيغ شغلات لازم تشوفها بقرية كرينوتش.
+13769	corpus-6-test-corpus-26-train	MOS	بالشغل. عندي هنوك كثيغ علاقات شغل.
+13783	corpus-6-test-corpus-26-train	MOS	تناسب بدلتك.
+13784	corpus-6-test-corpus-26-train	MOS	ممكن تبقي عينك على جنطتي؟
+13788	corpus-6-test-corpus-26-train	MOS	اشون حبيت هذي الفكره؟ نحنه نقبل بالشرط مال ستت شهور على شرط انو انته تنطينه الحق انو نبيع لمدة ستت شهور بعد ما ينتهي العقد.
+13803	corpus-6-test-corpus-26-train	MOS	اعذرني. هل تعغف نيويورك مليح؟
+13824	corpus-6-test-corpus-26-test	MOS	احنه غاح ننتظر. رجاءا خابرنه لمن تكون جاهز.
+13827	corpus-6-test-corpus-26-train	MOS	اغيد اشوف جراح.
+13828	corpus-6-test-corpus-26-dev	MOS	هل هذولي مكونات طبيعيي؟
+13831	corpus-6-test-corpus-26-train	MOS	اغيد اسوق بسياره رياضيي.
+13843	corpus-6-test-corpus-26-train	MOS	رمز المنطقه هو صفر ثلاثي. الرقم هو ثلاثي ويحد اثنين ثلاثي اربعه خمسي ستي سبعه.
+13854	corpus-6-test-corpus-26-train	MOS	هو انصاب ببغد.
+13856	corpus-6-test-corpus-26-test	MOS	سياره سبكوباكت غاح تكون الاحسن.
+13862	corpus-6-test-corpus-26-train	MOS	اغيد ارسل هذي التوصيله العامي.
+13903	corpus-6-test-corpus-26-train	MOS	خليني احول هذا الاتصال للشخص المسؤول.
+13913	corpus-6-test-corpus-26-train	MOS	اي قياس اتغيد؟
+13919	corpus-6-test-corpus-26-train	MOS	اوه، عزيزي. انا بالفعل ايقنتو انو بعد عندي هذولي.
+13920	corpus-6-test-corpus-26-train	MOS	هل عندك مجموعه صنيديق لارسال طرود؟
+13921	corpus-6-test-corpus-26-train	MOS	ممكن تدفع اليكترونيا لفندقي وتكاليف وجبتي؟
+13938	corpus-6-test-corpus-26-train	MOS	هل كل هذولي جنطك؟
+13942	corpus-6-test-corpus-26-train	MOS	اشون تحب تعمل الاتصال؟
+13946	corpus-6-test-corpus-26-train	MOS	ماشي، هذا غالي. ما مصنوع باليابان، مو تمام؟
+13953	corpus-6-test-corpus-26-train	MOS	ممكن رجاءا تعبغلي الملح؟
+13966	corpus-6-test-corpus-26-train	MOS	وين اقغب مطعم من هذا الفندق؟
+13993	corpus-6-test-corpus-26-train	MOS	اغيد شامبو لشعغ اعتيادي.
+14008	corpus-6-test-corpus-26-train	MOS	ايمتي تتوقع غاح يتلقى؟
+14014	corpus-6-test-corpus-26-train	MOS	اتمنالك سني سعيدي كلش.
+14018	corpus-6-test-corpus-26-train	MOS	غاح اطلب سبرايت كبيغ.
+14043	corpus-6-test-corpus-26-test	MOS	رجاءا قوله مره اللخ ببطئ.
+14045	corpus-6-test-corpus-26-train	MOS	اعذرني. اغيد اعمل طلب.
+14059	corpus-6-test-corpus-26-test	MOS	عدنه روبيان نيوبرغ وفخذ طلي مشوي.
+14069	corpus-6-test-corpus-26-train	MOS	اغيد غرفة للمناظر الحلوي.
+14074	corpus-6-test-corpus-26-train	MOS	ثلاث اكلاصات عصير بطيخ، رجاءا.
+14086	corpus-6-test-corpus-26-train	MOS	عندي ثلاث اولاد.
+14088	corpus-6-test-corpus-26-train	MOS	غوح مباشرة نهاية هذي القاعة وديوغ عاليساغ عد الزاويه. غاح تشوفو على يمينك.
+14089	corpus-6-test-corpus-26-dev	MOS	هل هيه جوله يوم كامل؟
+14094	corpus-6-test-corpus-26-train	MOS	اشقد تكلفه تذكرة مرجع لاوكسفورد؟
+14098	corpus-6-test-corpus-26-train	MOS	انا اغوح لنادي رياضي كل يومين.
+14099	corpus-6-test-corpus-26-train	MOS	وين اطيق ابقى خلال الجوله؟
+14104	corpus-6-test-corpus-26-train	MOS	اشنو هو وقت تسجيل الخروج؟
+14108	corpus-6-test-corpus-26-train	MOS	اشقد تكلفه المرشد لكل يوم؟
+14120	corpus-6-test-corpus-26-train	MOS	وين ممكن القي اقراص؟
+14147	corpus-6-test-corpus-26-train	MOS	اعذرني. انا طاب جامعي من اليابان. هل انت من طلاب ال ان واي يو؟
+14150	corpus-6-test-corpus-26-train	MOS	ممكن تقلنه اشون قيمت هذي الخطه؟
+14167	corpus-6-test-corpus-26-train	MOS	اكي، هل تعغف محلات تسجيل قغيب على هوني؟
+14168	corpus-6-test-corpus-26-train	MOS	كاش لو احملك؟
+14174	corpus-6-test-corpus-26-train	MOS	اعمل لشركه تجاره.
+14175	corpus-6-test-corpus-26-train	MOS	ما من التهذيب انو تسال الناس اشقد يحصلون فلوس.
+14184	corpus-6-test-corpus-26-train	MOS	هل هاذي ليفايز خمسمية وويحد اصليي؟
+14195	corpus-6-test-corpus-26-train	MOS	اي وقت اطيق اسبح؟
+14198	corpus-6-test-corpus-26-train	MOS	انت ما تبين اكبغ من عشين سني.
+14219	corpus-6-test-corpus-26-train	MOS	عدشوف. بالحقيقه، هذا فلم سريع بداخلو هل تمانع اذا اطلعو بغه؟
+14224	corpus-6-test-corpus-26-train	MOS	اشتغيتوها هسه.
+14232	corpus-6-test-corpus-26-train	MOS	غاح اجيب ويحد هسه.
+14235	corpus-6-test-corpus-26-train	MOS	ثمن دولارات. وهيانو هسه جا ويحد هسه.
+14242	corpus-6-test-corpus-26-train	MOS	رجاءا شوفا مع فقرات المشتريات للكمارك بالمطار.
+14261	corpus-6-test-corpus-26-train	MOS	هل اي من المحلات الشاملة عندم تخفيضات هسه؟
+14265	corpus-6-test-corpus-26-train	MOS	عامل البدالة، انطيني محطة الاطفاء.
+14266	corpus-6-test-corpus-26-train	MOS	عندي باتري ميت.
+14289	corpus-6-test-corpus-26-train	MOS	توقف عد ثاني تقاطع.
+14292	corpus-6-test-corpus-26-train	MOS	اوه، هيانو. وهل لازم كل شخص يملي استمارة البيان الكمركي؟
+14304	corpus-6-test-corpus-26-train	MOS	وهل ممكن اعغف اسمك رجاءا؟
+14306	corpus-6-test-corpus-26-train	MOS	هل تمانع اذا تعمل مكالمه على حساب المتلقي؟
+14311	corpus-6-test-corpus-26-train	MOS	هلو. اشونك؟
+14317	corpus-6-test-corpus-26-train	MOS	وينو قسم المسافرين؟
+14336	corpus-6-test-corpus-26-train	MOS	اشنو اسم الشخص اللي تتمنى تحكي معانو؟
+14347	corpus-6-test-corpus-26-test	MOS	انا اسف، هو ما هوني هالدقيقه.
+14363	corpus-6-test-corpus-26-train	MOS	دحق على هذاك. دحق على هذاك. غاح تقلي الفرق بين هذا الشخص وهذاك الشخص هو الحظ؟ محمد، اتوقف، ممكن؟ انت ما تمانع اذا انزلك هوني. انا متأخر. صديقي، مان كلش لطيف لقائي معاك، اوكي؟
+14373	corpus-6-test-corpus-26-dev	MOS	هل غرفتك تطل على المدينه؟
+14389	corpus-6-test-corpus-26-train	MOS	اي رساله الي؟
+14400	corpus-6-test-corpus-26-test	MOS	بعدو كلش غالي. ما اطيق اخذو بثلاث دولارات؟
+14402	corpus-6-test-corpus-26-train	MOS	نحنه نغيد غرفه بالاخر.
+14403	corpus-6-test-corpus-26-dev	MOS	انا غاح اخذ كلاص من الخمر.
+14416	corpus-6-test-corpus-26-train	MOS	انت طيلع حلو.
+14426	corpus-6-test-corpus-26-test	MOS	اغيد غرفة بسريرين. اشقد سعر الغرفة بالليلي؟
+14434	corpus-6-test-corpus-26-train	MOS	هو تقريبا على بعد تسعه وتسيعن ميل.
+14441	corpus-6-test-corpus-26-train	MOS	فينس وليندا يغدون يبقون لوحدم، لذلك اسف لازم ابقى هوني الليلي.
+14444	corpus-6-test-corpus-26-train	MOS	رجاءا بقي هذي الامتعه مربوطي.
+14448	corpus-6-test-corpus-26-train	MOS	اسمي هو ساتو.
+14457	corpus-6-test-corpus-26-train	MOS	اعغف نادي قديم مال جاز بمركز المدينه.
+14459	corpus-6-test-corpus-26-train	MOS	غاح اخذ هاي الوجبة الثابتة.
+14462	corpus-6-test-corpus-26-dev	MOS	اغيد اجغب نفس الطبق مثل هذاك.
+14475	corpus-6-test-corpus-26-train	MOS	لعد احنه غاح ناخذه.
+14477	corpus-6-test-corpus-26-train	MOS	هل هذا يغوح للاعلى للطابق السادس؟
+14478	corpus-6-test-corpus-26-dev	MOS	جلد تمساح؟
+14483	corpus-6-test-corpus-26-train	MOS	رجاءا حطه بكيس غسيل وعوفه هنوك.
+14484	corpus-6-test-corpus-26-train	MOS	اغيد احمض هذا الفلم. ايمتي يكون جاهز؟
+14495	corpus-6-test-corpus-26-dev	MOS	رجاءا لا تنطي هذا المفتاح لاي ويحد عداي.
+14500	corpus-6-test-corpus-26-test	MOS	اوكي. غاح اخذك من فندقك ساعه ثميني.
+14502	corpus-6-test-corpus-26-train	MOS	الشباك مليح.
+14505	corpus-6-test-corpus-26-train	MOS	خلي شعغ كصتي معلق للاسفل، رجاءا.
+14507	corpus-6-test-corpus-26-train	MOS	هل كل تكاليف السفر متضمني؟
+14509	corpus-6-test-corpus-26-train	MOS	بيت اوبرا الميتروبوليتان.
+14514	corpus-6-test-corpus-26-train	MOS	وين الميز مال اجر-سياره؟
+14519	corpus-6-test-corpus-26-dev	MOS	كنتو محموم من الليلي الغاحت.
+14520	corpus-6-test-corpus-26-train	MOS	ما الطعم اللي احبو.
+14530	corpus-6-test-corpus-26-train	MOS	اي خضراوات عندك؟
+14531	corpus-6-test-corpus-26-test	MOS	اغيد كيرلي خفيف، رجاءا.
+14534	corpus-6-test-corpus-26-train	MOS	ايمتي غاح يجي الطبيب؟
+14537	corpus-6-test-corpus-26-train	MOS	هذا اللون الغلط.
+14538	corpus-6-test-corpus-26-train	MOS	السن انكسغ.
+14542	corpus-6-test-corpus-26-train	MOS	هل هذا مقعد بجوار الممر لو الشباك؟
+14557	corpus-6-test-corpus-26-train	MOS	انا احب المشي لمسافات طويلي.
+14564	corpus-6-test-corpus-26-dev	MOS	اتطيق توصل امتعتي للغرفه؟
+14573	corpus-6-test-corpus-26-train	MOS	شوفني ويحد لانسه ازغيغي.
+14590	corpus-6-test-corpus-26-train	MOS	ممكن تركن هوني؟
+14593	corpus-6-test-corpus-26-dev	MOS	عندك اي شي بحدود الثمانين دولار بالضبط؟
+14605	corpus-6-test-corpus-26-train	MOS	انا عطشان.
+14612	corpus-6-test-corpus-26-train	MOS	بلا حليب، رجاءا.
+14683	corpus-6-test-corpus-26-dev	MOS	عندي ثلاث جنط.
+14685	corpus-6-test-corpus-26-train	MOS	ويني البحيره؟
+14693	corpus-6-test-corpus-26-test	MOS	اعذرني. دوس زر التصوير، رجاءا.
+14709	corpus-6-test-corpus-26-train	MOS	ممكن احصل على مجله اي اي شي؟
+14718	corpus-6-test-corpus-26-train	MOS	هو جنوب.
+14721	corpus-6-test-corpus-26-train	MOS	بشقد مقاعد البالكونه؟
+14734	corpus-6-test-corpus-26-test	MOS	نغيد غرفة مطله على البحيره.
+14737	corpus-6-test-corpus-26-train	MOS	هل اكو اي صناديق بريد قغيبي على هوني؟
+14757	corpus-6-test-corpus-26-train	MOS	ماشي. غاح اخذك هنوك.
+14761	corpus-6-test-corpus-26-train	MOS	الجزء اللي مكتوب بالخط الميل تشير للتغيرات الي صاغت في تسعينات القرن العشرين.
+14763	corpus-6-test-corpus-26-train	MOS	عمغو ثلاثين سني.
+14777	corpus-6-test-corpus-26-test	MOS	ماشي. اتطيق تكتب العنوان مره اللخ على الضرف؟
+14783	corpus-6-test-corpus-26-train	MOS	اغيد اغوح للهاردوز. اتطيق ترسملي خريطه، رجاءا؟
+14786	corpus-6-test-corpus-26-train	MOS	اش تعمل من عندك وقت فراغ؟
+14789	corpus-6-test-corpus-26-train	MOS	هل عندك بطاريات لهذ الكامره؟
+14805	corpus-6-test-corpus-26-train	MOS	اغيد كيبل للتصويغ عن بعد.
+14807	corpus-6-test-corpus-26-train	MOS	هل انت اخر ويحد بهالسره؟
+14810	corpus-6-test-corpus-26-train	MOS	اعتقد زيادة بالحجز.
+14813	corpus-6-test-corpus-26-train	MOS	خوش لقطه. بس خارج.
+14818	corpus-6-test-corpus-26-train	MOS	اتطيق تقلي الاماكن الحلوي هوني؟
+14820	corpus-6-test-corpus-26-train	MOS	هل اكو اي محلات شاملة قغيبة على هوني؟
+14854	corpus-6-test-corpus-26-dev	MOS	وانا همين.
+14862	corpus-6-test-corpus-26-train	MOS	اغيد اشارك من سان دياغو.
+14863	corpus-6-test-corpus-26-train	MOS	كنتو عدفكر اخذ هذاك الكورس الفصل اللي يجي.
+14887	corpus-6-test-corpus-26-train	MOS	الخمر ما كلش بيغد. اطيق تعملو ابغد؟
+14901	corpus-6-test-corpus-26-dev	MOS	اتطييق تغير هذا المغيود الى كليبسات؟
+14903	corpus-6-test-corpus-26-train	MOS	بيش انت اكثغ شي مهتم هسا؟
+14905	corpus-6-test-corpus-26-train	MOS	اغيد تعويض. اطيق اخذ فلوسي؟
+14926	corpus-6-test-corpus-26-train	MOS	انا عالاغلب ما اطيق احصل على مشروب مثل هذا باي مكان اللاخ.
+14933	corpus-6-test-corpus-26-train	MOS	اذا تشتغي هذا همين، غاح تعمل المبلغ معفي من الضريبه.
+14952	corpus-6-test-corpus-26-train	MOS	ممكن اشوف شهادة التطعيم مالتك، رجاءا؟
+14960	corpus-6-test-corpus-26-train	MOS	هل تسافر كثيغ؟
+14969	corpus-6-test-corpus-26-train	MOS	انا اجي من الولايات المتحده.
+14976	corpus-6-test-corpus-26-train	MOS	عندي تذكرة طيران الى سان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	MOS	اذا هو بس خمسطعش دقيقه من المحطه، لعد غاح امشي.
+15019	corpus-6-test-corpus-26-train	MOS	اغيد فندق شويه اغخص.
+15020	corpus-6-test-corpus-26-test	MOS	بونساي تبين عبالك هوايه شخص كبيغ.
+15024	corpus-6-test-corpus-26-dev	MOS	بعد ما قررتو لحد هسه. اتطيق تنطيني شويه وقت بعد؟
+15025	corpus-6-test-corpus-26-train	MOS	عندي صداع.
+15036	corpus-6-test-corpus-26-dev	MOS	ممكن تشاركني نشغب قهوي؟
+15037	corpus-6-test-corpus-26-train	MOS	احتاج شهاده طبيي ووصل لشركة للضمان مالتي.
+15046	corpus-6-test-corpus-26-test	MOS	اوه، لا. رجاءا استعجل. احنه متاخرين.
+15051	corpus-6-test-corpus-26-train	MOS	ما اغيد اصرف اكثغ من عشين دولار.
+15062	corpus-6-test-corpus-26-train	MOS	ليش الطياغه ما عتقلع؟ قلي اش عيصيغ.
+15073	corpus-6-test-corpus-26-test	MOS	اشقد التكلفه؟ ممكن تكتب التكلفه على ورقة؟
+15083	corpus-6-test-corpus-26-train	MOS	اغيد استاجر كغسي على سطح السفينه.
+15087	corpus-6-test-corpus-26-train	MOS	انتظر دقيقه، رجاءا.
+15088	corpus-6-test-corpus-26-test	MOS	هل لازم النسوان يلبسون زي رسمي؟
+15095	corpus-6-test-corpus-26-train	MOS	لا تلمسني.
+15109	corpus-6-test-corpus-26-train	MOS	هل عندك جكاير؟
+15123	corpus-6-test-corpus-26-train	MOS	اذا الهوى ما كلش قوي، احنه نطيق نغوح لتيكي بوينت.
+15126	corpus-6-test-corpus-26-train	MOS	رائع.
+15133	corpus-6-test-corpus-26-train	MOS	غاح اعزل هسا. شكرا لانتباهك.
+15145	corpus-6-test-corpus-26-dev	MOS	هل عند من هذا باي لون اللاخ؟
+15149	corpus-6-test-corpus-26-train	MOS	منو هو؟
+15157	corpus-6-test-corpus-26-train	MOS	اعذرني. اتطيق تقلي وين تقف التكسي؟
+15170	corpus-6-test-corpus-26-train	MOS	و للشغب؟
+15181	corpus-6-test-corpus-26-train	MOS	هيانو.
+15201	corpus-6-test-corpus-26-train	MOS	وين اقغب محل مال اجهزة؟
+15206	corpus-6-test-corpus-26-train	MOS	همم. ما عيشتغل، تمام؟ انت تطيق تنتقل لمقعد فارغ، اذا انت تحب.
+15221	corpus-6-test-corpus-26-train	MOS	انا عددوغ على هذا.
+15240	corpus-6-test-corpus-26-train	MOS	تمام سيدي. اش تحب تحلي؟
+15246	corpus-6-test-corpus-26-train	MOS	عربة عادية لو بولمان؟
+15247	corpus-6-test-corpus-26-train	MOS	شيك سياحي. شكرا لك. هياني تذكرتك وبطاقة الركوب مالك. كون هنوك، رجاءا، قبل موعد الطياغه بساعه.
+15257	corpus-6-test-corpus-26-test	MOS	هو الم قوي.
+15259	corpus-6-test-corpus-26-train	MOS	الاسم هو موغو موتوياما. والرقم هو صفر ثلاثي ثلاثي اثنين ستي ويحد اثنين اربعه تسعه خمسي.
+15262	corpus-6-test-corpus-26-train	MOS	اشعر بمرض كثيغ.
+15274	corpus-6-test-corpus-26-train	MOS	"ايمتي اوقات العر ض ال ""كوسيس لاف""؟"
+15283	corpus-6-test-corpus-26-train	MOS	تمام. هل غاح تشغب قهوتك هسا لو بعدين؟
+15292	corpus-6-test-corpus-26-train	MOS	قلي على احسن نادي ريغي بنيويورك.
+15295	corpus-6-test-corpus-26-test	MOS	باي طريقه منتجاتك احسن من منافسيك؟
+15296	corpus-6-test-corpus-26-train	MOS	هل اوكي انه ولا ويحد عيستمع لارشادات السلامي؟
+15319	corpus-6-test-corpus-26-train	MOS	هل الشارع الخلفي خطر؟
+15320	corpus-6-test-corpus-26-train	MOS	اي. رجاءا خذ الطريقة الضروري.
+15323	corpus-6-test-corpus-26-train	MOS	اي، ويحد بس. ايمتي غاح اعغف؟ اشون غاح يتم تعويضي؟
+15331	corpus-6-test-corpus-26-dev	MOS	هوني البطاقه التعريفي مالتي.
+15337	corpus-6-test-corpus-26-train	MOS	احنه نفضل ميز على الشباك.
+15347	corpus-6-test-corpus-26-train	MOS	رجاءا قلي على اغخص طريق لسان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	MOS	هل تعغف المطعم، كيويا؟
+15378	corpus-6-test-corpus-26-train	MOS	اتجاه ويحد.
+15380	corpus-6-test-corpus-26-train	MOS	انا غاح اسمن بس قيعد هوني واكل باستمرار.
+15400	corpus-6-test-corpus-26-train	MOS	هل اكو نادي ليلي مليح مع عرض الفلامينكو؟
+15419	corpus-6-test-corpus-26-train	MOS	هذا فستان حلو اللي ليبستو.
+15431	corpus-6-test-corpus-26-train	MOS	غجلي عتاذيني.
+15436	corpus-6-test-corpus-26-train	MOS	وين اقغب غرفة غسيل؟
+15443	corpus-6-test-corpus-26-train	MOS	اتطيق تبدل مقاعد معاي، رجاءا؟
+15447	corpus-6-test-corpus-26-train	MOS	مقاعدنه منفصلي.
+15452	corpus-6-test-corpus-26-train	MOS	بالحقيقه، اغيد اخلي تامين على هذا الطرد همين.
+15463	corpus-6-test-corpus-26-train	MOS	الفاتورة وصلت لميت دولار.
+15464	corpus-6-test-corpus-26-test	MOS	مخارج الطوارئ موجودي قدام، بالوسط، وبنهاية هذي الطياغه.
+15470	corpus-6-test-corpus-26-train	MOS	تمام، حجزك اتاكد.
+15476	corpus-6-test-corpus-26-train	MOS	الكعب كلش عيلي.
+15477	corpus-6-test-corpus-26-train	MOS	احنه نغيد ميز على البلكوني.
+15482	corpus-6-test-corpus-26-train	MOS	هذا يعني انو الفلم قد ما يكون مناسب لاطفال تحت الخمسطعش. لذلك الاهل لازم باخذون بالاعتبار اذا يخلون الاطفال يشوفون الفلم.
+15487	corpus-6-test-corpus-26-train	MOS	اشون تغيد الفلوس؟ رجاءا املي هذي الورقه ووقع هوني.
+15509	corpus-6-test-corpus-26-train	MOS	ببعض الاحيان معدتي تاذيني.
+15522	corpus-6-test-corpus-26-train	MOS	هل عندك اطباق سعراته الحراري منخفظي؟ انا بحميه غذائي، هسا.
+15529	corpus-6-test-corpus-26-dev	MOS	ماكو تغيير ضروري.
+15539	corpus-6-test-corpus-26-train	MOS	اي، عندي بطاقتين لعرض العمالقه والمحتالين.
+15546	corpus-6-test-corpus-26-train	MOS	احنه باعلى القائمه مال المجهزين مال الكومبيوترات الصغيغي.
+15553	corpus-6-test-corpus-26-train	MOS	شكرا اللك. كذلك انا. بيباي حتى هذاك الوقت.
+15564	corpus-6-test-corpus-26-train	MOS	سريرين مع حمام، رجاءا.
+15566	corpus-6-test-corpus-26-train	MOS	انا وقعتو على الدرج.
+15575	corpus-6-test-corpus-26-train	MOS	اي موطا تنصح؟
+15577	corpus-6-test-corpus-26-dev	MOS	همم. هذا الويحد. اللون يبين مليح عليك.
+15598	corpus-6-test-corpus-26-test	MOS	وين الكتب اللي باللغه الاجنبي؟
+15604	corpus-6-test-corpus-26-train	MOS	شريحتين وسبرايت.
+15607	corpus-6-test-corpus-26-test	MOS	انطيني شويه جكاير.
+15610	corpus-6-test-corpus-26-dev	MOS	ما قانوني انه تدخلو البلد-اسف. ماشي، اتوقع هذا كلشي.
+15652	corpus-6-test-corpus-26-train	MOS	اي، انا. كانو يعيشون قغيب مني بكاليفورنيا بس انتقلو لفلوريدا قبل سنتين. ماذا عنك انت؟ هل عتسافر بنفسك؟
+15664	corpus-6-test-corpus-26-train	MOS	انا مريض.
+15666	corpus-6-test-corpus-26-train	MOS	طفلي يبين مرهق بسبب الحمي.
+15673	corpus-6-test-corpus-26-train	MOS	بهذا الحجم، رجاءا.
+15674	corpus-6-test-corpus-26-train	MOS	درجات التميز الثقافيه تنعطي للفنانين والعلماء المتميزين بهذا اليوم.
+15676	corpus-6-test-corpus-26-train	MOS	انا ياباني.
+15692	corpus-6-test-corpus-26-train	MOS	هذا كلش غالي.
+15699	corpus-6-test-corpus-26-train	MOS	اي. خذ الباص اللي يغوح لكوتو-ايكي.
+15710	corpus-6-test-corpus-26-train	MOS	هل هذا للاعضاء بس؟
+15735	corpus-6-test-corpus-26-dev	MOS	كلفه الغرفة ستت الاف ين باليلي.
+15763	corpus-6-test-corpus-26-train	MOS	اطيق اجيب هذا معاي بداخل الطياغه؟
+15775	corpus-6-test-corpus-26-train	MOS	اوكي. كل اللي اغيد اعغفو ايمتي الشغل غاح يدفع طريقتو.
+15784	corpus-6-test-corpus-26-train	MOS	ماشي. هل تغيد وشاح مع هذاك؟
+15788	corpus-6-test-corpus-26-train	MOS	اشحن الباتري، رجاءا.
+15791	corpus-6-test-corpus-26-train	MOS	انا جاهز انو اطلب.
+15798	corpus-6-test-corpus-26-dev	MOS	املاح الحمام العشبي يترك بشرتك نيعمي وطريي.
+15804	corpus-6-test-corpus-26-train	MOS	اكتب اسم الخطوط الجويي ورقم الرحله، هم.
+15814	corpus-6-test-corpus-26-train	MOS	صدق. اليوم احد، والاحد هو اسؤ يوم.
+15896	corpus-6-test-corpus-26-train	MOS	اي، هاي مشكله مخلفات الاشياء ذات الاستخدام الويحد.
+15897	corpus-6-test-corpus-26-train	MOS	اغيد هذا الشكل بوضع خمس اماكن.
+15899	corpus-6-test-corpus-26-train	MOS	كثيغ عائلات عندم دخلين.
+15902	corpus-6-test-corpus-26-train	MOS	"اوه. هذي الفضه نادره ""القمغ والجغس"". متاكد تغيد تبدلا؟"
+15911	corpus-6-test-corpus-26-train	MOS	امي واختي جيين من اليابان حتى يغشعوني. غاح يصلون هوني حوالي السبعه المسا.
+15942	corpus-6-test-corpus-26-train	MOS	البني شائع كلش هالسني.
+15950	corpus-6-test-corpus-26-test	MOS	خوش فكره. ايمتي مخطط تجي؟
+15967	corpus-6-test-corpus-26-train	MOS	اوكي. مقعدين، رجاءا.
+15989	corpus-6-test-corpus-26-train	MOS	وينو السوق؟
+16007	corpus-6-test-corpus-26-train	MOS	انا عدتطلع انو اجغب بدله السباق مالتي.
+16016	corpus-6-test-corpus-26-train	MOS	عبالي انتم شباب بس اكلتم دونات.
+16034	corpus-6-test-corpus-26-train	MOS	اشقد تكلف تذكره درجة اولى الى ادنبره، رجاءا؟
+16042	corpus-6-test-corpus-26-train	MOS	على ما يبدو انو الفلوس اللي عطيتنيهيه ناقصه عشغ دولارات.
+16046	corpus-6-test-corpus-26-train	MOS	انا هسه اتصلتو بالسيد سمث بغرفه اثنين صفر ويحد، بس ما كان اكو جواب. ممكن تشوفين اذا بعدو مقيم هوني؟
+16061	corpus-6-test-corpus-26-train	MOS	اغيد ويحد متطور.
+16070	corpus-6-test-corpus-26-train	MOS	انا اشتغل بشركه نشر.
+16073	corpus-6-test-corpus-26-train	MOS	ممكن رجاءا تملي هذا؟
+16080	corpus-6-test-corpus-26-test	MOS	اي شارع هذا؟
+16082	corpus-6-test-corpus-26-test	MOS	اتطيق توزن هذي الحزمه؟
+16089	corpus-6-test-corpus-26-train	MOS	اش تطلق علي هذاك بالانكليزي؟
+16091	corpus-6-test-corpus-26-train	MOS	استمر بالمشي بهذا الممر، بعدين غاح تشوفو على يمينك.
+16098	corpus-6-test-corpus-26-train	MOS	اغيد تامين لهذا.
+16106	corpus-6-test-corpus-26-train	MOS	صباح الخير. مكتب الاستقبال . ممكن اساعدك؟
+16127	corpus-6-test-corpus-26-train	MOS	تمام. رجاءا اصعد.
+16130	corpus-6-test-corpus-26-test	MOS	اي، سيدي. انا هوني للتغيوقه كل يوم. من الاثنين للجمعه، قبل ان اغوح للشغل.
+16140	corpus-6-test-corpus-26-dev	MOS	ماكو مشكله.
+16141	corpus-6-test-corpus-26-train	MOS	رجاءا اتصلي بثلاثي اثنين ستي اثنين تسعه ويحد ثميني.
+16158	corpus-6-test-corpus-26-train	MOS	اي، احنه نطيق نخدمك من السبعه.
+16167	corpus-6-test-corpus-26-train	MOS	رجاءا استلقي هوني.
+16169	corpus-6-test-corpus-26-test	MOS	اشون خدمه سريعه.
+16191	corpus-6-test-corpus-26-train	MOS	يمكن هو غاح يبين.
+16217	corpus-6-test-corpus-26-train	MOS	رجاءا ديور لليساغ عد التقطع اللي يجي.
+16219	corpus-6-test-corpus-26-dev	MOS	اعذرني. اشون اصل للبنك؟
+16222	corpus-6-test-corpus-26-train	MOS	هل اكو خدمات باص لمتحف فورد؟
+16227	corpus-6-test-corpus-26-train	MOS	اي. اسمك ورقم غرفتك، رجاءا.
+16231	corpus-6-test-corpus-26-train	MOS	اشقد تطول حتى تصل لليابان بالبريد الجوي؟
+16238	corpus-6-test-corpus-26-train	MOS	اوكي. اشوفك بالثنتين الاحد.
+16258	corpus-6-test-corpus-26-train	MOS	اغيد اغوح من خلال نيويورك الى تورونتو.
+16259	corpus-6-test-corpus-26-train	MOS	السحاب مكسوغ. عندك بعد مثلو؟
+16271	corpus-6-test-corpus-26-train	MOS	هذا نوها ما وسخ.
+16279	corpus-6-test-corpus-26-dev	MOS	ممكن تعيد تاكيد رحلتي؟ هياني تذكرتي الجويي.
+16291	corpus-6-test-corpus-26-train	MOS	هل عندك هذي باخضر اعمق؟
+16292	corpus-6-test-corpus-26-test	MOS	ممكن تاخذني لكانتربري وترجعني؟
+16311	corpus-6-test-corpus-26-train	MOS	ممكن احصل على شوكه جديدي؟
+16312	corpus-6-test-corpus-26-train	MOS	شكرا جزيلا اللك للطافتك.
+16335	corpus-6-test-corpus-26-train	MOS	اسف، احنه ما نبيع تذاكر للمسرح.
+16337	corpus-6-test-corpus-26-train	MOS	اغيد اشوف هذا.
+16339	corpus-6-test-corpus-26-train	MOS	اوه، هذا لطيف. اش لازم اعمل؟
+16344	corpus-6-test-corpus-26-dev	MOS	اغيد امدد اقامتي هوني ليومين اطول.
+16351	corpus-6-test-corpus-26-train	MOS	رجاءا بدل مقعدي.
+16365	corpus-6-test-corpus-26-train	MOS	عدنه شويه روبيان مليح اليوم.
+16371	corpus-6-test-corpus-26-train	MOS	اشقد متاخر هو مفتوح؟
+16395	corpus-6-test-corpus-26-train	MOS	للمدخنين لو لا؟
+16403	corpus-6-test-corpus-26-train	MOS	هو كلش غالي اللي. ما تطيق تعملو اغخص؟
+16409	corpus-6-test-corpus-26-dev	MOS	انا مفتح الاربعاء الصبح او الجمعه بعد الظهغ.
+16413	corpus-6-test-corpus-26-train	MOS	انا ما عملتو حجز.
+16434	corpus-6-test-corpus-26-train	MOS	لان الصيف باليابان عادة كلش حاغ، واحنه ما كان عدنه مكيفات هوا بالايام القديميي.
+16444	corpus-6-test-corpus-26-train	MOS	اتطيق تتصلي بتكسي بالثميني غدا الصبح؟
+16453	corpus-6-test-corpus-26-train	MOS	هذا شرير.
+16465	corpus-6-test-corpus-26-train	MOS	ليش ما ننتظر الباص تحت المظله؟
+16477	corpus-6-test-corpus-26-train	MOS	تعال، كينجي. خليني اشوفك حول المكتب.
+16478	corpus-6-test-corpus-26-train	MOS	اي، هو مفتوح من التسعه للتسعه.
+16484	corpus-6-test-corpus-26-dev	MOS	ما اطيق انام مليح بالليل.
+16487	corpus-6-test-corpus-26-train	MOS	اشون اثر الركود على الاعمال؟
+16495	corpus-6-test-corpus-26-train	MOS	عندي موعد اللاخ.
+16516	corpus-6-test-corpus-26-train	MOS	اطيق احصل على خريطه الطرق مال المدينه؟
+16536	corpus-6-test-corpus-26-dev	MOS	الشي اللي كلش كنتو ادوغ علينو.
+16542	corpus-6-test-corpus-26-train	MOS	انا ماعدفتهم تفسيراتك.
+16546	corpus-6-test-corpus-26-train	MOS	الحاجه انو اعمل تواصل. غيح لوبوسطن.
+16547	corpus-6-test-corpus-26-train	MOS	وين افضل مكان للسياحة؟
+16576	corpus-6-test-corpus-26-train	MOS	هل هو مقاوم؟
+16577	corpus-6-test-corpus-26-train	MOS	اتونست كثيغ.
+16581	corpus-6-test-corpus-26-train	MOS	ماشي لعد، اغيد احصل على وج اصغغ مثل جوليا روبرتس.
+16586	corpus-6-test-corpus-26-train	MOS	ممكن تاخذ هذا، رجاءا؟
+16601	corpus-6-test-corpus-26-train	MOS	المسافرين المغادرين على الخطوط الجويي ايه بي سي رحله سبعه صفر ثلاثي المتوجهي لطوكيو رجاءا غوحو للبوابه عشين علمود الاجراءات الحكوميي.
+16607	corpus-6-test-corpus-26-train	MOS	وين موقف الباص لبي؟
+16643	corpus-6-test-corpus-26-train	MOS	الى مفردين، رجاءا.
+16653	corpus-6-test-corpus-26-dev	MOS	وين اطيق اشتغي ميز حواس؟
+16679	corpus-6-test-corpus-26-train	MOS	اطيق استاجر مرشد يحكي ياباني؟
+16696	corpus-6-test-corpus-26-train	MOS	تغيديني اخذلك صورتك؟
+16709	corpus-6-test-corpus-26-train	MOS	ما اخذتو هذا الطبق.
+16718	corpus-6-test-corpus-26-train	MOS	انا قصيتو اصبعي. هل اكو مطهر؟
+16723	corpus-6-test-corpus-26-train	MOS	هل اطيق احصل على طابع ابو تسعه وخمسين سنت؟
+16736	corpus-6-test-corpus-26-train	MOS	انا غاح اكون هوني بالثميني الا ربع.
+16746	corpus-6-test-corpus-26-train	MOS	اغيد شويه عطر.
+16747	corpus-6-test-corpus-26-train	MOS	ممكن احصل على الجدول الزمني؟
+16751	corpus-6-test-corpus-26-test	MOS	هل انت تغوح مدرسي هوني؟
+16758	corpus-6-test-corpus-26-dev	MOS	اشقد كان اكو بينو؟
+16760	corpus-6-test-corpus-26-train	MOS	هل فندق الهيلتون بعيد من هوني؟
+16769	corpus-6-test-corpus-26-train	MOS	انا متكد خليتوها بجنطتي.
+16770	corpus-6-test-corpus-26-train	MOS	الايادي للاعلى.
+16771	corpus-6-test-corpus-26-train	MOS	هل اكو مطعم تنصح بينو قغيب على هوني؟
+16773	corpus-6-test-corpus-26-train	MOS	اش تفضل، عميق لو فاتح؟
+16781	corpus-6-test-corpus-26-train	MOS	اتطيق تقلي ايمتي غاح نطيغ؟
+16793	corpus-6-test-corpus-26-train	MOS	بدل الباطاقه، رجاءا.
+16796	corpus-6-test-corpus-26-train	MOS	وين اكو مكان حلو لرحله يوم ويحد؟
+16799	corpus-6-test-corpus-26-train	MOS	اغيد جنطه ريد كلي بنفس التصميم مال هذي.
+16805	corpus-6-test-corpus-26-train	MOS	بعد غاح تعمل هذاك الجدول؟
+16810	corpus-6-test-corpus-26-train	MOS	باي وقت بفتح البنك؟
+16811	corpus-6-test-corpus-26-train	MOS	اشعر بالمرض.
+16819	corpus-6-test-corpus-26-train	MOS	انا مشوش. هل تمانع ترسملي خريطه للي؟
+16822	corpus-6-test-corpus-26-test	MOS	بغه.
+16829	corpus-6-test-corpus-26-test	MOS	خذني للمستشفى.
+16833	corpus-6-test-corpus-26-train	MOS	هل لازم اجي للمستشفى كل يوم؟
+16837	corpus-6-test-corpus-26-train	MOS	معدتي تاذيني.
+16839	corpus-6-test-corpus-26-train	MOS	اشقد يكلف البريد لارسال هذي الرساله لليابان؟
+16842	corpus-6-test-corpus-26-train	MOS	اغيد كلاص من الخمره.
+16869	corpus-6-test-corpus-26-train	MOS	اتغيد توصيله من المطار؟
+16872	corpus-6-test-corpus-26-dev	MOS	الصعود يبدي بالاربعه ونص لذلك رجاءا كونو هنوك عندا.
+16878	corpus-6-test-corpus-26-train	MOS	من ثلاثين الف ين.
+16879	corpus-6-test-corpus-26-train	MOS	وين اطيق اشتغي كرت تليفون؟
+16888	corpus-6-test-corpus-26-train	MOS	اطيق ارجعا ببلده اللخ؟
+16889	corpus-6-test-corpus-26-dev	MOS	مخطط ابقى لايدعش يوم.
+16893	corpus-6-test-corpus-26-train	MOS	رجاءا اعمل الاعلى شويه اطول.
+16896	corpus-6-test-corpus-26-train	MOS	تحتاج تشوف اخصائي.
+16899	corpus-6-test-corpus-26-dev	MOS	شويه دقايق اللخ، رجاءا.
+16904	corpus-6-test-corpus-26-train	MOS	المسار رقم ارباطعش.
+16911	corpus-6-test-corpus-26-train	MOS	اوه، انت تعمل؟ انت اكيد عندك تشكيله واسعه.
+16928	corpus-6-test-corpus-26-dev	MOS	ما عدطيق القيهم باي مكان.
+16936	corpus-6-test-corpus-26-test	MOS	هل عندك اي مقاعد فارغه للندن؟
+16952	corpus-6-test-corpus-26-train	MOS	اغيد نسخه من تقرير السرقه.
+16955	corpus-6-test-corpus-26-dev	MOS	هو بلوك ويحد في الشارع.
+16960	corpus-6-test-corpus-26-train	MOS	تطيق تنطيني ضو لمن تكون بداخلو؟
+16962	corpus-6-test-corpus-26-test	MOS	هل هذي الجكاير خفيفي؟
+16964	corpus-6-test-corpus-26-train	MOS	تمام. بس مثل هذا.
+16967	corpus-6-test-corpus-26-train	MOS	الاكسبريس التالي خلال ساعه وحدي.
+16976	corpus-6-test-corpus-26-train	MOS	اغيد اغدان هذي الستره الرياضي تطول.
+16992	corpus-6-test-corpus-26-train	MOS	عندي حجز. هذا رقم التاكيد.
+17027	corpus-6-test-corpus-26-train	MOS	عيد ميلادك جيي عالطريق.
+17030	corpus-6-test-corpus-26-dev	MOS	القطارات متوقفي بسبب الاضراب.
+17038	corpus-6-test-corpus-26-train	MOS	اتطيق تصلح هذي؟
+17068	corpus-6-test-corpus-26-dev	MOS	الطرق كان مزدحم بالسيارات.
+17079	corpus-6-test-corpus-26-train	MOS	هي البنايه الثانيه على يساغ هذيك البنايه البيضا.
+17094	corpus-6-test-corpus-26-train	MOS	احنه حجزنه مقعد بشهر تشرين الاول يوم خمسي وعشين نغادر بالايدعش الصبح.
+17097	corpus-6-test-corpus-26-train	MOS	لا، شويه اكثغ بالامام. هوني، اي.
+17115	corpus-6-test-corpus-26-train	MOS	اي، هذا ما يتضمن الوجبات.
+17117	corpus-6-test-corpus-26-train	MOS	وين اطيق ارجع هذي التكت؟
+17120	corpus-6-test-corpus-26-train	MOS	ليش صاغ هشكل؟
+17149	corpus-6-test-corpus-26-train	MOS	اغيد اخذ راحه.
+17158	corpus-6-test-corpus-26-train	MOS	سيارتي تعطلت، رجاءا تعال وخذا.
+17163	corpus-6-test-corpus-26-train	MOS	اغيد شعغي شويه اطول بالخلف.
+17177	corpus-6-test-corpus-26-train	MOS	اي نوع عندك؟
+17179	corpus-6-test-corpus-26-dev	MOS	انا موافق. هو ويحد من اماكني المفضله.
+17180	corpus-6-test-corpus-26-train	MOS	اي نوع من الموديلات اكو ببالك؟
+17204	corpus-6-test-corpus-26-test	MOS	اسمي هو ميشيكو تاناكا، ورقم الرحله هو خمسي صفر ويحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	MOS	اتطيق رجاءا ترسملي خارطه بسيطه من هوني؟
+17217	corpus-6-test-corpus-26-train	MOS	وين نلتقي؟
+17222	corpus-6-test-corpus-26-train	MOS	اغيد اعمل شعغي مثل ما كان.
+17229	corpus-6-test-corpus-26-train	MOS	انطيني خمسين، رجاءا.
+17272	corpus-6-test-corpus-26-train	MOS	وين اطيق اسجل دخول للخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	MOS	اشنو المحتويات؟
+17295	corpus-6-test-corpus-26-train	MOS	هل اكو اي اماكن بالمنطقه موصى بها كثيغ؟
+17311	corpus-6-test-corpus-26-train	MOS	انطيني شويه صرف، رجاءا.
+17313	corpus-6-test-corpus-26-train	MOS	تمام. انا غاح اتاكد انو جنطك غاح تكون هنوك.
+17315	corpus-6-test-corpus-26-train	MOS	هذا تخصصنا، دوفر المشوي الوحيد.
+17339	corpus-6-test-corpus-26-train	MOS	احنه غاح نكون بيقيين.
+17350	corpus-6-test-corpus-26-train	MOS	تمت سرقتي.
+17356	corpus-6-test-corpus-26-train	MOS	ماشي. هل لازم اركز علينو؟
+17381	corpus-6-test-corpus-26-dev	MOS	احنه غاح نتشارك.
+17394	corpus-6-test-corpus-26-train	MOS	ما عدنه نفس التصميم تماما هسه. غاح اجيك مخازنه. انتظر بس دقيقه، رجاءا.
+17398	corpus-6-test-corpus-26-train	MOS	سكوتش مع ماي، رجاءا.
+17399	corpus-6-test-corpus-26-train	MOS	هذاك يبين مليح. اشقد يكلف؟
+17414	corpus-6-test-corpus-26-train	MOS	خذ هذي الراجيته للصيدليه. اتطيق تاخذ الدوا هنوك.
+17438	corpus-6-test-corpus-26-train	MOS	انا طلبتو هذاك.
+17453	corpus-6-test-corpus-26-train	MOS	اي، تطيق تقف عد اي محطه بين هوني وشيكاغو.
+17460	corpus-6-test-corpus-26-train	MOS	وين اطيق اشتغي شويه هدايا؟
+17475	corpus-6-test-corpus-26-train	MOS	هذا كلش غالي. ما اطيق اشتغينو.
+17482	corpus-6-test-corpus-26-train	MOS	اطيق احصل على الرقم لايه بي سي اند كومباني بشيكاغو، رجاءا.
+17488	corpus-6-test-corpus-26-test	MOS	وين الكاتدرائيه؟
+17496	corpus-6-test-corpus-26-train	MOS	اشون تغيد البيض مالك؟
+17504	corpus-6-test-corpus-26-train	MOS	هو تماما بجوار هذي البنايه.
+17526	corpus-6-test-corpus-26-train	MOS	لا، اتوقع نسيو يجيبولنه ويحد.
+17537	corpus-6-test-corpus-26-train	MOS	اوكي. تم تاكيدو. ممكن نحصل على رقم التليفون، بس بحاله احتجنه نتصل بيكم؟
+17548	corpus-6-test-corpus-26-train	MOS	اشنو اسم الرسام؟
+17559	corpus-6-test-corpus-26-train	MOS	هل لازم اخلينو يتصل بيك لمن يرجع؟
+17593	corpus-6-test-corpus-26-train	MOS	اغيد احصل على هذاك الويحد.
+17606	corpus-6-test-corpus-26-train	MOS	احب هذا النوع من خدمه الترحيب الشامبانيا بعد الركوب. اسمحلي نشغب بصحتك.
+17609	corpus-6-test-corpus-26-train	MOS	اربعين دولار لكل يوم بالاضافه الى ثمن سنتات لكل ميل.
+17615	corpus-6-test-corpus-26-train	MOS	غاح اراهن على خمس دولارات.
+17636	corpus-6-test-corpus-26-train	MOS	مو هذا الطلب مال شخص اخر؟
+17645	corpus-6-test-corpus-26-train	MOS	تطيق تقلي اشون اصل للمتحف؟
+17649	corpus-6-test-corpus-26-train	MOS	انا كلش اسف، بس اغيد ااجل الموعد.
+17652	corpus-6-test-corpus-26-test	MOS	ممكن تنصحنه برحله قصيغه؟
+17660	corpus-6-test-corpus-26-train	MOS	قطاركم غاح يغادر من المنصه ثميني.
+17673	corpus-6-test-corpus-26-train	MOS	عددوغ على جنطه مع حبيل قابله للتعديل.
+17674	corpus-6-test-corpus-26-train	MOS	اغيد ابقى تحت الميي وثمانين دولار.
+17739	corpus-6-test-corpus-26-train	MOS	غاح اسالك بعد ان اشوف.
+17745	corpus-6-test-corpus-26-test	MOS	اي. حجز لست ليالي، رجاءا. يبدي بتموز ثلاثي وعشين.
+17757	corpus-6-test-corpus-26-train	MOS	اتطيق تشوفني غيغم بتصاميم مختلفي؟
+17765	corpus-6-test-corpus-26-train	MOS	اي نوع من العصاير تغيد؟
+17780	corpus-6-test-corpus-26-train	MOS	هل غاح تغوح للبيت بالعطل؟
+17782	corpus-6-test-corpus-26-dev	MOS	وين اطيق اغوح حتى اشوف مناظر كلش حلوي؟
+17786	corpus-6-test-corpus-26-test	MOS	هذا كان مكسوغ من فتحتو العلبي.
+17790	corpus-6-test-corpus-26-test	MOS	اب تسعه وعشين.
+17797	corpus-6-test-corpus-26-train	MOS	اغيد ارسل هذا بالبريد الجوي لليابان.
+17798	corpus-6-test-corpus-26-train	MOS	يوم شكر العمال. هو يوم شكر لكل هذولي الي يدعمون المجتمع باعمالم.
+17799	corpus-6-test-corpus-26-train	MOS	الغرفه كلش صغيغي.
+17803	corpus-6-test-corpus-26-train	MOS	ممكن احصل على شويه جاي بعد، رجاءا؟
+17805	corpus-6-test-corpus-26-train	MOS	اغيد هذي الحواس تتنظف بعدين اليوم.
+17808	corpus-6-test-corpus-26-train	MOS	هل اكو بنك قغيب على هوني؟
+17811	corpus-6-test-corpus-26-train	MOS	ممكن تنظف الميز رجاءا؟
+17840	corpus-6-test-corpus-26-train	MOS	سكيني، رجاءا.
+17841	corpus-6-test-corpus-26-train	MOS	همه كلم مواد مطبوعه.
+17842	corpus-6-test-corpus-26-train	MOS	رجاءا اكتب رقم غرفتك بالظهغ.
+17847	corpus-6-test-corpus-26-train	MOS	احنه نستخدم عود من ناكل.
+17852	corpus-6-test-corpus-26-train	MOS	رحله دلتا رقم عشين ثميني لنيو اورلينز غاح تتاخر تقريبا ساعه وحدي.
+17854	corpus-6-test-corpus-26-train	MOS	عدما ارجع لليابان، غاح اكتب رساله. اذا عندك وقت، رجاءا اكتبلي رساله.
+17855	corpus-6-test-corpus-26-train	MOS	تركتو التذكره مال السفر بالفندق.
+17861	corpus-6-test-corpus-26-train	MOS	غرفه منفصلي بدون حمام، رجاءا.
+17869	corpus-6-test-corpus-26-train	MOS	شكرا مره اللخ لتذكيري. هل كثيغ ناس عاده ينسون يوقعون على اسمائم؟
+17886	corpus-6-test-corpus-26-train	MOS	ماشي، احنه متاخرين. ممكن نكمل هذا النقاش الخميس بالوحدي؟
+17899	corpus-6-test-corpus-26-test	MOS	اغيد شوية بجامات.
+17919	corpus-6-test-corpus-26-train	MOS	اوكي. غاح اتصل بيك لمن يكونون جاهزين.
+17935	corpus-6-test-corpus-26-train	MOS	اش تقول بالنسبه للغدى؟
+17947	corpus-6-test-corpus-26-test	MOS	الليموزين غاح تقف عد البوابه الشمالي بالبدايه.
+17963	corpus-6-test-corpus-26-train	MOS	اشقد متاخر اطيق استخدم مطعم الفندق؟
+17966	corpus-6-test-corpus-26-dev	MOS	هل هو قطار مباشر؟
+17977	corpus-6-test-corpus-26-train	MOS	ماشي، على الاغلب تاخر الوقت. اتوقع لازم نغوح هسا. شكرا جزيلا على هاي الامسيه الرائعه.
+17986	corpus-6-test-corpus-26-train	MOS	اطيق احصل على شويه ادويه لمعدتي؟
+18003	corpus-6-test-corpus-26-train	MOS	اغيد جيج مشوي.
+18018	corpus-6-test-corpus-26-train	MOS	خطأي. ما خطأك.
+18036	corpus-6-test-corpus-26-train	MOS	اعذرني، ايمتي يخلص الفلم؟
+18040	corpus-6-test-corpus-26-train	MOS	هذاك الويحد، رجاءا.
+18077	corpus-6-test-corpus-26-train	MOS	مجوهراتي انسرقت. اغيد افتح تقرير.
+18103	corpus-6-test-corpus-26-train	MOS	بس دقيقه، رجاءا. غاح اربطك بالسيد جونز.
+18110	corpus-6-test-corpus-26-train	MOS	هلو. هاذي شركة طيران يونايتد.
+18131	corpus-6-test-corpus-26-test	MOS	وين اتعلم سيد جونز اليابانيه؟
+18138	corpus-6-test-corpus-26-train	MOS	عندي ويحد صغيغ بنفس التصميم.
+18155	corpus-6-test-corpus-26-train	MOS	ممكن تاخذ هذا البنطرون؟
+18161	corpus-6-test-corpus-26-train	MOS	الجمعه بالليل، بالتسعه.
+18166	corpus-6-test-corpus-26-train	MOS	هل هذي البوابه للاس فيكاس؟
+18181	corpus-6-test-corpus-26-train	MOS	هل عندك باص من المطار؟
+18189	corpus-6-test-corpus-26-train	MOS	معلقة اللخ، رجاءا.
+18211	corpus-6-test-corpus-26-train	MOS	هو شويه ميلح، لكن حبيتونو. هل جبتو معالك كل المسافه من اليابان؟
+18226	corpus-6-test-corpus-26-train	MOS	رجاءا استعجلو، اذا ممكن.
+18254	corpus-6-test-corpus-26-train	MOS	اتطيق تدفع عش دولارات هوني للعربون؟
+18264	corpus-6-test-corpus-26-train	MOS	اي. قعدني بعد ثلاث ساعات، رجاءا.
+18273	corpus-6-test-corpus-26-dev	MOS	اغيد اطلب، رجاءا.
+18274	corpus-6-test-corpus-26-test	MOS	هل لازم اقول اي لو لا؟
+18282	corpus-6-test-corpus-26-train	MOS	شخصين، رجاءا.
+18323	corpus-6-test-corpus-26-train	MOS	اشنو التوقف اللي يجي؟
+18334	corpus-6-test-corpus-26-dev	MOS	السياره عتطلع اصوات غريبي.
+18336	corpus-6-test-corpus-26-test	MOS	اي وقت يغلق مكتب البريد؟
+18338	corpus-6-test-corpus-26-dev	MOS	انا دفعتو خمسين دولار عربون عدما سجلتو الدخول.
+18341	corpus-6-test-corpus-26-train	MOS	هل حصلت دوا للمعدي المتخربطي؟
+18342	corpus-6-test-corpus-26-train	MOS	هل لازم البس كبوط وربطه عنق؟
+18344	corpus-6-test-corpus-26-train	MOS	هل ممكن احول فلوس الى حساب التوفير مالتي؟
+18355	corpus-6-test-corpus-26-train	MOS	انسيتو جنطة الايد مالتي.
+18382	corpus-6-test-corpus-26-train	MOS	اغيد اعيد تاكيد رحلتي.
+18401	corpus-6-test-corpus-26-train	MOS	ساعتي. هي كانت جديدي قص رقميي مصنوعه بسويسرا.
+18409	corpus-6-test-corpus-26-test	MOS	انا عبغتو الامتحان بالوان عتتطايغ.
+18412	corpus-6-test-corpus-26-dev	MOS	اغيدك تاخذني لبعض الاماكن المشوقه. انا سائح، انت تعغف.
+18419	corpus-6-test-corpus-26-train	MOS	هل اطيق اغوح اشوف معالم المدينه بينما السفينه بالميناء؟
+18437	corpus-6-test-corpus-26-train	MOS	من الاحسنلك انه تعدل المغي الخلفي مالتك.
+18440	corpus-6-test-corpus-26-dev	MOS	غاح يكون اكو عش دقايق تاخير او هكذ شي.
+18441	corpus-6-test-corpus-26-train	MOS	اطيق اشيل اطباقك؟
+18451	corpus-6-test-corpus-26-train	MOS	غاح اكون سعيد. اي وقت تحب؟
+18487	corpus-6-test-corpus-26-train	MOS	اتوقع عفتو كامرتي وغاي لمن اتعشيتو هوني الليلي الغاحت.
+18492	corpus-6-test-corpus-26-train	MOS	اجمعم عد البوابه.
+18502	corpus-6-test-corpus-26-train	MOS	اوه، لا. هذا ما ضروري. اطيق اعتني بينو. انت اعملت اكثغ من اللازم مسبقا.
+18519	corpus-6-test-corpus-26-train	MOS	اما تصلحو او تبدلو، رجاءا.
+18521	corpus-6-test-corpus-26-train	MOS	اطيق اعملو بوقت ما الشهغ اللي يجي.
+18527	corpus-6-test-corpus-26-train	MOS	رجاءا خذ وقتك.
+18531	corpus-6-test-corpus-26-train	MOS	اشونو هذا المنتج مقارنة مع المنتجات اللخ؟
+18540	corpus-6-test-corpus-26-train	MOS	محاسب المبيعات بهالمحل كلش لطيف.
+18552	corpus-6-test-corpus-26-train	MOS	اتطيق تحتفظ بهذا للي؟
+18562	corpus-6-test-corpus-26-train	MOS	بس دقيقه، رجاءا.
+18569	corpus-6-test-corpus-26-train	MOS	هل معاك بطاقات الاستلام مالتك؟
+18572	corpus-6-test-corpus-26-train	MOS	اغيد استاجر سياره لاسبوع.
+18580	corpus-6-test-corpus-26-train	MOS	اي، بالبدايه، اغسلا بشكل منفصل.
+18585	corpus-6-test-corpus-26-train	MOS	رجاءا شوفني شويه ساعات للغجيل.
+18595	corpus-6-test-corpus-26-train	MOS	هذا اربعمي وعشغه.
+18612	corpus-6-test-corpus-26-dev	MOS	اشقد تكلف الليموزين للغوحه لمركز المدينه؟
+18614	corpus-6-test-corpus-26-train	MOS	من الصبح.
+18617	corpus-6-test-corpus-26-train	MOS	احنه من الاحسن نستعجل. بدو يصعدون مسبقا.
+18632	corpus-6-test-corpus-26-test	MOS	هو بمقاسي تماما.
+18639	corpus-6-test-corpus-26-train	MOS	انا طلبتو جيج.
+18640	corpus-6-test-corpus-26-train	MOS	لعشغ ايام.
+18642	corpus-6-test-corpus-26-train	MOS	اشقد عمغ هذا الولد؟
+18643	corpus-6-test-corpus-26-train	MOS	اشقد يكلفون كلم سوى؟
+18646	corpus-6-test-corpus-26-train	MOS	اغيد مثل هذاك، رجاءا.
+18685	corpus-6-test-corpus-26-train	MOS	انا ضعيتو صكات المسافرين.
+18687	corpus-6-test-corpus-26-train	MOS	رحاءا انطيني شويه ادويه بيغدي.
+18690	corpus-6-test-corpus-26-train	MOS	رجاءا خليها بمخروط.
+18725	corpus-6-test-corpus-26-train	MOS	انا دائما اشوفو كل صبح بالقطار.
+18727	corpus-6-test-corpus-26-train	MOS	اتطيق تتعشيى معانه هذا المساء؟
+18747	corpus-6-test-corpus-26-train	MOS	انا غاح ابقه بالفندق بي الى غدا. انا غاح اكون سعيد اذا تقلو انو انا هوني.
+18770	corpus-6-test-corpus-26-train	MOS	الرحله تاجلت لخمسي واربعين دقيقه.
+18771	corpus-6-test-corpus-26-train	MOS	اسمي هو شينو يامادا.
+18784	corpus-6-test-corpus-26-train	MOS	اشنو تخصص هذا المطعم؟
+18798	corpus-6-test-corpus-26-test	MOS	احنه عدنه خمر ابيض ممتاز.
+18830	corpus-6-test-corpus-26-train	MOS	بس شويه ادويه بيغدي.
+18834	corpus-6-test-corpus-26-dev	MOS	اتطيق تجيب امتعتي الى الاسفب بالصاله غدا الصبح؟
+18836	corpus-6-test-corpus-26-train	MOS	اوه، يبدو انا اضيع شي كل مره اسافر.
+18845	corpus-6-test-corpus-26-train	MOS	فقدتو الاحساس بايدي اليمين.
+18847	corpus-6-test-corpus-26-train	MOS	هلو، هل هاذا رويز؟
+18848	corpus-6-test-corpus-26-test	MOS	لعد، انت غاح تجي لشارع التسوق. اذا تتبع الشارع غاح تصل للمحطه.
+18872	corpus-6-test-corpus-26-train	MOS	لا، ما هوني. اكو غرفة مدخنين بنهايه هذي العربه.
+18877	corpus-6-test-corpus-26-train	MOS	اطيق احصل على كتيب؟
+18879	corpus-6-test-corpus-26-train	MOS	اصل هنوك بالتسعه، رجاءا.
+18906	corpus-6-test-corpus-26-train	MOS	اي، سيدي. اشون تغيدني اقطعا؟
+18912	corpus-6-test-corpus-26-test	MOS	اتوقع اكو خطا بالفاتورة.
+18917	corpus-6-test-corpus-26-train	MOS	فقط زيت وخل غاح يكون كافي.
+18919	corpus-6-test-corpus-26-train	MOS	اعغفتو بالضبط اش تغيد. ممكن اقترح هذا؟
+18938	corpus-6-test-corpus-26-train	MOS	قهوي مع الشكر.
+18948	corpus-6-test-corpus-26-train	MOS	هو سباطعش ايه. اوه، انا اسف. اعملتو خطا.
+18951	corpus-6-test-corpus-26-test	MOS	هل اسمعت قبل عن الاسبوع الذهبي باليابان؟
+18957	corpus-6-test-corpus-26-train	MOS	شكرا اللك. رجاءا ارجع مره اللخ.
+18963	corpus-6-test-corpus-26-test	MOS	هل لازلت كلو محجوز؟
+18974	corpus-6-test-corpus-26-test	MOS	هل ممكن اعوفو باي مكان بالبلد؟
+18986	corpus-6-test-corpus-26-test	MOS	اي رقم لازم اتصل من هوني؟
+19002	corpus-6-test-corpus-26-train	MOS	اشون اصل لدزني لاند؟
+19005	corpus-6-test-corpus-26-train	MOS	هل تعتقد همين؟
+19007	corpus-6-test-corpus-26-train	MOS	اعذرني. وين المطعم الرئيسي؟
+19009	corpus-6-test-corpus-26-train	MOS	اغيد اعمل اتصال لليابان.
+19036	corpus-6-test-corpus-26-test	MOS	رقم مقعدي هو دي ايدعش. وينو؟
+19037	corpus-6-test-corpus-26-dev	MOS	اشنو هذا، رجاءا؟
+19038	corpus-6-test-corpus-26-train	MOS	اي نوع اكو ببالك؟
+19045	corpus-6-test-corpus-26-train	MOS	اي. احنه غاح نصل بالثميني بالتوقيت المحلي.
+19050	corpus-6-test-corpus-26-train	MOS	اذا تلقي اي شي، رجاءا اتصل بي.
+19057	corpus-6-test-corpus-26-train	MOS	ممكن احصل على شويه لحم خنزير وبيض؟
+19064	corpus-6-test-corpus-26-train	MOS	شربت البطيخ للتحليه، رجاءا.
+19068	corpus-6-test-corpus-26-train	MOS	الماي الحاغ ما حاغ بما بينو الكفايه.
+19085	corpus-6-test-corpus-26-train	MOS	ممكن تشرح اشون تعمل هذا؟
+19094	corpus-6-test-corpus-26-train	MOS	رجاءا اكتب عنوانك هوني.
+19100	corpus-6-test-corpus-26-train	MOS	ممكن استخدم فلاش؟
+19101	corpus-6-test-corpus-26-train	MOS	شكرا اللك. تعال لغرفتي بنفس الوقت غدا. غاح اجهز الصور اللك بوقتا.
+19103	corpus-6-test-corpus-26-train	MOS	انا اسف هسا تطيق تطلب من المينيو مال الليل بس.
+19113	corpus-6-test-corpus-26-train	MOS	عادي لو نقي؟
+19144	corpus-6-test-corpus-26-train	MOS	عندي وجع غاس.
+19147	corpus-6-test-corpus-26-test	MOS	هذي غرفه اثنعش صفر سبعه.
+19148	corpus-6-test-corpus-26-test	MOS	اغيد غيغ غرفه.
+19156	corpus-6-test-corpus-26-train	MOS	لاشقد هذي الفيزا صالحه؟
+19162	corpus-6-test-corpus-26-train	MOS	هل اكو مستشفى حولنا؟
+19170	corpus-6-test-corpus-26-train	MOS	اغيد بدلي.
+19196	corpus-6-test-corpus-26-train	MOS	هل عندك عغض اكبغ؟
+19215	corpus-6-test-corpus-26-test	MOS	اطيق اجغب تسعه؟
+19217	corpus-6-test-corpus-26-train	MOS	فندق امين يقدم تغيوقه مليحه، رجاءا.
+19226	corpus-6-test-corpus-26-train	MOS	وين حديقة الحيوان؟
+19232	corpus-6-test-corpus-26-train	MOS	اكو وحدات اكبغ؟
+19250	corpus-6-test-corpus-26-dev	MOS	ثلاثين دولار وثمانين سنت.
+19251	corpus-6-test-corpus-26-train	MOS	هو يعتمد على اشقد ديفي المكان، لكن بمركز اليابان، كل نيسان.
+19258	corpus-6-test-corpus-26-train	MOS	بركر بالجبن مع بطاطا مقلي.
+19269	corpus-6-test-corpus-26-train	MOS	هذا كلش متاخر بالنسبه لاخر قطار.
+19281	corpus-6-test-corpus-26-train	MOS	ما عندي اي صرافه.
+19294	corpus-6-test-corpus-26-train	MOS	هل حصلت على تكتات الباص مالك؟
+19306	corpus-6-test-corpus-26-train	MOS	بطاقه الائتمان، رجاءا.
+19307	corpus-6-test-corpus-26-train	MOS	انا كنتو على رحله طيران يونايتد ثميني اثنين ثميني.
+19317	corpus-6-test-corpus-26-train	MOS	كلش هوسه حول غرفتي.
+19318	corpus-6-test-corpus-26-train	MOS	على الساحل الشرقي، انت ايضا تلكى امكان مشهورة، مثل نيويورك، واشنطن دي سي وبوسطن.
+19327	corpus-6-test-corpus-26-train	MOS	هل عندك اوراق ياباني؟
+19329	corpus-6-test-corpus-26-train	MOS	يبين مليح.
+19346	corpus-6-test-corpus-26-train	MOS	هل عادي اذ اترك امتعتي معاك لحد الساعه وحدي؟
+19347	corpus-6-test-corpus-26-train	MOS	هل اكو جوله مال المدينه؟
+19360	corpus-6-test-corpus-26-train	MOS	اي. اسف انو لازم. اشقد الامان محافظ علينو بهالمنطقه؟
+19391	corpus-6-test-corpus-26-train	MOS	عدشوف. عدحاول استاجر سيروتين.
+19401	corpus-6-test-corpus-26-dev	MOS	انا عندي موهبه طبيعي.
+19413	corpus-6-test-corpus-26-train	MOS	هذا غاح يكون مليح. وينو الخبز؟
+19415	corpus-6-test-corpus-26-train	MOS	للمدخنين، رجاءا. ومقعد يم الشباك، رجاءا.
+19423	corpus-6-test-corpus-26-train	MOS	واشقد التكلفه للخياطه؟
+19444	corpus-6-test-corpus-26-dev	MOS	اشنو غاح يكون اسرع، تكسي لو اسعاف؟
+19460	corpus-6-test-corpus-26-train	MOS	هل عندك هذا التيشرت باي لون اخر؟
+19463	corpus-6-test-corpus-26-test	MOS	انت ما لازم تشوف التلفزيون كل الوقت.
+19466	corpus-6-test-corpus-26-train	MOS	ايه، احنه جيين عليه، جيين عليه.
+19467	corpus-6-test-corpus-26-train	MOS	انت احسلك تدخل مستشفانه.
+19469	corpus-6-test-corpus-26-train	MOS	وين اطيق القي سوبرماركت؟
+19475	corpus-6-test-corpus-26-train	MOS	هذا شويه غالي. ممكن تنطيني شويه وقت؟
+19479	corpus-6-test-corpus-26-train	MOS	كم توقف الى ان اغير؟
+19490	corpus-6-test-corpus-26-train	MOS	هذاك الغجال باق محفظتي.
+19494	corpus-6-test-corpus-26-train	MOS	حبوب الهضم وحبوب المعدي مختلفين، صح؟
+19497	corpus-6-test-corpus-26-test	MOS	اغيد اشوف الميناء.
+19500	corpus-6-test-corpus-26-test	MOS	فكره حلوي.
+19501	corpus-6-test-corpus-26-train	MOS	اشقد تاخذ وقت مشي؟
+19505	corpus-6-test-corpus-26-train	MOS	انا غاح اخذ عشين دمية دب كبيغه، رجاءا.
+19507	corpus-6-test-corpus-26-dev	MOS	اشقد الرقم للكاشير؟
+19508	corpus-6-test-corpus-26-train	MOS	هذا سهل. غاح بس ادوغ بكتاب التليفون.
+19509	corpus-6-test-corpus-26-dev	MOS	هل عندك اي غرف اكبغ؟
+19547	corpus-6-test-corpus-26-train	MOS	اشقد فاتورتي؟
+19548	corpus-6-test-corpus-26-train	MOS	اغيد ابقى بهالغرفه لليلي اللخ.
+19560	corpus-6-test-corpus-26-train	MOS	اعذرني، لكن اغيد انطي تقرير السرقه.
+19572	corpus-6-test-corpus-26-train	MOS	ماشي، هو يعتمد على وسائل النقل اللي غاح تاخذا. هل غاح تغوح بباص لو طياغه؟
+19578	corpus-6-test-corpus-26-train	MOS	هل تمانع اذا اقعد هوني؟
+19581	corpus-6-test-corpus-26-train	MOS	هل اطيق ارسل بريد الكتروني ويحد مقابيل دولار؟
+19589	corpus-6-test-corpus-26-train	MOS	اي، رجاءا ارسلو فوق الى غرفه ايدعش الف واربعه وثلاثين.
+19610	corpus-6-test-corpus-26-dev	MOS	املي استمارة التسجيل، رجاءا.
+19617	corpus-6-test-corpus-26-test	MOS	اغيد تذكرتين مرجع لاوكسفورد.
+19619	corpus-6-test-corpus-26-train	MOS	باي وقت لازم اصل للمطار؟
+19620	corpus-6-test-corpus-26-train	MOS	هذا بطيء.
+19623	corpus-6-test-corpus-26-train	MOS	وين اطيق احمض فلم؟
+19643	corpus-6-test-corpus-26-test	MOS	لا، رجاءا لاتعمل هالشكل. ممكن تحتفظ باسالتك لنهايه كلامي، عدما اقللكم عليهم؟
+19648	corpus-6-test-corpus-26-dev	MOS	اغيد مقعد مليح.
+19649	corpus-6-test-corpus-26-train	MOS	اسف التواليت ما يشتغل. احتاج مساعده.
+19651	corpus-6-test-corpus-26-test	MOS	ماكو اي شي صعب او غامض.
+19654	corpus-6-test-corpus-26-train	MOS	غاح اوديك لمقعدك. هذا الطريق، رجاءا.
+19656	corpus-6-test-corpus-26-train	MOS	اعذرني، اطيق اسالك سؤال؟
+19666	corpus-6-test-corpus-26-train	MOS	انا اتوقع همين.
+19675	corpus-6-test-corpus-26-train	MOS	هلو. من الجميل ان التقي معاك.
+19691	corpus-6-test-corpus-26-train	MOS	اغيد اسجل هذي الامتعه الى طوكيو، رجاءا.
+19694	corpus-6-test-corpus-26-train	MOS	ممكن تشوفني ويحد شويه اكبغ؟
+19703	corpus-6-test-corpus-26-train	MOS	اتوقع الحواس المصنوعه باليابان بالتاكيد مخيطه احسن.
+19715	corpus-6-test-corpus-26-train	MOS	كان الاحسنلك تستسلم.
+19716	corpus-6-test-corpus-26-dev	MOS	قول مره اللخ رجاءا.
+19722	corpus-6-test-corpus-26-train	MOS	اتطيق تكتب لي العنوان ورقم التليفون، رجاءا؟
+19726	corpus-6-test-corpus-26-train	MOS	هل هو محمي؟
+19732	corpus-6-test-corpus-26-train	MOS	من اي مطار انا مسافر؟
+19733	corpus-6-test-corpus-26-train	MOS	ما استلمت الاستماره بالطياغه؟
+19735	corpus-6-test-corpus-26-train	MOS	اغيد اوتي.
+19752	corpus-6-test-corpus-26-dev	MOS	صاغت ثميني وثلاثين دولار كلم سوى.
+19754	corpus-6-test-corpus-26-train	MOS	شكرا لمشاركة افكارك المتميزي معانه.
+19755	corpus-6-test-corpus-26-train	MOS	اغوح للتزلج مرتين في الشهر خلال الموسم.
+19760	corpus-6-test-corpus-26-train	MOS	انا انولدتو بواحد نيسان بالاف وتسعمي وخمسي وخمسين.
+19769	corpus-6-test-corpus-26-test	MOS	اطيق استاجر مضارب؟
+19809	corpus-6-test-corpus-26-train	MOS	هل هذا الباص الصح لمركز المدينه؟
+19813	corpus-6-test-corpus-26-train	MOS	بشقد هذا العطر؟
+19814	corpus-6-test-corpus-26-train	MOS	لايش هذا؟
+19819	corpus-6-test-corpus-26-train	MOS	وين اطيغ اغوح للاجراءات الرسميي؟
+19838	corpus-6-test-corpus-26-dev	MOS	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	MOS	هل يتضمن هذا الضرايب؟
+19853	corpus-6-test-corpus-26-test	MOS	اشني هيه الاكياس؟
+19862	corpus-6-test-corpus-26-train	MOS	رجاءا اتصل باسعاف.
+19864	corpus-6-test-corpus-26-dev	MOS	غاح اراهن بثلاث دولارات على هذا.
+19871	corpus-6-test-corpus-26-train	MOS	اشون غاح يجي؟
+19889	corpus-6-test-corpus-26-train	MOS	ما اكو اكل انا ما احبو.
+19902	corpus-6-test-corpus-26-train	MOS	"يوم الدستور او""كيمبو كينينبي"" هو عطله وطنيي بالثالث من ايار للاحتفال بتاسيس الدستور الياباني الحالي."
+19912	corpus-6-test-corpus-26-train	MOS	هل هذي الجوله تتضمن زياره برج السيرز؟
+19923	corpus-6-test-corpus-26-train	MOS	هل اكو مكتبه حولنه هوني؟
+19928	corpus-6-test-corpus-26-train	MOS	غاح احضر الكليه الصيفيي بجامعه هاواي.
+19935	corpus-6-test-corpus-26-train	MOS	وين عنعبغ هسا؟
+19945	corpus-6-test-corpus-26-train	MOS	اثنين بالغين وطفل ثلاث سنين.
+19959	corpus-6-test-corpus-26-train	MOS	في المرافق بالمحطة.

@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	ALX	هو هناك، قدام الاستعلامات السياحية على طول.
+9	corpus-6-test-corpus-26-train	ALX	عمرى ما سمعت عن العنوان دة هنا.
+11	corpus-6-test-corpus-26-train	ALX	امشى على طول لحد ما تشوف صيدلية.
+26	corpus-6-test-corpus-26-train	ALX	بكام الفطار؟
+27	corpus-6-test-corpus-26-train	ALX	إزاى أقدر أساعدك؟
+30	corpus-6-test-corpus-26-train	ALX	روح شمال عند الناصية الثالثة.
+50	corpus-6-test-corpus-26-train	ALX	تحب كريمة وسكر فى القهوة بتاعتك؟
+64	corpus-6-test-corpus-26-train	ALX	ممكن تدفع الشيك بتاعى اللى بميتين دولار؟
+74	corpus-6-test-corpus-26-train	ALX	لو المفروض يظهر، كلمنى لو سمحت.
+86	corpus-6-test-corpus-26-train	ALX	فين الكوفى شوب؟
+87	corpus-6-test-corpus-26-train	ALX	عاوز بلوفر أطفال.
+91	corpus-6-test-corpus-26-train	ALX	أوكى. بيكلف خمسة و ثمانين سنت للإيميل العادى و ثلاثة دولار بالظبط زيادة للتوصيل الخاص.
+120	corpus-6-test-corpus-26-test	ALX	كنت هشترى دة لو كنت مكانك.
+129	corpus-6-test-corpus-26-train	ALX	هلاقى أى صعوبة مع الجمارك؟
+130	corpus-6-test-corpus-26-train	ALX	عندك شوز رسمية بوش واسع؟
+140	corpus-6-test-corpus-26-train	ALX	لأ. ممكن أقترح أوضة بسريرين لشخص واحد كحل بديل؟ إحنا عندنا واحدة.
+143	corpus-6-test-corpus-26-train	ALX	عاوز كيرلى جامد، من فضلك.
+145	corpus-6-test-corpus-26-train	ALX	هى عاوزة بيرة.
+157	corpus-6-test-corpus-26-train	ALX	صباح الخير. عامل إيه؟
+158	corpus-6-test-corpus-26-train	ALX	للأسف هحتاج أشوف بطاقة تحقيق شخصية.
+169	corpus-6-test-corpus-26-train	ALX	إيه نوع الصوص؟
+170	corpus-6-test-corpus-26-train	ALX	دة بارد شوية. هتسخنه؟
+173	corpus-6-test-corpus-26-test	ALX	معلش، المكان دة محجوز.
+176	corpus-6-test-corpus-26-train	ALX	أنا تمام. بس ممكن تكلم صاحبى؟
+177	corpus-6-test-corpus-26-test	ALX	شكرا، دة كفاية.
+184	corpus-6-test-corpus-26-train	ALX	مين أقرب صديق ليك؟
+187	corpus-6-test-corpus-26-train	ALX	يوم الصحة والرياضة فى العاشر من أكتوبر هو عيد قومى مصمم لتحسين صحة الناس.
+192	corpus-6-test-corpus-26-train	ALX	عاوزنى أدور تحت الكبوت؟
+206	corpus-6-test-corpus-26-train	ALX	ممكن تساعدنى ألاقى شنطة السفر بتاعتى؟
+221	corpus-6-test-corpus-26-train	ALX	ممكن تعمل استعدادات من بدرى؟
+238	corpus-6-test-corpus-26-train	ALX	فى حد بيساعدنى. شكرا.
+261	corpus-6-test-corpus-26-train	ALX	لما توصل هناك، إسأل حد تانى، لو سمحت.
+280	corpus-6-test-corpus-26-train	ALX	عاوز اكستنشن أربعة وعشرين، من فضلك.
+285	corpus-6-test-corpus-26-train	ALX	آدى اتنين دولار. خلى الباقى.
+315	corpus-6-test-corpus-26-train	ALX	واحد همبرجر وواحد تشيزبرجر، لو سمحت.
+319	corpus-6-test-corpus-26-train	ALX	بتاخد كام في العملية؟
+320	corpus-6-test-corpus-26-train	ALX	كل حد فينا عاوز يدفع للوجبات بتاعتنا.
+326	corpus-6-test-corpus-26-train	ALX	الموقع كان على كرسى فى اللوبى.
+333	corpus-6-test-corpus-26-test	ALX	من فضلك غير الين دول لجنيهات.
+346	corpus-6-test-corpus-26-train	ALX	عاوز قاموس جيب، لو سمحت.
+360	corpus-6-test-corpus-26-train	ALX	لشخصين الساعة سبعة. الإسم واتانابى.
+368	corpus-6-test-corpus-26-train	ALX	ساعتى. كانت سيكو رقمية.
+370	corpus-6-test-corpus-26-train	ALX	هيكون من دواعى سروورنا إننا نقدملك مشروب من اختيارك، وراه عشا. دليل كامل للمشروبات اللى بنقدمها فى الرحلة دى موجود فى دليل معلومات المجلة بتاعتنا.
+373	corpus-6-test-corpus-26-test	ALX	إنت ساكن قريب من هنا؟
+375	corpus-6-test-corpus-26-train	ALX	فين محل الهدايا؟
+386	corpus-6-test-corpus-26-test	ALX	أنا على الطريق السريع واحد قريب من خليج مورو.
+391	corpus-6-test-corpus-26-train	ALX	عاوز منبه، من فضلك.
+398	corpus-6-test-corpus-26-dev	ALX	بالمناسبة، إسمى هيروشى إيجيما.
+401	corpus-6-test-corpus-26-dev	ALX	القطر دة بيقف عند بحيرة فوريست، مش كدة؟
+408	corpus-6-test-corpus-26-train	ALX	معظم اليابانيين بياكلوا أخطبوط وسبيط.
+416	corpus-6-test-corpus-26-train	ALX	ممكن آخد تذكرتين درجة تانية لشيكاجو، لو سمحت؟
+419	corpus-6-test-corpus-26-train	ALX	أنا رحت نيويورك.
+423	corpus-6-test-corpus-26-train	ALX	إيه رقم الرحلة؟
+442	corpus-6-test-corpus-26-test	ALX	واحد لنيويورك، من فضلك.
+446	corpus-6-test-corpus-26-train	ALX	لمدة أيام قليلة.
+447	corpus-6-test-corpus-26-train	ALX	التانى ناحية الشمال.
+471	corpus-6-test-corpus-26-dev	ALX	الكارت دة، أوكى؟
+488	corpus-6-test-corpus-26-train	ALX	هو دة مكتب الاستقبال؟ فى عيادة قريبة؟
+493	corpus-6-test-corpus-26-train	ALX	عشرة دولار هتكفى بالتاكسى؟
+503	corpus-6-test-corpus-26-train	ALX	دة طعمه غريب.
+512	corpus-6-test-corpus-26-train	ALX	أه. استنى، هجيبلك واحد.
+516	corpus-6-test-corpus-26-train	ALX	نص إزازة، من فضلك.
+540	corpus-6-test-corpus-26-train	ALX	مش حقيقى. حاجة مش غالية بس.
+548	corpus-6-test-corpus-26-train	ALX	بتدور على حاجة؟
+551	corpus-6-test-corpus-26-train	ALX	أربع ليالى.
+553	corpus-6-test-corpus-26-train	ALX	محتاج شرابات.
+565	corpus-6-test-corpus-26-train	ALX	ممكن تخليه أرخص علشان فى شوية بقع؟
+571	corpus-6-test-corpus-26-train	ALX	راجل خبط فيا. بعد كدة لاحظت ان محفظتى اختفت.
+599	corpus-6-test-corpus-26-train	ALX	مش متأكد إذا كنت وضبت هدوم كفاية لرحلة تلات أسابيع.
+612	corpus-6-test-corpus-26-train	ALX	طيب، إحنا عاوزين نجرب نبيذ أبيض.
+631	corpus-6-test-corpus-26-train	ALX	لو أى حد سأل عليا، قولهم إنى هكون فى الكوفى شوب.
+632	corpus-6-test-corpus-26-train	ALX	أنا متأكد إنه كان معايا فى الجيب اللى جوة البالطو بتاعى.
+641	corpus-6-test-corpus-26-test	ALX	ممكن آخد اسم ورقم الطرف اللى بتكلمه؟
+643	corpus-6-test-corpus-26-train	ALX	هى شركة الطيران هتدفع لى علشان أشترى حبة ضروريات شخصية أساسية؟
+650	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز أوضة بحمام.
+652	corpus-6-test-corpus-26-dev	ALX	مفيش حاجة طلعت من المكنة؟
+667	corpus-6-test-corpus-26-test	ALX	انت كان المفروض تاخد رحلة تمانية اتنين زيرو، اللى مشيت من خمستاشر دقيقة. تمام. أنا ممكن أرتبلك رحلة تانية.
+673	corpus-6-test-corpus-26-train	ALX	فى حد فتح الطرد بتاعى.
+679	corpus-6-test-corpus-26-test	ALX	أوه، ولا يهمك. المهم إنك هنا، على كل حال.
+680	corpus-6-test-corpus-26-train	ALX	الخطوط الجوية اليابانية، رحلة رقم واحد اتنين تلاتة.
+681	corpus-6-test-corpus-26-train	ALX	محتاج أشترى شامبو.
+683	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى لما نوصل لمركز المدينة؟
+688	corpus-6-test-corpus-26-train	ALX	فين أقرب جزار؟
+703	corpus-6-test-corpus-26-train	ALX	إحنا عاوزين نقعد أربع ليالى من أول أغسطس.
+708	corpus-6-test-corpus-26-train	ALX	إيه إسم الوردة دى؟
+719	corpus-6-test-corpus-26-train	ALX	خمستاشر سبتمبر هو يوم احترام كبار السن.
+723	corpus-6-test-corpus-26-train	ALX	مفيش صابون فى أوضتى.
+741	corpus-6-test-corpus-26-dev	ALX	فى أى حاجة ممكن أخدها للطفح الجلدى؟
+742	corpus-6-test-corpus-26-train	ALX	ممكن تغير صيغة الكلام للى انت لسة قايله حالا؟
+761	corpus-6-test-corpus-26-test	ALX	هياخد وقت أد إيه للطلب؟
+773	corpus-6-test-corpus-26-train	ALX	ممكن تتكلم بصوت أعلى شوية، من فضلك؟
+777	corpus-6-test-corpus-26-train	ALX	هيكون وقت أد إيه قبل ما يخرج؟
+786	corpus-6-test-corpus-26-train	ALX	فين المعلومات الرياضية؟
+787	corpus-6-test-corpus-26-train	ALX	هو المقاس دة، اللى انت بتسميه مقاس عادى، هينفع.
+793	corpus-6-test-corpus-26-test	ALX	الجولة هتخلص فين، وإمتى؟
+848	corpus-6-test-corpus-26-train	ALX	المفروض أغير قطورات فين علشان أوصل لإدنبره؟
+855	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز أحط دة فى صندوق امانات.
+859	corpus-6-test-corpus-26-train	ALX	أقدر أغير فلوسى فين؟
+897	corpus-6-test-corpus-26-train	ALX	ممكن نسيب حاجاتنا، ماعدا الحاجات الغالية، فى الأتوبيس؟
+902	corpus-6-test-corpus-26-train	ALX	أنا مستغرب الرقم اللى على فاتورتى دة بتاع إيه.
+917	corpus-6-test-corpus-26-train	ALX	أنا هدفع خمسين دولار.
+941	corpus-6-test-corpus-26-train	ALX	دلوقتى عرفت كانت إيه المشكلة.
+957	corpus-6-test-corpus-26-dev	ALX	معاك إيكيدا اللي بيتكلم. عندى حجز ترابيزة الساعة ستة ونص الليلة دى. بس آسف هوصل نص ساعة متأخر.
+1003	corpus-6-test-corpus-26-train	ALX	كام مللى برفان أقدر أخدها من غير رسوم جمركية؟
+1007	corpus-6-test-corpus-26-train	ALX	مجرد سياحة.
+1010	corpus-6-test-corpus-26-train	ALX	دة كويس، لو سمحت تمضيهم. تحبه يكون إزاى؟
+1023	corpus-6-test-corpus-26-test	ALX	لسة عندك كراسى لعرض النهاردة؟
+1036	corpus-6-test-corpus-26-train	ALX	عاوز واحد كبير.
+1037	corpus-6-test-corpus-26-dev	ALX	أنا فضلت نايم لحد ما رن منبه الساعة ستة ونص.
+1038	corpus-6-test-corpus-26-train	ALX	أنا مصور حر.
+1047	corpus-6-test-corpus-26-train	ALX	الديلرز ممكن يصرفولك دولاراتك علشان بقشيش الكازينو، نمشى؟
+1056	corpus-6-test-corpus-26-dev	ALX	عندنا حوالى تلاتين نوع من زيوت الحمام.
+1062	corpus-6-test-corpus-26-train	ALX	هجيبلك العرض الأسبوع الجاى.
+1074	corpus-6-test-corpus-26-train	ALX	شكرا. بكام الجوانتى دة؟
+1098	corpus-6-test-corpus-26-train	ALX	لازم أمشى. هكلمك بعدين.
+1100	corpus-6-test-corpus-26-train	ALX	عاوز حفاضات استعمال مرة واحدة.
+1122	corpus-6-test-corpus-26-train	ALX	أسماك الفراشة دى نشأت فين؟
+1124	corpus-6-test-corpus-26-train	ALX	ممكن تغيرهم لدولارات. لو سمحت؟
+1139	corpus-6-test-corpus-26-train	ALX	إحنا محظوظين جدا. عندهم واحد مقاس أربعة فى محل ألا موانا.
+1146	corpus-6-test-corpus-26-train	ALX	فى أى ليموزين؟
+1163	corpus-6-test-corpus-26-dev	ALX	ممكن مكالمة تصحينى الساعة خمسة ونص بكرة الصبح؟
+1165	corpus-6-test-corpus-26-train	ALX	أفضل أوضة هادية.
+1167	corpus-6-test-corpus-26-train	ALX	من فضلك عاوزة أسيتون.
+1183	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز بطارية.
+1193	corpus-6-test-corpus-26-test	ALX	فى فرقة موسيقية لايف ولا دى جى؟
+1194	corpus-6-test-corpus-26-train	ALX	ممكن أأجر عدة غطس؟
+1199	corpus-6-test-corpus-26-dev	ALX	أنا عاوز أحجز أوضة لأربع ليالى من اتنين وعشرين ديسمبر.
+1212	corpus-6-test-corpus-26-train	ALX	الشنطة دى مثالية لكل أحوال الجو؟
+1213	corpus-6-test-corpus-26-train	ALX	عاوز دونات، من فضلك.
+1218	corpus-6-test-corpus-26-train	ALX	عاوز أأجر عربية أوتوماتيك لمدة يومين.
+1224	corpus-6-test-corpus-26-train	ALX	فاتتنى رحلة طيران عشرين اللى رايحة سان فرانسيسكو.
+1234	corpus-6-test-corpus-26-train	ALX	بكام لحد المطار؟
+1235	corpus-6-test-corpus-26-train	ALX	كويس. دة إمتى؟
+1276	corpus-6-test-corpus-26-train	ALX	بنتك عندها كام سنة؟
+1312	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى على فنادق رخيصة و نضيفة؟
+1321	corpus-6-test-corpus-26-train	ALX	إحنا ممكن نحجزلك أوضة مريحة فى برج قديم قريب من نادى جولف مشهور.
+1329	corpus-6-test-corpus-26-train	ALX	أنا أرشح دة علشان معمول من مواد طبيعية مية فى المية.
+1361	corpus-6-test-corpus-26-dev	ALX	هو القطر بيقف فى برايتون؟
+1369	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى منين أقدر أجيب كاب؟
+1375	corpus-6-test-corpus-26-train	ALX	تذكرتين درجة تانية، من فضلك.
+1384	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز أبعت فاكس.
+1394	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز مكوة سفر.
+1396	corpus-6-test-corpus-26-train	ALX	أقدر أقدملك أى حاجة؟
+1404	corpus-6-test-corpus-26-train	ALX	يومى؟ خايف أسأل، بس تقصد إيه؟
+1418	corpus-6-test-corpus-26-train	ALX	أنا عاوز واحد يشيل مستندات بحجم ورق عادي من غير ما أحتاج أتنيهم.
+1433	corpus-6-test-corpus-26-test	ALX	أه. بس مش جامد أوى.
+1434	corpus-6-test-corpus-26-train	ALX	أنا عندى حساسية من القطط.
+1436	corpus-6-test-corpus-26-train	ALX	أيوة، إنت المفروض يكون معاك رخصة سواق و، آه، المفروض يكون معاك رخصة من لجنة عربيات الأجرة والليموزين.
+1462	corpus-6-test-corpus-26-train	ALX	إتفضل، يا فندم.
+1465	corpus-6-test-corpus-26-test	ALX	مش باين إنى هلاقى مية سخنة.
+1474	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز أحجز أوضة لليلة دى.
+1492	corpus-6-test-corpus-26-train	ALX	لأ، دة مش شامل الضريبة ورسوم الخدمة.
+1506	corpus-6-test-corpus-26-train	ALX	تحب تيجى معايا نعمل شوبينج النهاردة بعد الضهر؟
+1508	corpus-6-test-corpus-26-test	ALX	هاى، دة فعلا فستان جميل.
+1519	corpus-6-test-corpus-26-train	ALX	دلوقتى، مكالمتك اتحولت، اتفضل لو سمحت.
+1525	corpus-6-test-corpus-26-train	ALX	رقم البوابة كام؟
+1539	corpus-6-test-corpus-26-train	ALX	إيه أكتر هدية تذكارية مثالية من هاواى؟
+1556	corpus-6-test-corpus-26-train	ALX	أقدر أوصل هناك عن طريق مترو الأنفاق؟
+1560	corpus-6-test-corpus-26-train	ALX	عاوز سيشوار.
+1562	corpus-6-test-corpus-26-train	ALX	إحنا هنروح أى مكان بيتكلموا فيه زى كدة؟
+1585	corpus-6-test-corpus-26-train	ALX	أنا جاى من نورواى.
+1603	corpus-6-test-corpus-26-dev	ALX	من عشرة لاتناشر لو سمحت.
+1619	corpus-6-test-corpus-26-train	ALX	بالتأكيد. خلينى أشوفه. إنت أتعورت من المرجان، متهيألى.
+1620	corpus-6-test-corpus-26-train	ALX	احتياطي، خلينى آخد رقم الشخص المسئول.
+1622	corpus-6-test-corpus-26-train	ALX	فى طريق سريع؟
+1630	corpus-6-test-corpus-26-train	ALX	هو مجاش ليه الحفلة إمبارح؟
+1637	corpus-6-test-corpus-26-train	ALX	كان فى حادثة مرور.
+1650	corpus-6-test-corpus-26-train	ALX	أسف، أخدت الرقم الغلط.
+1653	corpus-6-test-corpus-26-test	ALX	من فضلك دخل رقم التعريف الشخصى بتاعك.
+1663	corpus-6-test-corpus-26-dev	ALX	مش عارف أظبط الصورة.
+1668	corpus-6-test-corpus-26-train	ALX	واحد تشيزبرجر وعصير برتقان، من فضلك.
+1670	corpus-6-test-corpus-26-test	ALX	الباسبور بتاعى أهو.
+1682	corpus-6-test-corpus-26-test	ALX	ليه، شكرا جدا. آه، ممكن أطلع لفوق؟
+1702	corpus-6-test-corpus-26-train	ALX	ممكن أخد تذكرتين للمسرحية الموسيقية للجمعة الجاية؟
+1718	corpus-6-test-corpus-26-train	ALX	فى راكب تانى هناك قال إنه ممكن يبدل الكراسى معاك.
+1754	corpus-6-test-corpus-26-train	ALX	ممكن أمد إقامتى؟
+1766	corpus-6-test-corpus-26-train	ALX	قول، تعرف أى حاجة تستاهل تتشاف قريب من هنا؟
+1768	corpus-6-test-corpus-26-dev	ALX	لأ، أنا عاوز أأجر نص مجموعة مضارب وجزمة.
+1782	corpus-6-test-corpus-26-train	ALX	ممكن تعرفنى لما الشنطة الضايعة تتلاقى؟
+1788	corpus-6-test-corpus-26-train	ALX	الجنينة القومية دى إسمها إيه؟
+1791	corpus-6-test-corpus-26-train	ALX	أنا اتخربشت.
+1792	corpus-6-test-corpus-26-dev	ALX	فين مكان كويس للسياحة؟
+1800	corpus-6-test-corpus-26-train	ALX	ممكن أخد فاكهة؟
+1834	corpus-6-test-corpus-26-train	ALX	ممكن أخد غدا دلوقتى؟
+1837	corpus-6-test-corpus-26-train	ALX	محتاج أغير الدولارات دى.
+1867	corpus-6-test-corpus-26-train	ALX	أنا محتاج تاكسى. أنا فى ساوث ماين وليبيرتى.
+1876	corpus-6-test-corpus-26-dev	ALX	بالتأكيد، إنت محتاج كيرلى؟
+1878	corpus-6-test-corpus-26-train	ALX	دى مش تفاحة لكن خوخة.
+1903	corpus-6-test-corpus-26-train	ALX	هديلك روشتة. خدها للصيدلية.
+1927	corpus-6-test-corpus-26-train	ALX	إحنا بنطير ثلاث مرات فى الأسبوع، التلات، الجمعة، والسبت.
+1931	corpus-6-test-corpus-26-dev	ALX	دة غالى، مش كدة؟
+1948	corpus-6-test-corpus-26-train	ALX	أه، عندنا دة. هنجهزهولك.
+1950	corpus-6-test-corpus-26-dev	ALX	إنت هتشيل شنطى لحد الساعة تلاتة؟
+1951	corpus-6-test-corpus-26-train	ALX	لأ، أنا عاوز بس أعدى.
+1954	corpus-6-test-corpus-26-dev	ALX	ممكن أحجز أجر-عربية هنا؟
+1968	corpus-6-test-corpus-26-train	ALX	إنت أمريكانى؟
+1980	corpus-6-test-corpus-26-test	ALX	للمكان دة، لو سمحت.
+1985	corpus-6-test-corpus-26-train	ALX	عربيتى عطلت.
+1988	corpus-6-test-corpus-26-train	ALX	فين الآيشادو؟
+1993	corpus-6-test-corpus-26-train	ALX	إحنا عاوزين ركن هادى، لو ممكن.
+1997	corpus-6-test-corpus-26-train	ALX	التاكسى دة فاضى؟
+1998	corpus-6-test-corpus-26-train	ALX	هي دي محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	ALX	المفروض أجى الساعة كام؟
+2003	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز قارورة نبيت أبيض صغير.
+2005	corpus-6-test-corpus-26-train	ALX	آه. ممكن أخد الوجبة بتاعتى بعدين؟ مش حاسس إنى كويس أوى دلوقتى.
+2025	corpus-6-test-corpus-26-train	ALX	فعليا، انا عندى أخبار. أنا هتجوز.
+2033	corpus-6-test-corpus-26-train	ALX	أى بنطلونات تانية؟
+2035	corpus-6-test-corpus-26-train	ALX	ممكن أخد برنامج؟
+2052	corpus-6-test-corpus-26-train	ALX	فى حد اقتحم أوضتى الليلة اللى فاتت.
+2055	corpus-6-test-corpus-26-train	ALX	ورينى السمكة اللى شفتها النهاردة فى كتاب الصور، من فضلك.
+2083	corpus-6-test-corpus-26-train	ALX	شوف التعليمات على عبوة الأكل المفرغة من الهوا.
+2086	corpus-6-test-corpus-26-train	ALX	أنا عاوز فلوس ورق.
+2100	corpus-6-test-corpus-26-test	ALX	هو خطف المحفظة بتاعتى وهرب.
+2119	corpus-6-test-corpus-26-train	ALX	معندكش دروس تجريبية؟
+2147	corpus-6-test-corpus-26-train	ALX	أقدر أشترى منين طوابع بريد؟
+2148	corpus-6-test-corpus-26-train	ALX	أنا من بريطانيا العظمى.
+2156	corpus-6-test-corpus-26-train	ALX	لازم أشوف دة مع مراتى.
+2161	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز استرجاع لدة.
+2179	corpus-6-test-corpus-26-train	ALX	فى كشك تليفون قدام البنك دة.
+2180	corpus-6-test-corpus-26-train	ALX	أنا هوصل تسعة من مارس وهمشى أربعتاشر.
+2205	corpus-6-test-corpus-26-train	ALX	دة غالى شوية، مش كدة؟
+2235	corpus-6-test-corpus-26-train	ALX	الكعب عندك؟
+2236	corpus-6-test-corpus-26-train	ALX	فين محطة الأتوبيس؟
+2238	corpus-6-test-corpus-26-train	ALX	هتهتم بصحرا؟
+2302	corpus-6-test-corpus-26-train	ALX	انت بتتكلم؟
+2306	corpus-6-test-corpus-26-train	ALX	نفس الحاجة ليا، من فضلك.
+2318	corpus-6-test-corpus-26-train	ALX	الأوردر بتاعى ماوصلش.
+2324	corpus-6-test-corpus-26-train	ALX	فى ينابيع سخنة كتير.
+2329	corpus-6-test-corpus-26-train	ALX	من فضلك غير خمسين ألف ين لدولارات أمريكية.
+2338	corpus-6-test-corpus-26-train	ALX	دة كويس بالنسبة لى. فى الحقيقة انا عاوز أدخن.
+2347	corpus-6-test-corpus-26-test	ALX	منين أقدر أأجر حاجات السكي وشوز؟
+2353	corpus-6-test-corpus-26-dev	ALX	إنت نسيت المشاريب بتاعتنا؟
+2368	corpus-6-test-corpus-26-test	ALX	ممكن تبعته على عنوانى فى اليابان عن طريق بريد جمع الطرود الدولية؟
+2381	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز كوباية نبيت أحمر.
+2389	corpus-6-test-corpus-26-train	ALX	دة بس لو بتاعك، يا فندم. هاها، بهزر معاك.
+2401	corpus-6-test-corpus-26-train	ALX	بالتأكيد. إزاى نقدر نخدمك؟
+2412	corpus-6-test-corpus-26-dev	ALX	عندنا بيرة، ويسكى، براندى، جين، فودكا و نبيت.
+2425	corpus-6-test-corpus-26-train	ALX	بطاقة شخصية. آوه، صحيح. بسبور أوكى؟
+2428	corpus-6-test-corpus-26-train	ALX	رقم أوضتى تلاتة ستة وعشرين. ممكن تلم الغسيل بتاعى؟
+2440	corpus-6-test-corpus-26-train	ALX	هشوف لو أى حاجة من دول تناسب.
+2441	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز غلاية.
+2445	corpus-6-test-corpus-26-train	ALX	هاتلى جبنة مبشورة لو سمحت.
+2462	corpus-6-test-corpus-26-train	ALX	أقدر أخذ القمصان بتاعى نضيفة على بكرة الصبح؟
+2476	corpus-6-test-corpus-26-train	ALX	ممكن تخليه يرجع يكلمنى؟
+2490	corpus-6-test-corpus-26-train	ALX	يبقى ليه؟
+2492	corpus-6-test-corpus-26-train	ALX	لو سمحت، فى مكتبة قريب من هنا؟
+2496	corpus-6-test-corpus-26-test	ALX	أفتكر إنت عملت غلطة، الأوضة كان مدفوعلها من قبل كدة. أنا معايا إيصال.
+2505	corpus-6-test-corpus-26-train	ALX	الأتوبيس هناك.
+2516	corpus-6-test-corpus-26-train	ALX	عاوز لفتين أيزو مية، فيلم ألوان، ستة وتلاتين صورة، لو سمحت.
+2519	corpus-6-test-corpus-26-train	ALX	عاوز أدفع الشيك دة بسبعين دولار.
+2521	corpus-6-test-corpus-26-train	ALX	عاوز أشترى طوابع لعشر بطاقات بريد لليابان، من فضلك.
+2528	corpus-6-test-corpus-26-train	ALX	فى أى بنوك قريب من المحطة؟
+2531	corpus-6-test-corpus-26-train	ALX	فى غلطة فى الفاتورة.
+2552	corpus-6-test-corpus-26-test	ALX	هو هنا.
+2557	corpus-6-test-corpus-26-train	ALX	واحد تشيزبرجر علشان أمشى، من فضلك.
+2578	corpus-6-test-corpus-26-test	ALX	مش هتقدر حقيقى تعمل شغل تصميمات من غير كمبيوتر أكتر من كدة.
+2591	corpus-6-test-corpus-26-train	ALX	إجرى.
+2601	corpus-6-test-corpus-26-train	ALX	فى قطع هنا فى البلوزة بتاعتى. أنا بسأل لو ممكن تخيطهولى لو سمحت؟
+2613	corpus-6-test-corpus-26-dev	ALX	كام الأجرة لمانشيستر؟
+2643	corpus-6-test-corpus-26-train	ALX	ممكن تسلفنى كابل تقوية؟
+2644	corpus-6-test-corpus-26-train	ALX	منين أقدر أشترى حصيرة بحر؟
+2670	corpus-6-test-corpus-26-test	ALX	يبقى، من فضلك إدينى حجز جديد.
+2676	corpus-6-test-corpus-26-train	ALX	إدينى شريحة لحم الخنزير دى، بس مش تقيلة كدة.
+2678	corpus-6-test-corpus-26-train	ALX	إحنا جايين الساعة سبعة.
+2687	corpus-6-test-corpus-26-train	ALX	لما بشوف أسعار قليلة كدة، بيكون من السخافة إن الواحد يشترى أى حاجة فى اليابان.
+2690	corpus-6-test-corpus-26-train	ALX	السجلات بتاعتى اتسرقت، هى كمان.
+2695	corpus-6-test-corpus-26-train	ALX	بسكوتة أيس كريم فانيليا، من فضلك.
+2702	corpus-6-test-corpus-26-train	ALX	أنا موافق. دة المفروض يبقى طبيعى جدا.
+2704	corpus-6-test-corpus-26-train	ALX	خلى بالك من الحفرة، خلى بالك من الحفرة، وبعدين قريب من الأبواب، من فضلك.
+2707	corpus-6-test-corpus-26-train	ALX	هحتاج كريديت كارد.
+2708	corpus-6-test-corpus-26-dev	ALX	الرقم أهو.
+2715	corpus-6-test-corpus-26-test	ALX	قوللى موقع كويس فى النهر دة، من فضلك.
+2726	corpus-6-test-corpus-26-train	ALX	لو سمحت إدينى تقرير حادث.
+2729	corpus-6-test-corpus-26-train	ALX	لأ، شكرا ليك دلوقتى.
+2734	corpus-6-test-corpus-26-train	ALX	أوكى، من فضلك خليك على الخط. أستاذ. ناكاجيما، الآنسة. سايتو واضح إنها مش بترد على المكالمة. تحبنى أرن عليها حبة أطول؟
+2736	corpus-6-test-corpus-26-dev	ALX	يمكن، بس إحنا محتاجين نوزنهم بشكل منفصل.
+2747	corpus-6-test-corpus-26-train	ALX	واضح شوية إنه نادر جدا.
+2748	corpus-6-test-corpus-26-train	ALX	فين مكان استلام الشنط لرحلة طيران سبعة زيرو ثلاثة؟
+2760	corpus-6-test-corpus-26-train	ALX	فى حاجة غلط فى الشنطة بتاعتك.
+2765	corpus-6-test-corpus-26-train	ALX	دة هيبوظ؟
+2772	corpus-6-test-corpus-26-train	ALX	لأ، شكرا. أحسن لى مشربش أكتر من كدة.
+2808	corpus-6-test-corpus-26-train	ALX	من فضلك قوللى على شوارع مناسبة للشوبينج.
+2811	corpus-6-test-corpus-26-dev	ALX	الأتوبيس دة بيروح لفندق هيلتون؟
+2816	corpus-6-test-corpus-26-train	ALX	دلوقتى، اللوحة دى مميزة جدا. هى عن طريق تسوروتارو كاتاوكا، هو معترف بيه كفنان كعالمى.
+2850	corpus-6-test-corpus-26-train	ALX	أنا عندى تقدير كبير للموسيقى الكلاسيكية.
+2851	corpus-6-test-corpus-26-dev	ALX	ممكن أعزمك فى مرة برة على العشا؟
+2862	corpus-6-test-corpus-26-train	ALX	تمام. إيه إسم الطرف التانى بتاعك ورقمه، لو سمحت.
+2871	corpus-6-test-corpus-26-train	ALX	لو سمحت، إسمحلى أخرج، من فضلك.
+2878	corpus-6-test-corpus-26-train	ALX	هل ممكن تطلب موظفين بيتكلموا يابانى؟
+2898	corpus-6-test-corpus-26-train	ALX	إحنا بنزور قرايبنا أوقات كتير.
+2939	corpus-6-test-corpus-26-train	ALX	ميكى هاياكاوا. دى أوضة سبعة زيرو اتنين.
+2945	corpus-6-test-corpus-26-train	ALX	أنا لازم أفضل هنا الليلة دى، مش كدة؟ ممكن تساعدنى أحجز أوضة فندق؟
+2947	corpus-6-test-corpus-26-train	ALX	مش المفروض يطول. خمستاشر دقيقة بالكتير.
+2960	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى سعر المكالمة دى؟
+2964	corpus-6-test-corpus-26-train	ALX	طيب، ممكن تقولها إنى إتصلت، من فضلك؟ انا هكلمها تانى بعدين.
+2973	corpus-6-test-corpus-26-train	ALX	فى أى جولة صباحية؟
+2982	corpus-6-test-corpus-26-train	ALX	بتغير عملات أجنبية؟
+2983	corpus-6-test-corpus-26-test	ALX	الميزانية بتاعتنا حوالى خمسين دولارإجمالى لتلات أشخاص.
+2990	corpus-6-test-corpus-26-train	ALX	منين أقدر أشترى لفة فيلم؟
+2995	corpus-6-test-corpus-26-train	ALX	عندك بيرة يابانى؟
+3001	corpus-6-test-corpus-26-test	ALX	عاوز بدلة سباحة سمول، من فضلك.
+3016	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز أسجل شنط السفر بتاعتى.
+3029	corpus-6-test-corpus-26-train	ALX	انا آنسة كاوازو فى أوضة ستاشر حداشر.
+3030	corpus-6-test-corpus-26-train	ALX	العفو.
+3038	corpus-6-test-corpus-26-dev	ALX	مفيش خالص.
+3040	corpus-6-test-corpus-26-train	ALX	أنهى أهم بالنسبالكم يا شعب اليابان، يوم راس السنة ولا يوم الكريسماس؟
+3041	corpus-6-test-corpus-26-test	ALX	رقم الكرسى بتاعك اتنين وتلاتين إيه، يبقى، إمشى على طول اخر الممر دة. هو الكرسى اللى جنب الشباك.
+3073	corpus-6-test-corpus-26-train	ALX	دقيقة، من فضلك.
+3109	corpus-6-test-corpus-26-train	ALX	لو سمحت إملا تقرير فاقد.
+3111	corpus-6-test-corpus-26-dev	ALX	أنا مش بفهم أمريكانى، أنا بتكلم الإنجليزى بتاع بريطانيا.
+3120	corpus-6-test-corpus-26-train	ALX	من إمبارح.
+3129	corpus-6-test-corpus-26-train	ALX	دة بيشمل تأمين للتصادم والمسئولية القانونية.
+3134	corpus-6-test-corpus-26-test	ALX	ضيعت ورقة الاستلام بتاعتي.
+3152	corpus-6-test-corpus-26-train	ALX	عندك أى بروش بتصاميم حلوة؟
+3155	corpus-6-test-corpus-26-train	ALX	أنا بتصل من كشك عام ف ماسيز.
+3170	corpus-6-test-corpus-26-test	ALX	دول كبار أوى.
+3176	corpus-6-test-corpus-26-train	ALX	كام رسوم الجراج فى الساعة؟
+3179	corpus-6-test-corpus-26-train	ALX	سيداتى وسادتى، فى رحلتنا النهاردة عندنا مضيفات طيران بيتكلموا يابانى واللى نقدر نتعرف عليهم عن طريق البادجات اللى لابسينها. لو تعرفوا عن أى حد محتاج مساعدة فى اللغة، من فضلكم خلونا نعرف.
+3182	corpus-6-test-corpus-26-train	ALX	فى أى فترة فنية معينة بتفضلها؟
+3185	corpus-6-test-corpus-26-train	ALX	لو سمحت راجعه تانى.
+3195	corpus-6-test-corpus-26-train	ALX	إمشى على طول بطول النهر حوالى نص ميل. هتوصل للجنينة.
+3201	corpus-6-test-corpus-26-dev	ALX	لأ، هما متينين جدا.
+3207	corpus-6-test-corpus-26-train	ALX	أوكى، أنا هبعته لاس فيجاس علشانك.
+3209	corpus-6-test-corpus-26-train	ALX	أنا بدور على قمصان جرى.
+3220	corpus-6-test-corpus-26-train	ALX	عاوز أى حاجة تشربها من البار؟
+3222	corpus-6-test-corpus-26-dev	ALX	الطريق دة من فضلك. خد الأسانسير دة.
+3238	corpus-6-test-corpus-26-train	ALX	أحسنلك تاخد قطر تمانية ونص.
+3267	corpus-6-test-corpus-26-test	ALX	فى مسرح سينمائى قريب من هنا؟
+3269	corpus-6-test-corpus-26-train	ALX	دلوقتى موسم المحار، علشان كدة هيكون كويس.
+3279	corpus-6-test-corpus-26-train	ALX	عاوز مع ساعة يد تانية.
+3284	corpus-6-test-corpus-26-train	ALX	أنا هعمل تشيك إن حوالى الساعة تسعة بالليل.
+3285	corpus-6-test-corpus-26-train	ALX	الوقت بيتأخر، المفروض أكون بمشى.
+3289	corpus-6-test-corpus-26-train	ALX	أنا مستخدمتش خدمة الغسيل بتاعتك، ممكن تراجع دة مرة تانية؟
+3292	corpus-6-test-corpus-26-train	ALX	أنا عاوز شاى، من فضلك.
+3295	corpus-6-test-corpus-26-train	ALX	لأ، مفيش.
+3304	corpus-6-test-corpus-26-train	ALX	هى دى أخر محطة؟
+3318	corpus-6-test-corpus-26-train	ALX	خلينا نكلمه.
+3323	corpus-6-test-corpus-26-train	ALX	التوابل دى حراقة؟
+3334	corpus-6-test-corpus-26-train	ALX	فين أقدر آخد أتوبيس للفرجة على المعالم السياحية؟
+3335	corpus-6-test-corpus-26-train	ALX	أه، أنا عاوز أشوف المعالم السياحية للمدينة.
+3351	corpus-6-test-corpus-26-test	ALX	فى سياح كتير حوالين المبنى، واضح إنهم إتجمعوا علشان يبصوا على اللى بيحصل.
+3359	corpus-6-test-corpus-26-train	ALX	شكرا لاستضافتك.
+3375	corpus-6-test-corpus-26-train	ALX	الأمانة هى أحسن سياسة.
+3385	corpus-6-test-corpus-26-train	ALX	ممكن تصحينى الساعة ستة، من فضلك؟
+3392	corpus-6-test-corpus-26-train	ALX	يكلف كام لنص يوم؟
+3397	corpus-6-test-corpus-26-train	ALX	أنا كينجى.
+3402	corpus-6-test-corpus-26-train	ALX	تعرف أى أماكن كويسة تتشاف فى شيكاجو؟
+3404	corpus-6-test-corpus-26-train	ALX	طيب، لو انتوا الاتنين اصريتوا، هروح معاكم.
+3413	corpus-6-test-corpus-26-dev	ALX	ممكن تبدل دة بواحد من نفس النوع، من فضلك؟
+3446	corpus-6-test-corpus-26-train	ALX	عاوز أعمل حجز للساعة تلاتة ونص بعد الضهر.
+3489	corpus-6-test-corpus-26-train	ALX	صندوق الأمانات، من فضلك.
+3502	corpus-6-test-corpus-26-train	ALX	من فضلك اختار نبيت مناسب.
+3512	corpus-6-test-corpus-26-test	ALX	عاوز مكان صغير.
+3522	corpus-6-test-corpus-26-train	ALX	أنا لازم أدفع للبنزين؟
+3557	corpus-6-test-corpus-26-train	ALX	حرامى. امسكه.
+3562	corpus-6-test-corpus-26-test	ALX	إحنا مستنيين صحابنا ييجوا.
+3572	corpus-6-test-corpus-26-train	ALX	من فضلك إدينى فكة.
+3619	corpus-6-test-corpus-26-test	ALX	كيرلى جامد، لو سمحت.
+3628	corpus-6-test-corpus-26-train	ALX	هى صغيرة وجميلة.
+3638	corpus-6-test-corpus-26-test	ALX	إيه أوبرا النهاردة؟
+3640	corpus-6-test-corpus-26-train	ALX	مقلي، لو سمحت.
+3644	corpus-6-test-corpus-26-train	ALX	الغسيل بتاعى لسة مرجعش.
+3649	corpus-6-test-corpus-26-train	ALX	بالمناسبة، إنت فاضى السبت الجاي دة؟
+3667	corpus-6-test-corpus-26-train	ALX	طيب، يبقى، ممكن ننسجم أوى مع بعض.
+3669	corpus-6-test-corpus-26-train	ALX	هى عاملتنى كما لو كنت شحات.
+3683	corpus-6-test-corpus-26-train	ALX	أنا شايف. كمان، ممكن تساعدنى فى مشكلة تانية؟
+3685	corpus-6-test-corpus-26-train	ALX	ممكن تحط العدسات اللى فى الروشتة فى نضارة الشمس دى؟
+3698	corpus-6-test-corpus-26-dev	ALX	هاخد اتنين من دول.
+3705	corpus-6-test-corpus-26-train	ALX	أد إيه كلاب جميلة. فصيلة إيه؟
+3721	corpus-6-test-corpus-26-train	ALX	أنا وقعت الشوكة بتاعتى. لو سمحت هات واحدة تانية.
+3742	corpus-6-test-corpus-26-train	ALX	كان ممتع.
+3747	corpus-6-test-corpus-26-train	ALX	أكيد. إمشى على طول ولف يمين من عند تالت ناصية. هتلاقيه على يمينك.
+3765	corpus-6-test-corpus-26-dev	ALX	عندك فيلم لسلايدز ألوان؟
+3780	corpus-6-test-corpus-26-train	ALX	عارف كاثى؟ دى حفلة عيد ميلادها.
+3789	corpus-6-test-corpus-26-train	ALX	عندك خريطة ملونة؟
+3792	corpus-6-test-corpus-26-dev	ALX	أقدر أدفع بشيك سياحى؟
+3806	corpus-6-test-corpus-26-train	ALX	بس، هو، يا مان، إزاى أعرف إن دى الحاجة الصح؟
+3825	corpus-6-test-corpus-26-train	ALX	أقدر آخدها من غير ضرايب؟
+3829	corpus-6-test-corpus-26-train	ALX	مش عارف أحط شنطتى تحت الكرسى. ممكن تخليهالى معاك، لو سمحت؟
+3835	corpus-6-test-corpus-26-train	ALX	ممكن لو سمحت تحط الشنطة دى فى شنطة العربية؟
+3847	corpus-6-test-corpus-26-train	ALX	أنا خارج دلوقتى، فهبقى آخدها.
+3856	corpus-6-test-corpus-26-train	ALX	لو سمحت إبعت حد للشنط بتاعتى الساعة ستة ونص.
+3858	corpus-6-test-corpus-26-dev	ALX	من فضلك عاوز خريطة لسان فرانسيسكو والمنطقة اللى حواليها.
+3859	corpus-6-test-corpus-26-train	ALX	إيه نوع العيش اللى عندك؟
+3860	corpus-6-test-corpus-26-train	ALX	فين الأسانسير؟
+3861	corpus-6-test-corpus-26-train	ALX	فى أى حد يقدر يلعب بيانو؟
+3872	corpus-6-test-corpus-26-test	ALX	فى أنهى محطة المفروض أنزل علشان أروح امباير ستيت بيلدينج؟
+3887	corpus-6-test-corpus-26-test	ALX	الميزانية تحت ألف دولار.
+3892	corpus-6-test-corpus-26-train	ALX	شكرا، لكن مفتكرش إن عندى وقت أقعد ليلتين. ممكن تحجزلى أوضه مزدوجة فى الأوتيل دة ليلة اتناشر مارس بس؟
+3900	corpus-6-test-corpus-26-dev	ALX	ممكن أحجز أوضة دابل بتبص على المحيط؟
+3920	corpus-6-test-corpus-26-train	ALX	إحنا لسة مقررناش.
+3928	corpus-6-test-corpus-26-train	ALX	صاحبى اتكعبل ولوى الكاحل بتاعه.
+3936	corpus-6-test-corpus-26-train	ALX	أنا هجرب شربات.
+3961	corpus-6-test-corpus-26-train	ALX	فى مطعم تايلاندى قريب؟
+3972	corpus-6-test-corpus-26-train	ALX	هو جنب المبنى الطويل دة على طول. يبقى، إرجع نفس الطريق اللى جيت منه لحد إشارات المرور. بعد كدة، لف شمال.
+3974	corpus-6-test-corpus-26-train	ALX	أنا لازم ألحق طيارة للوس أنجلوس بكرة الصبح بدرى.
+3988	corpus-6-test-corpus-26-train	ALX	"يبقى أقدر بثقة أرشح "" جولة مدينة سان فرانسيسكو "" دى. دة هيوريك الخطوط العريضة لسان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	ALX	انا عاوز آخد تأمين.
+3995	corpus-6-test-corpus-26-test	ALX	خلينا نحط كمادات ساقعة علشان تخفف الألم.
+4013	corpus-6-test-corpus-26-train	ALX	هى عاوزة تشترى فستان.
+4016	corpus-6-test-corpus-26-train	ALX	بكام التاكسى للأوتيل دة؟
+4017	corpus-6-test-corpus-26-train	ALX	فين التواليت؟
+4034	corpus-6-test-corpus-26-train	ALX	الموضوع يكلف أى حاجة علشان ندخل المبنى دة؟
+4036	corpus-6-test-corpus-26-train	ALX	خده ف طريقك.
+4082	corpus-6-test-corpus-26-test	ALX	أنا بدور على حاجة أنيقة.
+4104	corpus-6-test-corpus-26-train	ALX	الشباك مزحوم.
+4109	corpus-6-test-corpus-26-dev	ALX	في أنهى جنب من يونيون سكوير؟
+4119	corpus-6-test-corpus-26-train	ALX	نص أوقية من شانيل رقم خمسة، من فضلك.
+4129	corpus-6-test-corpus-26-train	ALX	إيه رأيك ف شوية قهوة؟
+4143	corpus-6-test-corpus-26-train	ALX	أنا محتاج تذكرة؟
+4182	corpus-6-test-corpus-26-train	ALX	حوالى كام رسوم الخدمة؟
+4185	corpus-6-test-corpus-26-train	ALX	أد إيه من هنا؟
+4187	corpus-6-test-corpus-26-train	ALX	كريمة وسكر؟
+4193	corpus-6-test-corpus-26-train	ALX	عندك أى نسبة تخفيض للأعضاء؟
+4219	corpus-6-test-corpus-26-train	ALX	فى سوبر اكسبريس الساعة تسعة ونص؟
+4221	corpus-6-test-corpus-26-train	ALX	خلينى أشوف زيت الفرامل والمحرك. المحرك بتاعك واضح إنه تقريبا اتعطل.
+4224	corpus-6-test-corpus-26-train	ALX	دى مكانتش غلطتى.
+4262	corpus-6-test-corpus-26-train	ALX	مفيش كهربا.
+4263	corpus-6-test-corpus-26-train	ALX	انا هبلغ دة للبوليس.
+4269	corpus-6-test-corpus-26-train	ALX	هو كل حد لازم هيدفع للمشروبات بتاعته؟
+4275	corpus-6-test-corpus-26-train	ALX	أى مكان من تلاتين لخمسين دولار فى الليلة.
+4278	corpus-6-test-corpus-26-train	ALX	لو سمحت صلح دة.
+4284	corpus-6-test-corpus-26-train	ALX	فى أيام راس السنة. وفى المناسبات الخاصة زى قاعات الافراح، حفلات الجوايز أو الجنازات.
+4285	corpus-6-test-corpus-26-test	ALX	مسطردة زيادة، من فضلك.
+4305	corpus-6-test-corpus-26-train	ALX	ليه متديلهاش هدية؟
+4321	corpus-6-test-corpus-26-test	ALX	أنهى فيلم ترشحه؟
+4324	corpus-6-test-corpus-26-test	ALX	آدى عشرين وإدينى اتنين دولار باقى، لو سمحت.
+4326	corpus-6-test-corpus-26-train	ALX	ضربتنى بالجنب.
+4335	corpus-6-test-corpus-26-train	ALX	أنا ممكن أوصل الساعة اتنين.
+4341	corpus-6-test-corpus-26-train	ALX	هى دى الشنط اللى من الرحلة جيه إيه إل زيرو واحد؟
+4346	corpus-6-test-corpus-26-train	ALX	دى أول رحلة ليا لباريس.
+4348	corpus-6-test-corpus-26-train	ALX	ممكن تقدر التكلفة قبل ما تبدأ الشغل فيه؟
+4358	corpus-6-test-corpus-26-train	ALX	إدخل. من فضلك.
+4364	corpus-6-test-corpus-26-test	ALX	الفسحة بتاعتنا المفروض تكون ممتعة جدا.
+4365	corpus-6-test-corpus-26-train	ALX	إحنا بنركن المركب فين؟
+4373	corpus-6-test-corpus-26-train	ALX	إحنا معندناش شنطة للكمية دى يبقى هحطه فى الشنطة البلاستيك الكبيرة دى.
+4374	corpus-6-test-corpus-26-train	ALX	أنا عاوز ألعب تنس.
+4375	corpus-6-test-corpus-26-train	ALX	فى عصير أناناس، برتقان وطماطم.
+4377	corpus-6-test-corpus-26-train	ALX	الجنب الشمال من الدور دة، قريب من السلم الكهربا.
+4382	corpus-6-test-corpus-26-test	ALX	إيه اللى شغال فى قاعة الحفلات الموسيقية النهاردة؟
+4409	corpus-6-test-corpus-26-train	ALX	إنت متفضلش تشوف فيلم مختلف؟
+4418	corpus-6-test-corpus-26-train	ALX	لو سمحت تغير الشيك السياحى دة لكاش.
+4432	corpus-6-test-corpus-26-dev	ALX	أنا عاوز آخد نفس الكورس بكرة، من فضلك.
+4450	corpus-6-test-corpus-26-train	ALX	أنا احتمال أقدر أديلك إجابة أفضل لدة بعد عرضين.
+4451	corpus-6-test-corpus-26-test	ALX	مجتاج هدية لذكرى سنوية.
+4464	corpus-6-test-corpus-26-train	ALX	إيه المسرحيات الموسيقية اللى شغالة دلوقتى؟
+4475	corpus-6-test-corpus-26-train	ALX	معاك مراية؟
+4478	corpus-6-test-corpus-26-dev	ALX	لو سمحت، بس أنا ضيعت طريقى. ممكن تساعدنى؟
+4479	corpus-6-test-corpus-26-train	ALX	انا هاخد دة، لو سمحت.
+4497	corpus-6-test-corpus-26-train	ALX	إنت متقدرش تجيب ألعاب نارية لكندا.
+4501	corpus-6-test-corpus-26-train	ALX	أد إيه مراتك طباخة رائعة.
+4503	corpus-6-test-corpus-26-train	ALX	محتاج أى مساعدة؟
+4505	corpus-6-test-corpus-26-train	ALX	ممكن تعمل حجز تاكسى للساعة ستة بكرة الصبح، لو سمحت؟
+4510	corpus-6-test-corpus-26-train	ALX	تحب إيه مع الطبق الرئيسى بتاعك؟
+4540	corpus-6-test-corpus-26-test	ALX	فى بوتيك قريب من هنا؟
+4549	corpus-6-test-corpus-26-train	ALX	المكان دة مليان ناس، مش كدة؟
+4558	corpus-6-test-corpus-26-train	ALX	معلش. هما هيكونوا جاهزين فى حوالى خمس دقايق.
+4588	corpus-6-test-corpus-26-train	ALX	رقبتى اتلوحت وقت النوم.
+4594	corpus-6-test-corpus-26-train	ALX	أوكى، مفيش مشكلة. ممكن أشوف الباسبور بتاعك؟
+4615	corpus-6-test-corpus-26-test	ALX	انا معييش أى فلوس.
+4624	corpus-6-test-corpus-26-train	ALX	المفروض أكون فى المحطة الساعة كام؟
+4630	corpus-6-test-corpus-26-train	ALX	فى مطاعم كتير قريبة من هنا.
+4635	corpus-6-test-corpus-26-train	ALX	هو جنب اوضة الامانات.
+4640	corpus-6-test-corpus-26-train	ALX	جميل إنى اتكلمت معاك.
+4644	corpus-6-test-corpus-26-test	ALX	فى جولة بعد الضهر؟
+4648	corpus-6-test-corpus-26-test	ALX	أنا مع أصحابى.
+4653	corpus-6-test-corpus-26-train	ALX	أنا استمتعت بإقامتى. شكرا ليك.
+4654	corpus-6-test-corpus-26-train	ALX	الشاطئ تحت على طول. أد إيه المنظر جميل.
+4658	corpus-6-test-corpus-26-train	ALX	شكرا لانتظارك، آنسة. ماك جوايار. هنا أهو. اتفضلى، لو سمحتى.
+4662	corpus-6-test-corpus-26-train	ALX	معاك صورة بطاقة شخصية؟
+4671	corpus-6-test-corpus-26-train	ALX	سبعة، لو سمحت.
+4674	corpus-6-test-corpus-26-train	ALX	أنا عاوز أبعت ده للمغسلة. إمتى هيكون جاهز؟
+4685	corpus-6-test-corpus-26-train	ALX	أنا عندى بنطلون مخطط.
+4699	corpus-6-test-corpus-26-train	ALX	أيوة. شنطة حد تانى اتسلمت لأوضتى دلوقتى حالا. ممكن تشوفها، لو سمحت؟
+4714	corpus-6-test-corpus-26-train	ALX	ممكن تشرحلى دة بالتفصيل؟
+4729	corpus-6-test-corpus-26-train	ALX	نمت كويس؟
+4733	corpus-6-test-corpus-26-train	ALX	ممكن تضغط زرار التصوير؟
+4740	corpus-6-test-corpus-26-train	ALX	مفتاحين، لو سمحت.
+4742	corpus-6-test-corpus-26-dev	ALX	عاوز لمبة.
+4744	corpus-6-test-corpus-26-train	ALX	هو فى نهاية الكوريدور.
+4773	corpus-6-test-corpus-26-dev	ALX	عاوز ورق مفكرات.
+4788	corpus-6-test-corpus-26-train	ALX	إحنا رايحين بالأتوبيس؟
+4790	corpus-6-test-corpus-26-train	ALX	إنت قلت إنك ماشى لطوكيو بكرة؟
+4795	corpus-6-test-corpus-26-test	ALX	خلينى أنام لحد الساعة تسعة.
+4801	corpus-6-test-corpus-26-train	ALX	لازم أنقل ل إيه دبليو واحد زيرو زيرو. دة ممكن؟
+4813	corpus-6-test-corpus-26-train	ALX	إيه أخبار لعبتك الأيام دى؟
+4814	corpus-6-test-corpus-26-dev	ALX	أنا حاسس إن نفسى إتكتم.
+4826	corpus-6-test-corpus-26-train	ALX	مفيش مشكلة. لو جيت خمسة سبتمبر، تقدر تستمتع بعرض فيلم علمى علشان عندنا أوبن داى خاص فى الجمعة الأولى من كل شهر.
+4828	corpus-6-test-corpus-26-train	ALX	عندك أى جولة تانية؟
+4836	corpus-6-test-corpus-26-train	ALX	تمام، خمسة فى المية خصم. دة كويس؟
+4845	corpus-6-test-corpus-26-train	ALX	أنا رايح باريس.
+4848	corpus-6-test-corpus-26-train	ALX	دة مش آخر موديل، صح؟
+4857	corpus-6-test-corpus-26-train	ALX	ميعاده متحدد الساعة تمانية ونص بالليل بالتوقيت المحلى.
+4889	corpus-6-test-corpus-26-train	ALX	خد المبنى دة معانا، لو سمحت.
+4894	corpus-6-test-corpus-26-train	ALX	أوكى. أنا هاخد طبق متوسط وبولة رز.
+4901	corpus-6-test-corpus-26-train	ALX	شكله إيه؟
+4924	corpus-6-test-corpus-26-train	ALX	أنا عاوز أشوف اللى فى الشباك دة، لو سمحت.
+4945	corpus-6-test-corpus-26-train	ALX	مش ممكن. إحنا ف أجازة. انا أرفض أقعد ف أوضة أوتيل وأتفرج على بيسبول فى التليفزيون. انا عاوز أروح أشوف مسرحية.
+4957	corpus-6-test-corpus-26-train	ALX	ممكن ألمسه؟
+4974	corpus-6-test-corpus-26-train	ALX	تقدر تيجى هنا علشان تصلحه؟
+4983	corpus-6-test-corpus-26-train	ALX	عاوز ألياف صناعية.
+4985	corpus-6-test-corpus-26-train	ALX	إسمى تارو تاناكا. عندى حجز.
+4990	corpus-6-test-corpus-26-train	ALX	عاوز كريم تنضيف.
+5004	corpus-6-test-corpus-26-train	ALX	عاوز قفاز بأكمام طويلة.
+5009	corpus-6-test-corpus-26-train	ALX	شنطتى اتسرقت منى.
+5017	corpus-6-test-corpus-26-train	ALX	يظهر إن طرقنا بتتقابل كتير، مش كدة؟
+5035	corpus-6-test-corpus-26-train	ALX	ممكن المنيو تانى؟
+5045	corpus-6-test-corpus-26-train	ALX	هما لسة باينين خضر شوية.
+5082	corpus-6-test-corpus-26-train	ALX	أد إيه؟
+5083	corpus-6-test-corpus-26-train	ALX	فراولة، من فضلك.
+5090	corpus-6-test-corpus-26-dev	ALX	جبل فوجى هو أعلى قمة فى اليابان على تلاتلاف سبعمية ستة وسبعين متر.
+5091	corpus-6-test-corpus-26-train	ALX	لأ، لسة. فى كتير أختار منه.
+5098	corpus-6-test-corpus-26-dev	ALX	من فضلك عاوزة كريم ليل.
+5104	corpus-6-test-corpus-26-test	ALX	هو بين الخباز ومحل الجزار.
+5116	corpus-6-test-corpus-26-train	ALX	ممكن تقصر الأكمام دى؟
+5117	corpus-6-test-corpus-26-train	ALX	للأسف مفيش ملعب جولف قريب من هنا.
+5121	corpus-6-test-corpus-26-train	ALX	ممكن تورينى تانى خاتم من على الشمال؟
+5124	corpus-6-test-corpus-26-train	ALX	ممكن تطلب منه يكلمنى؟
+5138	corpus-6-test-corpus-26-train	ALX	أنا حاولت أعمل مكالمة دولية، وصلت؟
+5148	corpus-6-test-corpus-26-test	ALX	دة غلط.
+5175	corpus-6-test-corpus-26-train	ALX	أيوة، هو كدة. علشان إنت تقدر تشوف العلم قدام مكتب البريد.
+5207	corpus-6-test-corpus-26-test	ALX	إنت بالتأكيد هتبعتهم، صح؟
+5219	corpus-6-test-corpus-26-train	ALX	عاوز أعمل مكالمة تليفون بالكريديت كارد.
+5224	corpus-6-test-corpus-26-train	ALX	انا عاوز بتاعى يروح.
+5245	corpus-6-test-corpus-26-train	ALX	لما يوصل، هندفع علشان نشحنه لعنوان بيتك.
+5246	corpus-6-test-corpus-26-dev	ALX	الأيام دى أنا دايما بستخدم الكمبيوتر فى الشغل.
+5250	corpus-6-test-corpus-26-train	ALX	أوه، أوكى. فاهم. انا هاجى مكانك.
+5259	corpus-6-test-corpus-26-train	ALX	لأ، دة كفاية.
+5261	corpus-6-test-corpus-26-train	ALX	أقدر آخد بطانية ومخدة؟
+5262	corpus-6-test-corpus-26-train	ALX	ممكن تيجى هنا بسرعة قدر الإمكان، لو سمحت؟
+5263	corpus-6-test-corpus-26-train	ALX	فنجان قهوة، لو سمحت.
+5267	corpus-6-test-corpus-26-test	ALX	انا بدور على كروت تكون بالظبط زى اللى من هاواى.
+5272	corpus-6-test-corpus-26-train	ALX	ممكن تضيق الوسط تلاتة سنتيمتر؟
+5289	corpus-6-test-corpus-26-train	ALX	أنا نفس العمر.
+5300	corpus-6-test-corpus-26-train	ALX	ممكن تجيبلى قهوة؟
+5307	corpus-6-test-corpus-26-dev	ALX	تلتمية وخمسين دولار؟ دة فوق الميزانية بتاعتى.
+5323	corpus-6-test-corpus-26-train	ALX	هل إحنا محتاجين نطرح دة للتصويت؟ لو لأ، أفتكر إحنا كدة وصلنا لاستنتاج، هبعته لمجلس الإدارة بتاعنا بكرة الصبح.
+5334	corpus-6-test-corpus-26-train	ALX	تعرف لو فى أى فنادق رخيصة؟
+5361	corpus-6-test-corpus-26-train	ALX	صباح الخير. نمت كويس؟
+5364	corpus-6-test-corpus-26-train	ALX	ناوى تعمل إيه بعد ما تخلص مدرسة؟
+5366	corpus-6-test-corpus-26-train	ALX	شنطة الكتف بتاعتى اتسرقت منى فى الشارع.
+5367	corpus-6-test-corpus-26-train	ALX	عندك أى خدمات تانية جنب الفطار النهاردة الصبح؟
+5407	corpus-6-test-corpus-26-train	ALX	عاوز فنجان قهوة بيضا، لو سمحت.
+5410	corpus-6-test-corpus-26-test	ALX	أوكى. هو فندق شيراتون فى مكان قريب من هناك؟
+5411	corpus-6-test-corpus-26-train	ALX	أتمنى متكونش تعبان أوى.
+5431	corpus-6-test-corpus-26-train	ALX	عاوز أأجر عربية من الفئة دى لمدة يومين.
+5436	corpus-6-test-corpus-26-train	ALX	أنا هاخد لقطة لجاك دانيالز.
+5437	corpus-6-test-corpus-26-train	ALX	عاوز كيس فيشار، لو سمحت.
+5447	corpus-6-test-corpus-26-train	ALX	أنا وقعت عصاية تزحلق عالجليد.
+5455	corpus-6-test-corpus-26-train	ALX	إحنا مش بنجيب أى عروض فى الاستقبال. بدل كدة، الضيوف بيجيبوا فلوس نقدية.
+5458	corpus-6-test-corpus-26-train	ALX	عاوز أبعته عن طريق البريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	ALX	الطيارة وصلت متأخر بسبب التلج الكتير.
+5518	corpus-6-test-corpus-26-train	ALX	السعر، من فضلك.
+5521	corpus-6-test-corpus-26-train	ALX	ممكن تاخد رسالة، من فضلك؟
+5540	corpus-6-test-corpus-26-train	ALX	سورى، مش عارف أتابعك. ممكن تتكلم أبطأ شوية، من فضلك؟
+5549	corpus-6-test-corpus-26-dev	ALX	أقدر أفرجك إيه؟
+5559	corpus-6-test-corpus-26-train	ALX	ممكن آخد صور؟
+5570	corpus-6-test-corpus-26-train	ALX	من أصل مية.
+5584	corpus-6-test-corpus-26-dev	ALX	رقم الرحلة اتش بى تسعة وتمانين لطوكيو فى حداشر مارس.
+5585	corpus-6-test-corpus-26-train	ALX	أقدر آخد نفس الطبق اللى زى دة؟
+5594	corpus-6-test-corpus-26-dev	ALX	عندك واحد تانى؟
+5596	corpus-6-test-corpus-26-train	ALX	لو سمحت تجيب الفطار بتاعى على أوضتى الساعة سبعة بكرة الصبح.
+5615	corpus-6-test-corpus-26-train	ALX	فرد صيانة هيكون فوق حالا.
+5617	corpus-6-test-corpus-26-dev	ALX	أنا أآسف. أنا هرجع تانى بعدين.
+5640	corpus-6-test-corpus-26-test	ALX	إزاى أقدر أخده؟
+5648	corpus-6-test-corpus-26-train	ALX	فى أى أماكن فاضية فى جولة الخميس؟
+5657	corpus-6-test-corpus-26-train	ALX	لو سمحت. ممكن أعدى؟
+5680	corpus-6-test-corpus-26-train	ALX	عندك أى نباتات وفواكه؟
+5684	corpus-6-test-corpus-26-train	ALX	لو سمحت تقولى إزاى أملا بطاقة النزول؟
+5695	corpus-6-test-corpus-26-train	ALX	أفتكر عربيتى تستاهل حوالى خمستلاف دولار.
+5706	corpus-6-test-corpus-26-train	ALX	الأكل دة سعراته قليلة؟
+5717	corpus-6-test-corpus-26-train	ALX	أنهى أتوبيس المفروض أخده عشان أروح المحطة؟
+5723	corpus-6-test-corpus-26-train	ALX	أيوة، كدة. بس إنت لازم تلف شمال عند تالت إشارة مرور وخليك فى الشارع دة لحد ما توصل للطريق ستة وستين.
+5733	corpus-6-test-corpus-26-dev	ALX	عاوز كوباية ميا علشان أخد الدوا، من فضلك.
+5761	corpus-6-test-corpus-26-train	ALX	أنا هكون مجبر جداً لو أخدتنى للشاطئ.
+5772	corpus-6-test-corpus-26-train	ALX	أنا أسف. إنت معاك الرقم الغلط. دى تانكيوشا برس.
+5779	corpus-6-test-corpus-26-train	ALX	إحنا بنعمل تشيك آوت.
+5830	corpus-6-test-corpus-26-dev	ALX	إيه الموسيقى دى؟
+5847	corpus-6-test-corpus-26-train	ALX	لو سمحت إدى دوا الشرب دة لإبنك، جرعة، بعد كل وجبة.
+5848	corpus-6-test-corpus-26-train	ALX	الستايل دة متاح مقاسات تمانية وعشرين، واحد وتلاتين وخمسة وتلاتين سنتيمتر.
+5875	corpus-6-test-corpus-26-train	ALX	أوه، دة يبان كأنه كتير.
+5898	corpus-6-test-corpus-26-train	ALX	ممكن أستخدم تليفونك؟
+5902	corpus-6-test-corpus-26-test	ALX	دة ريحته جميلة جدا، دة بكام؟
+5906	corpus-6-test-corpus-26-train	ALX	عاوز أأكد الرحلة بتاعتى لشيكاجو يوم سبعتاشر.
+5913	corpus-6-test-corpus-26-train	ALX	أكلت كتير شوية.
+5914	corpus-6-test-corpus-26-train	ALX	ممكن أكلم الآنسة براون؟
+5916	corpus-6-test-corpus-26-train	ALX	البيت دة شكله مريح للعيشة فيه، مش كدة؟
+5934	corpus-6-test-corpus-26-dev	ALX	عاوز اعمل حجز فى شركات طيران نورث ويست رحلة زيرو تمانية ستة ليوم خمسة.
+5940	corpus-6-test-corpus-26-train	ALX	محفظتى، الباسبور وممتلكات شخصية تانية.
+5956	corpus-6-test-corpus-26-train	ALX	بتقفل إمتى؟
+5974	corpus-6-test-corpus-26-test	ALX	استنى دقيقة. ممكن أكون سيبته فى الحمام.
+5987	corpus-6-test-corpus-26-train	ALX	دة بالظبط اللى كنت هقوله.
+5988	corpus-6-test-corpus-26-train	ALX	أه، أفتكر كدة.
+5997	corpus-6-test-corpus-26-train	ALX	بيتك كبير. كام اوضة؟
+6006	corpus-6-test-corpus-26-train	ALX	إحنا استمتعنا بالعشا.
+6024	corpus-6-test-corpus-26-test	ALX	أنا فاهم، بس مقدرش أقوله.
+6047	corpus-6-test-corpus-26-train	ALX	أوه، أيوة، من فضلك. أنا بتمنى بس ميجيلهومش دوار البحر.
+6056	corpus-6-test-corpus-26-test	ALX	لطوكيو، لو سمحت.
+6073	corpus-6-test-corpus-26-train	ALX	إيه الوقت المتوقع لوصولنا؟
+6086	corpus-6-test-corpus-26-train	ALX	أنا همشى بكرة بدرى، فعايز أدفع دلوقتى.
+6100	corpus-6-test-corpus-26-test	ALX	نبيذ مش مسكر، لو سمحت.
+6109	corpus-6-test-corpus-26-test	ALX	كرسى لغير المدخنين، من فضلك.
+6156	corpus-6-test-corpus-26-train	ALX	هو مشغول دلوقتى.
+6167	corpus-6-test-corpus-26-train	ALX	ممكن الأجانب يقدروا يوصلوا للكتب اللى فى المكتبة دى؟
+6179	corpus-6-test-corpus-26-train	ALX	ممكن أقعد فى أوضتى لحد اتنين بعد الضهر؟
+6190	corpus-6-test-corpus-26-train	ALX	ها ها. صباح الخير بالوقت بتاعك. مفيش مشكلة.
+6193	corpus-6-test-corpus-26-train	ALX	عاوز فيلم رقم ال ايه إس إيه ده للكاميرا دى، من فضلك.
+6205	corpus-6-test-corpus-26-train	ALX	فين لوحات مونيت؟
+6214	corpus-6-test-corpus-26-train	ALX	البيتزا دى لذيذة. مين عملها؟
+6221	corpus-6-test-corpus-26-train	ALX	الطبق دة طعمه زى إيه؟
+6227	corpus-6-test-corpus-26-train	ALX	كمان هما غاليين.
+6228	corpus-6-test-corpus-26-train	ALX	إمتى القطر الجاى اللى رايح بوسطن هيمشى؟
+6232	corpus-6-test-corpus-26-dev	ALX	انا بخطط أتعلم الجولف.
+6247	corpus-6-test-corpus-26-dev	ALX	من فضلك إدينى مشروب تانى.
+6253	corpus-6-test-corpus-26-train	ALX	أد إيه السيرفر دة حلو.
+6272	corpus-6-test-corpus-26-train	ALX	للأسف الكمام قصيرة أوى.
+6283	corpus-6-test-corpus-26-train	ALX	ممكن تورينى إزاى أملا بنزين؟
+6285	corpus-6-test-corpus-26-train	ALX	هى رسوم الفندق شاملة الفطار؟
+6287	corpus-6-test-corpus-26-train	ALX	دة كل حاجة؟
+6291	corpus-6-test-corpus-26-train	ALX	هو اخر الطريق دة.
+6339	corpus-6-test-corpus-26-train	ALX	لو سمحت شغل العداد.
+6363	corpus-6-test-corpus-26-train	ALX	أوضتى ساقعة جدا.
+6411	corpus-6-test-corpus-26-train	ALX	هرجعلك لما نكون مشغولين أقل من كدة.
+6413	corpus-6-test-corpus-26-dev	ALX	عندك واحد أكبر؟
+6418	corpus-6-test-corpus-26-train	ALX	حاسس إنى أحسن.
+6430	corpus-6-test-corpus-26-dev	ALX	إنت على دراية بجغرافية اليابان؟
+6436	corpus-6-test-corpus-26-train	ALX	لو سمحت ورينى أنا فين على الخريطة دى.
+6437	corpus-6-test-corpus-26-train	ALX	مية فى المية قطن.
+6466	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز أغير لأوضة مطلة على المحيط. فى أى رسوم إضافية؟
+6472	corpus-6-test-corpus-26-train	ALX	كام إيجار نص يوم على متن السفينة؟
+6481	corpus-6-test-corpus-26-train	ALX	عشرة نوفمبر.
+6484	corpus-6-test-corpus-26-dev	ALX	أنا عاوز شريط آلة كاتبة.
+6492	corpus-6-test-corpus-26-train	ALX	دة لذيذ جدا.
+6497	corpus-6-test-corpus-26-train	ALX	هنطير إمتى؟
+6498	corpus-6-test-corpus-26-train	ALX	إزاى بتخلى السواق يعرف لما بتعوز تنزل؟
+6513	corpus-6-test-corpus-26-train	ALX	أربعة وعشرين دولار. عاوز زيادة؟
+6515	corpus-6-test-corpus-26-train	ALX	أنا عملت الحجز فى طوكيو من شهر فات.
+6517	corpus-6-test-corpus-26-train	ALX	أنا بشكرك من كل قلبى.
+6525	corpus-6-test-corpus-26-train	ALX	أنا بنزل هنا لمركز روكيفيلر؟
+6539	corpus-6-test-corpus-26-train	ALX	لو سمحت قيس مقاس الشوز بتاعى.
+6547	corpus-6-test-corpus-26-train	ALX	دة رائع.
+6550	corpus-6-test-corpus-26-train	ALX	ممكن تخرج فى موعد معايا؟
+6552	corpus-6-test-corpus-26-train	ALX	من فضلك تنضف البالطو دة.
+6553	corpus-6-test-corpus-26-train	ALX	عاوز أأجر قارب بخارى.
+6574	corpus-6-test-corpus-26-train	ALX	فين قسم السيدات؟
+6581	corpus-6-test-corpus-26-train	ALX	القهوة مش من ضمن؟
+6593	corpus-6-test-corpus-26-train	ALX	هو كان فى مجال إيه؟
+6602	corpus-6-test-corpus-26-train	ALX	يلعن كدة. يلعن كدة. يلعن كدة. يلعن كدة. أنا أتعودت على وشها.
+6609	corpus-6-test-corpus-26-train	ALX	هل المفروض أدفع الرسوم الإضافية لما أدخل المبنى؟
+6613	corpus-6-test-corpus-26-test	ALX	أهلا، الطرف التانى على الخط. اتفضل، لو سمحت.
+6625	corpus-6-test-corpus-26-train	ALX	الجرح بيوجعنى.
+6635	corpus-6-test-corpus-26-train	ALX	فين المحطة؟
+6657	corpus-6-test-corpus-26-train	ALX	أنا مقشعر.
+6659	corpus-6-test-corpus-26-train	ALX	تلات أيام.
+6660	corpus-6-test-corpus-26-dev	ALX	عدى الكوبرى هناك، وهتلاقى المكتبة ناحية إيدك الشمال.
+6692	corpus-6-test-corpus-26-dev	ALX	لو سمحت تساعدنى ألاقى مرشد بيتكلم يابانى.
+6699	corpus-6-test-corpus-26-train	ALX	مش عاوز واحد ضخم.
+6700	corpus-6-test-corpus-26-train	ALX	هيبقى فيه تأجيل طفيف.
+6715	corpus-6-test-corpus-26-train	ALX	إيه الفرق بين الفنادق دى؟
+6724	corpus-6-test-corpus-26-test	ALX	أنا نسيت المحطة بتاعتى.
+6736	corpus-6-test-corpus-26-train	ALX	كان رائع. شكرا.
+6740	corpus-6-test-corpus-26-dev	ALX	أنا هكون هناك حوالى ستة بالليل.
+6746	corpus-6-test-corpus-26-train	ALX	عندك أى حاجة أطول شوية؟
+6766	corpus-6-test-corpus-26-train	ALX	تاريخ الانتهاء مارس ألف تسعمية تسعة وتسعين.
+6780	corpus-6-test-corpus-26-test	ALX	كان أخباره إيه؟
+6800	corpus-6-test-corpus-26-train	ALX	فى أى كازينوهات كويسة؟
+6810	corpus-6-test-corpus-26-train	ALX	آدى الفلوس للأقلام الحبر. فاتورة بميت دولار.
+6812	corpus-6-test-corpus-26-train	ALX	فين قسم السيدات؟
+6825	corpus-6-test-corpus-26-train	ALX	فين أقدر أركن المركب؟
+6832	corpus-6-test-corpus-26-train	ALX	صاحبى اتصاب.
+6835	corpus-6-test-corpus-26-train	ALX	شكلك كويس.
+6836	corpus-6-test-corpus-26-dev	ALX	المخزن دة هيكون فاتح بكرة؟
+6862	corpus-6-test-corpus-26-test	ALX	هو على طول اخر القاعة.
+6864	corpus-6-test-corpus-26-train	ALX	ممكن من فضلك تقلم شنبى؟
+6866	corpus-6-test-corpus-26-dev	ALX	دة بييجى مع بار السلاطة واختيار من بين بطاطس مخبوزة أو بطاطس محمرة.
+6875	corpus-6-test-corpus-26-dev	ALX	أقدر أشترى وعاء منين؟
+6914	corpus-6-test-corpus-26-train	ALX	أنا مقدرش أبيع دة من غير روشتة.
+6917	corpus-6-test-corpus-26-train	ALX	أقدر أحجز خمس كراسى مع بعض فى نفس الصف؟
+6923	corpus-6-test-corpus-26-test	ALX	ممكن تسلفنى حبل، لو سمحت؟
+6944	corpus-6-test-corpus-26-train	ALX	أنهى عربية بتقطع أحسن مسافات؟
+6960	corpus-6-test-corpus-26-train	ALX	مش هتاخد خصم مهما حاولت بصعوبة.
+6966	corpus-6-test-corpus-26-train	ALX	ممكن تفتح الشنطة دى، لو سمحت؟ معاك إيه فيها؟
+6970	corpus-6-test-corpus-26-train	ALX	أنا عاوز أعمل مكالمة لمسافة بعيدة لفندق هيلتون فى بوسطن.
+6984	corpus-6-test-corpus-26-test	ALX	هما الستات بيقبلوا كدة؟
+6991	corpus-6-test-corpus-26-train	ALX	خلى بالك، السقف واطى.
+6999	corpus-6-test-corpus-26-train	ALX	انا مش قادر أشوف الشاشة من هنا كويس. أقدر أبدل الكراسى شوية؟
+7030	corpus-6-test-corpus-26-train	ALX	انا زرت البحيرات العظمى لاول مرة.
+7048	corpus-6-test-corpus-26-train	ALX	فى حاجة غلط فى مكنة البيع دى.
+7057	corpus-6-test-corpus-26-train	ALX	انا محتاج دكتور.
+7070	corpus-6-test-corpus-26-train	ALX	بقالها أد إيه فى المملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	ALX	الناس اللي بتحب الفنون الجديدة اللى زيك ممكن يستمتعوا بلوحات هيبيش ومنظر موسيقى الشارع.
+7098	corpus-6-test-corpus-26-train	ALX	الساعة كام؟
+7099	corpus-6-test-corpus-26-dev	ALX	أنا هاخد كوت دوج وكولا.
+7104	corpus-6-test-corpus-26-dev	ALX	معاك موظف التليفون للمكالمات الدولية.
+7123	corpus-6-test-corpus-26-train	ALX	إنت شايف مبنى أبيض، صح؟ هو قدام المبنى دة.
+7130	corpus-6-test-corpus-26-test	ALX	من إمتى؟
+7137	corpus-6-test-corpus-26-test	ALX	انا معنديش أى حاجة أعلنها.
+7198	corpus-6-test-corpus-26-dev	ALX	إيه؟ إنت لازم تدفع ضرايب لما يكون عندك أكتر من تلات أزايز خمرة؟
+7206	corpus-6-test-corpus-26-dev	ALX	صاحبى تعبان جدا. ممكن تكلم دكتور، لو سمحت؟
+7227	corpus-6-test-corpus-26-test	ALX	انا معرفش كتير عن النبيت. إيه الكويس للطبق دة؟
+7233	corpus-6-test-corpus-26-dev	ALX	ممكن تدينى تليفون الصبح بدرى، لو سمحت؟
+7248	corpus-6-test-corpus-26-dev	ALX	فى محطة بنزين على بعد تقاطعين من هنا.
+7253	corpus-6-test-corpus-26-train	ALX	اليابانيين مش بياخدوا أجازات طويلة.
+7264	corpus-6-test-corpus-26-train	ALX	أنا حاسس كأن فى حد بيبحلقلى. هو للدرجة دى نادر إن واحد يابانى يتشاف؟
+7269	corpus-6-test-corpus-26-test	ALX	طبعا لأ. ليه بتقول لو؟
+7270	corpus-6-test-corpus-26-train	ALX	أنهى طريق هو المدخل لمكتب البريد المركزى؟
+7274	corpus-6-test-corpus-26-train	ALX	فين محطة أتوبيسات جراى هاوند فى المدينة دى؟
+7281	corpus-6-test-corpus-26-train	ALX	بس مش المطاعم اليابانية فى كيوتو غالية؟
+7289	corpus-6-test-corpus-26-train	ALX	بيتهيألى دة عالى شوية بالنسبالى.
+7291	corpus-6-test-corpus-26-test	ALX	إحنا عندنا أوضة مزدوجة بحمام بخمسة وتمانين دولار.
+7305	corpus-6-test-corpus-26-train	ALX	أنا عاوز سعر الكتاب.
+7314	corpus-6-test-corpus-26-test	ALX	هى أسقع من المعتاد السنادى، بس مش سقعة كفاية لنزول تلج.
+7321	corpus-6-test-corpus-26-train	ALX	منين أقدر أشترى تذكرة مترو؟
+7335	corpus-6-test-corpus-26-train	ALX	أنا هاخد كرسى درجة رجال أعمال، صح؟
+7343	corpus-6-test-corpus-26-train	ALX	كام أجرة التاكسى من الأوتيل دة للمحطة؟
+7349	corpus-6-test-corpus-26-train	ALX	ممكن آخد دة ودة، لو سمحت؟
+7381	corpus-6-test-corpus-26-train	ALX	بيقولوا اليابان دولة غنية جدا.
+7386	corpus-6-test-corpus-26-train	ALX	فى أى سراير فاضية فى عربية النوم؟
+7391	corpus-6-test-corpus-26-dev	ALX	ممكن تخصمه لعشرين دولار، لو سمحت؟
+7395	corpus-6-test-corpus-26-train	ALX	دة هدية لصديق.
+7412	corpus-6-test-corpus-26-train	ALX	التلج بيخلى الطريق مزحلق.
+7414	corpus-6-test-corpus-26-train	ALX	مش لاقى الكاميرا بتاعتى.
+7416	corpus-6-test-corpus-26-test	ALX	هعمل ساندويتشين لحم خنزير.
+7438	corpus-6-test-corpus-26-train	ALX	عندك أى حاجة تعلنها؟
+7439	corpus-6-test-corpus-26-train	ALX	شفت بالطو أزرق؟ كنت حاطه على الكرسى دة.
+7470	corpus-6-test-corpus-26-test	ALX	فى محل ورد على الطريق.
+7478	corpus-6-test-corpus-26-train	ALX	انا من طوكيو.
+7479	corpus-6-test-corpus-26-train	ALX	عاوز غسول كريم ريفلون.
+7485	corpus-6-test-corpus-26-train	ALX	عندى هدوم للغسيل.
+7507	corpus-6-test-corpus-26-dev	ALX	أنا طلبته من وقت طويل.
+7533	corpus-6-test-corpus-26-dev	ALX	ممكن لو سمحت تبعت شيال لأوضتى الساعة ستة الصبح؟
+7549	corpus-6-test-corpus-26-train	ALX	أنا هاخد هوت تشوكليت.
+7550	corpus-6-test-corpus-26-train	ALX	ممكن نرتب علشان الأوض بتاعتك تتنضف.
+7574	corpus-6-test-corpus-26-train	ALX	مخصوص، لو سمحت.
+7583	corpus-6-test-corpus-26-train	ALX	بكام لحد فندق سى؟
+7612	corpus-6-test-corpus-26-test	ALX	ممكن آخد تذكرة متعددة؟
+7622	corpus-6-test-corpus-26-train	ALX	عاوز أحجز ترابيزة لفردين الساعة سبعة، لو سمحت.
+7626	corpus-6-test-corpus-26-train	ALX	عاوز كريم ليل.
+7627	corpus-6-test-corpus-26-train	ALX	ممكن تلف دة هدية؟
+7636	corpus-6-test-corpus-26-train	ALX	تلاتة وربع.
+7650	corpus-6-test-corpus-26-train	ALX	أنا هخطط أبعت الفواتير للحاجات الضرورية اليومية بتاعتى، فمن فضلك قوللى عنوان وإسم الشخص المسئول.
+7656	corpus-6-test-corpus-26-test	ALX	صعب علينا إننا نتكلم إنجليزى بطلاقة.
+7662	corpus-6-test-corpus-26-train	ALX	عندك دول بنفس التصميم بكعب أعلى؟
+7663	corpus-6-test-corpus-26-train	ALX	عاوز بلوفر لطفل عنده عشر سنين.
+7671	corpus-6-test-corpus-26-train	ALX	خدنى لطريق آبى، لو سمحت.
+7684	corpus-6-test-corpus-26-dev	ALX	شكرا. أهلا، شكرا لانتظارك.
+7693	corpus-6-test-corpus-26-train	ALX	أنا متأكد إن عندى حجز.
+7708	corpus-6-test-corpus-26-train	ALX	هبعتهولك، فلو سمحت استنى هنا.
+7712	corpus-6-test-corpus-26-dev	ALX	إحنا هنا لمدة يوم.
+7721	corpus-6-test-corpus-26-train	ALX	عندى صداع خفيف.
+7736	corpus-6-test-corpus-26-train	ALX	أنا استمتعت جدا بالوجبة.
+7756	corpus-6-test-corpus-26-train	ALX	لأ، لو سمحت اقعد واستنى، انا هرجع حالا.
+7761	corpus-6-test-corpus-26-test	ALX	ممكن أشوف العربية؟
+7767	corpus-6-test-corpus-26-train	ALX	ممكن ترسم لى خريطة، لو سمحت؟
+7789	corpus-6-test-corpus-26-test	ALX	أوكى، يا فندم. لو سمحت خليك فى اوضتك لحد ما الدكتور ييجى.
+7811	corpus-6-test-corpus-26-train	ALX	أنا اتورطت فى شاطئ وايمانالو. لو سمحت تيجى حالا.
+7812	corpus-6-test-corpus-26-train	ALX	إيه رأيك فى ميت دولار؟
+7814	corpus-6-test-corpus-26-train	ALX	انا عاوز دة متعبى.
+7831	corpus-6-test-corpus-26-train	ALX	أنا عاوز أقدم طلب إعادة إصدار.
+7834	corpus-6-test-corpus-26-train	ALX	الحكومة دعمت ترويج الصناعات.
+7838	corpus-6-test-corpus-26-train	ALX	هو فوق الخمسين سنة، أنا بفترض.
+7858	corpus-6-test-corpus-26-dev	ALX	إيه أقل سن يعمل كدة؟
+7860	corpus-6-test-corpus-26-train	ALX	عندك أى خرايط بسيطة للمدينة؟
+7867	corpus-6-test-corpus-26-test	ALX	لو ممكن، أنا أفضل مخلعش السنة.
+7871	corpus-6-test-corpus-26-dev	ALX	العدد كورة واحدة، وضربتين.
+7883	corpus-6-test-corpus-26-train	ALX	القطر هيوصل سان دييجو الساعم كام، لو سمحت؟
+7913	corpus-6-test-corpus-26-train	ALX	أنا عاوز أبص بصة على الصندوق بتاعك.
+7925	corpus-6-test-corpus-26-train	ALX	من فضلك عاوز شامبو.
+7947	corpus-6-test-corpus-26-train	ALX	انا قاعد فى فندق هيلتون.
+7948	corpus-6-test-corpus-26-train	ALX	حاسس إنى مش كويس وقرفان.
+7957	corpus-6-test-corpus-26-train	ALX	بس أنا عندى ميعاد علشان أشوفها الساعة اتنين.
+7972	corpus-6-test-corpus-26-train	ALX	هى العربية دى بتروح إدينبره؟
+7976	corpus-6-test-corpus-26-train	ALX	أيوة، من فضلك إملا الاستمارة دى.
+7983	corpus-6-test-corpus-26-train	ALX	بتدفع كام للوزن الزيادة؟
+7991	corpus-6-test-corpus-26-dev	ALX	إسمى كيمورا. عاوزة ألغى حجزى ليوم الجمعة.
+7996	corpus-6-test-corpus-26-test	ALX	أوه، أنا أسف. فى مشكلة حصلت وإحنا بنصلحها. ممكن تستنى حوالى نص ساعة؟
+8039	corpus-6-test-corpus-26-train	ALX	أقدر أعمل تشيك آوت الساعة كام؟
+8050	corpus-6-test-corpus-26-train	ALX	فهمت.
+8058	corpus-6-test-corpus-26-train	ALX	أنا هكلم حد.
+8067	corpus-6-test-corpus-26-test	ALX	عاوز تقفل الفاتورة دلوقتى؟
+8068	corpus-6-test-corpus-26-train	ALX	العربية جات عندى من الجنب عند التقاطع.
+8094	corpus-6-test-corpus-26-train	ALX	دة صندوق موسيقى.
+8095	corpus-6-test-corpus-26-train	ALX	فين الضاحية؟
+8098	corpus-6-test-corpus-26-train	ALX	فى جولة أتوبيس للمدينة؟
+8108	corpus-6-test-corpus-26-train	ALX	نبدأ الساعة كام؟
+8114	corpus-6-test-corpus-26-train	ALX	تمام، يا فندم. فى الحجم الوسط إحنا ممكن نقدم لك ترمومتر. دة كويس؟
+8116	corpus-6-test-corpus-26-train	ALX	إنت خبطت عضلة.
+8141	corpus-6-test-corpus-26-train	ALX	بس لازم توعدنى إنك هتضرب الكورة، مش أنا. أوكى؟
+8143	corpus-6-test-corpus-26-train	ALX	أكتر بكام؟
+8149	corpus-6-test-corpus-26-train	ALX	ممكن أستلف كتان؟
+8156	corpus-6-test-corpus-26-train	ALX	إيه نوع الجلد اللى مصنوعة منه شنطة السفر دى؟
+8161	corpus-6-test-corpus-26-train	ALX	أنا مفتكرش إن السكينة دى نضيفة. ممكن تجيبلى واحدة تانية؟
+8164	corpus-6-test-corpus-26-train	ALX	أنا اشتريت دة من دقيقة، بس ممكن تبدل دة بدة؟
+8173	corpus-6-test-corpus-26-train	ALX	أتكلم بصراحة، أنا مش متفق مع دة.
+8177	corpus-6-test-corpus-26-train	ALX	هو دة الطريق الصح للمحطة المركزية؟
+8183	corpus-6-test-corpus-26-train	ALX	مركب مع مرشد، لو سمحت.
+8193	corpus-6-test-corpus-26-train	ALX	عاوز أطلب بدلة بلون غامق لنفسى.
+8194	corpus-6-test-corpus-26-train	ALX	الشمسية دى هتنفع لعصاية.
+8202	corpus-6-test-corpus-26-test	ALX	هو أنا لازم أسيب الشنط بتاعتى فى أوضة الامانات؟
+8210	corpus-6-test-corpus-26-train	ALX	لو سمحت ورينى الباسبور بتاعك.
+8227	corpus-6-test-corpus-26-train	ALX	فى أى مكان بيقبل غسيل يوم الحد؟
+8233	corpus-6-test-corpus-26-train	ALX	اتنين تشيزبرجر، لو سمحت.
+8234	corpus-6-test-corpus-26-train	ALX	أنهى أتوبيس بيروح ميامى؟
+8236	corpus-6-test-corpus-26-train	ALX	بس مش ضرورى تيبس.
+8248	corpus-6-test-corpus-26-train	ALX	تقدر تشوف واحد فى قاعة كارنيجى.
+8250	corpus-6-test-corpus-26-train	ALX	أنا مش متسجل.
+8271	corpus-6-test-corpus-26-train	ALX	إيه هو تخصص البيت؟
+8280	corpus-6-test-corpus-26-train	ALX	عاوز أحدد ميعاد مع دكتور.
+8291	corpus-6-test-corpus-26-dev	ALX	أنا بسأل لو فى ترابيزة متاحة قريب من الشباك لسبعة الليلة دى.
+8295	corpus-6-test-corpus-26-train	ALX	ماتتضايقش إنى آجى مكانك؟
+8305	corpus-6-test-corpus-26-train	ALX	واضح إنه محتاج تحسين.
+8316	corpus-6-test-corpus-26-train	ALX	فين اللى تحت الأرض؟
+8334	corpus-6-test-corpus-26-train	ALX	عندك منه بحجم أصغر؟
+8338	corpus-6-test-corpus-26-train	ALX	أقدر أجيب منين أسبرين؟
+8342	corpus-6-test-corpus-26-train	ALX	دة حد أدنى؟
+8349	corpus-6-test-corpus-26-train	ALX	لو سمحت إدينى كارت مرور لأسبوع.
+8355	corpus-6-test-corpus-26-train	ALX	دة زميلى.
+8358	corpus-6-test-corpus-26-train	ALX	أيه نوع البنزين هناك؟ ممتاز، عادى و غير منقى؟
+8368	corpus-6-test-corpus-26-train	ALX	واحد أهو.
+8371	corpus-6-test-corpus-26-train	ALX	أنا شكلى أخدت برد.
+8409	corpus-6-test-corpus-26-test	ALX	هو مقفول فى أيام الأثنين، لكن يوم تانى هيكون أوكى. أفتكر هو فاتح من تسعة لخمسة.
+8418	corpus-6-test-corpus-26-train	ALX	دة سمك تعبان مشوى مع صوص مخصوص على وش طبق رز.
+8435	corpus-6-test-corpus-26-train	ALX	"قال ""يالا نحتفل"" وأخدنى لبار. هو قال إنه رايح يعمل مكالمة تليفون ومشى ومارجعش تانى وكنت متورط فى فاتورة كبيرة."
+8454	corpus-6-test-corpus-26-train	ALX	بكام للجالون؟
+8456	corpus-6-test-corpus-26-train	ALX	أنا أخدت الباسبور والكريديت كارد بتاعى فى شنطتى.
+8485	corpus-6-test-corpus-26-train	ALX	حجوزات الساعة سبعة، تحت اسم مانو.
+8495	corpus-6-test-corpus-26-train	ALX	مش هتاخد كوباية شاى؟
+8497	corpus-6-test-corpus-26-dev	ALX	ممكن تقوللى ألاقى فين القنصلية اليابانية؟
+8509	corpus-6-test-corpus-26-train	ALX	فى دكتور فندق او واحد على اتصال؟
+8516	corpus-6-test-corpus-26-train	ALX	هو دايما بيعمل شوبينج فى شارع بوند.
+8527	corpus-6-test-corpus-26-train	ALX	ورقة إنجليزى، لو سمحت.
+8535	corpus-6-test-corpus-26-train	ALX	فى أى مكان بيلعب موسيقى وطنية؟
+8539	corpus-6-test-corpus-26-test	ALX	عاوز أراجع الحاجات الغالية بتاعتى.
+8543	corpus-6-test-corpus-26-train	ALX	فى اى صوف تانى؟
+8551	corpus-6-test-corpus-26-train	ALX	بكام للورقة؟
+8574	corpus-6-test-corpus-26-train	ALX	طيب، إضغط تسعة وصفر واحد واحد، بعد كدة كود البلد ورقم التليفون.
+8577	corpus-6-test-corpus-26-train	ALX	ممكن آخد كولا دايت؟
+8584	corpus-6-test-corpus-26-train	ALX	ممكن أعمل أوردر؟
+8595	corpus-6-test-corpus-26-train	ALX	إحنا قضينا وقت جميل فى السواقة. شكرا.
+8604	corpus-6-test-corpus-26-test	ALX	لو سمحت. ممكن أعدى؟
+8610	corpus-6-test-corpus-26-train	ALX	تعداد سكان اليابان حوالى مية وتلاتين مليون.
+8618	corpus-6-test-corpus-26-train	ALX	عاوز أأجر مظلة.
+8625	corpus-6-test-corpus-26-train	ALX	أيوة، أنا عاوز أعكس الأدوار.
+8636	corpus-6-test-corpus-26-train	ALX	محفظة فيها ميت دولار واتنين كريديت كارد.
+8637	corpus-6-test-corpus-26-train	ALX	المية سخنة جدا.
+8675	corpus-6-test-corpus-26-train	ALX	إنت هنا.
+8688	corpus-6-test-corpus-26-dev	ALX	فنجان قهوة، لو سمحت.
+8690	corpus-6-test-corpus-26-train	ALX	مش شبه بعض خالص.
+8696	corpus-6-test-corpus-26-train	ALX	معدتى بتوجعنى بعد الوجبات.
+8734	corpus-6-test-corpus-26-train	ALX	واو، دة مكان جميل.
+8741	corpus-6-test-corpus-26-train	ALX	هو ممكن يكون عنده انسداد هوائى.
+8749	corpus-6-test-corpus-26-train	ALX	قررت؟
+8788	corpus-6-test-corpus-26-train	ALX	لو تحب، ممكن نريح هنا.
+8791	corpus-6-test-corpus-26-test	ALX	أنا فقدت خط البريد المسجل.
+8803	corpus-6-test-corpus-26-train	ALX	متقدرش تغير وظيفتك بسهولة.
+8805	corpus-6-test-corpus-26-train	ALX	إيه المحطة الجاية؟
+8811	corpus-6-test-corpus-26-train	ALX	تمام، بس مش البينشات المكشوفة. حر أوى النهاردة.
+8823	corpus-6-test-corpus-26-dev	ALX	إنزل هنا، وغير لأتوبيس رقم ستة.
+8824	corpus-6-test-corpus-26-dev	ALX	لازم ألحق طيران عشرة الصبح.
+8827	corpus-6-test-corpus-26-train	ALX	لسة حاسس إنى عاوز أرجع.
+8833	corpus-6-test-corpus-26-train	ALX	مش عاوز أى حاجة ضخمة.
+8840	corpus-6-test-corpus-26-train	ALX	الشيك، لو سمحت.
+8844	corpus-6-test-corpus-26-test	ALX	بكام المشروم الطازة؟
+8850	corpus-6-test-corpus-26-train	ALX	السعر، من فضلك. بتاخد فيزا؟
+8851	corpus-6-test-corpus-26-train	ALX	النهاردة هروح أشوف تشيناتون عاملة إزاى.
+8880	corpus-6-test-corpus-26-train	ALX	اتنين زيرو اتنين تسعة تلاتة تسعة ستة سبعة زيرو زيرو.
+8900	corpus-6-test-corpus-26-train	ALX	عاوز أخلع سنتى.
+8905	corpus-6-test-corpus-26-train	ALX	عاوز شنطة ماكياج.
+8907	corpus-6-test-corpus-26-dev	ALX	أنا بسأل المفروض أسيب تيبس أد إيه.
+8914	corpus-6-test-corpus-26-train	ALX	"فين أقدر أشوف "" صورة الأوبرا ""؟"
+8915	corpus-6-test-corpus-26-train	ALX	عاوز أشترى هدايا تذكارية لأصحابى. ممكن ترشحلى؟
+8918	corpus-6-test-corpus-26-train	ALX	ببطء أكتر، لو سمحت.
+8919	corpus-6-test-corpus-26-dev	ALX	متوسط رسوم الفاكس الدولية بتاعتك كل شهر كام؟
+8947	corpus-6-test-corpus-26-train	ALX	مقلية من الناحيتين، لو سمحت.
+8966	corpus-6-test-corpus-26-dev	ALX	أوكى، دة واضح جدا. إنتوا الاتنين لو سمحتوا إدونى تراخيصكم والوثايق بتاعتكم. وانت يابنى، للأسف هنضطر نعملك اختبار تنفس.
+9011	corpus-6-test-corpus-26-train	ALX	هيكون جاهز بعد بكرة مساءا.
+9022	corpus-6-test-corpus-26-train	ALX	دة مصنوع من القطن؟
+9029	corpus-6-test-corpus-26-dev	ALX	معايا الدوا بتاعى.
+9034	corpus-6-test-corpus-26-train	ALX	أقدر أشوف إيه فى الجولة دى؟
+9041	corpus-6-test-corpus-26-train	ALX	أه، فى مشروب على الأقل.
+9051	corpus-6-test-corpus-26-train	ALX	بكام لليوم؟
+9061	corpus-6-test-corpus-26-dev	ALX	الأتوبيس دة بيقف قريب من الاوتيل؟
+9073	corpus-6-test-corpus-26-train	ALX	عاوز سي دي.
+9077	corpus-6-test-corpus-26-train	ALX	فى رحلات طيران الخطوط الجوية اليابانية و أول نيبون اللى بتمشى الساعة عشرة خمسة وخمسين. بس، للأسف الاتنين مليانين.
+9094	corpus-6-test-corpus-26-train	ALX	يناسبنى جدا.
+9098	corpus-6-test-corpus-26-train	ALX	ممكن ناخد ترابيزة لخمسة؟
+9100	corpus-6-test-corpus-26-train	ALX	هى مش بتفهم إنجليزى خالص.
+9126	corpus-6-test-corpus-26-dev	ALX	لو سمحت ادفع الشيك السياحى نقدى.
+9150	corpus-6-test-corpus-26-train	ALX	ممكن تاخد بالك منها من تسعة الصبح لحوالى تلاتة؟
+9160	corpus-6-test-corpus-26-train	ALX	بكام البريد الجوى لليابان؟
+9176	corpus-6-test-corpus-26-train	ALX	انا اتحبست. ممكن تفتح الباب بتاعى، لو سمحت.
+9211	corpus-6-test-corpus-26-train	ALX	أنهى جولة أحسن للفرجة على الأماكن الأكتر شهرة؟
+9229	corpus-6-test-corpus-26-test	ALX	فى أى مضيفات بتتكلم يابانى؟
+9242	corpus-6-test-corpus-26-test	ALX	كام شنطة أقدر أجيبها على الطيارة؟
+9263	corpus-6-test-corpus-26-train	ALX	لا، يا فندم. النهاردة بعد الضهر محجوز بالكامل. بس بكرة أوكى.
+9267	corpus-6-test-corpus-26-train	ALX	أنا هسأل البواب على الأجرة المظبوطة.
+9303	corpus-6-test-corpus-26-train	ALX	انا بجد، آسف.
+9308	corpus-6-test-corpus-26-train	ALX	إحنا عندنا حفلة الجمعة بالليل. ليه متنضمش لينا؟
+9312	corpus-6-test-corpus-26-train	ALX	طيب، أوضتك تسعة زيرو تمانية، يا آنسة. مفتاحك أهو.
+9316	corpus-6-test-corpus-26-dev	ALX	مهم جدا إن إحنا عندنا طريقة للوصول للمواد الخام اللى محتاجينها للمشروع.
+9324	corpus-6-test-corpus-26-train	ALX	لو سمحت، يا حضرة الظابط؟
+9325	corpus-6-test-corpus-26-train	ALX	القطر دة بيروح مباشر لإيدنبره؟
+9329	corpus-6-test-corpus-26-train	ALX	هو دة فى إطار الحد من الضريبة؟
+9337	corpus-6-test-corpus-26-train	ALX	خرج الحاجات الغالية بتاعتى، لو سمحت.
+9358	corpus-6-test-corpus-26-train	ALX	الرحلات السياحية زحمة أد إيه؟
+9367	corpus-6-test-corpus-26-train	ALX	عاوز أشترى هدايا تذكارية. فى محل مناسب قريب من هنا؟
+9372	corpus-6-test-corpus-26-train	ALX	هو فاتح لحد إمتى؟
+9384	corpus-6-test-corpus-26-train	ALX	هو برة دلوقتى.
+9385	corpus-6-test-corpus-26-train	ALX	مايومى، ممكن تملى الورقة دى بإمضتك؟
+9431	corpus-6-test-corpus-26-train	ALX	واحد أهو ليك، يا فندم.
+9432	corpus-6-test-corpus-26-train	ALX	مش معايا شنطة تشيك إن.
+9446	corpus-6-test-corpus-26-test	ALX	أكيد، خد وقتك.
+9450	corpus-6-test-corpus-26-train	ALX	أنا هنا ف مهمة إعلامية.
+9463	corpus-6-test-corpus-26-train	ALX	عندك أفلام صيف؟
+9481	corpus-6-test-corpus-26-train	ALX	إمتى قطر واشنطن دى سى الجاى؟
+9494	corpus-6-test-corpus-26-test	ALX	الطوال فى فوج دلوقتى.
+9516	corpus-6-test-corpus-26-train	ALX	أنا هكون برجع اليابان الأتنين الجاى.
+9526	corpus-6-test-corpus-26-train	ALX	ممكن آخد خريطة مترو الأنفاق؟
+9542	corpus-6-test-corpus-26-train	ALX	هى رحلة طويلة؟
+9560	corpus-6-test-corpus-26-train	ALX	ممكن تبدل دة بواحد جديد؟
+9576	corpus-6-test-corpus-26-train	ALX	شخصين.
+9579	corpus-6-test-corpus-26-test	ALX	أقدر إمتى آخد شنطتى؟
+9581	corpus-6-test-corpus-26-train	ALX	أنا مش حاسس إنى كويس. ممكن أتنى الكرسى بتاعى؟
+9604	corpus-6-test-corpus-26-train	ALX	حداشر خمسة وأربعين الصبح.
+9605	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى مطعم منتشر بين الشباب؟
+9606	corpus-6-test-corpus-26-train	ALX	عربيته كانت بتجرى بأقصى سرعة.
+9611	corpus-6-test-corpus-26-dev	ALX	ممكن أسيب رسالة؟ أنا بتصل علشان أأكد ميعادى مع الأستاذ إيبرت الأربع الجاى الساعة حداشر الصبح.
+9628	corpus-6-test-corpus-26-dev	ALX	تقدر بشكل ما تشرح مرضك بالانجليزى؟
+9634	corpus-6-test-corpus-26-test	ALX	ممكن تبعت تاكسى للمدخل الرئيسى لمول ويستمنستر؟
+9651	corpus-6-test-corpus-26-train	ALX	كام مرة ببدل قطورات عشان أوصل هناك؟
+9657	corpus-6-test-corpus-26-train	ALX	دة صح؟ خلينى أراجع. أوه، أنا آسف جدا، أنسة تاكانو. دى غلطتنا. فاتورتك الجديدة أهى. ممكن تمضى هنا، لو سمحتى؟
+9673	corpus-6-test-corpus-26-train	ALX	رجعلى خمسة دولار، لو سمحت.
+9683	corpus-6-test-corpus-26-train	ALX	سدادة البانيو مش بتقفل للآخر.
+9687	corpus-6-test-corpus-26-train	ALX	دة بس دليل على تقديرى.
+9688	corpus-6-test-corpus-26-train	ALX	ممكن تملا الاستمارة دى؟
+9695	corpus-6-test-corpus-26-test	ALX	إيه أخبار القوالب البلاستيك دى؟
+9701	corpus-6-test-corpus-26-train	ALX	إيه الماركات اللى عندك؟
+9702	corpus-6-test-corpus-26-train	ALX	الكعب عالى أوى عليا.
+9710	corpus-6-test-corpus-26-test	ALX	أنا محبوس برة أوضتى.
+9730	corpus-6-test-corpus-26-train	ALX	بقالك أد إيه فى باريس؟
+9732	corpus-6-test-corpus-26-train	ALX	ممكن آخد طوابع بريد لتلات بطاقات بريد جوى لليابان؟
+9746	corpus-6-test-corpus-26-train	ALX	بيتنطق ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	ALX	تحب تاخد مشروب؟
+9748	corpus-6-test-corpus-26-train	ALX	مدد هنا.
+9752	corpus-6-test-corpus-26-train	ALX	خليه برقية مستعجلة، لو سمحت.
+9788	corpus-6-test-corpus-26-train	ALX	بناءا على التقرير الجوى، هتنزل تلج بكرة.
+9792	corpus-6-test-corpus-26-train	ALX	عاوز كورة.
+9822	corpus-6-test-corpus-26-train	ALX	بالتأكيد. إحنا هنكون مبسوطين نعمل كدة.
+9829	corpus-6-test-corpus-26-train	ALX	هاى، كتاب هزلى ماليزى. هشترى واحد آخده البيت كقطعة رسم تصويرى.
+9862	corpus-6-test-corpus-26-train	ALX	"الطريق للنجاح هو ""جينمياكو، "" صح؟"
+9866	corpus-6-test-corpus-26-dev	ALX	أنا هوصل الأوتيل بتاعك حوالى تسعة بالليل.
+9885	corpus-6-test-corpus-26-train	ALX	أنا معايا حوالى ألفين وخمسويت دولار بالين اليابانى.
+9903	corpus-6-test-corpus-26-train	ALX	آه، بنعمل. هوريك شوية.
+9906	corpus-6-test-corpus-26-train	ALX	عاوز حبوب منومة.
+9910	corpus-6-test-corpus-26-train	ALX	أنا هكون هنا لحد يوم تسعة. أتمنى تقدر تقبض على المجرم فى أقرب وقت ممكن.
+9945	corpus-6-test-corpus-26-train	ALX	أنا متأكد إن المجرم قريب.
+9948	corpus-6-test-corpus-26-train	ALX	عشر طوابع لو سمحت.
+9949	corpus-6-test-corpus-26-train	ALX	جالى احتقان فى الزور.
+9955	corpus-6-test-corpus-26-train	ALX	محتاج هدايا تذكارية من نيويورك.
+9969	corpus-6-test-corpus-26-train	ALX	أنا بعمل تشيك آوت. ممكن تبعت شيال؟
+9979	corpus-6-test-corpus-26-train	ALX	ساعتى وقفت.
+9983	corpus-6-test-corpus-26-train	ALX	أوه، هو كدة؟ تحبه إزاى؟
+10006	corpus-6-test-corpus-26-train	ALX	إحنا فاتحين الساعة تسعة الصبح.
+10032	corpus-6-test-corpus-26-train	ALX	عاوز كتاب تلوين.
+10037	corpus-6-test-corpus-26-train	ALX	متهيألى حاسس بدوار جو.
+10043	corpus-6-test-corpus-26-train	ALX	أنا لازم أروح بنك يابانى؟
+10045	corpus-6-test-corpus-26-train	ALX	لازم تستبدل الفلوس فى بنك.
+10065	corpus-6-test-corpus-26-train	ALX	باقي وقت كتير عالتشيك آوت؟
+10069	corpus-6-test-corpus-26-train	ALX	جوزك واحد من أفضل زبايننا.
+10078	corpus-6-test-corpus-26-train	ALX	تعرف دكتور أسنان كويس؟
+10084	corpus-6-test-corpus-26-train	ALX	أوه. إنت لازم تبلغ القنصلية فورا.
+10091	corpus-6-test-corpus-26-train	ALX	مخلوط، مش متقلب.
+10098	corpus-6-test-corpus-26-dev	ALX	تحب ترابيزة فى المطعم الرئيسى ولا فى أوضة خاصة، يا فندم؟
+10102	corpus-6-test-corpus-26-train	ALX	عدد كبير من الناس بيروحوا الشاطئ خلال الموسم.
+10107	corpus-6-test-corpus-26-train	ALX	أنا بوزن حوالى مية وخمسين رطل.
+10111	corpus-6-test-corpus-26-train	ALX	المفروض أحول فين؟
+10114	corpus-6-test-corpus-26-train	ALX	فين مكتب الممتلكات المفقودة؟
+10116	corpus-6-test-corpus-26-train	ALX	فى أى أتوبيس بيروح هناك مباشرة؟
+10125	corpus-6-test-corpus-26-train	ALX	هو أنا محتاج أى علاج مخصوص؟
+10129	corpus-6-test-corpus-26-train	ALX	دة هيكون نقدى ولا شحن؟
+10134	corpus-6-test-corpus-26-test	ALX	إحنا نقلنا للبيت دة من سنة فاتت.
+10155	corpus-6-test-corpus-26-train	ALX	الموضوع ياخد أد إيه علشان الفيزا بتاعتى تطلع؟
+10156	corpus-6-test-corpus-26-train	ALX	فين الحمامات؟
+10160	corpus-6-test-corpus-26-train	ALX	المبلغ الإجمالى المستحق ميتين تلاتة وأربعين جنيه، يا مدام.
+10164	corpus-6-test-corpus-26-train	ALX	دة هدية. ممكن تلفه فى ورق هدايا حلو؟
+10182	corpus-6-test-corpus-26-train	ALX	إيه المنظر دة. دى سكك حديد ضخمة.
+10187	corpus-6-test-corpus-26-dev	ALX	فى ناس إتصابت.
+10191	corpus-6-test-corpus-26-dev	ALX	لو سمحت. فين المحطة القريبة من هنا؟
+10224	corpus-6-test-corpus-26-train	ALX	أه، عندنا حجز ليك.
+10238	corpus-6-test-corpus-26-train	ALX	لو سمحت، بس أنا عاوز أروح الأوتيل بتاعى فى المدينة بالأتوبيس. أقدر آخد أتوبيس منين؟
+10243	corpus-6-test-corpus-26-test	ALX	فراخ، لو سمحت.
+10257	corpus-6-test-corpus-26-train	ALX	دى أوضة أتنين زيرو واحد. أنا عاوز أطلب فطار بكرة.
+10272	corpus-6-test-corpus-26-test	ALX	إيه رأيك فى التحرش الجنسى فى مكان العمل؟
+10318	corpus-6-test-corpus-26-dev	ALX	أنا عندى أختين.
+10336	corpus-6-test-corpus-26-dev	ALX	رحلة طيران رقة اتنين زيرو تمانية، لطوكيو.
+10354	corpus-6-test-corpus-26-train	ALX	يبقى يالا نحط حشو جوة.
+10366	corpus-6-test-corpus-26-test	ALX	خلينا نتجمع علشان نناقش دة أكتر.
+10372	corpus-6-test-corpus-26-train	ALX	تحب شعرك يتعمل إزاى النهاردة؟
+10403	corpus-6-test-corpus-26-train	ALX	ممكن تقول دة بكلمات تانية؟
+10408	corpus-6-test-corpus-26-train	ALX	أنا هعمل بأى حاجة عندك.
+10411	corpus-6-test-corpus-26-train	ALX	عاوزين ترابيزة قريبة من المسرح.
+10416	corpus-6-test-corpus-26-train	ALX	أنا تمام. طيب، إنت رايح حتة؟
+10433	corpus-6-test-corpus-26-train	ALX	إرتفاع ألفين وربعوميت متر.
+10435	corpus-6-test-corpus-26-train	ALX	إدخل. لو سمحت حطه على الترابيزة هناك.
+10440	corpus-6-test-corpus-26-train	ALX	لو سمحت إلغى رقم الكارت بتاعى.
+10468	corpus-6-test-corpus-26-train	ALX	انا آسف، كلهم متباعين، بس هيكونوا عندنا خلال أيام قليلة.
+10473	corpus-6-test-corpus-26-test	ALX	ممكن آخد قهوة؟
+10477	corpus-6-test-corpus-26-train	ALX	معنديش ميعاد، بس دة أمر مستعجل.
+10479	corpus-6-test-corpus-26-train	ALX	دة ضعيف.
+10480	corpus-6-test-corpus-26-train	ALX	لسلم المتحرك فين؟
+10497	corpus-6-test-corpus-26-train	ALX	معاك بروشور للإيفنتس؟
+10500	corpus-6-test-corpus-26-train	ALX	فين مدخل مترو الأنفاق؟
+10504	corpus-6-test-corpus-26-train	ALX	أنا ضيعت تذكرة الطيران بتاعتى.
+10559	corpus-6-test-corpus-26-train	ALX	متقدرش تفضل هنا خلال الأجازة؟
+10562	corpus-6-test-corpus-26-train	ALX	أوه، أنا آسف جدا إنى أزعجتك.
+10563	corpus-6-test-corpus-26-dev	ALX	تقدر تحجز إيفنتس؟
+10565	corpus-6-test-corpus-26-train	ALX	فى حمام عام قريب من هنا؟
+10590	corpus-6-test-corpus-26-train	ALX	الإجمالى كام؟
+10593	corpus-6-test-corpus-26-train	ALX	دة كويس جدا. دلوقتى الأسئلة، من فضلكم.
+10599	corpus-6-test-corpus-26-train	ALX	معاك أى فكة لعداد الباركينج؟
+10617	corpus-6-test-corpus-26-test	ALX	أعلى مبيعات عندنا للأربع سنين الأخيرة مكنة التصوير إيه إكس ربعمية وخمسين.
+10645	corpus-6-test-corpus-26-train	ALX	ألف شمال؟
+10662	corpus-6-test-corpus-26-test	ALX	فى أى مضيفات بتتكلم يابانى؟
+10670	corpus-6-test-corpus-26-train	ALX	سعر هايل، مش كدة؟
+10680	corpus-6-test-corpus-26-train	ALX	إنت لازم تاخده تسعة وتسعين مرة فى اليوم، قبل الوجبات.
+10707	corpus-6-test-corpus-26-train	ALX	أنا بحبه.
+10733	corpus-6-test-corpus-26-train	ALX	عاوز ستاند بتلات قوايم.
+10736	corpus-6-test-corpus-26-dev	ALX	عاوز بدلة رياضية.
+10749	corpus-6-test-corpus-26-dev	ALX	تقدر تقعد فى بيتى.
+10753	corpus-6-test-corpus-26-test	ALX	ممكن أتنى الكرسى بتاعى لورا، لو سمحت؟
+10756	corpus-6-test-corpus-26-train	ALX	عظيم. أنا كنت بدور على تاكسى، بس كدة أحسن.
+10760	corpus-6-test-corpus-26-train	ALX	بالطو رائع. دة صناعة بريطانية؟
+10778	corpus-6-test-corpus-26-train	ALX	أنا عاوز أروح مركز هارفارد. ممكن تقوللى لما نوصل هناك؟
+10790	corpus-6-test-corpus-26-train	ALX	شخصين كبار وطفلين، لو سمحت.
+10817	corpus-6-test-corpus-26-train	ALX	السعر إيه؟
+10824	corpus-6-test-corpus-26-train	ALX	ستار وورز حقق اعظم نجاح فى ألف تسعمية أربعة وتمانين.
+10830	corpus-6-test-corpus-26-train	ALX	فين قسم غير المدخنين؟
+10831	corpus-6-test-corpus-26-train	ALX	"دي ""ت"" زى فى توم، أه عندى هنا، يا تارو."
+10848	corpus-6-test-corpus-26-test	ALX	أعتقد إنه تصويرى.
+10851	corpus-6-test-corpus-26-test	ALX	عاوز تفاح، من فضلك.
+10869	corpus-6-test-corpus-26-train	ALX	دة لإيه؟
+10882	corpus-6-test-corpus-26-train	ALX	بتقبل أنهى كريديت كاردس؟
+10922	corpus-6-test-corpus-26-train	ALX	انا عندى وقت كتير.
+10930	corpus-6-test-corpus-26-train	ALX	طيب، دة وقت الغدا. تحب نناقش دة على الغدا؟
+10937	corpus-6-test-corpus-26-dev	ALX	جهاز تسجيل الفيديو إتسرق من أوضتى.
+10950	corpus-6-test-corpus-26-train	ALX	أهلا، إسمى أودا. انا عندى حجز لليلة دى، بس هكون بعمل تشيك- إن متأخر شوية. بالتالى، من فضلك تعلق الحجز بتاعى.
+10953	corpus-6-test-corpus-26-train	ALX	الشوز دى متينة؟
+10955	corpus-6-test-corpus-26-test	ALX	لو سمحت قوله أنا مستنى مكالمة التليفون بتاعته.
+10964	corpus-6-test-corpus-26-train	ALX	بيقولوا الأنفلونزا منتشرة هناك.
+10973	corpus-6-test-corpus-26-train	ALX	جوة.
+10975	corpus-6-test-corpus-26-train	ALX	أنا آسف. بكرة بالليل إحنا مزحومين.
+10976	corpus-6-test-corpus-26-train	ALX	أنا مع أصحابى.
+10985	corpus-6-test-corpus-26-train	ALX	بحسب جورو، الأستاذ يامادا عنده طفلين.
+10994	corpus-6-test-corpus-26-dev	ALX	ممكن تقول دة تانى؟
+10997	corpus-6-test-corpus-26-train	ALX	أنا عاوز ألف لبرج لندن.
+11019	corpus-6-test-corpus-26-train	ALX	من فضلك إربط حزام كرسيك.
+11027	corpus-6-test-corpus-26-test	ALX	كود المنطقة تلاتة. رقم التليفون اتنين تلاتة أربعة تلاتة أربعة زيرو زيرو.
+11030	corpus-6-test-corpus-26-test	ALX	لو سمحت. فى أى كوبرى قريب من هنا؟
+11041	corpus-6-test-corpus-26-dev	ALX	لو سمحت. عاوز أستخدم التواليت.
+11046	corpus-6-test-corpus-26-train	ALX	هو مشغول.
+11047	corpus-6-test-corpus-26-test	ALX	هدومه دايما مش على الموضة.
+11054	corpus-6-test-corpus-26-train	ALX	عندك سى فود؟
+11057	corpus-6-test-corpus-26-train	ALX	دة غالى جدا.
+11058	corpus-6-test-corpus-26-train	ALX	أنا نفسى، لكن للأسف مش هعرف أعمل كدة المرة دى.
+11064	corpus-6-test-corpus-26-train	ALX	طيب، أنا مش عارف لسة، لكن أكيد هجرب.
+11069	corpus-6-test-corpus-26-dev	ALX	ملح، لو سمحت.
+11082	corpus-6-test-corpus-26-train	ALX	لو سمحت استخدم أوضة القياس اللى هناك.
+11100	corpus-6-test-corpus-26-train	ALX	تسعين دولار لتذكرة الذهاب بس. كاش ولا كارت؟
+11109	corpus-6-test-corpus-26-dev	ALX	ممكن تنضفلى الترابيزة، لو سمحت؟
+11123	corpus-6-test-corpus-26-train	ALX	إزاى الأباء اليابانيين بيربوا ولادهم؟ هما متشددين مع ولادهم؟
+11126	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى ساعات العمل؟
+11131	corpus-6-test-corpus-26-dev	ALX	من فضلك لفهم بشكل منفصل.
+11161	corpus-6-test-corpus-26-train	ALX	حاسس إن معدتى تقيلة.
+11171	corpus-6-test-corpus-26-dev	ALX	دة كويس. نقدر نستناك فين؟
+11174	corpus-6-test-corpus-26-train	ALX	ممكن نبدأ نلعب لما يخلصوا؟
+11190	corpus-6-test-corpus-26-train	ALX	تعداد سكان اليابان حوالى مية وعشرين مليون.
+11197	corpus-6-test-corpus-26-train	ALX	إملا البنود الجاية على بطاقة التسجيل.
+11199	corpus-6-test-corpus-26-train	ALX	ممكن أسترد حاجاتى؟
+11240	corpus-6-test-corpus-26-train	ALX	عندك سكارفات حرير؟ أنا بدور على هدية لمراتى.
+11246	corpus-6-test-corpus-26-train	ALX	هنجيبه دلوقتى. رقم أوضتك كام؟
+11264	corpus-6-test-corpus-26-test	ALX	أستاذ كوباياشى كان بيدور عليك.
+11267	corpus-6-test-corpus-26-train	ALX	أنا عاوز أسافر من شانغهاى لهاواى بالسفينة.
+11278	corpus-6-test-corpus-26-test	ALX	ممكن تبعت حد؟
+11282	corpus-6-test-corpus-26-train	ALX	ممكن يكون جاهز على خمسة بعد الضهر بكرة؟
+11302	corpus-6-test-corpus-26-train	ALX	بياخد عشر دقايق مشى.
+11316	corpus-6-test-corpus-26-train	ALX	قبل ما نسميه يوم، ممكن تدينى دقايق قليلة؟
+11325	corpus-6-test-corpus-26-dev	ALX	أقدر أركن عربيتى فين؟
+11336	corpus-6-test-corpus-26-dev	ALX	حاسس إنى بردان ومعدتى بتوجعنى جامد.
+11342	corpus-6-test-corpus-26-train	ALX	سكوتش وميا، لو سمحت. وعندك أى حاجة خفيفة تتاكل؟
+11343	corpus-6-test-corpus-26-train	ALX	إزاى أطفى النور دة؟
+11360	corpus-6-test-corpus-26-train	ALX	هو مشغول أوى النهاردة؟
+11374	corpus-6-test-corpus-26-train	ALX	عاوز خيط.
+11375	corpus-6-test-corpus-26-train	ALX	إدينى شهادة صحية، لو سمحت.
+11378	corpus-6-test-corpus-26-train	ALX	عاوزك تعمله إنش أقصر هنا.
+11392	corpus-6-test-corpus-26-train	ALX	مش حاسس إنى كويس. لو سمحت تدينى دوا.
+11403	corpus-6-test-corpus-26-train	ALX	ممكن آخد جرنال يابانى، لو سمحت؟
+11404	corpus-6-test-corpus-26-train	ALX	تمام. ممكن أركن العربية في أى مكان؟ وكام سعر الركنة؟
+11412	corpus-6-test-corpus-26-train	ALX	أنهى أتوبيس بيروح لمركز المدينة؟
+11420	corpus-6-test-corpus-26-train	ALX	فى أى اكسبريس لبوسطن؟
+11435	corpus-6-test-corpus-26-train	ALX	من فضلك تكون صديق المراسلة بتاعى.
+11438	corpus-6-test-corpus-26-dev	ALX	أنا هقعد مع صديق.
+11442	corpus-6-test-corpus-26-train	ALX	أنا متحمس جدا، مش قادر أقعد ساكت.
+11449	corpus-6-test-corpus-26-train	ALX	ممكن أنزل عند فندق هيلتون؟
+11450	corpus-6-test-corpus-26-train	ALX	عاوزك تشيله.
+11457	corpus-6-test-corpus-26-train	ALX	امشي شمال اخر الشارع دة وخد أول يمين.
+11462	corpus-6-test-corpus-26-train	ALX	عاوز أعرف لو ممكن مجموعة الأطباق دى تتشحن لطوكيو.
+11467	corpus-6-test-corpus-26-train	ALX	عاوز بودرة جسم.
+11478	corpus-6-test-corpus-26-train	ALX	فى أى أكل مش سخن وحراق أوى؟
+11479	corpus-6-test-corpus-26-train	ALX	هو قريب كفاية إننا نمشيله؟
+11491	corpus-6-test-corpus-26-dev	ALX	عاوز كريم إيدين.
+11493	corpus-6-test-corpus-26-train	ALX	ممكن تمرر لى الملح؟
+11500	corpus-6-test-corpus-26-train	ALX	عاوز أروح وول ستريت. إزاى أوصل هناك؟
+11541	corpus-6-test-corpus-26-train	ALX	التمرين الكتير هيضرك.
+11544	corpus-6-test-corpus-26-train	ALX	شامل الفطار، الضريبة، وتكلفة الخدمة، دة هيكون خمسة وأربعين دولار للفرد فى الليلة.
+11550	corpus-6-test-corpus-26-train	ALX	ممكن تصلح دة؟
+11574	corpus-6-test-corpus-26-train	ALX	مساء الخير. أهلا.
+11576	corpus-6-test-corpus-26-train	ALX	مش لاقى شنط السفر بتاعتك.
+11595	corpus-6-test-corpus-26-train	ALX	إمشى على طول، لو سمحت.
+11600	corpus-6-test-corpus-26-train	ALX	هى الميا هنا آمنة للشرب؟
+11622	corpus-6-test-corpus-26-train	ALX	آااه، ياللا. اتنين دولار بس.
+11626	corpus-6-test-corpus-26-train	ALX	ممكن لو سمحت تغير الفستان دة لواحد مقاس أكبر؟
+11631	corpus-6-test-corpus-26-train	ALX	طيب، يالا بينا. أنا أقدر أساعدك فى الواجب بتاعك بعد ما ناخد بيتزا.
+11633	corpus-6-test-corpus-26-train	ALX	أيوة، أستاذ. تاناكا. فى رسالتين ليك.
+11643	corpus-6-test-corpus-26-train	ALX	هو مش مناسبلى.
+11646	corpus-6-test-corpus-26-train	ALX	بكرة يوم تانى.
+11663	corpus-6-test-corpus-26-train	ALX	ممكن أقدر أساعدك. إنت محتاج فيتامين سى؟
+11689	corpus-6-test-corpus-26-train	ALX	محفظتى اتنشلت فى القطر.
+11704	corpus-6-test-corpus-26-train	ALX	هو بعيد جدا. الأحسن خد تاكسى.
+11708	corpus-6-test-corpus-26-train	ALX	عاوز كرسى فى الممر، لو سمحت.
+11709	corpus-6-test-corpus-26-train	ALX	أنا عايش فى شقة بتمانين ألف ين شهريا.
+11714	corpus-6-test-corpus-26-train	ALX	ممكن أقاطع؟
+11720	corpus-6-test-corpus-26-dev	ALX	ورينى واحد أوسع.
+11734	corpus-6-test-corpus-26-train	ALX	لو سمحت، عندك مانع تبدل الكراسى معايا؟
+11746	corpus-6-test-corpus-26-train	ALX	أيوة، طبعا.
+11751	corpus-6-test-corpus-26-train	ALX	إنزل للناصية ولف شمال عند إشارة المرور.
+11754	corpus-6-test-corpus-26-dev	ALX	عاوز اسطوانات أصغر ولا أكبر؟
+11767	corpus-6-test-corpus-26-test	ALX	عاوز أوضة سينجل بحمام بتمانين دولار، من فضلك.
+11800	corpus-6-test-corpus-26-train	ALX	أنا عاوز أحط الحاجات الغالية بتاعتى فى أمانات الفندق.
+11817	corpus-6-test-corpus-26-dev	ALX	عندك أوضة متاحة الليلة دى؟
+11821	corpus-6-test-corpus-26-train	ALX	أيوة، بس إتأكد إن التذكرة بتاعتك معاك.
+11862	corpus-6-test-corpus-26-train	ALX	عدد قليل بس من الناس هينضموا للجولة الاختيارية.
+11872	corpus-6-test-corpus-26-train	ALX	ولا يهمك. على أى حال، من فضلك تاخدنى لمركز تشيناتون. أنا هحاول أكتشفه بنفسى.
+11879	corpus-6-test-corpus-26-train	ALX	ناس جديدة إتعينوا فى أبريل.
+11880	corpus-6-test-corpus-26-train	ALX	أتمنى كدة.
+11885	corpus-6-test-corpus-26-train	ALX	اتنين سكوتش وميا، لو سمحت.
+11901	corpus-6-test-corpus-26-train	ALX	مين بيلعب؟
+11913	corpus-6-test-corpus-26-dev	ALX	ممكن تكلمنى لو لقيت شنطتى؟
+11916	corpus-6-test-corpus-26-train	ALX	شمال، لو سمحت.
+11932	corpus-6-test-corpus-26-test	ALX	ممكن تقف معايا نتصور؟
+11938	corpus-6-test-corpus-26-dev	ALX	لأ. عاوز تبلغ عنه؟
+11949	corpus-6-test-corpus-26-train	ALX	السنة اللى قدام دى بتوجع.
+11959	corpus-6-test-corpus-26-train	ALX	إيه أحدث لعبة كمبيوتر لسن خمستاشر؟
+11972	corpus-6-test-corpus-26-train	ALX	هنشوفك بكرة.
+11973	corpus-6-test-corpus-26-test	ALX	فى مطعم أقل غلو قريب من هنا؟
+11975	corpus-6-test-corpus-26-train	ALX	لأ، بس شكرا. أنا حاسس إنى أحسن.
+11976	corpus-6-test-corpus-26-train	ALX	عندك أى عيش؟
+11977	corpus-6-test-corpus-26-train	ALX	إنت شاطر أد إيه فى الكمنجة؟
+11990	corpus-6-test-corpus-26-train	ALX	صاحبى إتزحلق ووقع فى الحمام.
+11991	corpus-6-test-corpus-26-train	ALX	ممكن آخد طفاية؟
+11997	corpus-6-test-corpus-26-train	ALX	المسيحية اتمنعت والدولة اتقفلت لباقى العالم.
+12005	corpus-6-test-corpus-26-train	ALX	عاوز كام؟
+12012	corpus-6-test-corpus-26-train	ALX	كوكتيل جمبرى ليها ونفس الحاجة ليا.
+12033	corpus-6-test-corpus-26-train	ALX	ممكن تيجى تمضيلى هنا؟ وامضى بالحرف الأول هنا من فضلك.
+12035	corpus-6-test-corpus-26-train	ALX	كان من دواعى سرورى إنى أزور المكاتب الرئيسية بتاعتك وإنى أتناقش معاك مناقشات مهمة. شكرا جدا على حسن تعاونك.
+12054	corpus-6-test-corpus-26-train	ALX	صوت شخيرك مزعج.
+12056	corpus-6-test-corpus-26-train	ALX	أنا مش عاجبنى اللون بعد كل دة. ممكن أرجع دة؟
+12057	corpus-6-test-corpus-26-dev	ALX	إطلع من الباب اللى هناك، واستنى فى محطة رقم ستة.
+12060	corpus-6-test-corpus-26-dev	ALX	فراخ مشوية، لو سمحت.
+12069	corpus-6-test-corpus-26-train	ALX	ممكن آخد فلفل؟
+12074	corpus-6-test-corpus-26-test	ALX	أه، عاوز حاجة أقراها.
+12101	corpus-6-test-corpus-26-train	ALX	انا أستاذ تاكاهاشى فى أوضة خمسة تسعة وأربعين. ممكن تبعت فوق أربع أزايز بيرة بادوايزر، لو سمحت؟
+12131	corpus-6-test-corpus-26-train	ALX	دة سبعين دولار.
+12140	corpus-6-test-corpus-26-train	ALX	من فضلك كلمنى فى الأوتيل بتاعى لما تلاقى الشنط بتاعتى.
+12150	corpus-6-test-corpus-26-train	ALX	عاوز مكالمة تصحينى الساعة تمانية ونص بكرة الصبح، من فضلك.
+12167	corpus-6-test-corpus-26-train	ALX	آه، بس دة كتير أوى وأنا خلاص شبعت.
+12172	corpus-6-test-corpus-26-train	ALX	عاوز غسول فم.
+12173	corpus-6-test-corpus-26-train	ALX	أنا مش حاسس إنى كويس.
+12182	corpus-6-test-corpus-26-train	ALX	بتدى أى خصومات بالجملة؟
+12193	corpus-6-test-corpus-26-train	ALX	طوكيو زيرو تلاتة أربع تسعات أربعة خمسة ستة سبعة.
+12240	corpus-6-test-corpus-26-train	ALX	ممكن تساعدنى ألاقى جنينة الحيوانات؟
+12246	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى إزاى أعدله؟
+12247	corpus-6-test-corpus-26-train	ALX	حوالى الساعة كام جولة الأتوبيس بتنتهى؟
+12254	corpus-6-test-corpus-26-train	ALX	تعرف إزاى استخدم التليفون؟
+12259	corpus-6-test-corpus-26-train	ALX	أكيد. إحنا عندنا علامات للكتب أمريكية أصلية جميلة.
+12298	corpus-6-test-corpus-26-train	ALX	موظف تليفون بيتكلم يابانى، لو سمحت.
+12331	corpus-6-test-corpus-26-train	ALX	إحنا مهتمين بالموضة.
+12333	corpus-6-test-corpus-26-train	ALX	ممكن تدينى زقة؟
+12345	corpus-6-test-corpus-26-train	ALX	هى دى عيادة إف؟
+12364	corpus-6-test-corpus-26-train	ALX	أهلا، أنسة. ياماجوتشى؟ الطرف التانى على الخط. مكالمتك اتقبلت. اتفضلى، لو سمحتى.
+12391	corpus-6-test-corpus-26-test	ALX	منين أقدر أشترى كوبون تذكرة رفع؟
+12396	corpus-6-test-corpus-26-train	ALX	هنوصل لوس أنجلوس الساعة كام؟
+12403	corpus-6-test-corpus-26-train	ALX	إمشى على طول حوالى خمس دقايق، وإحود شمال.
+12416	corpus-6-test-corpus-26-train	ALX	الطريق دة ناحية الشاطئ.
+12420	corpus-6-test-corpus-26-train	ALX	شاى الأعشاب دة بيساعد على تجديد الجسم.
+12421	corpus-6-test-corpus-26-train	ALX	دول مش مصنوعين فى اليابان، صح؟
+12443	corpus-6-test-corpus-26-train	ALX	تمام. الطريق دة لو سمحت. أنا هوريك الطريق لأوضتك.
+12479	corpus-6-test-corpus-26-train	ALX	لازم أسيب الاوتيل قبل الضهر.
+12495	corpus-6-test-corpus-26-train	ALX	اتنين هامبرجر واتنين قهوة، لو سمحت. أنا عاوز أخدها برة.
+12510	corpus-6-test-corpus-26-train	ALX	ممكن أشيل الشنطتين دول؟
+12527	corpus-6-test-corpus-26-train	ALX	انا طلبت لحمة، مش سمك. ممكن تغير دة؟
+12546	corpus-6-test-corpus-26-train	ALX	إبنى منهك تماما.
+12551	corpus-6-test-corpus-26-train	ALX	انا تعبان ع الآخر.
+12556	corpus-6-test-corpus-26-train	ALX	الجاكت دة مش مقاسى.
+12557	corpus-6-test-corpus-26-train	ALX	عاوز أقابل أستاذ ويليام.
+12560	corpus-6-test-corpus-26-train	ALX	دة فيه تشكيلة من سبع فيتامينات ومعادن.
+12562	corpus-6-test-corpus-26-test	ALX	السنة بتتلخلخ.
+12589	corpus-6-test-corpus-26-train	ALX	ممكن آخد مبلغ لما أرجع اليابان؟
+12599	corpus-6-test-corpus-26-train	ALX	الطبق دة معمول من إيه؟
+12603	corpus-6-test-corpus-26-train	ALX	دة مصنوع فى أنهى دولة؟
+12608	corpus-6-test-corpus-26-train	ALX	ممكن تعمله فى عشر دقايق؟
+12611	corpus-6-test-corpus-26-dev	ALX	انا مش شاطر فى الإنجليزى. فى أى حد هنا بيتكلم يابانى؟
+12615	corpus-6-test-corpus-26-train	ALX	منين أقدر أجيب عملة المترو؟
+12638	corpus-6-test-corpus-26-train	ALX	عشرين عينة إضافية هتتبعتولك بالبريد.
+12644	corpus-6-test-corpus-26-train	ALX	مفتكرش دة ليا علشان أنا بشرتى نوعا ما جافة.
+12650	corpus-6-test-corpus-26-train	ALX	ممكن آخد جدول بالمواعيد، لو سمحت؟
+12658	corpus-6-test-corpus-26-dev	ALX	أه، أفتكر هستنى.
+12671	corpus-6-test-corpus-26-train	ALX	تسعة وتسعين دولار فى الساعة لكل طفل.
+12672	corpus-6-test-corpus-26-train	ALX	أنا آسف، إتباع.
+12677	corpus-6-test-corpus-26-train	ALX	لازم يكون هادى.
+12678	corpus-6-test-corpus-26-dev	ALX	معايا معداتى الخاصة.
+12679	corpus-6-test-corpus-26-train	ALX	مفتاح آوضة، خمسة زيرو تلاتة، لو سمحت.
+12699	corpus-6-test-corpus-26-test	ALX	امتى ترمينال مان بيتعرض؟
+12701	corpus-6-test-corpus-26-train	ALX	فين الكوافير؟
+12708	corpus-6-test-corpus-26-train	ALX	الساعة سبعة، لو سمحت.
+12712	corpus-6-test-corpus-26-train	ALX	شنطة السفر بتاعتى اتبهدلت.
+12713	corpus-6-test-corpus-26-train	ALX	سياحة.
+12732	corpus-6-test-corpus-26-train	ALX	أنا جاى من أسبانيا.
+12750	corpus-6-test-corpus-26-dev	ALX	فى حاجة غلط فى المفتاح دة. ممكن تدينى واحد غيره، لو سمحت؟
+12755	corpus-6-test-corpus-26-dev	ALX	عندى طفح جلدى على دراعى.
+12761	corpus-6-test-corpus-26-train	ALX	إبعت دة بالبريد الجوى لليابان، لو سمحت.
+12766	corpus-6-test-corpus-26-test	ALX	فين أقرب صيدلى؟
+12770	corpus-6-test-corpus-26-dev	ALX	نبيت تانى، لو سمحت.
+12773	corpus-6-test-corpus-26-train	ALX	الناس ودودين جدا.
+12776	corpus-6-test-corpus-26-test	ALX	كام مشروب مدرج ضمن السعر؟
+12777	corpus-6-test-corpus-26-test	ALX	عملتها.
+12782	corpus-6-test-corpus-26-train	ALX	فين بوابة الطلوع لرحلة الطيران دى؟
+12790	corpus-6-test-corpus-26-test	ALX	لو فى واحدة متاحة، ممكن تحجز ترابيزة جنب الشباك؟
+12805	corpus-6-test-corpus-26-dev	ALX	هو إعلان الطلوع للطيارة تم فعلا؟
+12810	corpus-6-test-corpus-26-train	ALX	إحنا على ارتفاع اتناشر ألف قدم.
+12820	corpus-6-test-corpus-26-train	ALX	الأول، إحنا عاوزين نشوف وول ستريت.
+12822	corpus-6-test-corpus-26-train	ALX	فين محطة أتوبيس أكسفورد؟
+12823	corpus-6-test-corpus-26-train	ALX	أنا هستنى لحد لما التراس يبقى متاح.
+12835	corpus-6-test-corpus-26-train	ALX	ممكن نشوف محافظ جلد؟
+12861	corpus-6-test-corpus-26-dev	ALX	يالا نشوف ال تى فى. فى ماتش بيسبول شغال.
+12878	corpus-6-test-corpus-26-train	ALX	ممكن تكتب عنوان الاتصال بتاعك هنا؟
+12884	corpus-6-test-corpus-26-train	ALX	لو سمحت قوللى فين أقرب صيدلية.
+12903	corpus-6-test-corpus-26-train	ALX	للأوتيل بتاعى، لو سمحت. عنوان الأوتيل بتاعى هنا.
+12905	corpus-6-test-corpus-26-dev	ALX	فى كام ولاية جنب طوكيو؟
+12917	corpus-6-test-corpus-26-train	ALX	اقفل السماعة واستنى شوية لو سمحت.
+12936	corpus-6-test-corpus-26-train	ALX	إنت غالبا بتعمل إيه فى البيت بعد العشا؟
+12941	corpus-6-test-corpus-26-train	ALX	بالتأكيد. تحب إمتى تلعب جولف؟
+12945	corpus-6-test-corpus-26-train	ALX	هى هتكون فى البيت حوالى الساعة تلاتة.
+12952	corpus-6-test-corpus-26-train	ALX	عاوز أكلم السفارة اليابانية.
+12968	corpus-6-test-corpus-26-train	ALX	شوية كمان.
+12969	corpus-6-test-corpus-26-train	ALX	أتوبيسات زيارة المعالم السياحية بتمشى منين؟
+12973	corpus-6-test-corpus-26-train	ALX	بتدفع كام علشان تبعتهم اليابان؟
+12976	corpus-6-test-corpus-26-dev	ALX	أنا مش معايا أى مضارب أو شوز.
+13015	corpus-6-test-corpus-26-train	ALX	ين يابانى أوكى؟
+13022	corpus-6-test-corpus-26-train	ALX	عندك حصان الموستان؟
+13027	corpus-6-test-corpus-26-train	ALX	إحنا هننط من هنا؟
+13069	corpus-6-test-corpus-26-train	ALX	أستاذ. كاواى، إحنا عندنا ترابيزة ليك دلوقتى. تعالى من الطريق دة، لو سمحت.
+13072	corpus-6-test-corpus-26-train	ALX	أكيد. إنزل السلم اللى هناك دة وهتشوف اتجاهات. إمشى وراهم بس.
+13075	corpus-6-test-corpus-26-dev	ALX	مكتب الاستقبال. ممكن أساعدك؟
+13076	corpus-6-test-corpus-26-train	ALX	ممكن تنزلنى عند فندق هيلتون، لو سمحت؟
+13077	corpus-6-test-corpus-26-dev	ALX	إنت فى الغالب لازم تشتغل متأخر؟
+13090	corpus-6-test-corpus-26-dev	ALX	آسف جدا، بس إحنا معندناش أكتر، إيه رأيك ف ورق إنجليزى؟
+13095	corpus-6-test-corpus-26-train	ALX	ترابيزة لغير المدخنين، لو سمحت.
+13096	corpus-6-test-corpus-26-train	ALX	ممكن تخلينى أعرف قبل ما نوصل لدورهام؟
+13113	corpus-6-test-corpus-26-test	ALX	دة طازة؟
+13116	corpus-6-test-corpus-26-train	ALX	دة مش حقيقى. إنت دايما مدلعنى.
+13118	corpus-6-test-corpus-26-dev	ALX	ممكن تورينى فساتين؟
+13126	corpus-6-test-corpus-26-train	ALX	إستهجاها، لو سمحت.
+13133	corpus-6-test-corpus-26-train	ALX	أنا بسكر بالنبيت.
+13134	corpus-6-test-corpus-26-train	ALX	خلى بالك علشان الجو متقلب جدا على الجبال.
+13159	corpus-6-test-corpus-26-train	ALX	شيك سياحى وين يابانى، أوكى؟
+13162	corpus-6-test-corpus-26-train	ALX	أسف، انا دورت مع خدمة الأوض وقسم المفقودات. مش معاهم.
+13172	corpus-6-test-corpus-26-train	ALX	دة مكان صعب إننا نلاقيه. دة على طريق صغير قصاد الطريق السريع الرئيسى.
+13183	corpus-6-test-corpus-26-train	ALX	أنا مش عارف حاجة عنه.
+13184	corpus-6-test-corpus-26-train	ALX	ممكن نناقش دة فى الكوفى شوب.
+13188	corpus-6-test-corpus-26-train	ALX	أنا شايف، فى الحالة دى أنا مش لازم أدفع رسوم تحويل، صح؟
+13202	corpus-6-test-corpus-26-train	ALX	موظف التليفون، لو سمحت.
+13262	corpus-6-test-corpus-26-train	ALX	ممكن تنزل السناد، لو سمحت؟
+13264	corpus-6-test-corpus-26-dev	ALX	ممكن تستضيفنى الليلة؟
+13267	corpus-6-test-corpus-26-train	ALX	أوكى. أنا هاخد اتنين بس. شكرا.
+13268	corpus-6-test-corpus-26-train	ALX	فاتورتك أهى. هى تلتمية سبعة وتسعين دولار.
+13269	corpus-6-test-corpus-26-train	ALX	إنت محظوظ.
+13287	corpus-6-test-corpus-26-train	ALX	من فضلك خليها ترابيزة بمنظر حلو لليل.
+13290	corpus-6-test-corpus-26-train	ALX	دة شغل مكنة ولا هاند ميد؟
+13291	corpus-6-test-corpus-26-train	ALX	عاوز أأجر النوع دة من العربيات لمدة أربعة وعشرين ساعة.
+13306	corpus-6-test-corpus-26-train	ALX	كان لطيف جدا إنى قابلتك.
+13322	corpus-6-test-corpus-26-train	ALX	دة متقطع.
+13333	corpus-6-test-corpus-26-dev	ALX	طيب دلوقتى، خلينا نبص بصة عيك.
+13347	corpus-6-test-corpus-26-train	ALX	طيب، فكر بس شغلانته كانت هتاخد وقت أد إيه لو سأل سؤال تاني لكل شخص. يالا، خلينا نستعجل ونجيب شنطتنا. إحنا لازم نروح الاجراءات الجمركية بعد كدة.
+13396	corpus-6-test-corpus-26-train	ALX	الوزن أد إيه؟
+13399	corpus-6-test-corpus-26-train	ALX	فى مطعم صينى قريب من هنا؟
+13407	corpus-6-test-corpus-26-train	ALX	رصيف خمسة هناك.
+13408	corpus-6-test-corpus-26-train	ALX	ماتش كرة القدم هيشتغل إمتى؟
+13423	corpus-6-test-corpus-26-dev	ALX	دة متعطل، ممكن تشوف الكاميرا بتاعتى؟
+13424	corpus-6-test-corpus-26-test	ALX	قهوة بالكريمة والسكر، لو سمحت.
+13436	corpus-6-test-corpus-26-train	ALX	أفتكر فى غلطات فى الفاتورة.
+13438	corpus-6-test-corpus-26-train	ALX	من فضلك إدينى دة.
+13440	corpus-6-test-corpus-26-train	ALX	دى البوابة سبعة.
+13444	corpus-6-test-corpus-26-train	ALX	إنت سكوتلاندى؟
+13446	corpus-6-test-corpus-26-train	ALX	تلاتة-اتنين-واحد-اتنين. استنى ثانية، تمام؟ أنا عاوز أبعتلك حاجة هنا. لو سمحت.
+13471	corpus-6-test-corpus-26-test	ALX	مية خمسة وتلاتين ين للدولار.
+13476	corpus-6-test-corpus-26-train	ALX	الجيبات القصيرة مع البوتات عمرها ما هتخرج برة الموضة.
+13477	corpus-6-test-corpus-26-train	ALX	ممكن أتكلم مع المدير؟
+13480	corpus-6-test-corpus-26-train	ALX	ليه أجرتك مختلفة عن العداد؟
+13484	corpus-6-test-corpus-26-train	ALX	ممكن أشوف دة؟
+13487	corpus-6-test-corpus-26-train	ALX	أنا وعدت نفسى إنى لما أشوفك، هتعرف عليك.
+13488	corpus-6-test-corpus-26-train	ALX	إيه اللى بيحصل مؤخرا؟
+13492	corpus-6-test-corpus-26-train	ALX	انا مش حاسس إنى كويس، ممكن ترشح دكتور؟
+13504	corpus-6-test-corpus-26-train	ALX	الطرف التانى على الخط، اتفضل.
+13515	corpus-6-test-corpus-26-train	ALX	فى برنامج ترفيهى؟
+13528	corpus-6-test-corpus-26-dev	ALX	التواليت مش شغال.
+13532	corpus-6-test-corpus-26-dev	ALX	من هنا لسيتي هول ياخد وقت أد إيه مشى؟
+13547	corpus-6-test-corpus-26-train	ALX	خد الدوا دة بعد كل وجبة لما يوجعك أوى.
+13550	corpus-6-test-corpus-26-train	ALX	إنت حطيت الفلوس فى ظرف مميز متزين ودة بيتسمى شوجى بوكورو.
+13553	corpus-6-test-corpus-26-train	ALX	فى حد اتصاب.
+13609	corpus-6-test-corpus-26-test	ALX	أنا بسأل المفروض آخدله إيه؟
+13624	corpus-6-test-corpus-26-train	ALX	معاك خريطة للمترو؟
+13629	corpus-6-test-corpus-26-train	ALX	أنا عندى أوضة جاهزة ليك فى جراند أوتيل. ممكن تروح هناك؟
+13635	corpus-6-test-corpus-26-train	ALX	عندى وجع فى عينى اليمين.
+13657	corpus-6-test-corpus-26-train	ALX	أنا مش شاطر أوى فى الألمانى.
+13660	corpus-6-test-corpus-26-train	ALX	طبعا لازم نتقابل تانى.
+13666	corpus-6-test-corpus-26-train	ALX	إنت هتضيق البنطلون دة؟
+13682	corpus-6-test-corpus-26-train	ALX	ممكن أستلف مضارب راكيت وكور؟
+13685	corpus-6-test-corpus-26-test	ALX	ممكن تحط شوية فكة؟
+13694	corpus-6-test-corpus-26-train	ALX	ممكن آخد نص قارورة؟
+13707	corpus-6-test-corpus-26-train	ALX	هاى. انا جان.
+13717	corpus-6-test-corpus-26-train	ALX	ناكاى.
+13719	corpus-6-test-corpus-26-train	ALX	عندك مانع آخد صورة ليك وللتاكسى بتاعك؟
+13733	corpus-6-test-corpus-26-train	ALX	انا اتصلت بخصوص شنطة ضايعة من تلات أيام.
+13748	corpus-6-test-corpus-26-test	ALX	عاوز أوتيل أرخص.
+13755	corpus-6-test-corpus-26-dev	ALX	أوه، فى حاجات كتير لازم تشوفها فى قرية غرينيتش.
+13769	corpus-6-test-corpus-26-train	ALX	فى شغل، عندى روابط عمل هناك.
+13783	corpus-6-test-corpus-26-train	ALX	يليق على البدلة بتاعتك.
+13784	corpus-6-test-corpus-26-train	ALX	ممكن لو سمحت تخلى بالك من شنطة السفر بتاعتى؟
+13788	corpus-6-test-corpus-26-train	ALX	عاجباك الفكرة أد إيه؟ إحنا قابلين الشرط بتاعك بإشعار الست شهور اللى اتقدم إنت منحتلنا الحق فى البيع ست شهور بعد نهاية العقد.
+13803	corpus-6-test-corpus-26-train	ALX	لو سمحت. إنت تعرف نيويورك كويس؟
+13824	corpus-6-test-corpus-26-test	ALX	إحنا هنستنى. لو سمحت كلمنا لما تكون جاهز.
+13827	corpus-6-test-corpus-26-train	ALX	أنا عاوز أشوف جراح.
+13828	corpus-6-test-corpus-26-dev	ALX	هى دى مكونات طبيعية؟
+13831	corpus-6-test-corpus-26-train	ALX	عاوز أركب فى عربية سبور.
+13843	corpus-6-test-corpus-26-train	ALX	كود المنطقة زيرو تلاتة. الرقم تلاتة واحد اتنين تلاتة أربعة خمسة ستة سبعة.
+13854	corpus-6-test-corpus-26-train	ALX	هو تعاقد مع البرد.
+13856	corpus-6-test-corpus-26-test	ALX	أحسن حاجة عربية صغيرة.
+13862	corpus-6-test-corpus-26-train	ALX	عاوز أبعت دة توصيل عادى.
+13903	corpus-6-test-corpus-26-train	ALX	خلينى أحول المكالمة دى للراجل المسئول.
+13913	corpus-6-test-corpus-26-train	ALX	إيه المقاس اللى إنت عاوزه؟
+13919	corpus-6-test-corpus-26-train	ALX	أوه، يا عزيزى. أنا ما أدركتش إن أنا لسة معايا دول.
+13920	corpus-6-test-corpus-26-train	ALX	عندك رزم علب علشان نبعت الطرود؟
+13921	corpus-6-test-corpus-26-train	ALX	هى شركة الطيران هتدفع للأوتيل و مصاريف الوجبات بتاعتى؟
+13938	corpus-6-test-corpus-26-train	ALX	هى دى كل الشنط بتاعتك؟
+13942	corpus-6-test-corpus-26-train	ALX	عاوز تعمل المكالمة إزاى؟
+13946	corpus-6-test-corpus-26-train	ALX	طيب، هو غالي. هو مش معمول فى اليابان، صح؟
+13953	corpus-6-test-corpus-26-train	ALX	ممكن لو سمحت تمررلى الملح؟
+13966	corpus-6-test-corpus-26-train	ALX	فين أقرب مطعم من الاوتيل؟
+13993	corpus-6-test-corpus-26-train	ALX	عاوز شامبو للشعر العادى.
+14008	corpus-6-test-corpus-26-train	ALX	تفتكر إمتى هيتلاقى؟
+14014	corpus-6-test-corpus-26-train	ALX	بتمنالك سنة جديدة سعيدة جدا.
+14018	corpus-6-test-corpus-26-train	ALX	أنا هاخد سبرايت كبيرة.
+14043	corpus-6-test-corpus-26-test	ALX	من فضلك قوله تانى ببطء أكتر.
+14045	corpus-6-test-corpus-26-train	ALX	لو سمحت. عاوز أعمل أوردر.
+14059	corpus-6-test-corpus-26-test	ALX	عندنا جمبرى نيوبرج ولحم ضانى مشوى.
+14069	corpus-6-test-corpus-26-train	ALX	عاوز أوضة بمنظر جميل.
+14074	corpus-6-test-corpus-26-train	ALX	تلات كوبايات عصير بطيخ، لو سمحت.
+14086	corpus-6-test-corpus-26-train	ALX	عندى تلات أطفال.
+14088	corpus-6-test-corpus-26-train	ALX	إمشى على طول اخر القاعة دى ولف شمال عند الناصية. هتشوفه على يمينك.
+14089	corpus-6-test-corpus-26-dev	ALX	هى دى جولة ليوم كامل؟
+14094	corpus-6-test-corpus-26-train	ALX	هى التذكرة ذهاب وعودة لأكسفورد تكلف كام؟
+14098	corpus-6-test-corpus-26-train	ALX	أنا بروح نادى رياضى كل يومين.
+14099	corpus-6-test-corpus-26-train	ALX	أقدر أقعد فين خلال الجولة؟
+14104	corpus-6-test-corpus-26-train	ALX	إيه وقت التشيك أوت؟
+14108	corpus-6-test-corpus-26-train	ALX	أجرة المرشد كام فى اليوم؟
+14120	corpus-6-test-corpus-26-train	ALX	ألاقى فين سيديهات؟
+14147	corpus-6-test-corpus-26-train	ALX	لو سمحت. أنا طالب جامعى من اليابان. إنتوا طلاب جامعة نيويورك؟
+14150	corpus-6-test-corpus-26-train	ALX	ممكن تقولنا إزاى بتقيم الخطة دى؟
+14167	corpus-6-test-corpus-26-train	ALX	أكى، تعرف محل تسجيلات قريب من هنا؟
+14168	corpus-6-test-corpus-26-train	ALX	كاش ولا شحن؟
+14174	corpus-6-test-corpus-26-train	ALX	أنا بشتغل فى شركة تجارية.
+14175	corpus-6-test-corpus-26-train	ALX	دة مش أدب إنك تسأل الناس بيقبضوا كام.
+14184	corpus-6-test-corpus-26-train	ALX	هما دول ليفايز خمسمية وواحد أصليين؟
+14195	corpus-6-test-corpus-26-train	ALX	إمتى أقدر آخد حمام؟
+14198	corpus-6-test-corpus-26-train	ALX	شكلك ميديش فوق الواحد وعشرين سنة.
+14219	corpus-6-test-corpus-26-train	ALX	أنا شايف. فى الحقيقة، في فيلم عالى السرعة جواه. عندك مانع لو خرجته؟
+14224	corpus-6-test-corpus-26-train	ALX	اشتريته دلوقتى حالا.
+14232	corpus-6-test-corpus-26-train	ALX	أنا هجيب واحد حالا.
+14235	corpus-6-test-corpus-26-train	ALX	تمانية دولار. وأدى واحد جاى دلوقتى.
+14242	corpus-6-test-corpus-26-train	ALX	لو سمحت بينه للجمارك فى المطار مع الحاجات اللى اشتريتها.
+14261	corpus-6-test-corpus-26-train	ALX	فى محلات شاملة عندهم تخفيضات دلوقتى؟
+14265	corpus-6-test-corpus-26-train	ALX	موظف التليفون، لو سمحت إدينى المطافى.
+14266	corpus-6-test-corpus-26-train	ALX	البطارية فضيت.
+14289	corpus-6-test-corpus-26-train	ALX	أقف عند التقاطع اللى جاى.
+14292	corpus-6-test-corpus-26-train	ALX	أوه، أهو. وهو كل شخص لازم يملا بيان الإعلان الجمركى دة؟
+14304	corpus-6-test-corpus-26-train	ALX	وممكن آخد إسمك لو سمحت؟
+14306	corpus-6-test-corpus-26-train	ALX	عندك مانع لو اتعمل مكالمة على حساب الطرف التاني؟
+14311	corpus-6-test-corpus-26-train	ALX	أهلا. إزيك؟
+14317	corpus-6-test-corpus-26-train	ALX	فين قسم السفر؟
+14336	corpus-6-test-corpus-26-train	ALX	إيه إسم الشخص اللى انت عاوز تكلمه؟
+14347	corpus-6-test-corpus-26-test	ALX	أنا آسف، هو مش جوة فى اللحظة دى.
+14363	corpus-6-test-corpus-26-train	ALX	بص على دة. بص على دة. هتقوللى الفرق بين الشاب دة والشاب دة هو الحظ؟ محمد، إركن، ممكن؟ معندكش مانع لو نزلتك هنا. أنا متأخر. يا صاحبى، جميل إنى شوفتك، أوكى؟
+14373	corpus-6-test-corpus-26-dev	ALX	هى أوضتك بتطل على المدينة؟
+14389	corpus-6-test-corpus-26-train	ALX	أى رسايل ليا؟
+14400	corpus-6-test-corpus-26-test	ALX	برضو غالى جدا. مقدرش آخده بتلاتة دولار؟
+14402	corpus-6-test-corpus-26-train	ALX	عاوزين أوضة فى الضهر.
+14403	corpus-6-test-corpus-26-dev	ALX	هاخد كوباية نبيت.
+14416	corpus-6-test-corpus-26-train	ALX	شكلك جميل.
+14426	corpus-6-test-corpus-26-test	ALX	أنا عاوز أوضة بسريرين. بكام الأوضة فى الليلة؟
+14434	corpus-6-test-corpus-26-train	ALX	هو على بعد حوالى تسعة وتسعين ميل.
+14441	corpus-6-test-corpus-26-train	ALX	فينس و ليندا عاوزين يكونوا لوحدهم، فللأسف هضطر أبقى هنا الليلة دى.
+14444	corpus-6-test-corpus-26-train	ALX	من فضلك خلى الشنط دى ضمن الرابطة.
+14448	corpus-6-test-corpus-26-train	ALX	إسمى ساتو.
+14457	corpus-6-test-corpus-26-train	ALX	أنا أعرف نادى جاز قديم وسط البلد.
+14459	corpus-6-test-corpus-26-train	ALX	انا هاخد الطبق الرئيسى دة.
+14462	corpus-6-test-corpus-26-dev	ALX	عاوز أجرب نفس الطبق اللى زى دة.
+14475	corpus-6-test-corpus-26-train	ALX	بعدين هناخده.
+14477	corpus-6-test-corpus-26-train	ALX	دة بيطلع فوق للدور السادس؟
+14478	corpus-6-test-corpus-26-dev	ALX	جلد تمساح؟
+14483	corpus-6-test-corpus-26-train	ALX	من فضلك حطه فى شنطة غسيل وسيبه هناك.
+14484	corpus-6-test-corpus-26-train	ALX	عاوز آخد الفيلم دة مطور. إمتى هيكون جاهز؟
+14495	corpus-6-test-corpus-26-dev	ALX	لو سمحت متديش المفتاح دة لأى حد غير ليا.
+14500	corpus-6-test-corpus-26-test	ALX	أوكى. أنا هاخدك من عند الأوتيل بتاعك الساعة تمانية.
+14502	corpus-6-test-corpus-26-train	ALX	شباك كويس.
+14505	corpus-6-test-corpus-26-train	ALX	خلى قصتى تبقى لتحت، لو سمحت.
+14507	corpus-6-test-corpus-26-train	ALX	هى كل مصاريف التوصيل من ضمن؟
+14509	corpus-6-test-corpus-26-train	ALX	دار أوبرا ميتروبوليتان.
+14514	corpus-6-test-corpus-26-train	ALX	فين مكتب أجر-عربية؟
+14519	corpus-6-test-corpus-26-dev	ALX	أنا عندى حمى من الليلة اللى فاتت.
+14520	corpus-6-test-corpus-26-train	ALX	دة مش ذوقى.
+14530	corpus-6-test-corpus-26-train	ALX	إيه الخضروات اللى عندك؟
+14531	corpus-6-test-corpus-26-test	ALX	عاوز كيرلى عالخفيف، لو سمحت.
+14534	corpus-6-test-corpus-26-train	ALX	إمتى الدكتور هييجى؟
+14537	corpus-6-test-corpus-26-train	ALX	دة اللون الغلط.
+14538	corpus-6-test-corpus-26-train	ALX	السنة اتكسرت.
+14542	corpus-6-test-corpus-26-train	ALX	دة كرسى فى ممر ولا كرسى جنب الشباك؟
+14557	corpus-6-test-corpus-26-train	ALX	أنا بتفسح.
+14564	corpus-6-test-corpus-26-dev	ALX	ممكن توصل الشنط بتاعتى للأوضة؟
+14573	corpus-6-test-corpus-26-train	ALX	ورينى واحد لآنسة صغيرة.
+14590	corpus-6-test-corpus-26-train	ALX	ممكن تسحب هنا؟
+14593	corpus-6-test-corpus-26-dev	ALX	عندك أى حاجة بحوالى تمانين دولار بالظبط؟
+14605	corpus-6-test-corpus-26-train	ALX	أنا عطشان.
+14612	corpus-6-test-corpus-26-train	ALX	من غير لبن، لو سمحت.
+14683	corpus-6-test-corpus-26-dev	ALX	أنا معايا تلات شنط.
+14685	corpus-6-test-corpus-26-train	ALX	فين البحيرة؟
+14693	corpus-6-test-corpus-26-test	ALX	لو سمحت. دوس على زرار التصوير، من فضلك.
+14709	corpus-6-test-corpus-26-train	ALX	ممكن آخد مجلة أو حاجة؟
+14718	corpus-6-test-corpus-26-train	ALX	دة جنوب.
+14721	corpus-6-test-corpus-26-train	ALX	بكام كراسى البلكونة؟
+14734	corpus-6-test-corpus-26-test	ALX	عاوزين أوضة بتطل على البحيرة.
+14737	corpus-6-test-corpus-26-train	ALX	فى أى صناديق بريد قريب من هنا؟
+14757	corpus-6-test-corpus-26-train	ALX	تمام. أنا هاخدك هناك.
+14761	corpus-6-test-corpus-26-train	ALX	الجزء المكتوب بحروف مايلة بيشير لتغييرات حصلت فى التسعينات.
+14763	corpus-6-test-corpus-26-train	ALX	هو تلاتين سنة.
+14777	corpus-6-test-corpus-26-test	ALX	تمام. ممكن تكتب العنوان مرة كمان على الظرف دة؟
+14783	corpus-6-test-corpus-26-train	ALX	انا عاوز أروح هارودز. ممكن ترسم خريطة، لو سمحت؟
+14786	corpus-6-test-corpus-26-train	ALX	بتعمل إيه لما بيكون عندك وقت فاضى؟
+14789	corpus-6-test-corpus-26-train	ALX	عندك بطاريات للكاميرا دى؟
+14805	corpus-6-test-corpus-26-train	ALX	عاوز كابل للتصوير عن بعد.
+14807	corpus-6-test-corpus-26-train	ALX	إنت الأخير فى الصف دة؟
+14810	corpus-6-test-corpus-26-train	ALX	أفتكر دة محجوز على الآخر.
+14813	corpus-6-test-corpus-26-train	ALX	رمية حلوة. بس برة.
+14818	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى الاماكن اللى ذات أهمية هنا؟
+14820	corpus-6-test-corpus-26-train	ALX	فى محلات شاملة قريبة من هنا؟
+14854	corpus-6-test-corpus-26-dev	ALX	وأنا كمان.
+14862	corpus-6-test-corpus-26-train	ALX	عاوز انضم من سان دييجو.
+14863	corpus-6-test-corpus-26-train	ALX	كنت بفكر آخد الكورس دة الترم الجاى.
+14887	corpus-6-test-corpus-26-train	ALX	النبيت مش ساقع كفاية. ممكن تخليه أسقع؟
+14901	corpus-6-test-corpus-26-dev	ALX	ممكن تبدل الحلق دة بحلق كليبس؟
+14903	corpus-6-test-corpus-26-train	ALX	إيه أكتر حاجة مهتم بيها دلوقتى؟
+14905	corpus-6-test-corpus-26-train	ALX	أنا عاوز استرجاع، ممكن أسترد فلوسى تاني؟
+14926	corpus-6-test-corpus-26-train	ALX	أنا فى الغالب مش قادر ألاقى مشروب زى دة فى أى مكان تانى.
+14933	corpus-6-test-corpus-26-train	ALX	لو اشتريت دة كمان، دة هيعمل كمية من غير رسوم جمركية.
+14952	corpus-6-test-corpus-26-train	ALX	ممكن أشوف شهادة التطعيم بتاعتك، لو سمحت؟
+14960	corpus-6-test-corpus-26-train	ALX	إنت بتسافر كتير؟
+14969	corpus-6-test-corpus-26-train	ALX	أنا جاى من يو إس.
+14976	corpus-6-test-corpus-26-train	ALX	معايا تذكرة طيارة لسان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	ALX	لو هما خمستاشر دقيقة بس من المحطة، يبقى همشى.
+15019	corpus-6-test-corpus-26-train	ALX	أنا عاوز أوتيل أرخص شوية.
+15020	corpus-6-test-corpus-26-test	ALX	بونساى يبان كأنه هواية شخص قديم.
+15024	corpus-6-test-corpus-26-dev	ALX	أنا لسة مقررتش. ممكن تدينى شوية وقت كمان؟
+15025	corpus-6-test-corpus-26-train	ALX	أنا جالى صداع.
+15036	corpus-6-test-corpus-26-dev	ALX	تيجى معايا نشرب قهوة؟
+15037	corpus-6-test-corpus-26-train	ALX	أنا عاوز شهادة طبية و إيصال للتأمين بتاعى.
+15046	corpus-6-test-corpus-26-test	ALX	أوه، لأ. من فضلك استعجل. إحنا متأخرين.
+15051	corpus-6-test-corpus-26-train	ALX	أنا مش عاوز أصرف أكتر من عشرين دولار.
+15062	corpus-6-test-corpus-26-train	ALX	ليه رحلة الطيران مش بتطير؟ قوللى إيه اللى بيحصل.
+15073	corpus-6-test-corpus-26-test	ALX	الأجرة كام؟ ممكن تكتب الأجرة على حتة ورقة؟
+15083	corpus-6-test-corpus-26-train	ALX	عاوز أأجر كرسى من اللى بيتنى.
+15087	corpus-6-test-corpus-26-train	ALX	استنى دقيقة، لو سمحت.
+15088	corpus-6-test-corpus-26-test	ALX	هو المفروض الستات يلبسوا فساتين رسمية؟
+15095	corpus-6-test-corpus-26-train	ALX	متلمسنيش.
+15109	corpus-6-test-corpus-26-train	ALX	معاك سجاير؟
+15123	corpus-6-test-corpus-26-train	ALX	لو الرياح مش جامدة أوى، ممكن نروح تيكى بوينت.
+15126	corpus-6-test-corpus-26-train	ALX	رائع.
+15133	corpus-6-test-corpus-26-train	ALX	أنا هقفل دلوقتى. شكرا على اهتمامك.
+15145	corpus-6-test-corpus-26-dev	ALX	عندك من دة اى ألوان تانية؟
+15149	corpus-6-test-corpus-26-train	ALX	مين دة؟
+15157	corpus-6-test-corpus-26-train	ALX	لو سمحت. ممكن تقوللى فين محطة التاكسى؟
+15170	corpus-6-test-corpus-26-train	ALX	وتشرب؟
+15181	corpus-6-test-corpus-26-train	ALX	أهو.
+15201	corpus-6-test-corpus-26-train	ALX	فين أقرب محل أدوات منزلية؟
+15206	corpus-6-test-corpus-26-train	ALX	همم. هو مش شغال، صح؟ ممكن تتحرك لكرسى فاضى، لو تحب.
+15221	corpus-6-test-corpus-26-train	ALX	أنا بدور على دة.
+15240	corpus-6-test-corpus-26-train	ALX	تمام يا فندم. وتحب إيه للتحلية؟
+15246	corpus-6-test-corpus-26-train	ALX	عربية عادية ولا عربية نوم؟
+15247	corpus-6-test-corpus-26-train	ALX	شيكات سياحية. شكرا. آدى التذكرة والبوردينج باس بتوعك. كون هناك، من فضلك، ساعة قبل ميعاد الرحلة.
+15257	corpus-6-test-corpus-26-test	ALX	دة ألم حاد.
+15259	corpus-6-test-corpus-26-train	ALX	الإسم جورو موتوياما. والرقم زيرو تلاتة تلاتة اتنين ستة واحد اتنين أربعة تسعة خمسة.
+15262	corpus-6-test-corpus-26-train	ALX	أنا حاسس إنى تعبان جدا.
+15274	corpus-6-test-corpus-26-train	ALX	"إيه مواعيد عرض "" كوسيز لاف""؟"
+15283	corpus-6-test-corpus-26-train	ALX	تمام. هتاخد قهوتك دلوقتى ولا بعدين؟
+15292	corpus-6-test-corpus-26-train	ALX	قوللى نادى الموسيقى الشعبية الأكتر إثارة فى نيويورك.
+15295	corpus-6-test-corpus-26-test	ALX	إزاى المنتج بتاعك مختلف عن منافسينك؟
+15296	corpus-6-test-corpus-26-train	ALX	دة مقبول إن محدش بيسمع لتعليمات السلامة؟
+15319	corpus-6-test-corpus-26-train	ALX	هو الشارع الخلفى خطر؟
+15320	corpus-6-test-corpus-26-train	ALX	أيوة. لو سمحت خد الإجراءات الضرورية.
+15323	corpus-6-test-corpus-26-train	ALX	أيوة، واحد بس. إمتى هعرف؟ إزاى هيتم تعويضى؟
+15331	corpus-6-test-corpus-26-dev	ALX	بطاقة الهوية بتاعتى أهى.
+15337	corpus-6-test-corpus-26-train	ALX	إحنا نفضل ترابيزة جنب الشباك.
+15347	corpus-6-test-corpus-26-train	ALX	لو سمحت تقوللى أرخص طريقة علشان أروح سان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	ALX	تعرف مطعم، كيويا؟
+15378	corpus-6-test-corpus-26-train	ALX	إتجاه واحد.
+15380	corpus-6-test-corpus-26-train	ALX	أنا هتخن بمجرد إنى أقعد هنا وآكل باستمرار.
+15400	corpus-6-test-corpus-26-train	ALX	فى نايت كلاب كويس بعرض فلامنكو؟
+15419	corpus-6-test-corpus-26-train	ALX	دة فستان حلو اللى إنتى لابساه.
+15431	corpus-6-test-corpus-26-train	ALX	رجلى بتوجعنى.
+15436	corpus-6-test-corpus-26-train	ALX	فين أقرب مغسلة؟
+15443	corpus-6-test-corpus-26-train	ALX	ممكن تبدل الكراسى معايا، لو سمحت؟
+15447	corpus-6-test-corpus-26-train	ALX	الكراسى بتاعتنا انفصلت.
+15452	corpus-6-test-corpus-26-train	ALX	فى الحقيقة، انا عاوز الطرد دة متأمن عليه كمان.
+15463	corpus-6-test-corpus-26-train	ALX	الفاتورة وصلت لميت دولار.
+15464	corpus-6-test-corpus-26-test	ALX	مخارج الطوارئ مكانها قدام، نص، وآخر الطيارة.
+15470	corpus-6-test-corpus-26-train	ALX	تمام، الحجز بتاعك إتعاد تأكيده.
+15476	corpus-6-test-corpus-26-train	ALX	الكعب عالى جدا.
+15477	corpus-6-test-corpus-26-train	ALX	عاوزين ترابيزة فى التراس.
+15482	corpus-6-test-corpus-26-train	ALX	دة معناه إن الفيلم ممكن ميكونش مناسب للأطفال تحت الخمستاشر. بالتالى الآباء محتاجين يفكروا لو هيسمحوا للأطفال يشوفوا الفيلم.
+15487	corpus-6-test-corpus-26-train	ALX	عاوز الفلوس إزاى؟ لو سمحت تملا الورقة دى وتمضى هنا.
+15509	corpus-6-test-corpus-26-train	ALX	أوقات معدتى بتوجعنى.
+15522	corpus-6-test-corpus-26-train	ALX	عندك أطباق بسعرات قليلة؟ انا عامل دايت، دلوقتى.
+15529	corpus-6-test-corpus-26-dev	ALX	مفيش رسوم حتمية.
+15539	corpus-6-test-corpus-26-train	ALX	أه، معايا تذكرتين لجاينتس أند دودجرز.
+15546	corpus-6-test-corpus-26-train	ALX	إحنا واحد من أعلى موردين الكمبيوترات الصغيرة.
+15553	corpus-6-test-corpus-26-train	ALX	شكرا. وأنا كمان. باى لحد وقتها.
+15564	corpus-6-test-corpus-26-train	ALX	مزدوجة بحمام، لو سمحت.
+15566	corpus-6-test-corpus-26-train	ALX	أنا وقعت من على السلم.
+15575	corpus-6-test-corpus-26-train	ALX	إيه الأيس كريم اللى ترشحه؟
+15577	corpus-6-test-corpus-26-dev	ALX	همم. دة. اللون شكله حلو عليك.
+15598	corpus-6-test-corpus-26-test	ALX	فين كتب اللغات الاجنبية؟
+15604	corpus-6-test-corpus-26-train	ALX	شريحتين وسبرايت.
+15607	corpus-6-test-corpus-26-test	ALX	إدينى سجاير.
+15610	corpus-6-test-corpus-26-dev	ALX	مش قانونى إنك تجيبه البلد- آسف. طيب، أظن دة كدة كل حاجة.
+15652	corpus-6-test-corpus-26-train	ALX	أيوة، أنا. هما كانوا عايشين قريب منى فى كاليفورنيا لكن نقلوا لفلوريدا من سنتين. إنت أخبارك إيه؟ بتسافر بنفسك؟
+15664	corpus-6-test-corpus-26-train	ALX	أنا عيان.
+15666	corpus-6-test-corpus-26-train	ALX	إبنى شكله منهك بسبب الحمى.
+15673	corpus-6-test-corpus-26-train	ALX	فى الحجم دة، لو سمحت.
+15674	corpus-6-test-corpus-26-train	ALX	الأوسمة الثقافية التقديرية بتعطى للفنانين والعلماء فى اليوم دة.
+15676	corpus-6-test-corpus-26-train	ALX	أنا يابانى.
+15692	corpus-6-test-corpus-26-train	ALX	دة غالى جدا.
+15699	corpus-6-test-corpus-26-train	ALX	أه. خد الأتوبيس اللى بيروح لكيوتو-إيكى.
+15710	corpus-6-test-corpus-26-train	ALX	هو للأعضاء بس؟
+15735	corpus-6-test-corpus-26-dev	ALX	سعر الأوضة ستالاف ين فى الليلة.
+15763	corpus-6-test-corpus-26-train	ALX	أقدر أجيب دة على متن الطيارة؟
+15775	corpus-6-test-corpus-26-train	ALX	أوكى. كل اللى محتاج أعرفه لو الشغل دايما بيدفع بطريقته الخاصة.
+15784	corpus-6-test-corpus-26-train	ALX	تمام. عاوز سكارف تليق مع دة؟
+15788	corpus-6-test-corpus-26-train	ALX	إشحن البطارية، لو سمحت.
+15791	corpus-6-test-corpus-26-train	ALX	أنا جاهز إنى أطلب.
+15798	corpus-6-test-corpus-26-dev	ALX	أملاح الحمام العشبى بتسيب جلدك بإحساس نعومة وليونة.
+15804	corpus-6-test-corpus-26-train	ALX	إكتب إسم شركة الطيران و رقم الرحلة، كمان.
+15814	corpus-6-test-corpus-26-train	ALX	حقيقى. النهاردة الحد، والحد هو أسوأ يوم.
+15896	corpus-6-test-corpus-26-train	ALX	أه، دى مشكلة تخلص من النفايات.
+15897	corpus-6-test-corpus-26-train	ALX	انا عاوز الشكل دة فى وضع خمس أماكن.
+15899	corpus-6-test-corpus-26-train	ALX	أسرتى عندها دخل مزدوج.
+15902	corpus-6-test-corpus-26-train	ALX	"أوه. الفضة دى نادرة ""القمر والجرس"". أكيد إنت عاوز تبدلها؟"
+15911	corpus-6-test-corpus-26-train	ALX	مامتى وأختى جايين من اليابان علشان يشوفونى. هيوصلوا هنا حوالى الساعة سبعة بالليل.
+15942	corpus-6-test-corpus-26-train	ALX	البنى منتشر أوى السنة دى.
+15950	corpus-6-test-corpus-26-test	ALX	فكرة كويسة. بتخطط تيجى إمتى؟
+15967	corpus-6-test-corpus-26-train	ALX	أوكى. كرسيين، لو سمحت.
+15989	corpus-6-test-corpus-26-train	ALX	فين السوق؟
+16007	corpus-6-test-corpus-26-train	ALX	أنا بتطلع لإنى أجرب بدلة السباق الجديدة بتاعتى.
+16016	corpus-6-test-corpus-26-train	ALX	أنا افتكرتكم يا شباب لسة واكلين دوناتس.
+16034	corpus-6-test-corpus-26-train	ALX	بكام تذكرة درجة أولى لإيدينبره، لو سمحت؟
+16042	corpus-6-test-corpus-26-train	ALX	يظهر كدة إن الفلوس اللى إديتهالى مقصرة فى عشرة دولار.
+16046	corpus-6-test-corpus-26-train	ALX	أنا لسة متصل بأستاذ. سميث فى أوضة اتنين زيرو احد، بس مكانش فى رد. ممكن تشوف لو هو لسة قاعد هناك؟
+16061	corpus-6-test-corpus-26-train	ALX	أنا عاوز واحد عصرى.
+16070	corpus-6-test-corpus-26-train	ALX	أنا بشتغل فى شركة نشر.
+16073	corpus-6-test-corpus-26-train	ALX	ممكن لو سمحت تملا دة؟
+16080	corpus-6-test-corpus-26-test	ALX	دة شارع إيه؟
+16082	corpus-6-test-corpus-26-test	ALX	ممكن توزن الرزمة دى؟
+16089	corpus-6-test-corpus-26-train	ALX	دة بتسميه إيه فى الإنجليزى؟
+16091	corpus-6-test-corpus-26-train	ALX	افضل ماشي في الممر دة، بعد كدة هتلاقيه على الجنب اليمين.
+16098	corpus-6-test-corpus-26-train	ALX	عاوز أأمن على دة.
+16106	corpus-6-test-corpus-26-train	ALX	صباح الخير. مكتب الاستقبال. أقدر أساعدك؟
+16127	corpus-6-test-corpus-26-train	ALX	تمام. من فضلك ادخل.
+16130	corpus-6-test-corpus-26-test	ALX	آه، يا فندم. انا باجى هنا للفطار كل يوم، من الاتنين للجمعة، قبل ما أروح الشغل.
+16140	corpus-6-test-corpus-26-dev	ALX	مفيش مشكلة.
+16141	corpus-6-test-corpus-26-train	ALX	من فضلك وصلنى بتلاتة اتنين ستة اتنين تسعة واحد تمانية.
+16158	corpus-6-test-corpus-26-train	ALX	آه، نقدر نخدمك من سبعة.
+16167	corpus-6-test-corpus-26-train	ALX	من فضلك نام هنا.
+16169	corpus-6-test-corpus-26-test	ALX	أد إيه الخدمة سريعة.
+16191	corpus-6-test-corpus-26-train	ALX	يمكن لسة هيظهر.
+16217	corpus-6-test-corpus-26-train	ALX	من فضلك لف شمال عند التقاطع الجاى.
+16219	corpus-6-test-corpus-26-dev	ALX	لو سمحت، إزاى أوصل البنك؟
+16222	corpus-6-test-corpus-26-train	ALX	فى خدمة أتوبيسات لمتحف فورد؟
+16227	corpus-6-test-corpus-26-train	ALX	أه. إسمك ورقم أوضتك، لو سمحت.
+16231	corpus-6-test-corpus-26-train	ALX	ياخد وقت أد إيه علشان يوصل اليابان بالبريد الجوى؟
+16238	corpus-6-test-corpus-26-train	ALX	أوكى. أشوفك الساعة اتنين يوم الحد.
+16258	corpus-6-test-corpus-26-train	ALX	أنا عاوز أروح من نيويورك لتورنتو.
+16259	corpus-6-test-corpus-26-train	ALX	السوستة اتكسرت. عندك تانى من نفس النوع؟
+16271	corpus-6-test-corpus-26-train	ALX	دة متوسخ نوعا ما.
+16279	corpus-6-test-corpus-26-dev	ALX	ممكن تعيد تأكيد الرحلة بتاعتى؟ تذكرة الطيران بتاعتى أهى.
+16291	corpus-6-test-corpus-26-train	ALX	عندك دة أخضر أغمق؟
+16292	corpus-6-test-corpus-26-test	ALX	هتاخدنى لكانتربرى وترجعنى تانى؟
+16311	corpus-6-test-corpus-26-train	ALX	ممكن آخد شوكة جديدة؟
+16312	corpus-6-test-corpus-26-train	ALX	شكرا جدا للطفك.
+16335	corpus-6-test-corpus-26-train	ALX	أسف، إحنا مش بنبيع تذاكر للمسرح.
+16337	corpus-6-test-corpus-26-train	ALX	عاوز أشوف دة.
+16339	corpus-6-test-corpus-26-train	ALX	أوه، دة جميل. المفروض أعمل إيه؟
+16344	corpus-6-test-corpus-26-dev	ALX	عاوز أمد إقامتى يومين تانى أطول.
+16351	corpus-6-test-corpus-26-train	ALX	من فضلك غير الكرسى بتاعى.
+16365	corpus-6-test-corpus-26-train	ALX	عندنا جمبرى حلو جدا النهاردة.
+16371	corpus-6-test-corpus-26-train	ALX	بيفتح لحد إمتى؟
+16395	corpus-6-test-corpus-26-train	ALX	مدخنين ولا غير؟
+16403	corpus-6-test-corpus-26-train	ALX	دة غالى جدا بالنسبة لى. مش ممكن تخليه أرخص؟
+16409	corpus-6-test-corpus-26-dev	ALX	أنا فاتح الأربع الصبح أو الجمعة بعد الضهر.
+16413	corpus-6-test-corpus-26-train	ALX	أنا معملتش حجز.
+16434	corpus-6-test-corpus-26-train	ALX	لأن الصيف فى اليابان غالبا بيكون حر أوى، وإحنا مكنش عندنا تكييف أيام زمان.
+16444	corpus-6-test-corpus-26-train	ALX	ممكن تطلب لى عربية أجرة الساعة تمانية الصبح بكرة؟
+16453	corpus-6-test-corpus-26-train	ALX	دة نحس.
+16465	corpus-6-test-corpus-26-train	ALX	ليه منستناش الأتوبيس تحت المظلة؟
+16477	corpus-6-test-corpus-26-train	ALX	تعالى، يا كينجى. خلينى أفرجك على المكتب.
+16478	corpus-6-test-corpus-26-train	ALX	أه، فاتح من تسعة لتسعة.
+16484	corpus-6-test-corpus-26-dev	ALX	مش عارف أنام كويس بالليل.
+16487	corpus-6-test-corpus-26-train	ALX	أزاى الأزمة الاقتصادية أثرت على العمل؟
+16495	corpus-6-test-corpus-26-train	ALX	عندى ميعاد تانى.
+16516	corpus-6-test-corpus-26-train	ALX	ممكن آخد خريطة طريق للمدينة؟
+16536	corpus-6-test-corpus-26-dev	ALX	دة نفس اللى كنت بدور عليه.
+16542	corpus-6-test-corpus-26-train	ALX	مش فاهم شرحك.
+16546	corpus-6-test-corpus-26-train	ALX	لازم أعمل اتصال. رايح بوسطن.
+16547	corpus-6-test-corpus-26-train	ALX	فين أحسن مكان للسياحة؟
+16576	corpus-6-test-corpus-26-train	ALX	هو متين؟
+16577	corpus-6-test-corpus-26-train	ALX	أنا استمتعت جدا.
+16581	corpus-6-test-corpus-26-train	ALX	طيب يبقى، أنا عاوز وش أصغر زى جوليا روبرتس.
+16586	corpus-6-test-corpus-26-train	ALX	ممكن تاخد دة، لو سمحت؟
+16601	corpus-6-test-corpus-26-train	ALX	الركاب اللى هيغادروا على خطوط طيران إيه بى سى رحلة سبعة زيرو تلاتة المتجهة لطوكيو من فضلكم تطلعوا لبوابة عشرين للإجراءات الحكومية.
+16607	corpus-6-test-corpus-26-train	ALX	فين محطة الأتوبيسات بتاع بى؟
+16643	corpus-6-test-corpus-26-train	ALX	لفردانيات، لو سمحت.
+16653	corpus-6-test-corpus-26-dev	ALX	منين أقدر أشترى مفرش ترابيزة؟
+16679	corpus-6-test-corpus-26-train	ALX	ممكن أعين مرشد بيتكلم يابانى؟
+16696	corpus-6-test-corpus-26-train	ALX	تحب إنى آخد صورتك؟
+16709	corpus-6-test-corpus-26-train	ALX	أنا ماأخدتش الطبق دة.
+16718	corpus-6-test-corpus-26-train	ALX	أنا قطعت صوباعى. فى مطهر؟
+16723	corpus-6-test-corpus-26-train	ALX	ممكن آخد طابع بخمسة وتسعين سنت؟
+16736	corpus-6-test-corpus-26-train	ALX	أنا هكون هنا الساعة تمانية إلا ربع.
+16746	corpus-6-test-corpus-26-train	ALX	عاوز برفان.
+16747	corpus-6-test-corpus-26-train	ALX	ممكن آخد جدول مواعيد العمل؟
+16751	corpus-6-test-corpus-26-test	ALX	إنت رايح المدرسة هنا؟
+16758	corpus-6-test-corpus-26-dev	ALX	كان فيها كام؟
+16760	corpus-6-test-corpus-26-train	ALX	هو فندق هيلتون بعيد من هنا؟
+16769	corpus-6-test-corpus-26-train	ALX	أنا متأكد إنى حطيته فى شنطتى.
+16770	corpus-6-test-corpus-26-train	ALX	الإيدين فوق.
+16771	corpus-6-test-corpus-26-train	ALX	فى مطعم ممكن ترشحه قريب من هنا؟
+16773	corpus-6-test-corpus-26-train	ALX	تفضل أنهى، تقيل ولا خفيف؟
+16781	corpus-6-test-corpus-26-train	ALX	تقدر تقوللى إحنا طايرين فين؟
+16793	corpus-6-test-corpus-26-train	ALX	تذكرة نقل، لو سمحت.
+16796	corpus-6-test-corpus-26-train	ALX	فين المكان الحلو لنزهة لمدة يوم واحد؟
+16799	corpus-6-test-corpus-26-train	ALX	أنا عاوز الشنطة الريد كيلى بنفس الستايل دة.
+16805	corpus-6-test-corpus-26-train	ALX	لسة هتعمل الجدول دة؟
+16810	corpus-6-test-corpus-26-train	ALX	البنك بيفتح الساعة كام؟
+16811	corpus-6-test-corpus-26-train	ALX	أنا حاسس إنى عيان.
+16819	corpus-6-test-corpus-26-train	ALX	أنا اتلخبط. عندك مانع ترسم لى خريطة؟
+16822	corpus-6-test-corpus-26-test	ALX	برة.
+16829	corpus-6-test-corpus-26-test	ALX	خدنى للمستشفى.
+16833	corpus-6-test-corpus-26-train	ALX	أنا لازم أجى المستشفى كل يوم؟
+16837	corpus-6-test-corpus-26-train	ALX	معدتى بتوجعنى.
+16839	corpus-6-test-corpus-26-train	ALX	بكام رسوم البريد عشان ابعت الجواب دة بالبريد لليابان؟
+16842	corpus-6-test-corpus-26-train	ALX	عاوز كاس نبيذ.
+16869	corpus-6-test-corpus-26-train	ALX	محتاج حد ياخدك من المطار؟
+16872	corpus-6-test-corpus-26-dev	ALX	الركوب بيبدأ أربعة ونص فمن فضلكم تكونوا هناك قبل كدة.
+16878	corpus-6-test-corpus-26-train	ALX	من تلاتين ألف ين.
+16879	corpus-6-test-corpus-26-train	ALX	أقدر أشترى منين كارت تليفون؟
+16888	corpus-6-test-corpus-26-train	ALX	أقدر أرجعه لمدينة تانية؟
+16889	corpus-6-test-corpus-26-dev	ALX	انا بخطط أقعد لمدة اتناشر يوم.
+16893	corpus-6-test-corpus-26-train	ALX	لو سمحت إعمل اللى فوق أطول شوية.
+16896	corpus-6-test-corpus-26-train	ALX	إنت محتاج تشوف متخصص.
+16899	corpus-6-test-corpus-26-dev	ALX	دقايق كمان، لو سمحت.
+16904	corpus-6-test-corpus-26-train	ALX	ممر رقم أربعتاشر.
+16911	corpus-6-test-corpus-26-train	ALX	أوه. بتعمل كدة؟ إنت بالتأكيد عندك تشكيلة كبيرة.
+16928	corpus-6-test-corpus-26-dev	ALX	مش قادر ألاقيهم فى أى مكان.
+16936	corpus-6-test-corpus-26-test	ALX	عندك أى كراسى فاضية للندن؟
+16952	corpus-6-test-corpus-26-train	ALX	عاوز نسخة من تقرير السرقة.
+16955	corpus-6-test-corpus-26-dev	ALX	على بعد تقاطع في الشارع.
+16960	corpus-6-test-corpus-26-train	ALX	ممكن تدينى إشارة لما تكون فيه؟
+16962	corpus-6-test-corpus-26-test	ALX	هى السجاير دى خفيفة؟
+16964	corpus-6-test-corpus-26-train	ALX	تمام. زى دة بالظبط.
+16967	corpus-6-test-corpus-26-train	ALX	الاكسبريس اللى جاى هيكون فى خلال ساعة.
+16976	corpus-6-test-corpus-26-train	ALX	أنا عاوز أكمام الجاكيت الرياضى دة تطول.
+16992	corpus-6-test-corpus-26-train	ALX	أنا عندى حجز. دة رقم التأكيد.
+17027	corpus-6-test-corpus-26-train	ALX	عيد ميلادك فى الطريق.
+17030	corpus-6-test-corpus-26-dev	ALX	القطورات وقفت بسبب الإضراب.
+17038	corpus-6-test-corpus-26-train	ALX	تقدر تصلح دة؟
+17068	corpus-6-test-corpus-26-dev	ALX	الشارع كان مزحوم بالعربيات.
+17079	corpus-6-test-corpus-26-train	ALX	تانى مبنى على شمال المبنى الأبيض دة.
+17094	corpus-6-test-corpus-26-train	ALX	إحنا حجزنا كرسى في أكتوبر يوم خمسة وعشرين بيتحرك حداشر الصبح.
+17097	corpus-6-test-corpus-26-train	ALX	لأ، قدام شوية كمان. هناك، أيوة.
+17115	corpus-6-test-corpus-26-train	ALX	أه، دة مش بيشمل الوجبات.
+17117	corpus-6-test-corpus-26-train	ALX	أقدر أرجع التذكرة دى فين؟
+17120	corpus-6-test-corpus-26-train	ALX	ليه دة بيحصل؟
+17149	corpus-6-test-corpus-26-train	ALX	عاوز آخد ريست.
+17158	corpus-6-test-corpus-26-train	ALX	عربيتى عطلت، لو سمحت تعالى خدها.
+17163	corpus-6-test-corpus-26-train	ALX	عاوزة شعرى أطول شوية من ورا.
+17177	corpus-6-test-corpus-26-train	ALX	إيه الأنواع اللى عندك؟
+17179	corpus-6-test-corpus-26-dev	ALX	موافق. دة واحد من الأماكن المفضلة عندى.
+17180	corpus-6-test-corpus-26-train	ALX	إيه نوع الموديل اللى فى دماغك؟
+17204	corpus-6-test-corpus-26-test	ALX	إسمى ميتشيكو تاناكا، ورقم الرحلة خمسة زيرو واحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	ALX	ممكن لو سمحت ترسم لى خريطة بسيطة من هنا؟
+17217	corpus-6-test-corpus-26-train	ALX	إحنا بنتقابل فين؟
+17222	corpus-6-test-corpus-26-train	ALX	أنا عاوز شعرى يتظبط زى ما كان.
+17229	corpus-6-test-corpus-26-train	ALX	إدينى خمسين، لو سمحت.
+17272	corpus-6-test-corpus-26-train	ALX	فين أقدر أعمل تشيك إن فى الخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	ALX	إيه المحتويات؟
+17295	corpus-6-test-corpus-26-train	ALX	فى أى أماكن فى المنطقة بتترشح بقوة؟
+17311	corpus-6-test-corpus-26-train	ALX	إدينى فكة، لو سمحت.
+17313	corpus-6-test-corpus-26-train	ALX	تمام. أنا هتأكد إن شنطك هتكون هنا.
+17315	corpus-6-test-corpus-26-train	ALX	دة التخصص بتاعنا، دوفرسول مشوى.
+17339	corpus-6-test-corpus-26-train	ALX	إحنا هنكون مقيمين.
+17350	corpus-6-test-corpus-26-train	ALX	أنا إتثبت.
+17356	corpus-6-test-corpus-26-train	ALX	تمام. هو أنا محتاج أركز عليه؟
+17381	corpus-6-test-corpus-26-dev	ALX	هنتشارك.
+17394	corpus-6-test-corpus-26-train	ALX	إحنا معندناش الستايل دة بالظبط دلوقتى. أنا هشوف المخزن بتاعنا. استنى دقيقة بس، من فضلك.
+17398	corpus-6-test-corpus-26-train	ALX	سكوتش مع ميا، لو سمحت.
+17399	corpus-6-test-corpus-26-train	ALX	دة شكله كويس. يكلف أد إيه؟
+17414	corpus-6-test-corpus-26-train	ALX	خد الروشتة دى لصيدلية. تقدر تاخد الدوا من هناك.
+17438	corpus-6-test-corpus-26-train	ALX	أنا طلبت دة.
+17453	corpus-6-test-corpus-26-train	ALX	أه، إنت تقدر تقف فى أى محطة بين هنا وشيكاجو.
+17460	corpus-6-test-corpus-26-train	ALX	أقدر أشترى هدايا تذكارية منين؟
+17475	corpus-6-test-corpus-26-train	ALX	غالى جدا. مقدرش أشتريه.
+17482	corpus-6-test-corpus-26-train	ALX	أقدر آخد رقم إيه بي سي آند كومباني فى شيكاجو، لو سمحت.
+17488	corpus-6-test-corpus-26-test	ALX	فين الكاتدرائية؟
+17496	corpus-6-test-corpus-26-train	ALX	عاوز البيض بتاعك إزاى؟
+17504	corpus-6-test-corpus-26-train	ALX	هو جنب المبنى على طول.
+17526	corpus-6-test-corpus-26-train	ALX	لأ، أفتكر هما نسيوا يجيبولنا واحد.
+17537	corpus-6-test-corpus-26-train	ALX	أوكى. اتأكد. ممكن ناخد رقم تليفونك، علشان بس فى حالة لو إحتجنا نتصل بيك؟
+17548	corpus-6-test-corpus-26-train	ALX	إسم الرسام إيه؟
+17559	corpus-6-test-corpus-26-train	ALX	ممكن أخليه يكلمك لما يدخل؟
+17593	corpus-6-test-corpus-26-train	ALX	عاوز آخد دة.
+17606	corpus-6-test-corpus-26-train	ALX	عاجبانى خدمة الترحيب بتاعة الشامباين دى بعد الركوب. فى صحتك.
+17609	corpus-6-test-corpus-26-train	ALX	أربعين دولار فى اليوم زائد تمانية سنت للميل.
+17615	corpus-6-test-corpus-26-train	ALX	أراهن على خمسة دولار.
+17636	corpus-6-test-corpus-26-train	ALX	هو مش دة أوردر حد تانى؟
+17645	corpus-6-test-corpus-26-train	ALX	ممكن تقوللى إزاى أوصل المتحف؟
+17649	corpus-6-test-corpus-26-train	ALX	أنا آسف جدا، بس أنا عاوز أأجل الميعاد.
+17652	corpus-6-test-corpus-26-test	ALX	تقدر ترشح نزهة؟
+17660	corpus-6-test-corpus-26-train	ALX	القطر بتاعك هيتحرك من رصيف تمانية.
+17673	corpus-6-test-corpus-26-train	ALX	انا بدور على شنطة بحزام قابل للتعديل.
+17674	corpus-6-test-corpus-26-train	ALX	أنا عاوز أقيم بأقل من تمانين دولار.
+17739	corpus-6-test-corpus-26-train	ALX	هسألك بعد ما اتفرج.
+17745	corpus-6-test-corpus-26-test	ALX	أه. حجز لست ليالى، من فضلك. بداية من تلاتة وعشرين يوليو.
+17757	corpus-6-test-corpus-26-train	ALX	ممكن تورينى غيرهم بتصاميم مختلفة؟
+17765	corpus-6-test-corpus-26-train	ALX	إيه نوع العصير اللى تحبه؟
+17780	corpus-6-test-corpus-26-train	ALX	إنت هتروح البيت فى الأجازات؟
+17782	corpus-6-test-corpus-26-dev	ALX	أقدر أروح فين أشوف منظر حلو بجد؟
+17786	corpus-6-test-corpus-26-test	ALX	دة كان اتكسر خلاص لما فتحت الرزمة.
+17790	corpus-6-test-corpus-26-test	ALX	أغسطس تسعة وعشرين.
+17797	corpus-6-test-corpus-26-train	ALX	أنا عاوز أبعت دة بالبريد الجوى لليابان.
+17798	corpus-6-test-corpus-26-train	ALX	عيد شكر العمال فى اليابان. دة يوم شكر لكل اللى بيدعموا المجتمع من خلال أعمالهم.
+17799	corpus-6-test-corpus-26-train	ALX	الأوضة دى صغيرة جدا.
+17803	corpus-6-test-corpus-26-train	ALX	ممكن آخد شاى تانى، لو سمحت؟
+17805	corpus-6-test-corpus-26-train	ALX	أنا عاوز الهدوم دى متنضفة على آخر اليوم.
+17808	corpus-6-test-corpus-26-train	ALX	فى بنك قريب من هنا؟
+17811	corpus-6-test-corpus-26-train	ALX	ممكن تنضف الترابيزة، من فضلك؟
+17840	corpus-6-test-corpus-26-train	ALX	سكينة، لو سمحت.
+17841	corpus-6-test-corpus-26-train	ALX	كلهم مطبوعات.
+17842	corpus-6-test-corpus-26-train	ALX	لو سمحت إكتب رقم أوضتك على الضهر.
+17847	corpus-6-test-corpus-26-train	ALX	إحنا بنستخدم عيدان أكل لما بناكل.
+17852	corpus-6-test-corpus-26-train	ALX	دلتا رحلة رقم تمانية وعشرين لنيو أورليانز هتتأجل ساعة تقريبا.
+17854	corpus-6-test-corpus-26-train	ALX	لما أرجع اليابان، هكتب جواب. لو عندك وقت، من فضلك إبعتلى جواب.
+17855	corpus-6-test-corpus-26-train	ALX	أنا سبت تذكرة الطيران فى الأوتيل.
+17861	corpus-6-test-corpus-26-train	ALX	أوضة سينجل من غير حمام، لو سمحت.
+17869	corpus-6-test-corpus-26-train	ALX	شكرا مرة تانية إنك فكرتنى. هو ناس كتير بتميل إنها تنسى تمضى أساميهم؟
+17886	corpus-6-test-corpus-26-train	ALX	طيب، الوقت بيخلص. ممكن نكمل المناقشة دى الخميس الساعة واحدة؟
+17899	corpus-6-test-corpus-26-test	ALX	عاوز بيجامات.
+17919	corpus-6-test-corpus-26-train	ALX	أوكى. هكلمك لما يكونوا جاهزين.
+17935	corpus-6-test-corpus-26-train	ALX	إيه أخبار الغدا؟
+17947	corpus-6-test-corpus-26-test	ALX	الليموزين هتقف عند البوابة الشمالية الأولى.
+17963	corpus-6-test-corpus-26-train	ALX	أقدر أستخدم مطعم الاوتيل لحد إمتى؟
+17966	corpus-6-test-corpus-26-dev	ALX	دة قطر مباشر؟
+17977	corpus-6-test-corpus-26-train	ALX	طيب، الوقت اتأخر، أفتكر لازم أكون بمشى دلوقتى. أشكرك جدا على الليلة الرائعة.
+17986	corpus-6-test-corpus-26-train	ALX	ممكن آخد دوا لوجع معدتى؟
+18003	corpus-6-test-corpus-26-train	ALX	ممكن آخد فراخ مشوية.
+18018	corpus-6-test-corpus-26-train	ALX	غلطتى. دى مش غلطتك.
+18036	corpus-6-test-corpus-26-train	ALX	لو سمحت، الفيلم دة بيخلص إمتى؟
+18040	corpus-6-test-corpus-26-train	ALX	دة، لو سمحت.
+18077	corpus-6-test-corpus-26-train	ALX	مجوهراتى اتسرقت. عاوز أقدم تقرير.
+18103	corpus-6-test-corpus-26-train	ALX	دقيقة بس، لو سمحت. هوصلك بأستاذ. جونز.
+18110	corpus-6-test-corpus-26-train	ALX	أهلا. دى شركة طيران يونايتد.
+18131	corpus-6-test-corpus-26-test	ALX	هو مستر جونز إتعلم يابانى فين؟
+18138	corpus-6-test-corpus-26-train	ALX	عندى واحد صغير من نفس التصميم.
+18155	corpus-6-test-corpus-26-train	ALX	ممكن تضيق البنطلون دة؟
+18161	corpus-6-test-corpus-26-train	ALX	الجمعة بالليل، الساعة تسعة.
+18166	corpus-6-test-corpus-26-train	ALX	هى البوابة دى للاس فيجاس؟
+18181	corpus-6-test-corpus-26-train	ALX	معاك أتوبيس من المطار؟
+18189	corpus-6-test-corpus-26-train	ALX	معلقة تانية، من فضلك.
+18211	corpus-6-test-corpus-26-train	ALX	هو مالح شوية، بس عاجبنى. إنت جبته معاك كل الطريق من اليابان؟
+18226	corpus-6-test-corpus-26-train	ALX	لو سمحت استعجله، لو ممكن.
+18254	corpus-6-test-corpus-26-train	ALX	تقدر تدفع عشرة دولار هنا عربون؟
+18264	corpus-6-test-corpus-26-train	ALX	أه. صحينى بعد تلات ساعات، لو سمحت.
+18273	corpus-6-test-corpus-26-dev	ALX	أنا عاوز أطلب، لو سمحت.
+18274	corpus-6-test-corpus-26-test	ALX	المفروض أقول آه ولا لأ؟
+18282	corpus-6-test-corpus-26-train	ALX	معلقتين، لو سمحت.
+18323	corpus-6-test-corpus-26-train	ALX	إيه المحطة الجاية؟
+18334	corpus-6-test-corpus-26-dev	ALX	العربية بتعمل صوت غريب.
+18336	corpus-6-test-corpus-26-test	ALX	هو مكتب البريد بيقفل الساعة كام؟
+18338	corpus-6-test-corpus-26-dev	ALX	أنا خلاص دفعت خمسين دولار عربون لما عملت تشيك إن.
+18341	corpus-6-test-corpus-26-train	ALX	إنت أخدت دوا لاضطراب المعدة؟
+18342	corpus-6-test-corpus-26-train	ALX	هو انا محتاج ألبس بالطو وكرافتة؟
+18344	corpus-6-test-corpus-26-train	ALX	هو انا أقدر أحول فلوس لحساب التوفير بتاعى؟
+18355	corpus-6-test-corpus-26-train	ALX	أنا نسيت شنطة اليد بتاعتى.
+18382	corpus-6-test-corpus-26-train	ALX	عاوز أعيد تأكيد رحلتى.
+18401	corpus-6-test-corpus-26-train	ALX	ساعتى. كانت رقمية سويسرية الصنع ماركة جديدة.
+18409	corpus-6-test-corpus-26-test	ALX	أنا اجتزت الاختبار دة بنجاح.
+18412	corpus-6-test-corpus-26-dev	ALX	أنا عاوزك تاخدنى لأماكن شيقة. أنا سايح، إنت عارف كدة.
+18419	corpus-6-test-corpus-26-train	ALX	أقدر أروح للفرجة على معالم المدينة لما السفينة تكون فى المينا؟
+18437	corpus-6-test-corpus-26-train	ALX	إنت الأحسن تظبط المراية اللى ورا.
+18440	corpus-6-test-corpus-26-dev	ALX	هيكون فى عشر دقايق انتظار أو كدة.
+18441	corpus-6-test-corpus-26-train	ALX	أقدر أشيل الأطباق بتاعتك؟
+18451	corpus-6-test-corpus-26-train	ALX	هكون مبسوط. إيه الوقت اللى تحبه؟
+18487	corpus-6-test-corpus-26-train	ALX	أفتكر إنى سبت الكاميرا بتاعتى ورا لما اتعشيت هنا إمبارح.
+18492	corpus-6-test-corpus-26-train	ALX	إجمعهم عند البوابة.
+18502	corpus-6-test-corpus-26-train	ALX	أوه، لأ. دة مش هيكون ضرورى. أنا أقدر آخد بالى منه. إنت خلاص عملت أكتر من الكافى.
+18519	corpus-6-test-corpus-26-train	ALX	يا إما تصلحه أو تبدله، لو سمحت.
+18521	corpus-6-test-corpus-26-train	ALX	ممكن أعمله فى وقت ما الشهر الجاى.
+18527	corpus-6-test-corpus-26-train	ALX	لو سمحت خد وقتك.
+18531	corpus-6-test-corpus-26-train	ALX	هو إزاى المنتج الجديد دة يتقارن مع المنتج الحالى؟
+18540	corpus-6-test-corpus-26-train	ALX	موظفين المبيعات طيبين جدا فى المحل دة.
+18552	corpus-6-test-corpus-26-train	ALX	ممكن تشيللى دة؟
+18562	corpus-6-test-corpus-26-train	ALX	دقيقة بس، من فضلك.
+18569	corpus-6-test-corpus-26-train	ALX	معاك ورق الاستلام بتاعك؟
+18572	corpus-6-test-corpus-26-train	ALX	عاوز أأجر عربية لمدة أسبوع.
+18580	corpus-6-test-corpus-26-train	ALX	أيوة، الاول، نضفه بطريقة منفصلة.
+18585	corpus-6-test-corpus-26-train	ALX	من فضلك ورينى ساعات رجالى.
+18595	corpus-6-test-corpus-26-train	ALX	أربعة وعشرة.
+18612	corpus-6-test-corpus-26-dev	ALX	الليموزين بتكلف كام علشان تروح لمركز المدينة؟
+18614	corpus-6-test-corpus-26-train	ALX	من النهاردة الصبح.
+18617	corpus-6-test-corpus-26-train	ALX	الأحسن لنا نسرع. هما خلاص بيركبوا.
+18632	corpus-6-test-corpus-26-test	ALX	مناسب تماما.
+18639	corpus-6-test-corpus-26-train	ALX	أنا سألت على فراخ.
+18640	corpus-6-test-corpus-26-train	ALX	لعشر أيام.
+18642	corpus-6-test-corpus-26-train	ALX	الولد دة كام سنة؟
+18643	corpus-6-test-corpus-26-train	ALX	بكام كله مع بعضه؟
+18646	corpus-6-test-corpus-26-train	ALX	أنا عاوز زى دة، لو سمحت.
+18685	corpus-6-test-corpus-26-train	ALX	أنا ضيعت الشيك السياحى بتاعى.
+18687	corpus-6-test-corpus-26-train	ALX	من فضلك إدينى دوا برد.
+18690	corpus-6-test-corpus-26-train	ALX	من فضلك حطه فى قرطاس.
+18725	corpus-6-test-corpus-26-train	ALX	أنا دايما بشوفه كل يوم الصبح فى القطر.
+18727	corpus-6-test-corpus-26-train	ALX	تقدر تتعشى معانا النهاردة بالليل؟
+18747	corpus-6-test-corpus-26-train	ALX	انا هقعد في فندق بي لحد بكرة. هكون مبسوط لو قولتله إنى هنا.
+18770	corpus-6-test-corpus-26-train	ALX	الرحلة إتأجلت خمسة وأربعين دقيقة.
+18771	corpus-6-test-corpus-26-train	ALX	إسمى شينو يامادا.
+18784	corpus-6-test-corpus-26-train	ALX	هو إيه تخصص المطعم دة؟
+18798	corpus-6-test-corpus-26-test	ALX	عندنا نبيت أبيض فاخر.
+18830	corpus-6-test-corpus-26-train	ALX	دوا برد بس.
+18834	corpus-6-test-corpus-26-dev	ALX	ممكن تجيب الشنط بتاعى للوبى بكرة الصبح؟
+18836	corpus-6-test-corpus-26-train	ALX	أوه، أنا شكلى لازم أضيع حاجة كل مرة أسافر فيها.
+18845	corpus-6-test-corpus-26-train	ALX	أنا مبقيتش بستخدم دراعى اليمين.
+18847	corpus-6-test-corpus-26-train	ALX	أهلا. هو دة رويز؟
+18848	corpus-6-test-corpus-26-test	ALX	بعد كدة، هتوصل لشارع تسوق. لو فضلت ماشى فى الشارع هتوصل المحطة.
+18872	corpus-6-test-corpus-26-train	ALX	لأ، مش هنا. فى أوضة تدخين فى آخر العربية دى.
+18877	corpus-6-test-corpus-26-train	ALX	ممكن آخد بروشور؟
+18879	corpus-6-test-corpus-26-train	ALX	إوصل هناك على تسعة، لو سمحت.
+18906	corpus-6-test-corpus-26-train	ALX	أه، يا فندم. تحب أقطعه إزاى؟
+18912	corpus-6-test-corpus-26-test	ALX	أفتكر فى غلط فى الفاورة.
+18917	corpus-6-test-corpus-26-train	ALX	زيت وخل بس هيكون كويس.
+18919	corpus-6-test-corpus-26-train	ALX	جالى اللى إنت عاوزه بالظبط. ممكن أقترح دة؟
+18938	corpus-6-test-corpus-26-train	ALX	قهوة بسكر.
+18948	corpus-6-test-corpus-26-train	ALX	سبعتاشر إيه. أوه، انا آسف. أنا عملت غلطة.
+18951	corpus-6-test-corpus-26-test	ALX	عمرك سمعت عن الأسبوع الدهبى فى اليابان؟
+18957	corpus-6-test-corpus-26-train	ALX	شكرا. لو سمحت تعالى تانى.
+18963	corpus-6-test-corpus-26-test	ALX	هو لسة محجوز على الآخر؟
+18974	corpus-6-test-corpus-26-test	ALX	ممكن أسيبه فى أى مكان فى البلد؟
+18986	corpus-6-test-corpus-26-test	ALX	المفروض أطلب رقم كام من هنا؟
+19002	corpus-6-test-corpus-26-train	ALX	إزاى أوصل ديزنى لاند؟
+19005	corpus-6-test-corpus-26-train	ALX	تفتكر كدة؟
+19007	corpus-6-test-corpus-26-train	ALX	لو سمحت. فين المطعم الرئيسى؟
+19009	corpus-6-test-corpus-26-train	ALX	عاوز أعمل مكالمة لليابان.
+19036	corpus-6-test-corpus-26-test	ALX	رقم الكرسى بتاعى دى اتناشر. هو فين؟
+19037	corpus-6-test-corpus-26-dev	ALX	إيه دة، من فضلك؟
+19038	corpus-6-test-corpus-26-train	ALX	إيه النوع اللى فى دماغك؟
+19045	corpus-6-test-corpus-26-train	ALX	أه. هنوصل تمانية بالتوقيت المحلى.
+19050	corpus-6-test-corpus-26-train	ALX	لو لقيت أى حاجة، لو سمحت اتصل بيا.
+19057	corpus-6-test-corpus-26-train	ALX	ممكن آخد لحم خنزير وبيض؟
+19064	corpus-6-test-corpus-26-train	ALX	شربات بطيخ للتحلية، من فضلك.
+19068	corpus-6-test-corpus-26-train	ALX	الميا السخنة مش سخنة كفاية.
+19085	corpus-6-test-corpus-26-train	ALX	ممكن تشرح إزاى أعمل دة؟
+19094	corpus-6-test-corpus-26-train	ALX	لو سمحت اكتب عنوان التواصل بتاعك هنا.
+19100	corpus-6-test-corpus-26-train	ALX	ممكن أستخدم فلاش؟
+19101	corpus-6-test-corpus-26-train	ALX	شكرا. إرجع أوضتى فى نفس الميعاد بكرة. هجهز الصور فى الوقت دة.
+19103	corpus-6-test-corpus-26-train	ALX	أنا أسف دلوقتى تقدر تطلب بس من منيو بالليل.
+19113	corpus-6-test-corpus-26-train	ALX	غير منقى ولا منقى؟
+19144	corpus-6-test-corpus-26-train	ALX	عندى صداع.
+19147	corpus-6-test-corpus-26-test	ALX	دى أوضة اتناشر زيرو سبعة.
+19148	corpus-6-test-corpus-26-test	ALX	عاوز أوضة مختلفة.
+19156	corpus-6-test-corpus-26-train	ALX	الفيزا دى هتكون كويسة لحد إمتى؟
+19162	corpus-6-test-corpus-26-train	ALX	فى مستشفى قريب من هنا؟
+19170	corpus-6-test-corpus-26-train	ALX	عاوز بدلة.
+19196	corpus-6-test-corpus-26-train	ALX	عندك عرض أكبر؟
+19215	corpus-6-test-corpus-26-test	ALX	ممكن أحاول على تسعة؟
+19217	corpus-6-test-corpus-26-train	ALX	أوتيل آمن بيقدم فطار لذيذ، من فضلك.
+19226	corpus-6-test-corpus-26-train	ALX	فين جنينة الحيوانات؟
+19232	corpus-6-test-corpus-26-train	ALX	فى منهم أكبر؟
+19250	corpus-6-test-corpus-26-dev	ALX	تلاتين قصاد تمانين.
+19251	corpus-6-test-corpus-26-train	ALX	دة بيعتمد على أد إيه المكان دافى، لكن فى وسط اليابان، بداية أبريل.
+19258	corpus-6-test-corpus-26-train	ALX	تشيزبرجر وبطاطس.
+19269	corpus-6-test-corpus-26-train	ALX	دة متأخر جدا على آخر قطر.
+19281	corpus-6-test-corpus-26-train	ALX	انا مش معايا أى فكة.
+19294	corpus-6-test-corpus-26-train	ALX	أخدت تذكرة الأتوبيس بتاعتك؟
+19306	corpus-6-test-corpus-26-train	ALX	ائتمان، لو سمحت.
+19307	corpus-6-test-corpus-26-train	ALX	أنا كنت على خطوط يونايتد رحلة تمانية اتنين تمانية.
+19317	corpus-6-test-corpus-26-train	ALX	دوشة أوى حوالين أوضتى.
+19318	corpus-6-test-corpus-26-train	ALX	على الساحل الشرقى، إنت كمان بتلاقى أماكن مشهورة، زى نيويورك، واشنطن دى سى و بوسطن.
+19327	corpus-6-test-corpus-26-train	ALX	معاك أوراق يابانية؟
+19329	corpus-6-test-corpus-26-train	ALX	دة كويس.
+19346	corpus-6-test-corpus-26-train	ALX	هو تمام لو سبت الشنط بتاعتى معاك لحد الساعة واحدة؟
+19347	corpus-6-test-corpus-26-train	ALX	فى جولة فى المدينة؟
+19360	corpus-6-test-corpus-26-train	ALX	أه. للأسف أنا مضطر. هو أد إيه الأمن متحافظ عليه كويس فى المنطقة دى؟
+19391	corpus-6-test-corpus-26-train	ALX	أنا شايف. بحاول أأجر عربية سيتروين.
+19401	corpus-6-test-corpus-26-dev	ALX	أنا عندى موهبة بالفطرة.
+19413	corpus-6-test-corpus-26-train	ALX	دة هيكون كويس. فين العيش؟
+19415	corpus-6-test-corpus-26-train	ALX	مدخنين، لو سمحت. وكرسى جنب الشباك، لو سمحت.
+19423	corpus-6-test-corpus-26-train	ALX	و بتاخد كام تمن الخياطة؟
+19444	corpus-6-test-corpus-26-dev	ALX	أنهى هيكون أسرع، تاكسى ولا عربية إسعاف؟
+19460	corpus-6-test-corpus-26-train	ALX	عندك التيشيرت دة بأى ألوان تانية؟
+19463	corpus-6-test-corpus-26-test	ALX	إنت مش المفروض تشوف التليفزيون طول الوقت.
+19466	corpus-6-test-corpus-26-train	ALX	أيوة، إحنا جايين عليه، جايين عليه.
+19467	corpus-6-test-corpus-26-train	ALX	إنت كان من الأحسن إنك تدخل المستشفى بتاعتنا.
+19469	corpus-6-test-corpus-26-train	ALX	أقدر ألاقى فين سوبر ماركت؟
+19475	corpus-6-test-corpus-26-train	ALX	هو غالى شوية. مش ممكن تدينى هدنة؟
+19479	corpus-6-test-corpus-26-train	ALX	كام محطة لحد ما أغير؟
+19490	corpus-6-test-corpus-26-train	ALX	الراجل دة سرق محفظتى.
+19494	corpus-6-test-corpus-26-train	ALX	برشام الهضم وبرشام المعدة مختلفين، صح؟
+19497	corpus-6-test-corpus-26-test	ALX	أنا عاوز أشوف المينا.
+19500	corpus-6-test-corpus-26-test	ALX	فكرة جميلة.
+19501	corpus-6-test-corpus-26-train	ALX	ياخد وقت أد إيه مشى؟
+19505	corpus-6-test-corpus-26-train	ALX	أنا هاخد عشرين من أكبر دب لعبة، لو سمحت.
+19507	corpus-6-test-corpus-26-dev	ALX	إيه رقم الكاشير؟
+19508	corpus-6-test-corpus-26-train	ALX	دى سهلة. هبص بس فى دليل التليفونات.
+19509	corpus-6-test-corpus-26-dev	ALX	عندك أى أوض أكبر؟
+19547	corpus-6-test-corpus-26-train	ALX	فاتورتى بكام؟
+19548	corpus-6-test-corpus-26-train	ALX	عاوز أقعد فى الاوضة دى لليلة تانية زيادة.
+19560	corpus-6-test-corpus-26-train	ALX	لو تسمح. بس انا عاوز اسلم تقرير السرقة.
+19572	corpus-6-test-corpus-26-train	ALX	طيب، دة يعتمد على وسايل المواصلات اللى هتاخدها. إنت هتروح بالأتوبيس ولا بالطيارة؟
+19578	corpus-6-test-corpus-26-train	ALX	عندك مانع لو قعدت هنا؟
+19581	corpus-6-test-corpus-26-train	ALX	ممكن أبعت إيميل واحد بس بدولار؟
+19589	corpus-6-test-corpus-26-train	ALX	أيوة، لو سمحت إبعته فوق لأوضة اتناشر أربعة وتلاتين.
+19610	corpus-6-test-corpus-26-dev	ALX	إملا استمارة التسجيل دى، من فضلك.
+19617	corpus-6-test-corpus-26-test	ALX	عاوز تذكرتين ذهاب وعودة لأكسفورد.
+19619	corpus-6-test-corpus-26-train	ALX	المفروض أجى المطار على الساعة كام؟
+19620	corpus-6-test-corpus-26-train	ALX	دة بطيء.
+19623	corpus-6-test-corpus-26-train	ALX	أقدر أحمض فيلم فين؟
+19643	corpus-6-test-corpus-26-test	ALX	لأ، لو سمحت بلاش. ممكن تحوش أسألتك لنهاية كلامى، لما أطلبهم؟
+19648	corpus-6-test-corpus-26-dev	ALX	عاوز كرسى كويس.
+19649	corpus-6-test-corpus-26-train	ALX	للأسف التواليت مش شغال، انا محتاج مساعدة.
+19651	corpus-6-test-corpus-26-test	ALX	مفيش حاجة صعبة ولا غامضة.
+19654	corpus-6-test-corpus-26-train	ALX	هوديك لكرسيك. الطريق دة، من فضلك.
+19656	corpus-6-test-corpus-26-train	ALX	لو سمحت، أقدر أسألك سؤال؟
+19666	corpus-6-test-corpus-26-train	ALX	أعتقد كدة.
+19675	corpus-6-test-corpus-26-train	ALX	هاى، جميل إنى قابلتك.
+19691	corpus-6-test-corpus-26-train	ALX	عاوز أحط الشنط دى لحد طوكيو، لو سمحت.
+19694	corpus-6-test-corpus-26-train	ALX	ممكن تورينى واحد أكبر شوية؟
+19703	corpus-6-test-corpus-26-train	ALX	أفتكر الهدوم اللى مصنوعة فى اليابان بالتأكيد متخيطين أحسن.
+19715	corpus-6-test-corpus-26-train	ALX	كان أحسنلك تستسلم.
+19716	corpus-6-test-corpus-26-dev	ALX	قول تانى لو سمحت.
+19722	corpus-6-test-corpus-26-train	ALX	ممكن تكتبلى العنوان ورقم التليفون، لو سمحت؟
+19726	corpus-6-test-corpus-26-train	ALX	هو متسخن؟
+19732	corpus-6-test-corpus-26-train	ALX	أنهى مطار همشى منه؟
+19733	corpus-6-test-corpus-26-train	ALX	ماستلمتش الاستمارة فى الطيارة؟
+19735	corpus-6-test-corpus-26-train	ALX	عاوز مكوة.
+19752	corpus-6-test-corpus-26-dev	ALX	وصل لتمانية وتلاتين دولار إجمالى.
+19754	corpus-6-test-corpus-26-train	ALX	شكرا على مشاركة أفكارك الفريدة معانا.
+19755	corpus-6-test-corpus-26-train	ALX	أنا بروح أتزحلق مرتين فى الشهر خلال الموسم.
+19760	corpus-6-test-corpus-26-train	ALX	أنا اتولدت فى واحد أبريل ألف تسعمية خمسة وخمسين.
+19769	corpus-6-test-corpus-26-test	ALX	ممكن أأجر مضارب راكيت؟
+19809	corpus-6-test-corpus-26-train	ALX	هو دة الأتوبيس الصح لوسط البلد؟
+19813	corpus-6-test-corpus-26-train	ALX	البرفان دة بكام؟
+19814	corpus-6-test-corpus-26-train	ALX	دة لإيه؟
+19819	corpus-6-test-corpus-26-train	ALX	منين اقدر أخلص الإجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	ALX	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	ALX	دة شامل الضريبة؟
+19853	corpus-6-test-corpus-26-test	ALX	إيه هى الخراجات؟
+19862	corpus-6-test-corpus-26-train	ALX	من فضلك اتصل بالإسعاف.
+19864	corpus-6-test-corpus-26-dev	ALX	أراهن على كدة بتلاتة دولار.
+19871	corpus-6-test-corpus-26-train	ALX	دة جاى إزاى؟
+19889	corpus-6-test-corpus-26-train	ALX	مفيش أكل مبحبوش.
+19902	corpus-6-test-corpus-26-train	ALX	"يوم الدستور أو ""كيمبو كينينبي"" هو عيد قومى فى التالت من مايو لتخليد ذكرى تأسيس دستور اليابان الحالى."
+19912	corpus-6-test-corpus-26-train	ALX	الجولة دى بتشمل زيارة لبرج سيرز؟
+19923	corpus-6-test-corpus-26-train	ALX	فى مكتبة قريب من هنا؟
+19928	corpus-6-test-corpus-26-train	ALX	أنا هحضر المدرسة الصيفية فى الجامعة فى هاواى.
+19935	corpus-6-test-corpus-26-train	ALX	إحنا بنمر فين دلوقتى؟
+19945	corpus-6-test-corpus-26-train	ALX	شخصين كبار وطفل عنده تلات سنين.
+19959	corpus-6-test-corpus-26-train	ALX	فى الحمام فى المحطة.

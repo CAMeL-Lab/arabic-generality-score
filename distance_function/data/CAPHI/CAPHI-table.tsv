@@ -1,0 +1,115 @@
+	CAPHI	IPA	Sound	Letter	HSB	Mapping	Example CODA	Example	Example Gloss	Example Dialect	Consonant/Vowel	CAPHI sorting order	CODA sorting order	audio URL	audio icon
+1	p	p	pet	ب	b	default	بري	p r i	price	Algiers	consonant	1	8	https://drive.google.com/file/d/0BxiVQ46wWCOFd1ozWm9mdm5Oc00/view?usp=sharing,%20	🔊
+2	p.	pˤ	emphatic p	ب	b	default	بمب	p. a m. p.	pump	Baghdad	consonant	2	8	https://drive.google.com/file/d/0BxiVQ46wWCOFaUNmMXFRRzY0WlU/view?usp=sharing,%20	🔊
+3	b	b	bit	ب	b	default	باب	b ee b	door	Sfax	consonant	3	8	https://drive.google.com/file/d/0BxiVQ46wWCOFNUJjVzlPUVRZVlk/view?usp=sharing,%20	🔊
+4	b.	bˤ	emphatic b	ب	b	default	ياباني	y aa b. aa n i	Japanese	Muscat	consonant	4	8	https://drive.google.com/file/d/0BxiVQ46wWCOFclFQMDQ2UHNva2c/view?usp=sharing,%20	🔊
+5	f	f	fit	ف	f	default	فردي	f a r d i	single	Tripoli	consonant	5	33	https://drive.google.com/file/d/0BxiVQ46wWCOFOHFRR3NNcExNNVE/view?usp=sharing,%20	🔊
+6	f.	fˤ	emphatic f	ف	f	default	فكّ	f. a k k	he opened	Baghdad	consonant	6	33	https://drive.google.com/file/d/0BxiVQ46wWCOFSV9WUDBxRWVSRDA/view?usp=sharing,%20	🔊
+7	v	v	van	ف	f	default	رونديفو	r oo n d ii v uu	appointment	Algiers	consonant	7	33	https://drive.google.com/file/d/0BxiVQ46wWCOFN1JPNkFXTWt1ZWs/view?usp=sharing,%20	🔊
+8	t	t	tip	ت	t	default	تفاح	t i f f ee 7	apple	Beirut	consonant	8	10	https://drive.google.com/file/d/0BxiVQ46wWCOFNWJYZ2EzdVo3bTA/view?usp=sharing,%20	🔊
+9	t	t	tip	ث	θ		ثامن	t aa m i n	eighth	Jeddah	consonant	8	11	https://drive.google.com/file/d/0BxiVQ46wWCOFSGZ4aUpJalBDODg/view?usp=sharing,%20	🔊
+10	t.	tˤ	emphatic t	ط	T	default	طبق	t. a b a g	dish	Riyadh	consonant	9	23	https://drive.google.com/file/d/0BxiVQ46wWCOFRUxXb0ZqQVhzQm8/view?usp=sharing,%20	🔊
+11	t.	tˤ	emphatic t	ت	t		فستان	f u s t. aa n	dress	Amman	consonant	9	10	https://drive.google.com/file/d/0BxiVQ46wWCOFeG1LUldXNWtSZmc/view?usp=sharing,%20	🔊
+12	d	d	dip	د	d	default	جديد	j d ii d	new	Algiers	consonant	10	15	https://drive.google.com/file/d/0BxiVQ46wWCOFd09ZY1ozWUpvT1E/view?usp=sharing,%20	🔊
+13	d	d	dip	ت	t		اتدشدش	2 i d d a sh d a sh	he got smashed	Cairo	consonant	10	10		
+14	d	d	dip	ذ	ð		ذيل	d ee l	tail	Beirut	consonant	10	16	https://drive.google.com/file/d/0BxiVQ46wWCOFcFFydUFsQ0VlZEk/view?usp=sharing,%20	🔊
+15	d	d	dip	ض	D		ضحك	d i 7 i k	he laughed	Cairo	consonant	10	22		
+16	d.	dˤ	emphatic d	ض	D	default	ضرس	d. i r s	tooth	Jeddah	consonant	11	22	https://drive.google.com/file/d/0BxiVQ46wWCOFYW0zaGpnVmhVR2s/view?usp=sharing,%20	🔊
+17	d.	dˤ	emphatic d	ت	t		اتضرب	2 i d. d. a r a b	he got hit	Cairo	consonant	11	10		
+18	d.	dˤ	emphatic d	د	d		ضفدعة	d. u f d. a 3 a	frog	Cairo	consonant	11	15	https://drive.google.com/file/d/0BxiVQ46wWCOFMnR0RTNacWhmX0E/view?usp=sharing,%20	🔊
+19	d.	dˤ	emphatic d	ظ	Ď		ظهرية	d. u h r i y y a	shaddow	Jeddah	consonant	11	24	https://drive.google.com/file/d/0BxiVQ46wWCOFWkVHcG5PU0U5dnM/view?usp=sharing,%20	🔊
+20	th	θ	third	ث	θ	default	ثياب	th y aa b	clothes	Salt	consonant	12	11	https://drive.google.com/file/d/0BxiVQ46wWCOFWmEzX2dfbTJBaWM/view?usp=sharing,%20	🔊
+21	dh	ð	the	ذ	ð	default	ذراع	dh r aa 3	arm	Muscat	consonant	13	16	https://drive.google.com/file/d/0BxiVQ46wWCOFZHB0YTd4c2I1ZVU/view?usp=sharing,%20	🔊
+22	dh.	ðˤ	emphatic ð	ظ	Ď	default	ظاهر	dh. aa h i r	appearing	Abu Dhabi	consonant	14	24	https://drive.google.com/file/d/0BxiVQ46wWCOFUEpaRTdYRDQ5Ulk/view?usp=sharing,%20	🔊
+23	dh.	ðˤ	emphatic ð	ذ	ð		ذوق	dh. oo g	tasting	Baghdad	consonant	14	16	https://drive.google.com/file/d/0BxiVQ46wWCOFQzEwN3ZFaUhkeWM/view?usp=sharing,%20	🔊
+24	dh.	ðˤ	emphatic ð	ض	D		ضغط	dh. a gh a t.	he pressed	Jerusalem	consonant	14	22	https://drive.google.com/file/d/0BxiVQ46wWCOFX2cwd3pzOEhnbGc/view?usp=sharing,%20	🔊
+25	s	s	sit	س	s	default	اساسي	2 a s aa s i	main	Rabat	consonant	15	19	https://drive.google.com/file/d/0BxiVQ46wWCOFd1lveU1sUEFaZXM/view?usp=sharing,%20	🔊
+26	s	s	sit	ث	θ		ثورة	s a w r a	revolution	Cairo	consonant	15	11	https://drive.google.com/file/d/0BxiVQ46wWCOFMm9KdFAzWEtOYlk/view?usp=sharing,%20	🔊
+27	s	s	sit	ز	z		الزعيم	2 a s s e 3 ii m	the boss	Sana’a	consonant	15	18		
+28	s	s	sit	ص	S		صايغ	s aa y e gh	jeweler	Cairo	consonant	15	21		
+29	s.	sˤ	emphatic s	ص	S	default	قصّة	q i s. s. a	story	Alexandria	consonant	16	21	https://drive.google.com/file/d/0BxiVQ46wWCOFQTdMLVNXaWFSTWM/view?usp=sharing,%20	🔊
+30	s.	sˤ	emphatic s	س	s		سلطة	s. a l. a t. a	salad	Khartoum	consonant	16	19	https://drive.google.com/file/d/0BxiVQ46wWCOFbG02UTdWRF9tdjQ/view?usp=sharing,%20	🔊
+31	z	z	zoo	ز	z	default	زورق	z a w r a 2	boat	Aleppo	consonant	17	18	https://drive.google.com/file/d/0BxiVQ46wWCOFdHVQQ2hKaHBLZUU/view?usp=sharing,%20	🔊
+32	z	z	zoo	ذ	ð		ذبيحة	z a b ii 7 a	meat	Muscat	consonant	17	16	https://drive.google.com/file/d/0BxiVQ46wWCOFemNZU2ViNUlSa0U/view?usp=sharing	🔊
+33	z	z	zoo	س	s		اسبوع	2 i z b uu 3	week	Khartoum	consonant	17	19		
+34	z	z	zoo	ص	S		صغير	z gh ii r	small	Beirut	consonant	17	21	https://drive.google.com/file/d/0BxiVQ46wWCOFaVRsWmJ2X2h0TzA/view?usp=sharing,%20	🔊
+36	z.	zˤ	emphatic z	ز	z		جزمة	tsh i z. m. a	boot	Baghdad	consonant	18	18	https://drive.google.com/file/d/0BxiVQ46wWCOFOGZyYzBiVjREenM/view?usp=sharing,%20	🔊
+37	z.	zˤ	emphatic z	ض	D		مضبوط	m a z. b uu t.	correct	Jeddah	consonant	18	22	https://drive.google.com/file/d/0BxiVQ46wWCOFSUlkc080SmNWX0k/view?usp=sharing,%20	🔊
+35	z.	zˤ	emphatic z	ظ	Ď	default	عظيم	3 a z. ii m	great	Damascus	consonant	18	24	https://drive.google.com/file/d/0BxiVQ46wWCOFWG4tME1jNFNUekU/view?usp=sharing,%20	🔊
+38	sh	ʃ	ship	ش	š	default	شاذر	sh aa dh i r	blanket	Muscat	consonant	19	20	https://drive.google.com/file/d/0BxiVQ46wWCOFcTMwS2RTVHpnOWM/view?usp=sharing,%20	🔊
+39	j	ʒ	measure	ج	j	default	جاب	j ee b	he brought	Beirut	consonant	20	12	https://drive.google.com/file/d/0BxiVQ46wWCOFcE9qdDByN0IzVnc/view?usp=sharing,%20	🔊
+40	j	ʒ	measure	ق	q		طريق	t. a r ii j	road	Baghdad	consonant	20	34	https://drive.google.com/file/d/0BxiVQ46wWCOFVEgzcmx1U3hPdTQ/view?usp=sharing,%20	🔊
+41	ts	ts	heigh ts	تس	ts	default	فريتس	f r i ts	Fritz	MSA	consonant	21	#N/A		
+42	ts	ts	heigh ts	ك	k		سمك	s i m a ts	fish	Riyadh(B)	consonant	21	35	https://drive.google.com/file/d/0BxiVQ46wWCOFUlJlQlJKRWxWd2c/view?usp=sharing,%20	🔊
+43	ts	ts	heigh ts	ج	j		كتابج	k i t aa b i ts	your [2fs] book	Riyadh(B)	consonant	21	12		
+44	dz	d͡z	grades	دز	dz	default	ايدز	2 ee dz	AIDS	Beirut	consonant	22	#N/A		
+45	dz	d͡z	grades	ج	j		جزاير	dz aa y i r	Algeria	Algiers	consonant	22	12	https://drive.google.com/file/d/0BxiVQ46wWCOFMVVzWkpqQUFxOXM/view?usp=sharing,%20	🔊
+46	dz	d͡z	grades	ق	q		طريق	t. a r ii dz	road	Riyadh(B)	consonant	22	34	https://drive.google.com/file/d/0BxiVQ46wWCOFX2hVLTVSVGNIOHM/view?usp=sharing,%20	🔊
+47	tsh	tʃ	champ	تش	tš	default	كتشب	k a tsh tsh a p	ketchup	Sana’a	consonant	23	#N/A	https://drive.google.com/file/d/0BxiVQ46wWCOFdC02aDUxaklGWmc/view?usp=sharing,%20	🔊
+48	tsh	tʃ	champ	ج	j		عيونج	3 y uu n i tsh	your eyes [2fs]	Doha	consonant	23	12	https://drive.google.com/file/d/0BxiVQ46wWCOFWThhY0Z0aDVFcjg/view?usp=sharing,%20	🔊
+49	tsh	tʃ	champ	ش	š		شاف	tsh aa f	he saw	Doha	consonant	23	20	https://drive.google.com/file/d/0BxiVQ46wWCOFVXBMNXJUdUFTUEU/view?usp=sharing,%20	🔊
+50	tsh	tʃ	champ	ك	k		سمك	s i m a tsh	fish	Basra	consonant	23	35	https://drive.google.com/file/d/0BxiVQ46wWCOFZVZrbll6c09DS2c/view?usp=sharing,%20	🔊
+51	dj	dʒ	joy	ج	j	default	موجود	m a w dj uu d	available	Khartoum	consonant	24	12	https://drive.google.com/file/d/0BxiVQ46wWCOFaUh0b2N4X1o4eWs/view?usp=sharing,%20	🔊
+52	dj	dʒ	joy	ق	q		طريق	t. i r ii dj	road	Abu Dhabi	consonant	24	34	https://drive.google.com/file/d/0BxiVQ46wWCOFdG1aSWZHMnd1alk/view?usp=sharing,%20	🔊
+53	k	k	kit	ك	k	default	فاكهة	f aa k h a	fruit	Doha	consonant	25	35	https://drive.google.com/file/d/0BxiVQ46wWCOFbXdZa0lwa3F5akU/view?usp=sharing,%20	🔊
+54	k	k	kit	ق	q		رقم	r a k a m	number	Jerusalem(R)	consonant	25	34	https://drive.google.com/file/d/0BxiVQ46wWCOFYkktdTA4S3ZESmM/view?usp=sharing,%20	🔊
+55	g	ɡ	get	ج	j	default	جميل	g a m ii l	beautiful	Cairo	consonant	26	12	https://drive.google.com/file/d/0BxiVQ46wWCOFWEFibkhjRERUS2M/view?usp=sharing,%20	🔊
+56	g	ɡ	get	ق	q		قال	g aa l	he said	Aswan	consonant	26	34	https://drive.google.com/file/d/0BxiVQ46wWCOFeDctYWpGWjkyRFk/view?usp=sharing,%20	🔊
+57	g	ɡ	get	ك	k		بنك	b. a n g	bank	Baghdad	consonant	26	35	https://drive.google.com/file/d/0BxiVQ46wWCOFbVBWMmZ2ZC1idVE/view?usp=sharing,%20	🔊
+58	gy	ɡʲ		ج	j	default	جايز	gy aa y i z	possible	Khartoum	consonant	27	12		
+59	q	q	uvular stop	ق	q	default	قطار	q i t. aa r	train	Fes	consonant	28	34	https://drive.google.com/file/d/0BxiVQ46wWCOFcFFiRDYyclFxb1U/view?usp=sharing,%20	🔊
+60	qh	ɢ	voiced q	ق	q	default	رقم	r a qh a m	number	Khartoum	consonant	29	34	https://drive.google.com/file/d/0BxiVQ46wWCOFZkZieXdycTZqWHc/view?usp=sharing,%20	🔊
+61	kh	x	Scottish ch	خ	x	default	تخت	t a kh i t	bed	Aleppo	consonant	30	14	https://drive.google.com/file/d/0BxiVQ46wWCOFREdxNklQZjBLM28/view?usp=sharing,%20	🔊
+62	kh	x	Scottish ch	غ	γ		غسالة	kh a s s ee l a	washer	Tunis	consonant	30	26		
+63	gh	ɣ	French r	غ	γ	default	غاوي	gh aa w i	beautiful	Muscat	consonant	31	26	https://drive.google.com/file/d/0BxiVQ46wWCOFd1ZEdHJhc3BOeWM/view?usp=sharing,%20	🔊
+64	gh	ɣ	French r	ر	r		اريد	2 a gh ii d	I want	Mosul	consonant	31	17	https://drive.google.com/file/d/0BxiVQ46wWCOFMzZFOS1oUTNKWjg/view?usp=sharing,%20	🔊
+65	7	ħ	pharyngeal fricative	ح	H	default	حبّ	7 a b b	he loved	Sfax	consonant	32	13	https://drive.google.com/file/d/0BxiVQ46wWCOFMmxicUoxanpHc3M/view?usp=sharing,%20	🔊
+66	3	ʕ	voiced ħ	ع	ς	default	عمّر	3 a m m a r	he filled	Rabat	consonant	33	25	https://drive.google.com/file/d/0BxiVQ46wWCOFcnE4dWx4UHJVaGs/view?usp=sharing,%20	🔊
+67	2	ʔ	glottal stop	ء	'	default	غطاء	gh t. aa 2	blanket	Tunis	consonant	34	1	https://drive.google.com/file/d/0BxiVQ46wWCOFaGV3RWRkMTRycWM/view?usp=sharing,%20	🔊
+68	2	ʔ	glottal stop	آ	Ā	default	آمين	2 aa m ii n	amen	Abu Dhabi	consonant	34	2	https://drive.google.com/file/d/0BxiVQ46wWCOFcy1oZHBlbTFPTkk/view?usp=sharing,%20	🔊
+69	2	ʔ	glottal stop	أ	Â	default	متأكد	m i t 2 a k k i d	sure	Amman	consonant	34	3	https://drive.google.com/file/d/0BxiVQ46wWCOFaUllNlBvZG9BVlk/view?usp=sharing,%20	🔊
+70	2	ʔ	glottal stop	إ	Ǎ	default	إجازة	2 i dj aa z e	vacation	Sana’a	consonant	34	5	https://drive.google.com/file/d/0BxiVQ46wWCOFNkxUQS1BNGFMS1k/view?usp=sharing,%20	🔊
+71	2	ʔ	glottal stop	ؤ	ŵ	default	تساؤل	t a s aa 2 u l	question	Muscat	consonant	34	4	https://drive.google.com/file/d/0BxiVQ46wWCOFVy1rT1VDUEdER2c/view?usp=sharing,%20	🔊
+72	2	ʔ	glottal stop	ئ	ŷ	default	جائز	j aa 2 i z	possible	Mosul	consonant	34	6	https://drive.google.com/file/d/0BxiVQ46wWCOFVWtGWXNZZEJhMTA/view?usp=sharing,%20	🔊
+73	2	ʔ	glottal stop	ق	q		طريق	t. a r ii 2	road	Damascus	consonant	34	34	https://drive.google.com/file/d/0BxiVQ46wWCOFdkJsaUx6LXc2TTg/view?usp=sharing,%20	🔊
+74	h	h	hot	ه	h	default	مهم	m u h i m m	important	Aswan	consonant	35	39	https://drive.google.com/file/d/0BxiVQ46wWCOFTVNVd2ZKeEkyajQ/view?usp=sharing,%20	🔊
+75	m	m	met	م	m	default	مكّن	m a k k a n	he gave	Sana’a	consonant	36	37	https://drive.google.com/file/d/0BxiVQ46wWCOFYWY3VDJLcUtEcWM/view?usp=sharing,%20	🔊
+76	m	m	met	ن	n		جنب	j a m b	besides	Jeddah	consonant	36	38	https://drive.google.com/file/d/0BxiVQ46wWCOFVXgtZU1Vb2ZnNVE/view?usp=sharing,%20	🔊
+77	m.	mˤ	emphatic m	م	m	default	ميّ	m. a y y	water	Damascus	consonant	37	37	https://drive.google.com/file/d/0BxiVQ46wWCOFT0VjUEI2eWVWMTQ/view?usp=sharing,%20	🔊
+78	n	n	net	ن	n	default	فنّ	f a n n	art	Baghdad	consonant	38	38	https://drive.google.com/file/d/0BxiVQ46wWCOFRUZwcDZpTXpNQnM/view?usp=sharing,%20	🔊
+79	n	n	net	ً	ã		فعلاً	f i 3 l a n	indeed	Cairo	consonant	38	43	https://drive.google.com/file/d/0BxiVQ46wWCOFZ2pwczIzVVRmMXM/view?usp=sharing,%20	🔊
+80	n	n	net	ٌ	ũ		جميلٌ	dj a m ii l u n	beautiful	MSA	consonant	38	44	https://drive.google.com/file/d/0BxiVQ46wWCOFaDJIYkRVSVlTUEU/view?usp=sharing,%20	🔊
+81	n	n	net	ٍ	ĩ		غصبٍ	gh a s. b i n	forcefly	Abu Dhabi	consonant	38	45	https://drive.google.com/file/d/0BxiVQ46wWCOFbElrZVpDWVBnT2c/view?usp=sharing,%20	🔊
+82	n.	nˤ	emphatic n	ن	n	default	ناي	n. aa y	flute	Damascus	consonant	39	38	https://drive.google.com/file/d/0BxiVQ46wWCOFVzhubFc5V0VzNFE/view?usp=sharing,%20	🔊
+83	r	r	Spanish r	ر	r	default	روج	r uu j	red	Tunis	consonant	40	17	https://drive.google.com/file/d/0BxiVQ46wWCOFU0FkM0xKc3NpUUk/view?usp=sharing,%20	🔊
+84	r.	rˤ	emphatic r	ر	r	default	فرنسي	f a r. a n s i	french	Khartoum	consonant	41	17	https://drive.google.com/file/d/0BxiVQ46wWCOFeTRZTU4tMm02QkU/view?usp=sharing,%20	🔊
+85	l	l	German Lied	ل	l	default	لازم	l aa z i m	necessary	Riyadh	consonant	42	36	https://drive.google.com/file/d/0BxiVQ46wWCOFTU43NjlWSmN3c0k/view?usp=sharing,%20	🔊
+86	l.	lˤ	emphatic l	ل	l	default	لطش	l. a t. a sh	he stole	Khartoum	consonant	43	36	https://drive.google.com/file/d/0BxiVQ46wWCOFOWZFNlFHYkhqRUE/view?usp=sharing,%20	🔊
+87	w	w	wet	و	w	default	ولد	w a l d	boy	Sana’a	consonant	44	40	https://drive.google.com/file/d/0BxiVQ46wWCOFTVc2Sy14ZFlMdk0/view?usp=sharing,%20	🔊
+88	y	j	yet	ي	y	default	هايل	h aa y i l	great	Alexandria	consonant	45	42	https://drive.google.com/file/d/0BxiVQ46wWCOFUG16d0N3bll3bFU/view?usp=sharing,%20	🔊
+89	y	j	yet	ج	j		جلس	y a l a s	he sat down	Abu Dhabi	consonant	45	12	https://drive.google.com/file/d/0BxiVQ46wWCOFcndUbmdfRnlBS00/view?usp=sharing,%20	🔊
+90	i	i	bit	ِ	i	default	مرشِد	m u r sh i d	guide	Mosul	vowel	46	48	https://drive.google.com/file/d/0BxiVQ46wWCOFT3hnelotRUZrQTA/view?usp=sharing,%20	🔊
+91	i	i	bit	ة	ħ		سمكة	s a m a k i	fish	Beirut	vowel	46	9	https://drive.google.com/file/d/0BxiVQ46wWCOFek4wTXJjWm0xNlU/view?usp=sharing,%20	🔊
+92	i	i	bit	ه	h		فواكه	f w ee k i	fruits	Beirut	vowel	46	39		
+93	i	i	bit	ي	y		نسي	n i s i	he forgot	Sana’a	vowel	46	42	https://drive.google.com/file/d/0BxiVQ46wWCOFaFRJaTY5MU0xY2M/view?usp=sharing,%20	🔊
+94	ii	ī	beat	ي	y	default	مزيكة	m a z z ii k a	music	Alexandria	vowel	47	42	https://drive.google.com/file/d/0BxiVQ46wWCOFSXRsVUVzUGxyQUE/view?usp=sharing,%20	🔊
+95	e	e	short ē	ِ	i	default	باكِر	b aa k e r	tomorrow	Muscat	vowel	48	48		
+96	e	e	short ē	ة	ħ		ستّة	s i t t e	six	Damascus	vowel	48	9	https://drive.google.com/file/d/0BxiVQ46wWCOFQUp1VkszZUluczg/view?usp=sharing,%20	🔊
+97	e	e	short ē	َي	ay		غَيرهم	gh e r h o m	other than them	Cairo	vowel	48	#N/A		
+98	ee	ē	fate	َي	ay	default	ستَيشن	s t ee sh a n	station	Muscat	vowel	49	#N/A	https://drive.google.com/file/d/0BxiVQ46wWCOFMjljM1doTHY0VWs/view?usp=sharing,%20	🔊
+99	ee	ē	fate	ِا	iA		حِاسب	7 ee s a b	he paid	Beirut	vowel	49	#N/A	https://drive.google.com/file/d/0BxiVQ46wWCOFNjE2YTNWSXYwUDg/view?usp=sharing,%20	🔊
+100	a	a, æ	gut	َ	a	default	جَرَّب	dj a r r a b	he tried	Sana’a	vowel	50	46	https://drive.google.com/file/d/0BxiVQ46wWCOFb3BVLVBjSWwydzA/view?usp=sharing,%20	🔊
+101	a	a, æ	gut	ا	A		سما	s a m a	sky	Cairo	vowel	50	7	https://drive.google.com/file/d/0BxiVQ46wWCOFRGRHc2h3TENGb3c/view?usp=sharing,%20	🔊
+102	a	a, æ	gut	ة	ħ		شيبة	sh ee b a	old man	Jeddah	vowel	50	9	https://drive.google.com/file/d/0BxiVQ46wWCOFQWRma1Nybl8zaGs/view?usp=sharing,%20	🔊
+103	a	a, æ	gut	ه	h		شافته	sh aa f i t a	she saw him	Doha	vowel	50	39	https://drive.google.com/file/d/0BxiVQ46wWCOFWFRzMXVkSkIyZjg/view?usp=sharing,%20	🔊
+104	a	a, æ	gut	ى	ý		حمّى	7 o m m a	fever	Muscat	vowel	50	41	https://drive.google.com/file/d/0BxiVQ46wWCOFZThtSUhVLTdsQTA/view?usp=sharing,%20	🔊
+105	aa	ā, æ:	bat	ا	A	default	دار	d aa r	house	Abu Dhabi	vowel	51	7	https://drive.google.com/file/d/0BxiVQ46wWCOFZ0U0OGxEa2paV2c/view?usp=sharing,%20	🔊
+106	o	o	short ō	ُ	u	default	قُلت	2 o l t	I said	Cairo	vowel	52	47	https://drive.google.com/file/d/0BxiVQ46wWCOFM2h6MUpXeVFMYjg/view?usp=sharing,%20	🔊
+107	o	o	short ō	ه	h		جبته	j i b t o	I brought it	Damascus	vowel	52	39	https://drive.google.com/file/d/0BxiVQ46wWCOFTGtTZUpvdTUyQTQ/view?usp=sharing,%20	🔊
+108	o	o	short ō	و	w		الو	2 a l o	hello	Amman	vowel	52	40	https://drive.google.com/file/d/0BxiVQ46wWCOFN3NQMUpFbGpNNVk/view?usp=sharing,%20	🔊
+109	oo	ō	boat	و	w	default	دور	d oo r	turn	Damascus	vowel	53	40	https://drive.google.com/file/d/0BxiVQ46wWCOFd1gwS1k2d3M5UWM/view?usp=sharing,%20	🔊
+110	u	u	put	ُ	u	default	جُبن	dj u b i n	cheese	Doha	vowel	54	47	https://drive.google.com/file/d/0BxiVQ46wWCOFaGVHZHhwaUVOMjA/view?usp=sharing,%20	🔊
+111	u	u	put	ه	h		جبته	g i b t u	I brought it	Cairo	vowel	54	39	https://drive.google.com/file/d/0BxiVQ46wWCOFdHlzTk44MFp4QXc/view?usp=sharing,%20	🔊
+112	u	u	put	و	w		كتابكو	k i t a b k u	your [2p] book	Cairo	vowel	54	40	https://drive.google.com/file/d/0BxiVQ46wWCOFdzlJZG5DUDhfLVE/view?usp=sharing,%20	🔊
+113	u	u	put	وا	wA		كنتوا	k i n t u	you [2p] were	Beirut	vowel	54	#N/A	https://drive.google.com/file/d/0BxiVQ46wWCOFTmhFSmJhMmgteWM/view?usp=sharing,%20	🔊
+114	uu	ū	boot	و	w	default	بلوزة	b l uu z a	blouse	Jeddah	vowel	55	40	https://drive.google.com/file/d/0BxiVQ46wWCOFR3YweVpmRHVZTWc/view?usp=sharing,%20	🔊

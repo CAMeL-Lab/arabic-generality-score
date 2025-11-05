@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	ALG	راهو لهيك، بالضبط قدام المكتب تع معلومات السياح.
+9	corpus-6-test-corpus-26-train	ALG	جامي سمعت بهاذ العنوان في هاذ الجيهة.
+11	corpus-6-test-corpus-26-train	ALG	امشي قبالة حتى تشوف صيدلية.
+26	corpus-6-test-corpus-26-train	ALG	شحال القهوة تع الصباح؟
+27	corpus-6-test-corpus-26-train	ALG	كيفاش نقدر نعاونك؟
+30	corpus-6-test-corpus-26-train	ALG	دور على اليسار في الطريق الثالثة.
+50	corpus-6-test-corpus-26-train	ALG	تحب الكريمة و السكر فالقهوة ديالك؟
+64	corpus-6-test-corpus-26-train	ALG	تقدر تصرفلي الميتين دولار تاوعي لي راهوم فالشاك؟
+74	corpus-6-test-corpus-26-train	ALG	ويدا لازم يظهر، عيطلي من فضلك.
+86	corpus-6-test-corpus-26-train	ALG	وين جايا القهوة؟
+87	corpus-6-test-corpus-26-train	ALG	راني حاب تريكو تع أطفال.
+91	corpus-6-test-corpus-26-train	ALG	ايه. معنتها خمسة و ثمانون سنت للبرية العادية، و تزيدلها ثلاثة دولار بالضبط باش تبعثها اكسبرس.
+120	corpus-6-test-corpus-26-test	ALG	لوكان جيت في بلاصتك نشريها.
+129	corpus-6-test-corpus-26-train	ALG	راني حاب نعرف ويدا يكون عندي مشكل مع الجمارك؟
+130	corpus-6-test-corpus-26-train	ALG	عندكم صبابط رسمية عراض من القدام؟
+140	corpus-6-test-corpus-26-train	ALG	لالا. نقترح عليك غرفة فيها زوج بناك لشخص واحد. كاينة واحدة واجدة.
+143	corpus-6-test-corpus-26-train	ALG	راني حاب برمانونت قوي.
+145	corpus-6-test-corpus-26-train	ALG	راهي حابة بيرة.
+157	corpus-6-test-corpus-26-train	ALG	صباح الخير. واش راك؟
+158	corpus-6-test-corpus-26-train	ALG	سامحني لازم نطلب منك بطاقة تعريف.
+169	corpus-6-test-corpus-26-train	ALG	واش من النوع تع الصوص؟
+170	corpus-6-test-corpus-26-train	ALG	راهوا شوية بارد. تقدر تسخنو؟
+173	corpus-6-test-corpus-26-test	ALG	سامحني، هاذ البلاصة محكومة.
+176	corpus-6-test-corpus-26-train	ALG	مليح، بصح تقدر تعيط لصاحبي؟
+177	corpus-6-test-corpus-26-test	ALG	صحا. هذا ماكان.
+184	corpus-6-test-corpus-26-train	ALG	شكون هو صاحبك الأنتيم؟
+187	corpus-6-test-corpus-26-train	ALG	نهار الصحة والرياضة العاشر أكتوبر، هو نهار عطلة باش نشجعو الحياة الصحية.
+192	corpus-6-test-corpus-26-train	ALG	راك حاب نشوف تحت الكابو؟
+206	corpus-6-test-corpus-26-train	ALG	تقدر تعاوني باش نصيب الحقيبة تاعي؟
+221	corpus-6-test-corpus-26-train	ALG	تقدر تاخذ كل الترتيبات من قبل؟
+238	corpus-6-test-corpus-26-train	ALG	راهم تهلاو فيا. صحا.
+261	corpus-6-test-corpus-26-train	ALG	كي توصل تما، اطلب من كاش واحد آخر، من فضلك.
+280	corpus-6-test-corpus-26-train	ALG	مركز أربعة و عشرون، من فضلك.
+285	corpus-6-test-corpus-26-train	ALG	هاك اثنان دولار. خلي الباقي عندك.
+315	corpus-6-test-corpus-26-train	ALG	همبرغر و شيزبرغر، من فضلك.
+319	corpus-6-test-corpus-26-train	ALG	شحال تاخذ باش تدير العملية؟
+320	corpus-6-test-corpus-26-train	ALG	رانا حابين كل واحد يخلص الماكلة ديالو.
+326	corpus-6-test-corpus-26-train	ALG	كان فوق واحد الكرسي فالكولواغ.
+333	corpus-6-test-corpus-26-test	ALG	من فضلك تقدر تبدل هاذ الين لجنيهات.
+346	corpus-6-test-corpus-26-train	ALG	نسحق قاموس جيب، من فضلك.
+360	corpus-6-test-corpus-26-train	ALG	لزوج أشخاص على الساعة السبعة تع العشية، باسم واتاناب.
+368	corpus-6-test-corpus-26-train	ALG	الساعة ديالي. ديجيتال سايكو.
+370	corpus-6-test-corpus-26-train	ALG	رانا حابين نقدمولك المشروب لي تحبو نتا، ممبعد نقدمولك العشا. تقدر تصيب كامل المشروبات الي كاينة في هاذ الرحلة في دليل المعلومات تع المجلة تاعنا.
+373	corpus-6-test-corpus-26-test	ALG	تسكن منا؟
+375	corpus-6-test-corpus-26-train	ALG	وين جاي المحل تع الهدايا؟
+386	corpus-6-test-corpus-26-test	ALG	راني في الطريق السريع رقم واحد، قريب من مورو باي.
+391	corpus-6-test-corpus-26-train	ALG	نسحق منبه، من فضلك.
+398	corpus-6-test-corpus-26-dev	ALG	حقا، إسمي هيروشي ايجيما.
+401	corpus-6-test-corpus-26-dev	ALG	هاذ القطار يحبس في لاك فورست، ياك؟
+408	corpus-6-test-corpus-26-train	ALG	بزاف يابانيين ياكلو لا بيوفر و الكالامار.
+416	corpus-6-test-corpus-26-train	ALG	من فضلك، تقدر تاعطيني تذاكر بالدرجة الثانية لشيكاقو؟
+419	corpus-6-test-corpus-26-train	ALG	رحت لنيويورك.
+423	corpus-6-test-corpus-26-train	ALG	شحال الرقم تع هاذ الرحلة؟
+442	corpus-6-test-corpus-26-test	ALG	شخص واحد لنيويورك، من فضلك.
+446	corpus-6-test-corpus-26-train	ALG	ليامات برك.
+447	corpus-6-test-corpus-26-train	ALG	الثانية على اليسار.
+471	corpus-6-test-corpus-26-dev	ALG	هاذ البطاقة، معليش؟
+488	corpus-6-test-corpus-26-train	ALG	الإستقبال؟ كاين عيادة قريبة من هنا؟
+493	corpus-6-test-corpus-26-train	ALG	اذا عشرة دولار يكفو للطاكسي؟
+503	corpus-6-test-corpus-26-train	ALG	البنة غربية.
+512	corpus-6-test-corpus-26-train	ALG	ايه. اصبر، دوك نجيبلك.
+516	corpus-6-test-corpus-26-train	ALG	نص قرعة، من فضلك.
+540	corpus-6-test-corpus-26-train	ALG	ماشي حاجة. حاجة تكون ماشي غالية بزاف.
+548	corpus-6-test-corpus-26-train	ALG	راك تحوس كاش حاجة مخصصة؟
+551	corpus-6-test-corpus-26-train	ALG	أربع ليالي.
+553	corpus-6-test-corpus-26-train	ALG	نسحق تقاشر.
+565	corpus-6-test-corpus-26-train	ALG	تقدر تدريلنا سومة علاجال كاين بقع؟
+571	corpus-6-test-corpus-26-train	ALG	واحد الراجل طبعني. ممبعد صبت بلي محفظة النقود ديالي ضاعت.
+599	corpus-6-test-corpus-26-train	ALG	ماشكيتش بلي جبت معايا حوايج لي يكفو لثلاث أسابيع.
+612	corpus-6-test-corpus-26-train	ALG	امالا، رانا حابين نجربوا النبيذ الأبيض.
+631	corpus-6-test-corpus-26-train	ALG	ويدا حوس عليا كاش واحد، قولوهم بلي راني فالقهوة.
+632	corpus-6-test-corpus-26-train	ALG	راني متأكد بلي درتو فالجيب الدخلاني تع المونطو ديالي.
+641	corpus-6-test-corpus-26-test	ALG	تقدر تعطيني الإسم و الرقم تع الشخص لي راك حاب تتصل بيه؟
+643	corpus-6-test-corpus-26-train	ALG	هل شركة الطيران تخلص لي شراء الأغراض الشخصية؟
+650	corpus-6-test-corpus-26-train	ALG	راني حاب غرفة لي فيها بينواغ.
+652	corpus-6-test-corpus-26-dev	ALG	حاجة ماخرجت من الجهاز؟
+667	corpus-6-test-corpus-26-test	ALG	كان لازم عليك تدي الرحلة ثمان مئة وعشرون لي راحت عندها خمسة عشر دقيقة. ايه. نقدر نصيبلك رحلة واحدوخرا.
+673	corpus-6-test-corpus-26-train	ALG	كاش واحد فتح الطرد ديالي.
+679	corpus-6-test-corpus-26-test	ALG	أوه، ماشي حاجة. مادام راك هنا.
+680	corpus-6-test-corpus-26-train	ALG	الخطوط الجوية اليابانية، الرحلة رقم واحد، اثنان، ثلاثة.
+681	corpus-6-test-corpus-26-train	ALG	لازم نشري شامبوان.
+683	corpus-6-test-corpus-26-train	ALG	تقدر تقولي وقتاش نوصلوا لوسط المدينة؟
+688	corpus-6-test-corpus-26-train	ALG	وين جاي الجزار القريب من هنا؟
+703	corpus-6-test-corpus-26-train	ALG	رانا حابين نقعدوا أربع ليالي من الأول أوت.
+708	corpus-6-test-corpus-26-train	ALG	واسمها هاذ الزهرة؟
+719	corpus-6-test-corpus-26-train	ALG	الخامس عشر من سبتمبر هو اليوم تاع الإحترام للأشخاص المسنين.
+723	corpus-6-test-corpus-26-train	ALG	ماكانش صابون في غرفتي.
+741	corpus-6-test-corpus-26-dev	ALG	واش نقدر ندي باش نداوي الاحمرار؟
+742	corpus-6-test-corpus-26-train	ALG	تقدر تبدل الصيغة على حساب واش قتليي دوكا؟
+761	corpus-6-test-corpus-26-test	ALG	شحال لازم من وقت باش ندير طلب؟
+773	corpus-6-test-corpus-26-train	ALG	تقدر تعلي صوتك شوية، من فضلك؟
+777	corpus-6-test-corpus-26-train	ALG	شحال من وقت باش يخرج؟
+786	corpus-6-test-corpus-26-train	ALG	وين راهم المعلومات الرياضية؟
+787	corpus-6-test-corpus-26-train	ALG	هاذ القياس، لي تسميها كلاسيك، توالم.
+793	corpus-6-test-corpus-26-test	ALG	وين أو وقتاش تخلاص الرحلة؟
+848	corpus-6-test-corpus-26-train	ALG	وين لازم نبدل القطار باش نروح لإدينبره؟
+855	corpus-6-test-corpus-26-train	ALG	راني حاب نحط هذا فصندوق امانات.
+859	corpus-6-test-corpus-26-train	ALG	وين نقدر نبدل الدراهم؟
+897	corpus-6-test-corpus-26-train	ALG	اذا نقدرو نخلوا الأغراض فالحافلة، ندو غير الحاجات المهمين؟
+902	corpus-6-test-corpus-26-train	ALG	راني حاب نعرف تاع واش هاذ التكاليف.
+917	corpus-6-test-corpus-26-train	ALG	نخلص خمسين دولار.
+941	corpus-6-test-corpus-26-train	ALG	دوكا راني عارف واش هي الغلطة.
+957	corpus-6-test-corpus-26-dev	ALG	معاك إكيدا. كنت حجزت طاولة لهاذ لعشية على الستة ونص. سامحني، نوصل متأخر بنص ساعة.
+1003	corpus-6-test-corpus-26-train	ALG	شحال وقية من عطر نقدر نشريه بدون طاكس؟
+1007	corpus-6-test-corpus-26-train	ALG	للسياحة.
+1010	corpus-6-test-corpus-26-train	ALG	هايل، من فضلك امضيهم. كيفاش راك حابهم؟
+1023	corpus-6-test-corpus-26-test	ALG	مازال عندكم أماكن لعرض المساء؟
+1036	corpus-6-test-corpus-26-train	ALG	راني حاب جملة.
+1037	corpus-6-test-corpus-26-dev	ALG	مافطنطش كي صونا المنبه على الستة و نص.
+1038	corpus-6-test-corpus-26-train	ALG	أنا مصور حر.
+1047	corpus-6-test-corpus-26-train	ALG	تجار الكازينو يقدرو يبدلولك الدولار اعطيلهم برك البقشيش . أيا نروحو؟
+1056	corpus-6-test-corpus-26-dev	ALG	عندنا حوالي ثلاثين نوع من الزيوت للاستحمام.
+1062	corpus-6-test-corpus-26-train	ALG	نديرلك عرض الأسبوع القادم.
+1074	corpus-6-test-corpus-26-train	ALG	صحا. شحال يسواو هاذ القفازات؟
+1098	corpus-6-test-corpus-26-train	ALG	لازم نروح. نتصل بيك ممبعد.
+1100	corpus-6-test-corpus-26-train	ALG	نحتاج حفاظات.
+1122	corpus-6-test-corpus-26-train	ALG	منين جاو فراشات الحوت هاذو؟
+1124	corpus-6-test-corpus-26-train	ALG	تقدر تبدلهم للدولار، من فضلك؟
+1139	corpus-6-test-corpus-26-train	ALG	عندنا الزهر. عندهم مقاس أربعة و ثلاثون في محل ألا موانا.
+1146	corpus-6-test-corpus-26-train	ALG	كاين ليموزين؟
+1163	corpus-6-test-corpus-26-dev	ALG	تقدر تنوظني على الخمسة و نص غدوا صبح؟
+1165	corpus-6-test-corpus-26-train	ALG	نفضل غرفة هادية.
+1167	corpus-6-test-corpus-26-train	ALG	نحتاج إلى مزيل الطلاء.
+1183	corpus-6-test-corpus-26-train	ALG	نحتاج بطارية.
+1193	corpus-6-test-corpus-26-test	ALG	اذا كاين فرقة لايف ولا ديجي؟
+1194	corpus-6-test-corpus-26-train	ALG	اذا نقدر نكري أغراض الغطس؟
+1199	corpus-6-test-corpus-26-dev	ALG	راني حاب نحجز غرفة لأربعة أيام من الثاني وعشرون ديسمبر.
+1212	corpus-6-test-corpus-26-train	ALG	هاذ الساك يوالم، مهما كان الحال؟
+1213	corpus-6-test-corpus-26-train	ALG	راني حاب بنيي، من فضلك.
+1218	corpus-6-test-corpus-26-train	ALG	راني حاب نكري سيارة أتوماتيكية ليومين.
+1224	corpus-6-test-corpus-26-train	ALG	فاتتني الرحلة عشرون لي تروح ل سان فرانسيسكو.
+1234	corpus-6-test-corpus-26-train	ALG	شحال السومة للمطار؟
+1235	corpus-6-test-corpus-26-train	ALG	مليح. وقتاش؟
+1276	corpus-6-test-corpus-26-train	ALG	شحال في عمرها بنتك؟
+1312	corpus-6-test-corpus-26-train	ALG	تقدر تقلي على الفنادق النقية والرخيصة؟
+1321	corpus-6-test-corpus-26-train	ALG	نقدر نحجزلك غرفة مريحة في قصر قديم قريب من نادي غولف مشهور.
+1329	corpus-6-test-corpus-26-train	ALG	نقترحهولك، المكونات مئة بالمئة طبيعية.
+1361	corpus-6-test-corpus-26-dev	ALG	هاذ القطار اذا يحبس في بريغتون؟
+1369	corpus-6-test-corpus-26-train	ALG	تقدر تقلي وين نصيب طاكسي؟
+1375	corpus-6-test-corpus-26-train	ALG	تذكرتان للدرجة الثانية، من فضلك.
+1384	corpus-6-test-corpus-26-train	ALG	راني حاب نبعث فاكس.
+1394	corpus-6-test-corpus-26-train	ALG	راني حاب حديد تاع سفر.
+1396	corpus-6-test-corpus-26-train	ALG	نقدر نعطيلك كاش حاجة؟
+1404	corpus-6-test-corpus-26-train	ALG	نهاري؟ راني خايف نسقسي بصح واش راك حاب تقول؟
+1418	corpus-6-test-corpus-26-train	ALG	راني حاب برية لي يجوا فيها ورق بلاما نطويهم.
+1433	corpus-6-test-corpus-26-test	ALG	ايه، بصح ماشي بزاف قوي.
+1434	corpus-6-test-corpus-26-train	ALG	عندي حساسية من القطوط.
+1436	corpus-6-test-corpus-26-train	ALG	ايه، لازم تكون عندك رخصة سياقة و، أووه، لازم تكون عندك رخصة من لجنة سيارات الأجرة والليموزين.
+1462	corpus-6-test-corpus-26-train	ALG	تفضل، سيدي.
+1465	corpus-6-test-corpus-26-test	ALG	مقدرتش نصيب الماء السخون.
+1474	corpus-6-test-corpus-26-train	ALG	راني حاب نحجز غرفة لهاذ لعشية.
+1492	corpus-6-test-corpus-26-train	ALG	لالا، الطاكس و تكاليف الخدمة ماشي داخلة.
+1506	corpus-6-test-corpus-26-train	ALG	تحب تجي تشري معايا بعد منتصف النهار؟
+1508	corpus-6-test-corpus-26-test	ALG	سلام، هاذي روبا شابة بزاف.
+1519	corpus-6-test-corpus-26-train	ALG	هاهوليك، الاتصال تاعك بدا. تفضل.
+1525	corpus-6-test-corpus-26-train	ALG	شحال رقم الباب؟
+1539	corpus-6-test-corpus-26-train	ALG	واش هي الحاجة كذكرى من هاواي؟
+1556	corpus-6-test-corpus-26-train	ALG	اذا نقدر نروح فالميترو؟
+1560	corpus-6-test-corpus-26-train	ALG	راني حاب بروشينغ.
+1562	corpus-6-test-corpus-26-train	ALG	هاذ المحادثة وين رايحة توصلنا؟
+1585	corpus-6-test-corpus-26-train	ALG	جيت من النرويج.
+1603	corpus-6-test-corpus-26-dev	ALG	من عشرة إلى اثناعشر، من فضلك.
+1619	corpus-6-test-corpus-26-train	ALG	أكيد. وريلي نشوف. نظن بلي جرحك المرجان.
+1620	corpus-6-test-corpus-26-train	ALG	برك عند الحاجة، أعطيني رقم هاتف الشخص المسؤول.
+1622	corpus-6-test-corpus-26-train	ALG	اذا كاين طريق سريع؟
+1630	corpus-6-test-corpus-26-train	ALG	وعلاش ماجاش للحفلة لبارح؟
+1637	corpus-6-test-corpus-26-train	ALG	وقع حاث سير.
+1650	corpus-6-test-corpus-26-train	ALG	سامحني، عندي رقم خاطئ.
+1653	corpus-6-test-corpus-26-test	ALG	من فضلك دخل رقم التعريف ديالك.
+1663	corpus-6-test-corpus-26-dev	ALG	منقدرش نعدل الصورة.
+1668	corpus-6-test-corpus-26-train	ALG	شيزبرغر و عصير برتقال، من فضلك.
+1670	corpus-6-test-corpus-26-test	ALG	هاك جواز السفر ديالي.
+1682	corpus-6-test-corpus-26-test	ALG	ايييه، صحا بزاف. أووه، اذا نقدر نطلع للطابق الأخير؟
+1702	corpus-6-test-corpus-26-train	ALG	اذا نقدر نتحصل على تذكرتين للعرض المسرحي الموسيقي تع الجمعة الجاية؟
+1718	corpus-6-test-corpus-26-train	ALG	راكب واحدآخر قال بلي راهوا حاب يبدل معاك البلاصة.
+1754	corpus-6-test-corpus-26-train	ALG	اذا نقدر نزيد نطول الإقامة ديالي؟
+1766	corpus-6-test-corpus-26-train	ALG	قلي، تعرف بلايص ملاح باش نزورهم و يكونوا قراب من هنا؟
+1768	corpus-6-test-corpus-26-dev	ALG	لا، راني حاب نكري نصف مجموعة من المضارب وحذاء.
+1782	corpus-6-test-corpus-26-train	ALG	تقدر تعلمني كي تصيب الساك ديالي؟
+1788	corpus-6-test-corpus-26-train	ALG	واسمو هاذ المنتزه الوطني؟
+1791	corpus-6-test-corpus-26-train	ALG	راني مخبوش.
+1792	corpus-6-test-corpus-26-dev	ALG	واش كاين مكان مليح للسياحة؟
+1800	corpus-6-test-corpus-26-train	ALG	اذا نقدر ندي فواكه؟
+1834	corpus-6-test-corpus-26-train	ALG	اذا نقدر نفطر دوكا؟
+1837	corpus-6-test-corpus-26-train	ALG	لازم نبدل الدولار.
+1867	corpus-6-test-corpus-26-train	ALG	لازملي طاكسي. راني في ساوث ماين و ليبرتي.
+1876	corpus-6-test-corpus-26-dev	ALG	صح. راك حاب برمانونت؟
+1878	corpus-6-test-corpus-26-train	ALG	ماشي تفاحة لكن خوخ.
+1903	corpus-6-test-corpus-26-train	ALG	نعطيك وصفة. اديها للصيدلية.
+1927	corpus-6-test-corpus-26-train	ALG	ناخذو الطيارة ثلاث مرات في الأسبوع، الثلاثاء، الجمعة و السبت.
+1931	corpus-6-test-corpus-26-dev	ALG	غالي، و لا لالا؟
+1948	corpus-6-test-corpus-26-train	ALG	ايه، عندنا. دوك نحظروهالك.
+1950	corpus-6-test-corpus-26-dev	ALG	نقدر تخلي عندك المتاع التاعي حتى الثالثة مساءا؟
+1951	corpus-6-test-corpus-26-train	ALG	لالا، راني حاب نجوز برك.
+1954	corpus-6-test-corpus-26-dev	ALG	اذا نقدر نحجز اكري-سيارة هنا؟
+1968	corpus-6-test-corpus-26-train	ALG	هل أنت أمريكي؟
+1980	corpus-6-test-corpus-26-test	ALG	لهاذ المكان، من فضلك.
+1985	corpus-6-test-corpus-26-train	ALG	سيارتي توقفت.
+1988	corpus-6-test-corpus-26-train	ALG	وين راهو ظل الجفون؟
+1993	corpus-6-test-corpus-26-train	ALG	رانا نحوسوا على مكان هادي، اذا أمكن.
+1997	corpus-6-test-corpus-26-train	ALG	اذا هاذ الطاكسي فارغ؟
+1998	corpus-6-test-corpus-26-train	ALG	اذا هاذ المحطة إكسبرس؟
+2001	corpus-6-test-corpus-26-train	ALG	آما ساعة لازم نولي؟
+2003	corpus-6-test-corpus-26-train	ALG	راني حاب قنينة من النبيذ الأبيض.
+2005	corpus-6-test-corpus-26-train	ALG	أمم. نقدر ناكل ممبعد؟ مانيش نحس روحي مليح.
+2025	corpus-6-test-corpus-26-train	ALG	فالواقع، عندي الجديد. راني رايح نتزوج.
+2033	corpus-6-test-corpus-26-train	ALG	سروال واحد أوخر؟
+2035	corpus-6-test-corpus-26-train	ALG	اذا نقدر نعرف البرنامج؟
+2052	corpus-6-test-corpus-26-train	ALG	زدمو على الغرفة ديالي عشية البارح.
+2055	corpus-6-test-corpus-26-train	ALG	وريلي الحوت االلي شفتو ليوم فكتاب التصاور، من فضلك.
+2083	corpus-6-test-corpus-26-train	ALG	شوف المعلومات على الغلاف المفرغ من الهواء للغذاء.
+2086	corpus-6-test-corpus-26-train	ALG	راني حاب تذاكر.
+2100	corpus-6-test-corpus-26-test	ALG	ادالي محفظة النقود و هرب.
+2119	corpus-6-test-corpus-26-train	ALG	عندك دروس التجريب؟
+2147	corpus-6-test-corpus-26-train	ALG	وين نقدر نشري الطوابع؟
+2148	corpus-6-test-corpus-26-train	ALG	جيت من بريطانيا.
+2156	corpus-6-test-corpus-26-train	ALG	لازم نشوف مع الزوجة ديالي.
+2161	corpus-6-test-corpus-26-train	ALG	حبيت تعويض على هذا.
+2179	corpus-6-test-corpus-26-train	ALG	كاين كابين هاتف قدام البنك.
+2180	corpus-6-test-corpus-26-train	ALG	نوصل التاسع مارس و نروح الرابع عشر.
+2205	corpus-6-test-corpus-26-train	ALG	شوية غالي، ولا واش رايك؟
+2235	corpus-6-test-corpus-26-train	ALG	اذا عندك الطالون؟
+2236	corpus-6-test-corpus-26-train	ALG	وين جاية المحطة البرية؟
+2238	corpus-6-test-corpus-26-train	ALG	راك حاب تحلية؟
+2302	corpus-6-test-corpus-26-train	ALG	راك تهدر؟
+2306	corpus-6-test-corpus-26-train	ALG	نفس الشي ليا، من فضلك.
+2318	corpus-6-test-corpus-26-train	ALG	الطلبية ديالي مازال موصلتش.
+2324	corpus-6-test-corpus-26-train	ALG	كاين بزاف مصادر تع الما السخون.
+2329	corpus-6-test-corpus-26-train	ALG	من فضلك بدلي خمسين ألف يان إلى الدولار الأمريكي.
+2338	corpus-6-test-corpus-26-train	ALG	هايل بالنسبة ليا. حبيت ندخن.
+2347	corpus-6-test-corpus-26-test	ALG	وين نقدر نكري أغراض التزحلق و الأحذية؟
+2353	corpus-6-test-corpus-26-dev	ALG	نسيت قيمة الاستهلاك ديالنا؟
+2368	corpus-6-test-corpus-26-test	ALG	تقدر تبعثو لعنواني في اليابان مقابل تعويض دولي؟
+2381	corpus-6-test-corpus-26-train	ALG	راني حاب كاس نبيذ أحمر.
+2389	corpus-6-test-corpus-26-train	ALG	برك واذا ديالك، سيدي. اه، اه، راني نتحدث.
+2401	corpus-6-test-corpus-26-train	ALG	أكيد. كيفاش نقدر نعاونك؟
+2412	corpus-6-test-corpus-26-dev	ALG	عندنا البيرة، الويسكي، الكونياك، الفودكا و النبيذ.
+2425	corpus-6-test-corpus-26-train	ALG	التعريف؟ أوه، ايه. يساعدك جواز السفر؟
+2428	corpus-6-test-corpus-26-train	ALG	رقم الغرفة ديالي هو ثلاث مائة و ستة و عشرون. تقدر تدي الغسيل ديالي؟
+2440	corpus-6-test-corpus-26-train	ALG	دوك نشوف ويدا نصيب واحد لي يساعدني.
+2441	corpus-6-test-corpus-26-train	ALG	راني حاب غلاية.
+2445	corpus-6-test-corpus-26-train	ALG	جيبلي الجبن المبشور.
+2462	corpus-6-test-corpus-26-train	ALG	اذا تقدر تغسل الأقمصة دياولي منا لغدوة صبح؟
+2476	corpus-6-test-corpus-26-train	ALG	تقدر تقولو يتصل بيا؟
+2490	corpus-6-test-corpus-26-train	ALG	اذًا وعلاش؟
+2492	corpus-6-test-corpus-26-train	ALG	سامحني. كاين مكتبة قريبة من هنا؟
+2496	corpus-6-test-corpus-26-test	ALG	نظن بلي درت غلطة. الغرفة مخلصة من قبل. عندي الوصل.
+2505	corpus-6-test-corpus-26-train	ALG	الحافلة راهي لهيك.
+2516	corpus-6-test-corpus-26-train	ALG	راني حاب زوج بليكول ملونة ايزو مئة، ستة و ثلاثون لقطة، من فضلك.
+2519	corpus-6-test-corpus-26-train	ALG	راني حاب نصرف السبعين دولار تاع هاذ الشاك.
+2521	corpus-6-test-corpus-26-train	ALG	راني حاب نشري عشرة طوابع لبطاقات بريدية باش نبعثهم لليابان، من فضلك.
+2528	corpus-6-test-corpus-26-train	ALG	اذا كاين بنوك قربية من محطة القطار؟
+2531	corpus-6-test-corpus-26-train	ALG	نظن بلي كاين غلطة فالجمع.
+2552	corpus-6-test-corpus-26-test	ALG	هنا برك.
+2557	corpus-6-test-corpus-26-train	ALG	شيزبرغر نديه معايا، من فضلك.
+2578	corpus-6-test-corpus-26-test	ALG	ولا مستحيل باش دير تصميم بلا كمبيوتر.
+2591	corpus-6-test-corpus-26-train	ALG	اجري.
+2601	corpus-6-test-corpus-26-train	ALG	تقطعلي القميص ديالي من هنا، تقدر تعاود تخيطهولي، من فضلك؟
+2613	corpus-6-test-corpus-26-dev	ALG	شحال الأجرة لمنشستر؟
+2643	corpus-6-test-corpus-26-train	ALG	تقدر تسلفلي كابل التشغيل؟
+2644	corpus-6-test-corpus-26-train	ALG	وين نقدر نشري زربية الشاطئ؟
+2670	corpus-6-test-corpus-26-test	ALG	إمالا، ديرلي حجز جديد، من فضلك.
+2676	corpus-6-test-corpus-26-train	ALG	أعطني شريحة من لحم الخنزير المشوي، بصح ماشي خشينة هكذا.
+2678	corpus-6-test-corpus-26-train	ALG	نوصلوا على السبعة.
+2687	corpus-6-test-corpus-26-train	ALG	كي نشوف الأسعار ناقصة، تبانلي سخافة كي نشري أي حاجة فاليابان.
+2690	corpus-6-test-corpus-26-train	ALG	سرقولي الملفات تاني.
+2695	corpus-6-test-corpus-26-train	ALG	كورني من اآيس كريم ذوق فانيلا، من فضلك.
+2702	corpus-6-test-corpus-26-train	ALG	راني موافق. ولات حاجة طبيعية.
+2704	corpus-6-test-corpus-26-train	ALG	بالاكوا الخطوات، بالاكوا الخطوات، ابقوا قراب من الأبواب، من فضلكم.
+2707	corpus-6-test-corpus-26-train	ALG	نحتاج الى بطاقة الائتمان.
+2708	corpus-6-test-corpus-26-dev	ALG	تفضل الرقم.
+2715	corpus-6-test-corpus-26-test	ALG	قلي على مكان جميل على هاذ النهر، من فضلك.
+2726	corpus-6-test-corpus-26-train	ALG	من فضلك أعطني التقرير.
+2729	corpus-6-test-corpus-26-train	ALG	لالا صحا، ماشي دوكا.
+2734	corpus-6-test-corpus-26-train	ALG	أوكي، من فضلك ابق على الخط. سيد ناكاجيما، أظن أن السيدة سايتو ماهيش ترد على الهاتف. راك حاب نزيد نخليه يصوني كثر؟
+2736	corpus-6-test-corpus-26-dev	ALG	بالاك، لكن لازم نوزنوهم كل واحد واحدو.
+2747	corpus-6-test-corpus-26-train	ALG	بانلي نادر شوية.
+2748	corpus-6-test-corpus-26-train	ALG	وين جاي مكان استلام الأمتعة تع الرحلة سبعمائة و ثلاثة؟
+2760	corpus-6-test-corpus-26-train	ALG	كاين خلل فالقبضة ديالك.
+2765	corpus-6-test-corpus-26-train	ALG	اذا يقدر يفسد؟
+2772	corpus-6-test-corpus-26-train	ALG	لالا، صحا. خير لوكان منزيدش نشرب.
+2808	corpus-6-test-corpus-26-train	ALG	من فضلك اعطيلي أسماوات الطرق اللي نقدر نشري فيها كثر.
+2811	corpus-6-test-corpus-26-dev	ALG	اذا الحافلة تروح لفندق الهيلتون؟
+2816	corpus-6-test-corpus-26-train	ALG	بالاكو، هاذي لوحة ماشي عادية. هاذي من صنع فنان عالمي، تسوروتارو كاتاوكا.
+2850	corpus-6-test-corpus-26-train	ALG	نحب بزاف الموسيقى الكلاسيكية.
+2851	corpus-6-test-corpus-26-dev	ALG	نقدر نعرضكم للعشا كاش نهار؟
+2862	corpus-6-test-corpus-26-train	ALG	أوكي. واش هو الأسم ديال الشخص الثاني ورقم هاتفه، من فضلك.
+2871	corpus-6-test-corpus-26-train	ALG	سامحني. خليني نخرج، من فضلك.
+2878	corpus-6-test-corpus-26-train	ALG	تقدر تعيط لكاش عامل يهدر اليابانية؟
+2898	corpus-6-test-corpus-26-train	ALG	نزورو بزاف العائلة تاعنا.
+2939	corpus-6-test-corpus-26-train	ALG	ميكي هاياكاوا. غرفة سبعمائة و اثنان.
+2945	corpus-6-test-corpus-26-train	ALG	لازم نجوز الليلة هنا، ولا لالا؟ تقدر تعاوني باش نحجز غرفة في الفندق؟
+2947	corpus-6-test-corpus-26-train	ALG	مايكونش طويل. خمسة عشر دقيقة على الأكثر.
+2960	corpus-6-test-corpus-26-train	ALG	تقدر تقولي السومة تع هاذ الاتصال؟
+2964	corpus-6-test-corpus-26-train	ALG	حسنا، تقدر تقولو بلي اتصلت بيه، من فضلك؟ راني نعاود نتصل بيه ممبعد.
+2973	corpus-6-test-corpus-26-train	ALG	كاين رحلة فالصبح؟
+2982	corpus-6-test-corpus-26-train	ALG	تبدلو عملات خارجية؟
+2983	corpus-6-test-corpus-26-test	ALG	الميزانية تاعنا هي حوالي خمسين دولار كامل لينا حنا الثلاثة.
+2990	corpus-6-test-corpus-26-train	ALG	وين نقدر نشري بيليكول؟
+2995	corpus-6-test-corpus-26-train	ALG	عندكم البيرة اليابانية؟
+3001	corpus-6-test-corpus-26-test	ALG	راني حاب لباس سباحة بمقاس صغير، من فضلك.
+3016	corpus-6-test-corpus-26-train	ALG	راني حاب نسجل الأمتعة دياولي.
+3029	corpus-6-test-corpus-26-train	ALG	معاك اآنسة كاوازو من الغرفة ألف و ستمئة و احدعشر.
+3030	corpus-6-test-corpus-26-train	ALG	العفو.
+3038	corpus-6-test-corpus-26-dev	ALG	ماكاش.
+3040	corpus-6-test-corpus-26-train	ALG	واش هو المهم ليكم أنتوما اليابانيين؟ رأس العام و لا النوال؟
+3041	corpus-6-test-corpus-26-test	ALG	بلاصتك هي اثنان و ثلاثون ايه. أمشي لاخر فالكولواغ، البلاصة جايا قدام الطاقة.
+3073	corpus-6-test-corpus-26-train	ALG	دقيقة، من فضلك.
+3109	corpus-6-test-corpus-26-train	ALG	من فضلك عمر بيان الضياع.
+3111	corpus-6-test-corpus-26-dev	ALG	منفهمش اللغة الأمريكية، نهدر الانجليزية البريطانية.
+3120	corpus-6-test-corpus-26-train	ALG	ملبارح.
+3129	corpus-6-test-corpus-26-train	ALG	تأمين التصادم والمسئولية القانونية داخل.
+3134	corpus-6-test-corpus-26-test	ALG	ضاعلي بطاقة الاستلام ديالي.
+3152	corpus-6-test-corpus-26-train	ALG	عندكم دي بروش شابين؟
+3155	corpus-6-test-corpus-26-train	ALG	راني نتصل من كابين عام في ماصي.
+3170	corpus-6-test-corpus-26-test	ALG	كبار بزاف.
+3176	corpus-6-test-corpus-26-train	ALG	شحال سعر موقف السيارات بالوقت؟
+3179	corpus-6-test-corpus-26-train	ALG	سيداتي و سادتي، في هاذ الرحلة، كاين عمال يابانيين تقدرو تعرفوهم من لعلام الصغير على السترة ديالهم. ويدا شفتوا كاش واحد يسحق معاونة فاللغة، عرفونا بيه.
+3182	corpus-6-test-corpus-26-train	ALG	عندك وقت فني مفضل؟
+3185	corpus-6-test-corpus-26-train	ALG	من فضلك عاود تأكد مرة اخرى.
+3195	corpus-6-test-corpus-26-train	ALG	اهبط مع الواد نصف ميل تقريبا و توصل للحديقة.
+3201	corpus-6-test-corpus-26-dev	ALG	لالا يقاوموا مليح.
+3207	corpus-6-test-corpus-26-train	ALG	ايه، دوك نبعتوهلك الى لاس فيقاس.
+3209	corpus-6-test-corpus-26-train	ALG	راني نحوس على لبسة تع الجري.
+3220	corpus-6-test-corpus-26-train	ALG	راك حاب تزيد تاخذ كاش حاجة من البار؟
+3222	corpus-6-test-corpus-26-dev	ALG	من هنا، من فضلك. خذ هاذ المصعد.
+3238	corpus-6-test-corpus-26-train	ALG	خير لوكان تاخذ القطار تع الثامنة و النصف.
+3267	corpus-6-test-corpus-26-test	ALG	اذا كاين مسرح قريب من هنا؟
+3269	corpus-6-test-corpus-26-train	ALG	راهو وقت المحار، امالا يكونوا بنان.
+3279	corpus-6-test-corpus-26-train	ALG	راني حاب مع ساعة يد ثانية.
+3284	corpus-6-test-corpus-26-train	ALG	نسجل على التاسعة و نص تاع اليل تقريبا.
+3285	corpus-6-test-corpus-26-train	ALG	راهو راح الحال. لازم نروح.
+3289	corpus-6-test-corpus-26-train	ALG	أنا مستعملتش خدمة الغسيل ديالك. تقدر تعاود تتأكد منه؟
+3292	corpus-6-test-corpus-26-train	ALG	راني حاب شاي، من فضلك.
+3295	corpus-6-test-corpus-26-train	ALG	لالا، ماكانش.
+3304	corpus-6-test-corpus-26-train	ALG	اذا هاذي هي المحطة الأخيرة؟
+3318	corpus-6-test-corpus-26-train	ALG	هيا نتصلو بيه.
+3323	corpus-6-test-corpus-26-train	ALG	حار بزاف؟
+3334	corpus-6-test-corpus-26-train	ALG	وين نقدر نصيب حافلة تع السياحة؟
+3335	corpus-6-test-corpus-26-train	ALG	ايه، راني حاب نزور المدينة.
+3351	corpus-6-test-corpus-26-test	ALG	كاين بزاف السياح دايرين بهاذ المبنى. وقيلا تلايمو باش يشوفو واش كاين.
+3359	corpus-6-test-corpus-26-train	ALG	يعطيك الصحة على حسن الضيافة.
+3375	corpus-6-test-corpus-26-train	ALG	الصدق هو أفضل سياسة.
+3385	corpus-6-test-corpus-26-train	ALG	تقدر تنوظني على الساعة الستة، من فضلك؟
+3392	corpus-6-test-corpus-26-train	ALG	شحال تسوا لنص نهار؟
+3397	corpus-6-test-corpus-26-train	ALG	إسمي كنجي.
+3402	corpus-6-test-corpus-26-train	ALG	تعرف بلايص شابين للزيارة في شيكاقو؟
+3404	corpus-6-test-corpus-26-train	ALG	مليح، اذا راك مصر، نرافقك.
+3413	corpus-6-test-corpus-26-dev	ALG	تحب تبدل هاذا بواحدأوخر من نفس النوع، من فضلك؟
+3446	corpus-6-test-corpus-26-train	ALG	راني حاب نحجز للساعة الثالثة و نصف بعد الزوال.
+3489	corpus-6-test-corpus-26-train	ALG	الخزنة، من فضلك.
+3502	corpus-6-test-corpus-26-train	ALG	من فضلك خير النبيذ لي يوالم.
+3512	corpus-6-test-corpus-26-test	ALG	راني حاب مكان صغير.
+3522	corpus-6-test-corpus-26-train	ALG	لازم نخلص المازوت؟
+3557	corpus-6-test-corpus-26-train	ALG	السارق. شدوه.
+3562	corpus-6-test-corpus-26-test	ALG	رانا نستناو يجو صحابنا.
+3572	corpus-6-test-corpus-26-train	ALG	ديرلي شوية صرف من فضلك.
+3619	corpus-6-test-corpus-26-test	ALG	برمانونت قوي، من فضلك.
+3628	corpus-6-test-corpus-26-train	ALG	صغيرة و شابة.
+3638	corpus-6-test-corpus-26-test	ALG	شكون الأوبرا تع اليوم؟
+3640	corpus-6-test-corpus-26-train	ALG	فوق الطبق، من فضلك.
+3644	corpus-6-test-corpus-26-train	ALG	مرجعوليش الغسيل تاعي.
+3649	corpus-6-test-corpus-26-train	ALG	حقأ، اذا ماعندك والو السبت الجاي؟
+3667	corpus-6-test-corpus-26-train	ALG	حسنا، بالاك نقدرو نتفاهمو مليح.
+3669	corpus-6-test-corpus-26-train	ALG	تعاملت معايا كلي أنا طلاب.
+3683	corpus-6-test-corpus-26-train	ALG	راني شايف. تقدر تزيد تعاوني في مشكل واحدأوخر؟
+3685	corpus-6-test-corpus-26-train	ALG	تقدر تضبطلي هاذ النواظر على حساب الشوف ديالي؟
+3698	corpus-6-test-corpus-26-dev	ALG	ندي زوج.
+3705	corpus-6-test-corpus-26-train	ALG	شحال شابين هاذ الكلاب. واش من سلالة تعهم؟
+3721	corpus-6-test-corpus-26-train	ALG	طاحتلي الفرشيطة ديالي. تقدر تجيبلي واحدأوخرا، من فضلك.
+3742	corpus-6-test-corpus-26-train	ALG	كانت مليح.
+3747	corpus-6-test-corpus-26-train	ALG	أكيد. روح قبالة و دور على اليمين فالطريق الثالثة. تصيبو على اليمين ديالك.
+3765	corpus-6-test-corpus-26-dev	ALG	عندك بيليكول لصور ملونة؟
+3780	corpus-6-test-corpus-26-train	ALG	تعرف كاثي؟ اليوم حفلة عيد ميلادها.
+3789	corpus-6-test-corpus-26-train	ALG	عندكم رسم بياني ملون؟
+3792	corpus-6-test-corpus-26-dev	ALG	نقدر نخلص بشاك سياحي؟
+3806	corpus-6-test-corpus-26-train	ALG	إذن قولي، أنت، كيفاش نعرف بلي صح؟
+3825	corpus-6-test-corpus-26-train	ALG	اذا مافيهاش لاطاكس؟
+3829	corpus-6-test-corpus-26-train	ALG	مانقدرش ندير الأمتعة دياولي تحت المقعد. تقدر تخليهوملي عندك، من فضلك؟
+3835	corpus-6-test-corpus-26-train	ALG	تقدر تدير هاذ الحقيبة فالسيارة؟
+3847	corpus-6-test-corpus-26-train	ALG	كيافش نخرج دوكا، نروح نجيبو.
+3856	corpus-6-test-corpus-26-train	ALG	من فضلك ابعث كاش واحد يجيبلي الأمتعة دياولي على الستة و نص.
+3858	corpus-6-test-corpus-26-dev	ALG	راني حاب خريطة تع سان فرنسيسكو وضواحيها.
+3859	corpus-6-test-corpus-26-train	ALG	واش أنواع الخبز لي عندكم؟
+3860	corpus-6-test-corpus-26-train	ALG	وين جاي المصعد؟
+3861	corpus-6-test-corpus-26-train	ALG	كاين كاش واحد يعرف يلعب البيانو؟
+3872	corpus-6-test-corpus-26-test	ALG	واش من المحطة لي لازم نحبس فيها باش نروح ل أمبير ستايت بيلدينغ؟
+3887	corpus-6-test-corpus-26-test	ALG	الميزانية أقل من ألف دولار.
+3892	corpus-6-test-corpus-26-train	ALG	صحا، لكن مشكيتش يكون عندنا الوقت باش نقعدو ليلتين. تقدر تحجزلي غرفة فيها زوج بناك في هاذ الفندق لليلة اثناعشر مارس برك؟
+3900	corpus-6-test-corpus-26-dev	ALG	نقدر نحجز غرفة مزدوجة مع نظرة على المحيط؟
+3920	corpus-6-test-corpus-26-train	ALG	مازال مقررناش.
+3928	corpus-6-test-corpus-26-train	ALG	رفيقي تعثر و دارت رجلو.
+3936	corpus-6-test-corpus-26-train	ALG	نجرب المثلجات.
+3961	corpus-6-test-corpus-26-train	ALG	كاين مطعم تايلندي في النواحي؟
+3972	corpus-6-test-corpus-26-train	ALG	راهو عند هاذ المبنى الكبير. عاود ولي حتا تلحق للاشارات الضوئية، امبعد دور على اليسار.
+3974	corpus-6-test-corpus-26-train	ALG	لازم ناخذ هاذ الطيارة ل لوس أنجلس بكري بزاف غدوا صبح.
+3988	corpus-6-test-corpus-26-train	ALG	"إذن، نقترح عليك بكل ثقة هاذ ""الزيارة لمدينة سان فرنسيسكو"". راح تعطيلك نظرة عامة على سان فرنسيسكو."
+3991	corpus-6-test-corpus-26-train	ALG	راني حاب نتصل بشركة تأمين.
+3995	corpus-6-test-corpus-26-test	ALG	دوك ندير كمادة باردة باش انقص الوجع.
+4013	corpus-6-test-corpus-26-train	ALG	راهي حابة تشري فستان.
+4016	corpus-6-test-corpus-26-train	ALG	شحال نخلص الطاكسي باش يديني لهاذ الفندق؟
+4017	corpus-6-test-corpus-26-train	ALG	وين نصيب المرحاض؟
+4034	corpus-6-test-corpus-26-train	ALG	الدخلة لهاذ المبنى بالدراهم؟
+4036	corpus-6-test-corpus-26-train	ALG	دير كيما تحب.
+4082	corpus-6-test-corpus-26-test	ALG	راني نحوس على لبسة تكون أنيقة.
+4104	corpus-6-test-corpus-26-train	ALG	الطاقة راهي حاصلة.
+4109	corpus-6-test-corpus-26-dev	ALG	من آما جيهة جاي يونين سكوير؟
+4119	corpus-6-test-corpus-26-train	ALG	نصف وقية من شانيل رقم خمسة، من فضلك.
+4129	corpus-6-test-corpus-26-train	ALG	واش رايك في قهوة؟
+4143	corpus-6-test-corpus-26-train	ALG	اذا لازملي تذكرة؟
+4182	corpus-6-test-corpus-26-train	ALG	شحال تسوا الخدمة؟
+4185	corpus-6-test-corpus-26-train	ALG	شحال الوقت من هنا؟
+4187	corpus-6-test-corpus-26-train	ALG	الكريمة و السكر؟
+4193	corpus-6-test-corpus-26-train	ALG	ماتديروش تخفيض للأعضاء؟
+4219	corpus-6-test-corpus-26-train	ALG	كاين سوبر اكسبرس على التسعة و نص؟
+4221	corpus-6-test-corpus-26-train	ALG	دوك نتحقق من سائل المكابح و المحرك. المحرك ديالك يبان راح يحبس.
+4224	corpus-6-test-corpus-26-train	ALG	ماشي الغلطة ديالي.
+4262	corpus-6-test-corpus-26-train	ALG	راحت التريسيتي.
+4263	corpus-6-test-corpus-26-train	ALG	دوك نقول للشرطة عليه.
+4269	corpus-6-test-corpus-26-train	ALG	اذا كل واحد لازم يخلص الاستهلاك ديالو؟
+4275	corpus-6-test-corpus-26-train	ALG	أي واحد المهم يكون بين ثلاثون و خمسون دولار لليلة.
+4278	corpus-6-test-corpus-26-train	ALG	من فضلك صلحلي هذا.
+4284	corpus-6-test-corpus-26-train	ALG	لرأس العام. و للمناسبات الخاصة كيما الزواج، حفلات تقديم الجوائز ولا الجنائز.
+4285	corpus-6-test-corpus-26-test	ALG	زيدلي شوية موتارد، من فضلك.
+4305	corpus-6-test-corpus-26-train	ALG	وعلاش متهديلوش هدية؟
+4321	corpus-6-test-corpus-26-test	ALG	واش من فيلم تنصحني بيه؟
+4324	corpus-6-test-corpus-26-test	ALG	هاك ورقة تع عشرين، رجعلي زوج دولار، من فضلك.
+4326	corpus-6-test-corpus-26-train	ALG	اعطاني ضربة من الجانب.
+4335	corpus-6-test-corpus-26-train	ALG	نقدر نجي على الزوج بعد الظهر.
+4341	corpus-6-test-corpus-26-train	ALG	اذا الأمتعة تع الرحلة جيه إيه إل صفر واحد؟
+4346	corpus-6-test-corpus-26-train	ALG	هاذا أول سفر لي نحو باريس.
+4348	corpus-6-test-corpus-26-train	ALG	تقدر تديرلي تقدير للسومة قبل ما نبداو الخدمة؟
+4358	corpus-6-test-corpus-26-train	ALG	ادخل، من فضلك.
+4364	corpus-6-test-corpus-26-test	ALG	الجولة تاعنا رايحا تكون هايلة.
+4365	corpus-6-test-corpus-26-train	ALG	منين نطلعو للباخرة؟
+4373	corpus-6-test-corpus-26-train	ALG	معندناش ساك كبير بزاف، راح نديرو في هاد الساك الكبير تع البلاستيك.
+4374	corpus-6-test-corpus-26-train	ALG	راني حاب نلعب تنس.
+4375	corpus-6-test-corpus-26-train	ALG	كاين عصير البانان، عصير التشينا و عصير الطوماطيش.
+4377	corpus-6-test-corpus-26-train	ALG	الجهة اليسار تع هاذ الطابق، قريب من السلم المتحرك.
+4382	corpus-6-test-corpus-26-test	ALG	واش راهو يصرا في صالة الحفلة اليوم؟
+4409	corpus-6-test-corpus-26-train	ALG	ماراكش حاب تشوف فيلم واحدأوخر؟
+4418	corpus-6-test-corpus-26-train	ALG	من فضلك تقدر تصرفلي هاذ الشاك تع السفر الى سيولة نقدية.
+4432	corpus-6-test-corpus-26-dev	ALG	راني حاب ندير نفس الدرس غدوة، من فضلك.
+4450	corpus-6-test-corpus-26-train	ALG	نقدر نعطيلك أفضل جواب بعد عرض و لا زوج واحدوخرين.
+4451	corpus-6-test-corpus-26-test	ALG	لازملي هدية لذكرى سنوية.
+4464	corpus-6-test-corpus-26-train	ALG	واش من الموسيقى الكوميدية لي راهم يلعبو دوكا؟
+4475	corpus-6-test-corpus-26-train	ALG	عندك مراية؟
+4478	corpus-6-test-corpus-26-dev	ALG	اسمحلي راني ضايع؟ تقدرتعاوني؟
+4479	corpus-6-test-corpus-26-train	ALG	ندي هاذا، من فضلك.
+4497	corpus-6-test-corpus-26-train	ALG	متقدرش تدي معاك الألعاب النارية لكندا.
+4501	corpus-6-test-corpus-26-train	ALG	زوجتك طباخة هايلة.
+4503	corpus-6-test-corpus-26-train	ALG	تسحق معاونة؟
+4505	corpus-6-test-corpus-26-train	ALG	تقدر تحجزلي طاكسي لغدوة صبح على الستة، من فضلك؟
+4510	corpus-6-test-corpus-26-train	ALG	واش راك حاب مع المقبلة ديالك؟
+4540	corpus-6-test-corpus-26-test	ALG	كاين محل ماشي بعيد؟
+4549	corpus-6-test-corpus-26-train	ALG	كاين بزاف الغاشي في هاذ البلاصة، و لا لالا؟
+4558	corpus-6-test-corpus-26-train	ALG	سامحني. رايحين يوجدو في خمسة دقائق تقريبا.
+4588	corpus-6-test-corpus-26-train	ALG	جاني تيبس الرقبة كي رقدت.
+4594	corpus-6-test-corpus-26-train	ALG	ايه. ماكانش مشكل. نقدر نشوف جواز السفر ديالك؟
+4615	corpus-6-test-corpus-26-test	ALG	معنديش الدراهم.
+4624	corpus-6-test-corpus-26-train	ALG	وقتاش لازم نكون فالمحطة؟
+4630	corpus-6-test-corpus-26-train	ALG	كاين بزاف المطاعم فالزاوية.
+4635	corpus-6-test-corpus-26-train	ALG	قريب من غرفة الامانات.
+4640	corpus-6-test-corpus-26-train	ALG	متشرف اللي حكيت معاك.
+4644	corpus-6-test-corpus-26-test	ALG	كاين رحلة بعد منتصف النهار؟
+4648	corpus-6-test-corpus-26-test	ALG	راني مع صحابي.
+4653	corpus-6-test-corpus-26-train	ALG	عجبتني الإقامة. صحا.
+4654	corpus-6-test-corpus-26-train	ALG	الشاطئ غير لتحتا. شحال شابين المناظر الطبيعية.
+4658	corpus-6-test-corpus-26-train	ALG	يعطيك الصحة لي ستنيتي، السيدة مكغير. هايليك. اتفضلي، من فضلك.
+4662	corpus-6-test-corpus-26-train	ALG	عندك صورة شخصية للهوية؟
+4671	corpus-6-test-corpus-26-train	ALG	سبعة، من فضلك.
+4674	corpus-6-test-corpus-26-train	ALG	راني حاب نبعث هاذا للمغسلة. وقتاش يكون واجد؟
+4685	corpus-6-test-corpus-26-train	ALG	عندي سروال مخطط.
+4699	corpus-6-test-corpus-26-train	ALG	ايه. الأمتعة تع واحدوخر حطوهم فالغرفة ديالي؟ تقدر تتحقق، من فضلك؟
+4714	corpus-6-test-corpus-26-train	ALG	تقدرو تشرحولي بالتفصيل كتر؟
+4729	corpus-6-test-corpus-26-train	ALG	رقدت مليح؟
+4733	corpus-6-test-corpus-26-train	ALG	تقدر تضغط على زر الالتقاط؟
+4740	corpus-6-test-corpus-26-train	ALG	زوج مفاتح من فضلك.
+4742	corpus-6-test-corpus-26-dev	ALG	حبيت مصباح.
+4744	corpus-6-test-corpus-26-train	ALG	فآخر الكولواغ.
+4773	corpus-6-test-corpus-26-dev	ALG	حبيت ورق تع برية.
+4788	corpus-6-test-corpus-26-train	ALG	اذا نروحوا فالحافلة؟
+4790	corpus-6-test-corpus-26-train	ALG	قلت بلي راك رايح لطوكيو غدوة؟
+4795	corpus-6-test-corpus-26-test	ALG	خليني نرقد حتى التسعة.
+4801	corpus-6-test-corpus-26-train	ALG	لازم ناخذ الرحلة أ دوبلوفي. اذا كاين امكانية؟
+4813	corpus-6-test-corpus-26-train	ALG	كيفاش كان اللعب ديالك هاذ اليامات؟
+4814	corpus-6-test-corpus-26-dev	ALG	راني حاس بصدري ضيق.
+4826	corpus-6-test-corpus-26-train	ALG	ماكنش مشكل. اذا جيت فالخامس سبتمبر، تقدر تحضر عرض فيلم علمي. عندنا يوم خاص أبواب مفتوحة في الأول من كل شهر.
+4828	corpus-6-test-corpus-26-train	ALG	عندك رحلة أخرى؟
+4836	corpus-6-test-corpus-26-train	ALG	موافق. خصم خمسة بالمئة. يساعدك هكذا؟
+4845	corpus-6-test-corpus-26-train	ALG	نروح لباريس.
+4848	corpus-6-test-corpus-26-train	ALG	ماشي آخر نوع، ياك؟
+4857	corpus-6-test-corpus-26-train	ALG	من المقرر على الثامنة والنصف، بالوقت المحلي.
+4889	corpus-6-test-corpus-26-train	ALG	خوذلنا تصويرة قدام هاذ المبنى، من فضلك.
+4894	corpus-6-test-corpus-26-train	ALG	أوكي. ناخذ بول متوسط و بولة واحدة تع الروز.
+4901	corpus-6-test-corpus-26-train	ALG	لواش تشبه؟
+4924	corpus-6-test-corpus-26-train	ALG	حبيت نشوف النموذج لي راهو فالواجهة، من فضلك.
+4945	corpus-6-test-corpus-26-train	ALG	مستحيل. رانا في عطلة. نرفض نقعد في غرفة الفندق نشوف البيسبول. راني حاب نروح نشوف المقابلة الحقيقية.
+4957	corpus-6-test-corpus-26-train	ALG	نقدر نمس؟
+4974	corpus-6-test-corpus-26-train	ALG	تقدر تجي تصلحو؟
+4983	corpus-6-test-corpus-26-train	ALG	راني حاب الألياف الاصطناعية.
+4985	corpus-6-test-corpus-26-train	ALG	حجزت باسم طانو طاناكا.
+4990	corpus-6-test-corpus-26-train	ALG	راني حاب كريمة لي تنحي الماكياج.
+5004	corpus-6-test-corpus-26-train	ALG	راني حاب قميص بيدين طوال.
+5009	corpus-6-test-corpus-26-train	ALG	سرقولي الساك ديالي.
+5017	corpus-6-test-corpus-26-train	ALG	رانا نتلاقاو بزاف، و لا لالا؟
+5035	corpus-6-test-corpus-26-train	ALG	نقدر نعاود نشوف لائحة الطلبات؟
+5045	corpus-6-test-corpus-26-train	ALG	مازال يبانو مبتدئين.
+5082	corpus-6-test-corpus-26-train	ALG	شحال؟
+5083	corpus-6-test-corpus-26-train	ALG	بالفريزة، من فضلك.
+5090	corpus-6-test-corpus-26-dev	ALG	جبل فوجي هو أعلى قمة في اليابان بثلاثة آلاف وسبعمئة وثلاثة وسبعون متر.
+5091	corpus-6-test-corpus-26-train	ALG	لالا، مازال. كاين بزاف الاختيارات.
+5098	corpus-6-test-corpus-26-dev	ALG	راني حاب كريمة لليل.
+5104	corpus-6-test-corpus-26-test	ALG	بين المخبزة و الجزار.
+5116	corpus-6-test-corpus-26-train	ALG	تقدر تنقصلي فاليدين؟
+5117	corpus-6-test-corpus-26-train	ALG	ماكانش ملعب للجولف فالنواحي.
+5121	corpus-6-test-corpus-26-train	ALG	تقدر توريلي الخاتم الثاني كي تروح من اليسار؟
+5124	corpus-6-test-corpus-26-train	ALG	تقدر تقولو يتصل بيا؟
+5138	corpus-6-test-corpus-26-train	ALG	راني نحاول نتصل للخارج. قدرت أنت تتصل للخارج من قبل؟
+5148	corpus-6-test-corpus-26-test	ALG	غالط.
+5175	corpus-6-test-corpus-26-train	ALG	ايه هاذي هي، علاجال كاين علام مقابل لمقر البريد.
+5207	corpus-6-test-corpus-26-test	ALG	تبعثهوملي أكيد، ياك؟
+5219	corpus-6-test-corpus-26-train	ALG	راني حاب ندير اتصال هاتفي ببطاقة الائتمان.
+5224	corpus-6-test-corpus-26-train	ALG	راني حاب ديالي نديه معايا.
+5245	corpus-6-test-corpus-26-train	ALG	غير يوصل نبعثوه لعنوان بيتك من عندنا.
+5246	corpus-6-test-corpus-26-dev	ALG	مؤخرا، راني نستعمل الكمبيوتر فالخدمة دايمن.
+5250	corpus-6-test-corpus-26-train	ALG	أوه، موافق، راني فاهم. نجي عندكم.
+5259	corpus-6-test-corpus-26-train	ALG	لالا، هاذا يكفي.
+5261	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على غطاء و مخدة؟
+5262	corpus-6-test-corpus-26-train	ALG	تقدر تجي هنا بسرعة، من فضلك؟
+5263	corpus-6-test-corpus-26-train	ALG	فنجان قهوة، من فضلك.
+5267	corpus-6-test-corpus-26-test	ALG	راني نحوس على بطاقات تع هاواي خصيصا.
+5272	corpus-6-test-corpus-26-train	ALG	تقدر تنقص المقياس بثلاثة سنتيمتر؟
+5289	corpus-6-test-corpus-26-train	ALG	عندي نفس العمر.
+5300	corpus-6-test-corpus-26-train	ALG	تقدر تجيبلي قهوة؟
+5307	corpus-6-test-corpus-26-dev	ALG	ثلاثة مئة و خمسين دولار؟ هاذا فوق الامكانيات دياولي.
+5323	corpus-6-test-corpus-26-train	ALG	لازم نديرو تصويت؟ واذا لالا، نظن بلي وصلنا للنتيجة، واللي راح نقولها لمجلس الإدارة ديالنا من غدوة صباح.
+5334	corpus-6-test-corpus-26-train	ALG	اذا تعرف بلي كاين فنادق رخيصة؟
+5361	corpus-6-test-corpus-26-train	ALG	صباح الخير، رقدت مليح؟
+5364	corpus-6-test-corpus-26-train	ALG	واش راك تخمم تدير كي تكمل الدراسة؟
+5366	corpus-6-test-corpus-26-train	ALG	سرقولي الساك ديالي فالطريق.
+5367	corpus-6-test-corpus-26-train	ALG	طلبت خدمة واحدوخرا من غير فطور الصباح؟
+5407	corpus-6-test-corpus-26-train	ALG	راني حاب قهوة حليب، من فضلك.
+5410	corpus-6-test-corpus-26-test	ALG	موافق. كاين فندق الشيراطون فالنواحي؟
+5411	corpus-6-test-corpus-26-train	ALG	نتمنى ماتكونش بزاف عيان.
+5431	corpus-6-test-corpus-26-train	ALG	راني حاب نكري سيارة من هاذ الطراز ليومين.
+5436	corpus-6-test-corpus-26-train	ALG	ناخذ كاس جاك دانيال.
+5437	corpus-6-test-corpus-26-train	ALG	راني حاب كيس تع الماييز، من فضلك.
+5447	corpus-6-test-corpus-26-train	ALG	ضاعتلي العصا تع التزحلق.
+5455	corpus-6-test-corpus-26-train	ALG	منجيبوش حتى هدية للاستقبال. في مكانه، الضياف يهديو الدراهم.
+5458	corpus-6-test-corpus-26-train	ALG	راني حاب نبعثو بالنقل البري او البحري.
+5492	corpus-6-test-corpus-26-train	ALG	الطيارة توصل متأخرة على جال عاصفة ثلجية كبيرة.
+5518	corpus-6-test-corpus-26-train	ALG	الشحن، من فضلك.
+5521	corpus-6-test-corpus-26-train	ALG	تقدر تاخذ الرسالة، من فضلك؟
+5540	corpus-6-test-corpus-26-train	ALG	سامحني، مانيش نقدر نتبعك. تقدر تهدر بالشوية، من فضلك؟
+5549	corpus-6-test-corpus-26-dev	ALG	واش نقدر نوريلك؟
+5559	corpus-6-test-corpus-26-train	ALG	نقدر ناخذ تصاور؟
+5570	corpus-6-test-corpus-26-train	ALG	على مئة.
+5584	corpus-6-test-corpus-26-dev	ALG	رقم الرحلة هو أش بي تسعة و ثمانون لطوكيو فالإحد عشر من مارس.
+5585	corpus-6-test-corpus-26-train	ALG	نقدر ندي نفس الطبق؟
+5594	corpus-6-test-corpus-26-dev	ALG	اذا عندكم واحدأوخر؟
+5596	corpus-6-test-corpus-26-train	ALG	من فضلك جيبلي فطور الصباح للغرفة ديالي على السبعة تع الصبح.
+5615	corpus-6-test-corpus-26-train	ALG	المصلح المتخصص دوك شوية يطلع.
+5617	corpus-6-test-corpus-26-dev	ALG	سامحني. نعاود نجي ممبعد.
+5640	corpus-6-test-corpus-26-test	ALG	كيفاش نقدرنديه؟
+5648	corpus-6-test-corpus-26-train	ALG	مازال كاين الأماكن للرحلة تع الخميس؟
+5657	corpus-6-test-corpus-26-train	ALG	المعذرة. نقدر نجوز؟
+5680	corpus-6-test-corpus-26-train	ALG	عندكم نباتات و فواكه؟
+5684	corpus-6-test-corpus-26-train	ALG	تقدر تقولي كيفاش نعمر بطاقة الهبوط؟
+5695	corpus-6-test-corpus-26-train	ALG	نظن بلي سيارتي تقدر بحوالي خمسة آلاف دولار.
+5706	corpus-6-test-corpus-26-train	ALG	اذا هي الماكلة بسعرات حرارية قليلة؟
+5717	corpus-6-test-corpus-26-train	ALG	واش من حافلة لازم نديها باش نروح للمحطة؟
+5723	corpus-6-test-corpus-26-train	ALG	إيه، هاذا. بصح لازم تدور على اليسار عند الضوء الأحمر الثالث و تكمل في هاذ الطريق حتى للطريق ستة و ستون.
+5733	corpus-6-test-corpus-26-dev	ALG	راني حاب كأس ماء باش نشرب الدوا، من فضلك.
+5761	corpus-6-test-corpus-26-train	ALG	نشكرك لوكان توصلني للبحر.
+5772	corpus-6-test-corpus-26-train	ALG	سامحني. هذه غلطة. معك تانكييوشا برس.
+5779	corpus-6-test-corpus-26-train	ALG	رانا نسجل خروج.
+5830	corpus-6-test-corpus-26-dev	ALG	واشنو هاذ الموسيقى؟
+5847	corpus-6-test-corpus-26-train	ALG	من فضلك أعطي هاذ السيرو لوليدك، مقدار واحد بعد الأكل.
+5848	corpus-6-test-corpus-26-train	ALG	هاذ النوع متوفر في ثمانية و عشرون، و واحد وثلاثون وخمسة و ثلاثون سنتمتر.
+5875	corpus-6-test-corpus-26-train	ALG	أوه، هذا يشبه بزاف.
+5898	corpus-6-test-corpus-26-train	ALG	نقدر نستعمل الهاتف ديالك، من فضلك؟
+5902	corpus-6-test-corpus-26-test	ALG	ريحة بزاف شابة. شحال تسوا؟
+5906	corpus-6-test-corpus-26-train	ALG	راني حاب نأكد على الرحلة ديالي لشيكاقو فالسابع عشر.
+5913	corpus-6-test-corpus-26-train	ALG	كليت شوية بزاف.
+5914	corpus-6-test-corpus-26-train	ALG	نقدر نهدر مع السيد براون؟
+5916	corpus-6-test-corpus-26-train	ALG	باينة بلي راحة كبيرة كي تعيش في هاذ الدار، ياك؟
+5934	corpus-6-test-corpus-26-dev	ALG	راني حاب نحجز للرحلة تع الخطوط نورثويست رقم صفر ستة و ثمانون نهار خمسة.
+5940	corpus-6-test-corpus-26-train	ALG	محفظتي، جواز السفر ديالي و أغراض شخصية أخرى.
+5956	corpus-6-test-corpus-26-train	ALG	وقتاش تغلقو؟
+5974	corpus-6-test-corpus-26-test	ALG	استنا دقيقة. وقيلا نسيتو فالمرحاض.
+5987	corpus-6-test-corpus-26-train	ALG	هاذا بالضبط واش كنت حاب نقول.
+5988	corpus-6-test-corpus-26-train	ALG	ايه، راني نخمم فيه أنا تاني.
+5997	corpus-6-test-corpus-26-train	ALG	دارك كبيرة، شحال فيها من غرفة؟
+6006	corpus-6-test-corpus-26-train	ALG	عجبنا العشا.
+6024	corpus-6-test-corpus-26-test	ALG	راني فاهم، بصح منقدرش نقوله.
+6047	corpus-6-test-corpus-26-train	ALG	أوه إيه، من فضلك. نتمنى برك مايجيهومش دوار البحر.
+6056	corpus-6-test-corpus-26-test	ALG	لطوكيو، من فضلك.
+6073	corpus-6-test-corpus-26-train	ALG	واش هو الوقت المقدر اللي نوصلو فيه؟
+6086	corpus-6-test-corpus-26-train	ALG	نروح بكري غدوة صبح، لهذا حبيت نخلص دوك.
+6100	corpus-6-test-corpus-26-test	ALG	دراي شيري، من فضلك.
+6109	corpus-6-test-corpus-26-test	ALG	مكان لغير المدخنين، من فضلك.
+6156	corpus-6-test-corpus-26-train	ALG	راهو مشغول دوكا.
+6167	corpus-6-test-corpus-26-train	ALG	اذا الأجانب يقدروا يتحصلو على الكتابات في هاذ المكتبة؟
+6179	corpus-6-test-corpus-26-train	ALG	نقدر نبقى فالغرفة ديالي حتى الساعة الثانية بعد الزوال؟
+6190	corpus-6-test-corpus-26-train	ALG	آه، آه. نهارك سعيد في وقتك. اتفقنا.
+6193	corpus-6-test-corpus-26-train	ALG	راني حاب فيلم من هاذ الرقم ديال ال إيه إس إيه لهاذ آلة التصوير، من فضلك.
+6205	corpus-6-test-corpus-26-train	ALG	وين راهم لوحات موني؟
+6214	corpus-6-test-corpus-26-train	ALG	هاذ البيتزا بنينة، شكون دارها؟
+6221	corpus-6-test-corpus-26-train	ALG	واش هو الذوق تع هاذ الطبق؟
+6227	corpus-6-test-corpus-26-train	ALG	هما تاني بزاف غاليين.
+6228	corpus-6-test-corpus-26-train	ALG	وقتاش يروح القطار الموالي لبوستون؟
+6232	corpus-6-test-corpus-26-dev	ALG	راني نفكر نتعلم نلعب الغولف.
+6247	corpus-6-test-corpus-26-dev	ALG	تقدر تعطيني كأس واحدوأخر.
+6253	corpus-6-test-corpus-26-train	ALG	شحال شاطر هاذ المتزحلق على الماء.
+6272	corpus-6-test-corpus-26-train	ALG	سامحني اليدين قصار بزاف.
+6283	corpus-6-test-corpus-26-train	ALG	نقدرو نورولك كيفاش تحط البترول؟
+6285	corpus-6-test-corpus-26-train	ALG	اذا كان فطور الصباح داخل فالسعر تع الفندق؟
+6287	corpus-6-test-corpus-26-train	ALG	هاذا ماكان؟
+6291	corpus-6-test-corpus-26-train	ALG	في أخر هاذ الطريق.
+6339	corpus-6-test-corpus-26-train	ALG	لو سمحت تشغل العداد.
+6363	corpus-6-test-corpus-26-train	ALG	البرد بزاف فالغرفة ديالي.
+6411	corpus-6-test-corpus-26-train	ALG	نكون في الخدمة ديالك غير نتفرغ شوية.
+6413	corpus-6-test-corpus-26-dev	ALG	عندكم واحد كبير؟
+6418	corpus-6-test-corpus-26-train	ALG	راني نحس بروحي أفضل.
+6430	corpus-6-test-corpus-26-dev	ALG	تعرف مليح الجغرافيا تع اليابان؟
+6436	corpus-6-test-corpus-26-train	ALG	من فضلك وريلي وين راني على هاذ المخطط.
+6437	corpus-6-test-corpus-26-train	ALG	مئة بالمئة قطن.
+6466	corpus-6-test-corpus-26-train	ALG	راني حاب نبدل لغرفة تطل على المحيط. كاين إضافة؟
+6472	corpus-6-test-corpus-26-train	ALG	شحال الكرية تع اللوحة لنص نهار؟
+6481	corpus-6-test-corpus-26-train	ALG	العاشر نوفمبر.
+6484	corpus-6-test-corpus-26-dev	ALG	راني حاب شريط لآلة كتابة.
+6492	corpus-6-test-corpus-26-train	ALG	عندها ذوق بزاف.
+6497	corpus-6-test-corpus-26-train	ALG	وقتاش نقلعو؟
+6498	corpus-6-test-corpus-26-train	ALG	كيفاش نفهم السائق بلي حبيت نهبط؟
+6513	corpus-6-test-corpus-26-train	ALG	أربعة و عشرون دولار. حبيت كثر؟
+6515	corpus-6-test-corpus-26-train	ALG	درت الحجز لطوكيو عندها شهر.
+6517	corpus-6-test-corpus-26-train	ALG	نشكرك من أعماق قلبي.
+6525	corpus-6-test-corpus-26-train	ALG	لازم نهبط هنا باش نروح لمركز روكفيلر؟
+6539	corpus-6-test-corpus-26-train	ALG	تقدر تقيسلي شحال نلبس في رجلي.
+6547	corpus-6-test-corpus-26-train	ALG	روعة.
+6550	corpus-6-test-corpus-26-train	ALG	تحب تخرج معايا؟
+6552	corpus-6-test-corpus-26-train	ALG	من فضلك تنظفلي هاذ المنوطو.
+6553	corpus-6-test-corpus-26-train	ALG	راني حاب نكري سفينة بمحرك.
+6574	corpus-6-test-corpus-26-train	ALG	وين جاي القسم تع النسا؟
+6581	corpus-6-test-corpus-26-train	ALG	القهوة ماشي داخلة؟
+6593	corpus-6-test-corpus-26-train	ALG	واش من المجال كان من قبل؟
+6602	corpus-6-test-corpus-26-train	ALG	اللعنة، اللعنة، اللعنة، اللعنة. والفت وجهها.
+6609	corpus-6-test-corpus-26-train	ALG	لازم نخلص زيادة باش ندخل لهاذ البناية؟
+6613	corpus-6-test-corpus-26-test	ALG	صباح الخير، المتحدث الخاص بك متصل. تكلم، من فضلك.
+6625	corpus-6-test-corpus-26-train	ALG	الجرح ديالي وجعني.
+6635	corpus-6-test-corpus-26-train	ALG	وين راهي المحطة؟
+6657	corpus-6-test-corpus-26-train	ALG	عندي قشعريرة برد و رجفة.
+6659	corpus-6-test-corpus-26-train	ALG	ثلاث أيام.
+6660	corpus-6-test-corpus-26-dev	ALG	اقطع الجسر لي لهيك تصيب المكتبة على اليسار ديالك.
+6692	corpus-6-test-corpus-26-dev	ALG	من فضلك صيبلي دليل لي يهدر اليابانية.
+6699	corpus-6-test-corpus-26-train	ALG	مانيش حاب واحد ضخم.
+6700	corpus-6-test-corpus-26-train	ALG	يكون تأخر صغير.
+6715	corpus-6-test-corpus-26-train	ALG	واش هو الفرق بين هاذ الفنادق؟
+6724	corpus-6-test-corpus-26-test	ALG	فاتني الموقف ديالي.
+6736	corpus-6-test-corpus-26-train	ALG	كانت هايلة، صحا.
+6740	corpus-6-test-corpus-26-dev	ALG	نكون في حوالي الساعة الستة.
+6746	corpus-6-test-corpus-26-train	ALG	عندك حاجة طويلة شوية؟
+6766	corpus-6-test-corpus-26-train	ALG	تاريخ انتهاء الصلاحية ألف و تسعمئة و تسعة و تسعون.
+6780	corpus-6-test-corpus-26-test	ALG	كيفاش كان؟
+6800	corpus-6-test-corpus-26-train	ALG	كاين كازينو مليح؟
+6810	corpus-6-test-corpus-26-train	ALG	تفضل الدراهم تع أقلام الحبر. ورقة مئة دولار.
+6812	corpus-6-test-corpus-26-train	ALG	وين جاي القسم تع النسا؟
+6825	corpus-6-test-corpus-26-train	ALG	وين نقدر نومباركي؟
+6832	corpus-6-test-corpus-26-train	ALG	صاحبي راهو مجروح.
+6835	corpus-6-test-corpus-26-train	ALG	جاك شباب.
+6836	corpus-6-test-corpus-26-dev	ALG	هاذ المحل يكون مفتوح غدوة؟
+6862	corpus-6-test-corpus-26-test	ALG	هو في نهاية الهول.
+6864	corpus-6-test-corpus-26-train	ALG	تقدر تحففلي الشلاغم؟
+6866	corpus-6-test-corpus-26-dev	ALG	زيدلو طاولة السلطة واختيار من البطاطا المشوية والبطاطا المقلية.
+6875	corpus-6-test-corpus-26-dev	ALG	وين نقدر نشري الفخار؟
+6914	corpus-6-test-corpus-26-train	ALG	منقدرش نبيع هاذا بلا وصفة.
+6917	corpus-6-test-corpus-26-train	ALG	نقدر نحجز خمسة أماكن في نفس الصف؟
+6923	corpus-6-test-corpus-26-test	ALG	تقدر تسلفلي حبل تع الجر، من فضلك؟
+6944	corpus-6-test-corpus-26-train	ALG	واش من سيارة هي الأكثر اقتصادية؟
+6960	corpus-6-test-corpus-26-train	ALG	مايكونش ليك تخفيض، مكالاه لا تصر.
+6966	corpus-6-test-corpus-26-train	ALG	تقدر تفتح هاذ الساك، من فضلك؟ واش عنك لداخل؟
+6970	corpus-6-test-corpus-26-train	ALG	راني حاب ندير اتصال طويل المسافة لفندق هيلتون في بوسطن.
+6984	corpus-6-test-corpus-26-test	ALG	النسا يقبلو بهاذا؟
+6991	corpus-6-test-corpus-26-train	ALG	حذاري، الأسقف هابطة.
+6999	corpus-6-test-corpus-26-train	ALG	منقدرش نشوف مليح الشاشة من هنا. نقدر نبدل المكان دوكا؟
+7030	corpus-6-test-corpus-26-train	ALG	زرت منطقة البحيرات الكبرى للمرة الأولى.
+7048	corpus-6-test-corpus-26-train	ALG	كاين مشكل مع الموزع الأوتوماتيكي.
+7057	corpus-6-test-corpus-26-train	ALG	لازم نشوف طبيب.
+7070	corpus-6-test-corpus-26-train	ALG	شحال المدة التي قضاتها فالمملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	ALG	محب للفنون الجديدة وتقدر تتمتع بلا شك بلوحات الهيبيش ومشهد موسيقى الشارع.
+7098	corpus-6-test-corpus-26-train	ALG	وقتاش؟
+7099	corpus-6-test-corpus-26-dev	ALG	نأخذ المركاز و واحد كوكا.
+7104	corpus-6-test-corpus-26-dev	ALG	معاك مشغل المكالمات الخاص بالخارج.
+7123	corpus-6-test-corpus-26-train	ALG	راك تشوف هاذ البناية البيضاء، ياك؟ مقابل هاذ البناية.
+7130	corpus-6-test-corpus-26-test	ALG	من وقتاش؟
+7137	corpus-6-test-corpus-26-test	ALG	ماعندي حتى حاجة نصرح بيها.
+7198	corpus-6-test-corpus-26-dev	ALG	واشن؟ لازم نخلص لاطاكس كي ندو كتر من ثلاث قرع تع الكحول؟
+7206	corpus-6-test-corpus-26-dev	ALG	صاحبي راهو بزاف مريض. تقدر تتصل بطبيب، من فضلك؟
+7227	corpus-6-test-corpus-26-test	ALG	أنا مانعرفش مليح النبيذ. واش يجي مليح مع هاذ الطبق؟
+7233	corpus-6-test-corpus-26-dev	ALG	تقدر تتصل بيا صبح بكري، من فضلك؟
+7248	corpus-6-test-corpus-26-dev	ALG	كاين محطة وقود على بعد زوج شوارع من هنا.
+7253	corpus-6-test-corpus-26-train	ALG	اليابانيين ميخذوش عطل طويلة.
+7264	corpus-6-test-corpus-26-train	ALG	راني حاس بلي راهم يشوفو فيا. اذا جاجة نادرة كي يشوفو يابانيين؟
+7269	corpus-6-test-corpus-26-test	ALG	أكيد لالا. وعلاش راك تقول هكذا؟
+7270	corpus-6-test-corpus-26-train	ALG	من أي اتجاه جاية الدخلة للبريد المركزي؟
+7274	corpus-6-test-corpus-26-train	ALG	وين جاية المحطة البرية قرايهوند في هاذ المدينة؟
+7281	corpus-6-test-corpus-26-train	ALG	بصح اذا المطاعم اليابانية ماشي غاليين في كيوتو؟
+7289	corpus-6-test-corpus-26-train	ALG	نظن بلي شوية قوي عليا.
+7291	corpus-6-test-corpus-26-test	ALG	عندنا غرفة بزوج بناك فيها بينواغ سومتها خمسة و ثمانون دولار.
+7305	corpus-6-test-corpus-26-train	ALG	راني حاب السعر الموصى به.
+7314	corpus-6-test-corpus-26-test	ALG	كاين البرد كثر من العادة هاذ العام، بصح ماشي برد تع ثلج.
+7321	corpus-6-test-corpus-26-train	ALG	وين نقدر نشري تذكرة مترو؟
+7335	corpus-6-test-corpus-26-train	ALG	يكون عندي أماكن في درجة الأعمال، ياك؟
+7343	corpus-6-test-corpus-26-train	ALG	شحال السعر تع ركوب الطاكسي بين الفندق و المحطة؟
+7349	corpus-6-test-corpus-26-train	ALG	نقدر ندي هاذا و هاذا، من فضلك؟
+7381	corpus-6-test-corpus-26-train	ALG	يقولوا بلي اليابان بلد غني باف.
+7386	corpus-6-test-corpus-26-train	ALG	كاين غرف فعربات النوم؟
+7391	corpus-6-test-corpus-26-dev	ALG	تقدر تنقص السومة حتى عشرون دولار، من فضلك؟
+7395	corpus-6-test-corpus-26-train	ALG	هاذي هدية لصديق.
+7412	corpus-6-test-corpus-26-train	ALG	الثلج يرجع الطريق تزلق.
+7414	corpus-6-test-corpus-26-train	ALG	مصبطش آلة التصوير ديالي.
+7416	corpus-6-test-corpus-26-test	ALG	ناخذ اثنين سندويتش بلحم الخنزير.
+7438	corpus-6-test-corpus-26-train	ALG	عندك كاش حاجة تصرح بيها؟
+7439	corpus-6-test-corpus-26-train	ALG	مشفتش مونطو أزرق؟ حطيتو فوق هاذ الكرسي.
+7470	corpus-6-test-corpus-26-test	ALG	كاين محل أزهار في الجهة الأخرى من الشارع.
+7478	corpus-6-test-corpus-26-train	ALG	جيت من طوكيو.
+7479	corpus-6-test-corpus-26-train	ALG	راني حاب بلسم روفلون.
+7485	corpus-6-test-corpus-26-train	ALG	عندي حوايج للغسيل.
+7507	corpus-6-test-corpus-26-dev	ALG	طلبتوا عندها مدة كبيرة.
+7533	corpus-6-test-corpus-26-dev	ALG	تقدر تطلبلي حامل يجي عندي على الساعة الستة تع الصبح، من فضلك؟
+7549	corpus-6-test-corpus-26-train	ALG	ناخذ شكولاطة ساخنة.
+7550	corpus-6-test-corpus-26-train	ALG	نقدرو نديرو تعديل باش ننظفو الغرفة ديالك.
+7574	corpus-6-test-corpus-26-train	ALG	واحد خاص، من فضلك.
+7583	corpus-6-test-corpus-26-train	ALG	شحال السعر للفندق سي؟
+7612	corpus-6-test-corpus-26-test	ALG	نقدر نتحصل على تذاكر متعددة؟
+7622	corpus-6-test-corpus-26-train	ALG	راني حاب نحجز طاولة من الثانية بعد الزوال حتى السابعة مساءا، من فضلك.
+7626	corpus-6-test-corpus-26-train	ALG	راني حاب كريمة ليلية.
+7627	corpus-6-test-corpus-26-train	ALG	تقدر تغلفلي الهدية؟
+7636	corpus-6-test-corpus-26-train	ALG	راهي الثالثة و الربع بعد الزوال.
+7650	corpus-6-test-corpus-26-train	ALG	راني نخطط لارسال الفواتير الخاصة بالنفقات الأساسية ديالي، لذلك من فضلك أعطني عنوان واسم الشخص المسؤول.
+7656	corpus-6-test-corpus-26-test	ALG	صعيب علينا باش نهدرو الانجليزية بطلاقة.
+7662	corpus-6-test-corpus-26-train	ALG	عندك هاذي بنفس النوع بكعب عالي كثر؟
+7663	corpus-6-test-corpus-26-train	ALG	راني حاب تريكو لولد عندو عشر سنين.
+7671	corpus-6-test-corpus-26-train	ALG	اديني ل أبي راود، من فضلك.
+7684	corpus-6-test-corpus-26-dev	ALG	صحا. صباح الخير، شكرا على صبرك.
+7693	corpus-6-test-corpus-26-train	ALG	راني متأكد بلي حجزت.
+7708	corpus-6-test-corpus-26-train	ALG	دوك نبعتهولك، اذا حبيت تستنا هنا.
+7712	corpus-6-test-corpus-26-dev	ALG	رانا هنا ليوم واحد.
+7721	corpus-6-test-corpus-26-train	ALG	عندي صداع خفيف.
+7736	corpus-6-test-corpus-26-train	ALG	عجبني بزاف الطبق.
+7756	corpus-6-test-corpus-26-train	ALG	لالا، تقدر تاخذ مقعد و تستنا، من فضلك. نرجع فالحين.
+7761	corpus-6-test-corpus-26-test	ALG	نقدر نشوف السيارة؟
+7767	corpus-6-test-corpus-26-train	ALG	تقدر ترسملي مخطط، من فضلك؟
+7789	corpus-6-test-corpus-26-test	ALG	موافق، سيدي. من فضلك ابق فالغرفة ديالك حتى يجي الطبيب.
+7811	corpus-6-test-corpus-26-train	ALG	تعداو عليا في شاطئ وايمانالو. ارواح دوكا من فضلك.
+7812	corpus-6-test-corpus-26-train	ALG	واش رايك في مئة دولار؟
+7814	corpus-6-test-corpus-26-train	ALG	راني حابو مغلف.
+7831	corpus-6-test-corpus-26-train	ALG	راني حاب نعاود البطاقة ديالي.
+7834	corpus-6-test-corpus-26-train	ALG	الدولة دعمت النهوض بالصناعات.
+7838	corpus-6-test-corpus-26-train	ALG	عندو كثر من خمسين سنة، نظن.
+7858	corpus-6-test-corpus-26-dev	ALG	شحال السن الأقل باش نديرو؟
+7860	corpus-6-test-corpus-26-train	ALG	عندك مخطط بسيط للمدينة؟
+7867	corpus-6-test-corpus-26-test	ALG	اذا ممكن، نفضل متنحيليش الضرسة.
+7871	corpus-6-test-corpus-26-dev	ALG	الحساب هو كرة واحدة، ضربتين.
+7883	corpus-6-test-corpus-26-train	ALG	وقتاش يوصل القطار لسان دييقو، من فضلك؟
+7913	corpus-6-test-corpus-26-train	ALG	راني حاب نضرب طلة على البوكس ديالك.
+7925	corpus-6-test-corpus-26-train	ALG	راني حاب شامبوان.
+7947	corpus-6-test-corpus-26-train	ALG	هبطت في فندق الهيلتون.
+7948	corpus-6-test-corpus-26-train	ALG	مانيش نحس روحي مليح و عندي غثيان.
+7957	corpus-6-test-corpus-26-train	ALG	بصح عندي موعد معاها على الثانية بعد الزوال.
+7972	corpus-6-test-corpus-26-train	ALG	هاذ العربة تروح لإيدنبره؟
+7976	corpus-6-test-corpus-26-train	ALG	ايه، من فضلك عمر هاذ الاستمارة.
+7983	corpus-6-test-corpus-26-train	ALG	واش هي الزيادة للأمتعة الزائدة؟
+7991	corpus-6-test-corpus-26-dev	ALG	إسمي كيمورا، راني حاب نلغي الحجز تع نهار الجمعة.
+7996	corpus-6-test-corpus-26-test	ALG	أوه، اعتذر. كان كاين مشكل و حليناه. تقدر تصبر واحد الثلاثين دقيقة؟
+8039	corpus-6-test-corpus-26-train	ALG	وقتاش نقدر نسجل خروج؟
+8050	corpus-6-test-corpus-26-train	ALG	فهمت.
+8058	corpus-6-test-corpus-26-train	ALG	دوك نتصل بكاش واحد.
+8067	corpus-6-test-corpus-26-test	ALG	تقدر تتحقق من الفاتورة ديالي دوكا؟
+8068	corpus-6-test-corpus-26-train	ALG	جاءت السيارة في وجهي من جهة التقاطع.
+8094	corpus-6-test-corpus-26-train	ALG	هي علبة موسيقى.
+8095	corpus-6-test-corpus-26-train	ALG	وين جاية الضاحية؟
+8098	corpus-6-test-corpus-26-train	ALG	كاين رحلة للمدينة بالحافلة؟
+8108	corpus-6-test-corpus-26-train	ALG	وقتاش نبداو؟
+8114	corpus-6-test-corpus-26-train	ALG	موافق، سيدي. فالقياس المتوسط، نقترح عليك ماريكوري سابل، واش رايك؟
+8116	corpus-6-test-corpus-26-train	ALG	انشدت العضلة ديالك.
+8141	corpus-6-test-corpus-26-train	ALG	بصح لازم توعدني انت تضرب الكرة، ماشي أنا، موافق؟
+8143	corpus-6-test-corpus-26-train	ALG	على شحال المسافة؟
+8149	corpus-6-test-corpus-26-train	ALG	نقدر نتسلف الحوايج؟
+8156	corpus-6-test-corpus-26-train	ALG	واشنو هو نوع الجلد تع هاذ الحقيبة؟
+8161	corpus-6-test-corpus-26-train	ALG	منظنش بلي هاذ الموس نقي. تقدر تعطيني واحدأوخر؟
+8164	corpus-6-test-corpus-26-train	ALG	شريت هاذا عندها مدة، بصح اذا تقدر تبدلهولي بهاذا؟
+8173	corpus-6-test-corpus-26-train	ALG	باش نصارحك، مانيش موافق مع هاذا.
+8177	corpus-6-test-corpus-26-train	ALG	اذا هاذا هو الطريق الصحيح إلى البريد المركزي؟
+8183	corpus-6-test-corpus-26-train	ALG	باخرة بدليل، من فضلك.
+8193	corpus-6-test-corpus-26-train	ALG	راني حاب نطلب بدلة بلون غامق ليا.
+8194	corpus-6-test-corpus-26-train	ALG	هاذ المظلة تقدر تكون كيما العصا.
+8202	corpus-6-test-corpus-26-test	ALG	لازم نخلي كامل الأمتعة دياولي في غرفة الامانات؟
+8210	corpus-6-test-corpus-26-train	ALG	تقدر توريلي جواز السفر ديالك، من فضلك.
+8227	corpus-6-test-corpus-26-train	ALG	كاين كاش مكان يقبلو يغسلو لحوايج يوم الأحد؟
+8233	corpus-6-test-corpus-26-train	ALG	شيزبرغر، من فضلك.
+8234	corpus-6-test-corpus-26-train	ALG	واش من حافلة تروح لميامي؟
+8236	corpus-6-test-corpus-26-train	ALG	بصح حتى بقشيش ماهو لازم.
+8248	corpus-6-test-corpus-26-train	ALG	تقدر تشوف واحد في كارنجي هول.
+8250	corpus-6-test-corpus-26-train	ALG	أنا غيرمعتمد.
+8271	corpus-6-test-corpus-26-train	ALG	واش هو التخصص تع البيت؟
+8280	corpus-6-test-corpus-26-train	ALG	راني حاب ناخذ موعد عند الطبيب.
+8291	corpus-6-test-corpus-26-dev	ALG	تكون عندكم طاولة قريبة من الطاقة هاذ العشية على السبعة.
+8295	corpus-6-test-corpus-26-train	ALG	اذا تنزعج اذا جيت عندكم؟
+8305	corpus-6-test-corpus-26-train	ALG	يبان يحتاج تحسن.
+8316	corpus-6-test-corpus-26-train	ALG	وين جاي الميترو؟
+8334	corpus-6-test-corpus-26-train	ALG	عندكم مقاس صغير عليه؟
+8338	corpus-6-test-corpus-26-train	ALG	وين نقدر نصيب الأسبيرين؟
+8342	corpus-6-test-corpus-26-train	ALG	اذا بالسعر الأقل كامل؟
+8349	corpus-6-test-corpus-26-train	ALG	من فضلك أعطيني بطاقة لأسبوع.
+8355	corpus-6-test-corpus-26-train	ALG	هاوليك زميلي.
+8358	corpus-6-test-corpus-26-train	ALG	واش من نوع تاع المازوت كاين؟ سوبر، عادي، منقى؟
+8368	corpus-6-test-corpus-26-train	ALG	هاوليك واحد.
+8371	corpus-6-test-corpus-26-train	ALG	حكمتني نزلة برد.
+8409	corpus-6-test-corpus-26-test	ALG	مغلوق يوم الاثنين، بصح يوم آخرماهوش رايح يدير مشكل. نظن بلي يكون مفتوح من التاسعة صباحا حتى الخمسة تع لعشية.
+8418	corpus-6-test-corpus-26-train	ALG	أنقليس مشوي بصلصة خاصة على الروز.
+8435	corpus-6-test-corpus-26-train	ALG	"قالي""هيا نحتفلوا"" واداني للبار. قالي راهو رايح يدير اتصال بالهاتف و راح بلاما يولي وانا صبت روحي حاصل بفاتورة كبيرة."
+8454	corpus-6-test-corpus-26-train	ALG	شحال للغالون الواحد؟
+8456	corpus-6-test-corpus-26-train	ALG	عندي جواز السفر و بطاقة الائتمان دياولي فالساك ديالي.
+8485	corpus-6-test-corpus-26-train	ALG	حجز للساعة السبعة باسم مانو.
+8495	corpus-6-test-corpus-26-train	ALG	ماراكش حاب كاس شاي؟
+8497	corpus-6-test-corpus-26-dev	ALG	تقدر تقولي وين جاية السفارة تع اليابان؟
+8509	corpus-6-test-corpus-26-train	ALG	كاين طبيب فالفندق ولا تع الدوام؟
+8516	corpus-6-test-corpus-26-train	ALG	يدير دايمن التسوق ديالو في بوند سشريت.
+8527	corpus-6-test-corpus-26-train	ALG	جريدة انجليزية، من فضلك.
+8535	corpus-6-test-corpus-26-train	ALG	كاين مكان يلعبو فيه موسيقى البلد؟
+8539	corpus-6-test-corpus-26-test	ALG	راني حاب نحط الأغراض المهمة.
+8543	corpus-6-test-corpus-26-train	ALG	كاين واحدأوخرين من الصوف؟
+8551	corpus-6-test-corpus-26-train	ALG	شحال للورقة؟
+8574	corpus-6-test-corpus-26-train	ALG	حسنا، دير تسعة صفر واحد واحد، أمبعد رمز البلد و رقم الهاتف.
+8577	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على الكولا لايت؟
+8584	corpus-6-test-corpus-26-train	ALG	نقدر ندير طلبية؟
+8595	corpus-6-test-corpus-26-train	ALG	درنا طريق مليحة. صحا.
+8604	corpus-6-test-corpus-26-test	ALG	المعذرة. نقدر نجوز؟
+8610	corpus-6-test-corpus-26-train	ALG	عدد السكان الاجمالي فاليابان تقريب مئة و ثلاثون مليون.
+8618	corpus-6-test-corpus-26-train	ALG	راني حاب نكري شمسية.
+8625	corpus-6-test-corpus-26-train	ALG	ايه، راني حاب نعكس الرسوم.
+8636	corpus-6-test-corpus-26-train	ALG	محفظة فيها مئة دولار و زوج بطاقات ائتمان.
+8637	corpus-6-test-corpus-26-train	ALG	الماء سخون بزاف.
+8675	corpus-6-test-corpus-26-train	ALG	راك هنا.
+8688	corpus-6-test-corpus-26-dev	ALG	قهوة، من فضلك.
+8690	corpus-6-test-corpus-26-train	ALG	ماشي محتمل بزاف.
+8696	corpus-6-test-corpus-26-train	ALG	وجعتني كرشي بعد الأكل.
+8734	corpus-6-test-corpus-26-train	ALG	واو، شحال شباب المكان.
+8741	corpus-6-test-corpus-26-train	ALG	يقدر يكون عندو انسداد هواء.
+8749	corpus-6-test-corpus-26-train	ALG	قررت؟
+8788	corpus-6-test-corpus-26-train	ALG	اذا تفضل، نقدرو نريحو هنا.
+8791	corpus-6-test-corpus-26-test	ALG	راحلي أثر تع البريد المسجل.
+8803	corpus-6-test-corpus-26-train	ALG	ماشي ساهل باش تبدل الخدمة.
+8805	corpus-6-test-corpus-26-train	ALG	واش هي المحطة المقبلة؟
+8811	corpus-6-test-corpus-26-train	ALG	جيد، بصح ماشي المدرجات تع برا، السخانة بزاف اليوم.
+8823	corpus-6-test-corpus-26-dev	ALG	اهبط هنا و انتقل إلى الحافلة رقم ستة.
+8824	corpus-6-test-corpus-26-dev	ALG	لازم ناخذ الرحلة تع العشرة تع الصبح.
+8827	corpus-6-test-corpus-26-train	ALG	راني حاس بلي راح نزيد نرقد.
+8833	corpus-6-test-corpus-26-train	ALG	مراني حاب حتى حاجة كبيرة فالحجم.
+8840	corpus-6-test-corpus-26-train	ALG	تحقق، من فضلك.
+8844	corpus-6-test-corpus-26-test	ALG	شحال يدير الفطر الطازج؟
+8850	corpus-6-test-corpus-26-train	ALG	الفاتورة، من فضلك. تاخذو بطاقات الفيزا؟
+8851	corpus-6-test-corpus-26-train	ALG	اليوم، نروح نشوف كيفاش دايرة شايناطاون.
+8880	corpus-6-test-corpus-26-train	ALG	اثنان صفر اثنان تسعة ثلاثة تسعة ستة سبعة صفر صفر.
+8900	corpus-6-test-corpus-26-train	ALG	راني حاب اناحي ضرسة.
+8905	corpus-6-test-corpus-26-train	ALG	راني حاب حقيبة ماكياج.
+8907	corpus-6-test-corpus-26-dev	ALG	راني حاب نعرف شحال لازم نخلي للبقشيش.
+8914	corpus-6-test-corpus-26-train	ALG	"وين نقدر نشوف ""لوفونطوم دو لوبيرا""؟"
+8915	corpus-6-test-corpus-26-train	ALG	راني حاب نشري هدايا تذكارية لصحابي. تقدر تنصحني؟
+8918	corpus-6-test-corpus-26-train	ALG	بشوية، من فضلك.
+8919	corpus-6-test-corpus-26-dev	ALG	شحال متوسط السعر الشهري للفاكس نحو الخارج؟
+8947	corpus-6-test-corpus-26-train	ALG	مقلي من الجهتين، من فضلك.
+8966	corpus-6-test-corpus-26-dev	ALG	حسنا، يبان واضح بزاف. أعطيوني رخصة السياقة و التسجيل دياولك. ونتايا يا راجل، سامحني لازم ندير لك فحص الكحول.
+9011	corpus-6-test-corpus-26-train	ALG	يكون واجد بعد غدوة مع العشية.
+9022	corpus-6-test-corpus-26-train	ALG	اذا مصنوع من القطن؟
+9029	corpus-6-test-corpus-26-dev	ALG	عندي الأدوية الخاصة بيا.
+9034	corpus-6-test-corpus-26-train	ALG	واش نقدر نشوف في هاذ الرحلة؟
+9041	corpus-6-test-corpus-26-train	ALG	ايه، كاين على الأقل مشروب واحد.
+9051	corpus-6-test-corpus-26-train	ALG	شحال لنهار واحد؟
+9061	corpus-6-test-corpus-26-dev	ALG	هاذ الحافلة تحبس عند الفندق؟
+9073	corpus-6-test-corpus-26-train	ALG	راني حاب سي دي.
+9077	corpus-6-test-corpus-26-train	ALG	كاين رحلات الخطوط الجوية اليابانية وأول نيبون لي يروحو على الحداش غير خمسة. بصح الرحلات بين زوج معمرين.
+9094	corpus-6-test-corpus-26-train	ALG	جاني مليح.
+9098	corpus-6-test-corpus-26-train	ALG	نقدرو نتحصلو على طاولة لخمسة أشخاص؟
+9100	corpus-6-test-corpus-26-train	ALG	مانفهم والو الانجليزية.
+9126	corpus-6-test-corpus-26-dev	ALG	من فضلك اصرفلي شيك سفر.
+9150	corpus-6-test-corpus-26-train	ALG	تقدر تعتني بيها من التاسعة تع الصبح حتى الثلاثة بعد الزوال تقريبا؟
+9160	corpus-6-test-corpus-26-train	ALG	شحال السعر تع البريد الجوي لليابان؟
+9176	corpus-6-test-corpus-26-train	ALG	راني حاصل برا. تقدر تفتحلي بابي، من فضلك.
+9211	corpus-6-test-corpus-26-train	ALG	واش هي أفضل رحلة باش نشوف الأماكن الشهيرة؟
+9229	corpus-6-test-corpus-26-test	ALG	كاين مضيفة تهدر اللغة اليابانية؟
+9242	corpus-6-test-corpus-26-test	ALG	شحال من ساك نقدر ندي فالطيارة؟
+9263	corpus-6-test-corpus-26-train	ALG	لالا، سيدي. هاذ اليوم بعد منتصف النهار محكوم كامل. بصح غدوة مليح.
+9267	corpus-6-test-corpus-26-train	ALG	دوك نسقسي السعر الصحيح من البواب.
+9303	corpus-6-test-corpus-26-train	ALG	سامحني بزاف.
+9308	corpus-6-test-corpus-26-train	ALG	نديرو حفلة لعشية تع الجمعة. تحب تلتحق بينا؟
+9312	corpus-6-test-corpus-26-train	ALG	جيد، الغرفة ديالكم هي تسعمئة و ثمانية يا آنساتي. هاكو المفتاح ديالكم.
+9316	corpus-6-test-corpus-26-dev	ALG	بزاف مهم نقدرو نوصلو إلى المعدات الأساسية اللازمة للمشروع.
+9324	corpus-6-test-corpus-26-train	ALG	عفوا، سيدي الضابط؟
+9325	corpus-6-test-corpus-26-train	ALG	هاذ القطار يروح مباشرة إلى ايدينبرا؟
+9329	corpus-6-test-corpus-26-train	ALG	اذا ضمن الإعفاء من الطاكس؟
+9337	corpus-6-test-corpus-26-train	ALG	خرجلي الأغراض المهمة، من فضلك.
+9358	corpus-6-test-corpus-26-train	ALG	كاين بزاف الغاشي فالرحلة؟
+9367	corpus-6-test-corpus-26-train	ALG	راني حاب نشري هدايا تذكارية. كاين محل لهاذ الشي فالنواحي؟
+9372	corpus-6-test-corpus-26-train	ALG	حتى لوقتاش يبقى مفتوح؟
+9384	corpus-6-test-corpus-26-train	ALG	خرج دوكا.
+9385	corpus-6-test-corpus-26-train	ALG	مايومي، تقدر تعمرلي هاذ الورقة بالإمضاء ديالك؟
+9431	corpus-6-test-corpus-26-train	ALG	هاهو واحد ليك، سيدي.
+9432	corpus-6-test-corpus-26-train	ALG	ماعندي حتى متاع نسجلوا.
+9446	corpus-6-test-corpus-26-test	ALG	أكيد، خوذ وقتك.
+9450	corpus-6-test-corpus-26-train	ALG	راني هنا في مهمة إعلامية.
+9463	corpus-6-test-corpus-26-train	ALG	عندكم أفلام تع الصيف؟
+9481	corpus-6-test-corpus-26-train	ALG	وقتاش القطار الموالي لواشنطن دي سي؟
+9494	corpus-6-test-corpus-26-test	ALG	الطوال هما لي راهم مشهورين دوكا.
+9516	corpus-6-test-corpus-26-train	ALG	نعاود نروح لليابان الاثنين الجاية.
+9526	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على مخطط الميترو؟
+9542	corpus-6-test-corpus-26-train	ALG	اذا الرحلة طويلة؟
+9560	corpus-6-test-corpus-26-train	ALG	تقدر تبدلي هاذا بواحد جديد؟
+9576	corpus-6-test-corpus-26-train	ALG	شخصين.
+9579	corpus-6-test-corpus-26-test	ALG	منين نقدر نجيب الأمتعة دياولي؟
+9581	corpus-6-test-corpus-26-train	ALG	مانيش حاس روحي مليح. نقدر نميل المقعد ديالي؟
+9604	corpus-6-test-corpus-26-train	ALG	الساعة الحادية عشر وخمسة وأربعون.
+9605	corpus-6-test-corpus-26-train	ALG	تقدر تقولي على مطعم شائع بين الشباب؟
+9606	corpus-6-test-corpus-26-train	ALG	السيارة ديالو متوجهة بأقصى سرعة.
+9611	corpus-6-test-corpus-26-dev	ALG	نقدر نخلي رسالة؟ راني نتصل باش نأكد على الموعد مع السيد أيبرت الأربعاء المقبل على الساعة الحادية عشر تع الصبح.
+9628	corpus-6-test-corpus-26-dev	ALG	تقدر تشرحلي المرض ديالك بالانجليزية؟
+9634	corpus-6-test-corpus-26-test	ALG	تقدر تبعثلي طاكسي للدخلة الرئيسية تع مركز واستمينستر؟
+9651	corpus-6-test-corpus-26-train	ALG	شحال من مرة لازم نبدل القطار باش نوصل لتمة؟
+9657	corpus-6-test-corpus-26-train	ALG	صاح؟ خليني نتحقق. أوه، راني نعتذر بشدة، آنسة طاكانو. هاذي غلطة من عندنا. هاذي فاتورتك الجديدة. تقدري تمضي هنا، من فضلك؟
+9673	corpus-6-test-corpus-26-train	ALG	رجعلي خمسة دولار، من فضلك.
+9683	corpus-6-test-corpus-26-train	ALG	لغلاق تع البينواغ ميتضبطش كامل.
+9687	corpus-6-test-corpus-26-train	ALG	هذه لفتة متواضعة باش نعبر عن شكري.
+9688	corpus-6-test-corpus-26-train	ALG	تقدر تعمرلي هاذ ااستمارة؟
+9695	corpus-6-test-corpus-26-test	ALG	واش رايك في هاذ النماذج من البلاستيك؟
+9701	corpus-6-test-corpus-26-train	ALG	واش من طراز عندكم؟
+9702	corpus-6-test-corpus-26-train	ALG	الكعب بزاف عالي عليا.
+9710	corpus-6-test-corpus-26-test	ALG	راني حاصل خارج الغرفة ديالي.
+9730	corpus-6-test-corpus-26-train	ALG	من وقتاش وانت في باريس؟
+9732	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على طوابع بريدية لثلاثة بطاقات بريدية نبعثهوم لليابان بالبريد الجوي؟
+9746	corpus-6-test-corpus-26-train	ALG	يتكتب ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	ALG	راك حاب كاش حاجة تشربها؟
+9748	corpus-6-test-corpus-26-train	ALG	اتكسل هنا.
+9752	corpus-6-test-corpus-26-train	ALG	ارسل هاذ البرقية عاجلا، من فضلك.
+9788	corpus-6-test-corpus-26-train	ALG	على حساب حالة الجو، راح يصب الثلج غدوة.
+9792	corpus-6-test-corpus-26-train	ALG	راني حاب كرة.
+9822	corpus-6-test-corpus-26-train	ALG	أكيد. رانا سعداء كي نديروه.
+9829	corpus-6-test-corpus-26-train	ALG	أه، رسوم كرتون على ماليزيا. دوك نشري واحدة باش نديها للدار. راح تدير موضوع هايل تع قسرة.
+9862	corpus-6-test-corpus-26-train	ALG	"طريق النجاح هو ""جينمياكو""، هكذا؟"
+9866	corpus-6-test-corpus-26-dev	ALG	نوصل للفندق ديالكم على الساعة التاسعة ونص ليلا.
+9885	corpus-6-test-corpus-26-train	ALG	عندي حوالي ألفين و خمسمئة دولار ين ياباني.
+9903	corpus-6-test-corpus-26-train	ALG	إيه. دوك نوريهولك.
+9906	corpus-6-test-corpus-26-train	ALG	راني حاب حبوب منومة.
+9910	corpus-6-test-corpus-26-train	ALG	راني هنا حتى التاسع. نتمنى تحكمو المجرم بأقصى سرعة.
+9945	corpus-6-test-corpus-26-train	ALG	راني متأكد بلي المجرم ماهوش بعيد.
+9948	corpus-6-test-corpus-26-train	ALG	عشرة طوابع، من فضلك.
+9949	corpus-6-test-corpus-26-train	ALG	حلقي وجعني.
+9955	corpus-6-test-corpus-26-train	ALG	نسحق ذكريات من نيويورك.
+9969	corpus-6-test-corpus-26-train	ALG	راني رايح. تقدر تعيط لحمال يجي؟
+9979	corpus-6-test-corpus-26-train	ALG	الساعة ديالي حبست.
+9983	corpus-6-test-corpus-26-train	ALG	أوه، حقاً؟ كيفاش تحبو؟
+10006	corpus-6-test-corpus-26-train	ALG	نفتحو على الساعة التاسعة صباحا.
+10032	corpus-6-test-corpus-26-train	ALG	راني حاب كتاب تلوين.
+10037	corpus-6-test-corpus-26-train	ALG	نظن بلي عندي دوار الجو.
+10043	corpus-6-test-corpus-26-train	ALG	لازم نروح لبنك ياباني؟
+10045	corpus-6-test-corpus-26-train	ALG	لازم تبدل الدراهم دياولك في بنك.
+10065	corpus-6-test-corpus-26-train	ALG	مازال كاين بزاف الوقت قبل الانطلاق؟
+10069	corpus-6-test-corpus-26-train	ALG	زوجك هو من أفضل الزبائن دياولنا.
+10078	corpus-6-test-corpus-26-train	ALG	تعرف طبيب أسنان مليح؟
+10084	corpus-6-test-corpus-26-train	ALG	أوه. لازم تعلم السفارة فالحين.
+10091	corpus-6-test-corpus-26-train	ALG	بالغربال، و ماشي بالملعقة.
+10098	corpus-6-test-corpus-26-dev	ALG	راك حاب طاولة في مطعم ولا في قاعة خاصة، يا سيدي؟
+10102	corpus-6-test-corpus-26-train	ALG	بزاف الغاشي يروحو للشاطئ فالموسم.
+10107	corpus-6-test-corpus-26-train	ALG	نوزن حوالي مئة وخمسون رطل.
+10111	corpus-6-test-corpus-26-train	ALG	وين لازم ندي الرسالة ديالي؟
+10114	corpus-6-test-corpus-26-train	ALG	وين جاي المكتب تع الأشياء المفقودة؟
+10116	corpus-6-test-corpus-26-train	ALG	كاين حافلة لي تروح مباشرة؟
+10125	corpus-6-test-corpus-26-train	ALG	اذا نحتاج إلى علاج خاص؟
+10129	corpus-6-test-corpus-26-train	ALG	نقدا ولا ببطاقة الخصم؟
+10134	corpus-6-test-corpus-26-test	ALG	انتقلنا إلى هاذ البيت عندها عام.
+10155	corpus-6-test-corpus-26-train	ALG	شحال من وقت لازم باش تديرلي بطاقة فيزا جديدة؟
+10156	corpus-6-test-corpus-26-train	ALG	وين نصيب المرحاض؟
+10160	corpus-6-test-corpus-26-train	ALG	المبلغ الإجمالي مئتين وثلاثة وأربعون جنيه، يا مدام.
+10164	corpus-6-test-corpus-26-train	ALG	هاذي هدية. تقدر تغلفهالي في ورق تغليف شباب؟
+10182	corpus-6-test-corpus-26-train	ALG	منظر شباب. هي منتزهات روعة.
+10187	corpus-6-test-corpus-26-dev	ALG	كاين مصابين.
+10191	corpus-6-test-corpus-26-dev	ALG	المعذرة. وين جاية المحطة؟
+10224	corpus-6-test-corpus-26-train	ALG	إيه، عندنا حجز ليك.
+10238	corpus-6-test-corpus-26-train	ALG	المعذرة، راني حاب نروح بالحافلة للفندق ديالي فالمدينة. وين نقدر نصيبها؟
+10243	corpus-6-test-corpus-26-test	ALG	دجاج، من فضلك.
+10257	corpus-6-test-corpus-26-train	ALG	الغرفة مئتين وواحد. راني حاب نطلب فطور الصباح.
+10272	corpus-6-test-corpus-26-test	ALG	واش رايك فالتحرش الجنسي في أماكن العمل؟
+10318	corpus-6-test-corpus-26-dev	ALG	عندي أختين.
+10336	corpus-6-test-corpus-26-dev	ALG	رقم الرحلة مئتين و ثمانية، لطوكيو.
+10354	corpus-6-test-corpus-26-train	ALG	إذن، نعمروه من الداخل.
+10366	corpus-6-test-corpus-26-test	ALG	ننجحوا في تعميق السؤال.
+10372	corpus-6-test-corpus-26-train	ALG	كيفاش راك حاب نمشط اليوم؟
+10403	corpus-6-test-corpus-26-train	ALG	تقدر تديرلو إعادة صياغة بكلام واحد وأوخر؟
+10408	corpus-6-test-corpus-26-train	ALG	نعمل بواش عندك.
+10411	corpus-6-test-corpus-26-train	ALG	رانا حابين طاولة قريبة من منصة العرض.
+10416	corpus-6-test-corpus-26-train	ALG	راني مليح. حسنا، تروح لكاش مكان؟
+10433	corpus-6-test-corpus-26-train	ALG	رانا على ارتفاع ألفين و أربعمئة متر.
+10435	corpus-6-test-corpus-26-train	ALG	ادخل. تقدر تحطوا على الطاولة هنا.
+10440	corpus-6-test-corpus-26-train	ALG	تقدر تلغي رقم البطاقة ديالي.
+10468	corpus-6-test-corpus-26-train	ALG	سامحني، تباعو كامل، بصح يجونا واحدوأخرين في اليامات المقبلة.
+10473	corpus-6-test-corpus-26-test	ALG	نقدر نتحصل على قهوة؟
+10477	corpus-6-test-corpus-26-train	ALG	معنديش موعد، بصح مستعجل.
+10479	corpus-6-test-corpus-26-train	ALG	ماشي مخدوم مليح.
+10480	corpus-6-test-corpus-26-train	ALG	وين جاي السلم المتحرك؟
+10497	corpus-6-test-corpus-26-train	ALG	عندك منشور على الأحداث؟
+10500	corpus-6-test-corpus-26-train	ALG	وين جاية الدخلة تع الميترو؟
+10504	corpus-6-test-corpus-26-train	ALG	ضاعتلي تذكرة السفر ديالي.
+10559	corpus-6-test-corpus-26-train	ALG	متقدرش تبقى هنا خلال العطلة؟
+10562	corpus-6-test-corpus-26-train	ALG	أوه، راني نعتذر بزاف لي ازعجتك.
+10563	corpus-6-test-corpus-26-dev	ALG	تقدر تدير حجوزات لفعاليات مختلفة؟
+10565	corpus-6-test-corpus-26-train	ALG	كاين مرحاض عمومي في الناحية؟
+10590	corpus-6-test-corpus-26-train	ALG	شحال الاجمال؟
+10593	corpus-6-test-corpus-26-train	ALG	جيد. دوكا الأسئلة، من فضلك.
+10599	corpus-6-test-corpus-26-train	ALG	عندك صرف لموقف السيارات؟
+10617	corpus-6-test-corpus-26-test	ALG	الحاجة لي بعناها كثر هاذ السنوات الأربعة الماضية هي آلة النسخ ايه إيكس أربعمئة و خمسون.
+10645	corpus-6-test-corpus-26-train	ALG	اذا لازم ندور على اليسار؟
+10662	corpus-6-test-corpus-26-test	ALG	كاين مضيفات يهدرو اللغة اليابانية؟
+10670	corpus-6-test-corpus-26-train	ALG	سعر بزاف مليح، ولا لالا؟
+10680	corpus-6-test-corpus-26-train	ALG	تقدر تاخذو تسعة و تسعون مرة في اليوم، قبل الأكل.
+10707	corpus-6-test-corpus-26-train	ALG	نحبو بزاف.
+10733	corpus-6-test-corpus-26-train	ALG	راني حاب ترايبود.
+10736	corpus-6-test-corpus-26-dev	ALG	راني حاب سترة رياضية.
+10749	corpus-6-test-corpus-26-dev	ALG	تقدر تبقى عندي.
+10753	corpus-6-test-corpus-26-test	ALG	اذا نقدر نميل المقعد ديالي، من فضلك؟
+10756	corpus-6-test-corpus-26-train	ALG	عظيم، كنت نحوس على طاكسي، لكن أفضل.
+10760	corpus-6-test-corpus-26-train	ALG	مونطو شباب بزاف. اذا مصنوع في بريطانيا؟
+10778	corpus-6-test-corpus-26-train	ALG	راني حاب نروح لمركز هارفرد. تقدر تقولي وقتاش نوصلو؟
+10790	corpus-6-test-corpus-26-train	ALG	زوج كبار و زوج أطفال، من فضلك.
+10817	corpus-6-test-corpus-26-train	ALG	شحال السعر؟
+10824	corpus-6-test-corpus-26-train	ALG	حرب النجوم حقق أفضل نجاح في عام ألف وتسعمئة و أربعة و ثمانون.
+10830	corpus-6-test-corpus-26-train	ALG	وين المساحة لغير المدخنين؟
+10831	corpus-6-test-corpus-26-train	ALG	"هو ""ت"" مثل توم، إيه عندي هنا، يا طارو."
+10848	corpus-6-test-corpus-26-test	ALG	نظن بلي رائع.
+10851	corpus-6-test-corpus-26-test	ALG	راني حاب تفاح، من فضلك.
+10869	corpus-6-test-corpus-26-train	ALG	لواش ينفع؟
+10882	corpus-6-test-corpus-26-train	ALG	واش من بطاقات ائتمان لي تقبلوهم؟
+10922	corpus-6-test-corpus-26-train	ALG	عندي كامل الوقت.
+10930	corpus-6-test-corpus-26-train	ALG	حسنا، وقت الفطور. نقدرو نحكيو و خلال الفطور؟
+10937	corpus-6-test-corpus-26-dev	ALG	سرقو جهاز الفيديو من الغرفة ديالي.
+10950	corpus-6-test-corpus-26-train	ALG	صباح الخير، إسمي أودا. عندي حجز للمساء بصح نكون شوية متأخر للتسجيل. من فضلك احتفظلي بالحجز ديالي.
+10953	corpus-6-test-corpus-26-train	ALG	هاذ الأحذية قوية؟
+10955	corpus-6-test-corpus-26-test	ALG	من فضلك قولو بلي راني نستنا فالاتصال الهاتفي ديالو.
+10964	corpus-6-test-corpus-26-train	ALG	يقولوا بلي الأنفلوانزا منتشرة بزاف هناك.
+10973	corpus-6-test-corpus-26-train	ALG	في الداخل.
+10975	corpus-6-test-corpus-26-train	ALG	أنا اعتذر. رانا معمرين غدوة لعشية.
+10976	corpus-6-test-corpus-26-train	ALG	راني مع صحابي.
+10985	corpus-6-test-corpus-26-train	ALG	على حساب قورو، السيد يامادا عندو زوج أطفال.
+10994	corpus-6-test-corpus-26-dev	ALG	اذا تقدر تعاود؟
+10997	corpus-6-test-corpus-26-train	ALG	راني حاب الالتفات على برج لندن.
+11019	corpus-6-test-corpus-26-train	ALG	الرجاء تربطوا الأحزمة ديالكم.
+11027	corpus-6-test-corpus-26-test	ALG	الرمز الجهوي هو ثلاثة. رقم الهاتف هو اثنان ثلاثة أربعة ثلاثة أربعة صفر صفر.
+11030	corpus-6-test-corpus-26-test	ALG	سامحني. كاين جسر قريب من هنا؟
+11041	corpus-6-test-corpus-26-dev	ALG	سامحني، راني حاب نروح للمرحاض.
+11046	corpus-6-test-corpus-26-train	ALG	مشغول.
+11047	corpus-6-test-corpus-26-test	ALG	هاذ الملابس راهم دايمن خارج الموضة.
+11054	corpus-6-test-corpus-26-train	ALG	عندكم المأكولات البحرية؟
+11057	corpus-6-test-corpus-26-train	ALG	بزاف غالية.
+11058	corpus-6-test-corpus-26-train	ALG	راني حاب بزاف، بصح سامحني منقدرش نديره هاذ المرة.
+11064	corpus-6-test-corpus-26-train	ALG	حسنا، مازال مانيش عارف، بصح أكيد نجربو.
+11069	corpus-6-test-corpus-26-dev	ALG	ملح، من فضلك.
+11082	corpus-6-test-corpus-26-train	ALG	من فضلك استعمل غرفة تجريب الملابس لهيك.
+11100	corpus-6-test-corpus-26-train	ALG	تسعون دولار لتذكرة ذهاب. نقدا و لا بالبطاقة؟
+11109	corpus-6-test-corpus-26-dev	ALG	تقدر تفرغلي الطولة، من فضلك؟
+11123	corpus-6-test-corpus-26-train	ALG	كيفاش يربي اليابانيين أولادهم؟ اذا هم صعاب معاهم؟
+11126	corpus-6-test-corpus-26-train	ALG	تقدر تعطيني أوقات الفتح؟
+11131	corpus-6-test-corpus-26-dev	ALG	غلفلي كل واحد وحدو، من فضلك.
+11161	corpus-6-test-corpus-26-train	ALG	المعدة ديالي ثقيلة.
+11171	corpus-6-test-corpus-26-dev	ALG	يبان هايل. وين نقدرو نستناوك؟
+11174	corpus-6-test-corpus-26-train	ALG	نقدرو نبداو نلعبو كي يكملو؟
+11190	corpus-6-test-corpus-26-train	ALG	سكان اليابان حوالي مئة و عشرون مليون.
+11197	corpus-6-test-corpus-26-train	ALG	زيد هاذ الحاجات في بطاقة التسجيل.
+11199	corpus-6-test-corpus-26-train	ALG	اذا نقدر ندي الأغراض دياولي؟
+11240	corpus-6-test-corpus-26-train	ALG	اذا عندكم شال من الحرير؟ راني نحوس هدية للزوجة ديالي.
+11246	corpus-6-test-corpus-26-train	ALG	دوك نجيبوهوك فالحين. شحال الرقم تع الغرفة ديالك؟
+11264	corpus-6-test-corpus-26-test	ALG	السيد كوباياشي راهو يحوس عليك.
+11267	corpus-6-test-corpus-26-train	ALG	راني حاب نسافر فالباخرة من شانغهاي لهاواي.
+11278	corpus-6-test-corpus-26-test	ALG	تقدر تقول لكاش واحد يجي؟
+11282	corpus-6-test-corpus-26-train	ALG	يكون واجد غدوة على الخمسة تع العشية؟
+11302	corpus-6-test-corpus-26-train	ALG	تاخذ عشر دقائق مشيا.
+11316	corpus-6-test-corpus-26-train	ALG	قبل ما تكمل، تقدر تعطيني بعض الثواني؟
+11325	corpus-6-test-corpus-26-dev	ALG	وين نقدر نركن السيارة ديالي؟
+11336	corpus-6-test-corpus-26-dev	ALG	راني بردان و عندي وجع في كرشي.
+11342	corpus-6-test-corpus-26-train	ALG	سكوتش و ماء، من فضلك. ويذا عندك كاش حاجة خفيفة للأكل؟
+11343	corpus-6-test-corpus-26-train	ALG	كيفاش نقدر نطفي هاذ الضوء؟
+11360	corpus-6-test-corpus-26-train	ALG	راهو بزاف مشغول اليوم؟
+11374	corpus-6-test-corpus-26-train	ALG	راني حاب خيط.
+11375	corpus-6-test-corpus-26-train	ALG	أعطيني شهادة طبية من فضلك.
+11378	corpus-6-test-corpus-26-train	ALG	راني حاب تزيد تنقصلو بإنش واحد من هنا.
+11392	corpus-6-test-corpus-26-train	ALG	مانيش حاس روحي مليح، اعطيني أدوية.
+11403	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على جريدة يابانية؟
+11404	corpus-6-test-corpus-26-train	ALG	موافق. نقدر نحط السيارة في أي مكان؟ وشحال السعر؟
+11412	corpus-6-test-corpus-26-train	ALG	واش من حافلة تروح لمركز المدينة؟
+11420	corpus-6-test-corpus-26-train	ALG	كاين اكسبرس لبوسطن؟
+11435	corpus-6-test-corpus-26-train	ALG	من فضلك نحب تكون المراسل ديالي.
+11438	corpus-6-test-corpus-26-dev	ALG	رايح نبقى عند صاحبي.
+11442	corpus-6-test-corpus-26-train	ALG	راني بزاف زعفان. منقدرش نحكم روحي هادئ.
+11449	corpus-6-test-corpus-26-train	ALG	اذا نقدر نهبط فالهيلتون؟
+11450	corpus-6-test-corpus-26-train	ALG	راني حاب تنحيه.
+11457	corpus-6-test-corpus-26-train	ALG	دور على اليسار في هاذ الطريق، امشي هنا و خذ الأولى على اليمين.
+11462	corpus-6-test-corpus-26-train	ALG	راني حاب نعرف اذا ممكن نبعث هاذ المجموعة تع الحقائب لطوكيو.
+11467	corpus-6-test-corpus-26-train	ALG	راني حاب طالك للجسم.
+11478	corpus-6-test-corpus-26-train	ALG	اذا كاين ماكلة ماشي قوية و ناقصة فالحار؟
+11479	corpus-6-test-corpus-26-train	ALG	اذا قريب شوية باش نروح نمشي على رجليا؟
+11491	corpus-6-test-corpus-26-dev	ALG	راني حاب كريمة لليدين.
+11493	corpus-6-test-corpus-26-train	ALG	اذا تقدر تعطيني الملح، من فضلك؟
+11500	corpus-6-test-corpus-26-train	ALG	راني حاب نروح لوال سشريت. كيفاش نقدر نوصل لهناك؟
+11541	corpus-6-test-corpus-26-train	ALG	بزاف الحركات مافيهم حتى فايدة.
+11544	corpus-6-test-corpus-26-train	ALG	مع فطور الصباح، الطاكس و الخدمة داخلين، تولي خمسة و أربعون دولار لليلة للشخص الواحد.
+11550	corpus-6-test-corpus-26-train	ALG	تقدر تصلح هاذا؟
+11574	corpus-6-test-corpus-26-train	ALG	صباح الخير. سلام.
+11576	corpus-6-test-corpus-26-train	ALG	مصبتش الأمتعة دياولك.
+11595	corpus-6-test-corpus-26-train	ALG	كل الحقوق، من فضلك.
+11600	corpus-6-test-corpus-26-train	ALG	اذا الماء صالح للشرب؟
+11622	corpus-6-test-corpus-26-train	ALG	أيا، يالا. اثنين دولار فقط.
+11626	corpus-6-test-corpus-26-train	ALG	تقدر تبدلي هاذ الفستان بواحد كبير عليه؟
+11631	corpus-6-test-corpus-26-train	ALG	حسنا، هيا نروحوا. نعاونك فالواجبات دياولك ممبعد ناكلو بيتزا.
+11633	corpus-6-test-corpus-26-train	ALG	إيه، سيد طاناكا. كاين زوج رسائل ليك.
+11643	corpus-6-test-corpus-26-train	ALG	موالمنيش.
+11646	corpus-6-test-corpus-26-train	ALG	غدوة نهار آخر.
+11663	corpus-6-test-corpus-26-train	ALG	بالاك نقدر نعاونك. اذا لازملك الفيتامين سي؟
+11689	corpus-6-test-corpus-26-train	ALG	واحد السارق سرقلي المحفظة ديالي فالقطار.
+11704	corpus-6-test-corpus-26-train	ALG	بعيد بزاف. خير لوكان تاخذ طاكسي.
+11708	corpus-6-test-corpus-26-train	ALG	نحب مكان من جهة الكولواغ، من فضلك.
+11709	corpus-6-test-corpus-26-train	ALG	نعيش في شقة تكلفني ثمانون ألف ين للشهر.
+11714	corpus-6-test-corpus-26-train	ALG	نقدر نقاطعك؟
+11720	corpus-6-test-corpus-26-dev	ALG	وريلي واحد عريض كثر.
+11734	corpus-6-test-corpus-26-train	ALG	المعذرة. اذا منزعجكش لوكان تبدل المكان معايا؟
+11746	corpus-6-test-corpus-26-train	ALG	إيه، أكيد.
+11751	corpus-6-test-corpus-26-train	ALG	اهبط حتى للزاوية و دور على اليسار عند الأضواء.
+11754	corpus-6-test-corpus-26-dev	ALG	تحب زلاجات أصغر ولا أكبر؟
+11767	corpus-6-test-corpus-26-test	ALG	راني حاب غرفة فيها بينواغ بتسعون دولار، من فضلك.
+11800	corpus-6-test-corpus-26-train	ALG	راني حاب نحط أغراضي الغالية في الخزنة تع الفندق.
+11817	corpus-6-test-corpus-26-dev	ALG	اذا عندكم غرفة فارغة لهاذ الليلة؟
+11821	corpus-6-test-corpus-26-train	ALG	إيه، بصح تأكد بلي تحصلت على التذكرة ديالك.
+11862	corpus-6-test-corpus-26-train	ALG	غير شوية ناس برك يجوا للرحلة لاختيارية.
+11872	corpus-6-test-corpus-26-train	ALG	الي جات. في كل الأحوال، اديني لمركز شايناتاون، من فضلك. نحاول نصيبو بنفسي.
+11879	corpus-6-test-corpus-26-train	ALG	أشخاص واحدوخرين توظفوا في أفريل.
+11880	corpus-6-test-corpus-26-train	ALG	نتمنى ذلك.
+11885	corpus-6-test-corpus-26-train	ALG	اثنين سكوتش مع ماء، من فضلك.
+11901	corpus-6-test-corpus-26-train	ALG	شكون يلعب؟
+11913	corpus-6-test-corpus-26-dev	ALG	تقدر تتصل اذا صبت الساك ديالي؟
+11916	corpus-6-test-corpus-26-train	ALG	على اليسار، من فضلك.
+11932	corpus-6-test-corpus-26-test	ALG	اذا تحب تاخذ صورة معايا؟
+11938	corpus-6-test-corpus-26-dev	ALG	لالا. اذا تحب تصرح بيه؟
+11949	corpus-6-test-corpus-26-train	ALG	هاذ السن تع القدام توجعني.
+11959	corpus-6-test-corpus-26-train	ALG	واش هو أحدث لعبة فيديو لمراهقة ذات خمسة عشر سنة؟
+11972	corpus-6-test-corpus-26-train	ALG	غدوة نشوفوك.
+11973	corpus-6-test-corpus-26-test	ALG	اذا كاين ارخص رخيص فالنواحي؟
+11975	corpus-6-test-corpus-26-train	ALG	لالا، بصح شكرا. راني نحس بروحي مليح.
+11976	corpus-6-test-corpus-26-train	ALG	عندكم الخبز؟
+11977	corpus-6-test-corpus-26-train	ALG	واش هو المستوى ديالك فالكمان؟
+11990	corpus-6-test-corpus-26-train	ALG	صاحبي زلق و طاح فالحمام.
+11991	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على مطفآة سجائر؟
+11997	corpus-6-test-corpus-26-train	ALG	دارو حظر للمسيحية وتم إغلاق البلاد على العالم.
+12005	corpus-6-test-corpus-26-train	ALG	شحال راك حاب؟
+12012	corpus-6-test-corpus-26-train	ALG	كوكتال جمبري ليها، و نفس الشيء ليا.
+12033	corpus-6-test-corpus-26-train	ALG	نقدر نطلب منك تمضي هنا و تبصم هنا، من فضلك.
+12035	corpus-6-test-corpus-26-train	ALG	كان من دواعي سروري كي زرت المقر ديالكم و كي قدرت نحكي معاك مطولا. صحا بزاف على حسن تعاونك.
+12054	corpus-6-test-corpus-26-train	ALG	تشخر بزاف.
+12056	corpus-6-test-corpus-26-train	ALG	بعد كلش، اللون معجبنيش. نقدر نرجعو؟
+12057	corpus-6-test-corpus-26-dev	ALG	جوز من الباب لي لهيك، و استنا فالمحطة رقم ستة.
+12060	corpus-6-test-corpus-26-dev	ALG	الدجاج المشوي، من فضلك.
+12069	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على الفلفل؟
+12074	corpus-6-test-corpus-26-test	ALG	ايه، راني حاب كاش حاجة نقراها.
+12101	corpus-6-test-corpus-26-train	ALG	معاك السيد طاكاهاشي من الغرفة خمسمئة و تسعة و أربعون. تقدر تطلع أربع زجاجات تع بيرة بودوايزر، من فضلك؟
+12131	corpus-6-test-corpus-26-train	ALG	هاك سبعون دولار.
+12140	corpus-6-test-corpus-26-train	ALG	اتصل بيا فالفندق ديالي غير تصيب الأمتعة دياولي، من فضلك.
+12150	corpus-6-test-corpus-26-train	ALG	راني حاب اتصال منبه غدوة صبح على الساعة الثامنة و النصف، من فضلك.
+12167	corpus-6-test-corpus-26-train	ALG	إيه، بصح بزاف و كليت بزاف.
+12172	corpus-6-test-corpus-26-train	ALG	راني حاب غسول للفم.
+12173	corpus-6-test-corpus-26-train	ALG	مانيش نحس بروحي مليح.
+12182	corpus-6-test-corpus-26-train	ALG	اذا تديرو تخفيضات عند الشراء بالجملة؟
+12193	corpus-6-test-corpus-26-train	ALG	طوكيو صفر ثلاثة أربع تسعات أربعة خمسة ستة سبعة.
+12240	corpus-6-test-corpus-26-train	ALG	تقدر تعاوني باش نصيب حديقة الحيوانات؟
+12246	corpus-6-test-corpus-26-train	ALG	تقدر تقولي كيفاش نضبطو؟
+12247	corpus-6-test-corpus-26-train	ALG	وقتاش بالتقريب تخلاص الزيارة بالحافلة؟
+12254	corpus-6-test-corpus-26-train	ALG	تعرف كيفاش نستخدم الهاتف؟
+12259	corpus-6-test-corpus-26-train	ALG	أكيد. عندنا علامات ديال الكتب أمريكية أصلية جميلة.
+12298	corpus-6-test-corpus-26-train	ALG	مشغل مكالمات يتكلم باللغة اليابانية، من فضلك.
+12331	corpus-6-test-corpus-26-train	ALG	الموضة تهمنا بزاف.
+12333	corpus-6-test-corpus-26-train	ALG	تقدر تجرني؟
+12345	corpus-6-test-corpus-26-train	ALG	اذا هاذي هي العيادة أف؟
+12364	corpus-6-test-corpus-26-train	ALG	صباح الخير، آنسة ياماغوشي؟ المتحدث ديالك على الخط. تم قبول المكالمة ديالك. تفضلي، من فضلك.
+12391	corpus-6-test-corpus-26-test	ALG	وين نقدر نشري تذكرة الرفع؟
+12396	corpus-6-test-corpus-26-train	ALG	وقتاش نوصلو للوس أنجلس؟
+12403	corpus-6-test-corpus-26-train	ALG	كمل قبالة لمدة خمسة دقائق و دور على اليسار.
+12416	corpus-6-test-corpus-26-train	ALG	من هنا، نحو الشاطئ.
+12420	corpus-6-test-corpus-26-train	ALG	هاذ الشاي من الأعشاب يساعد على إعادة الشباب للجسم.
+12421	corpus-6-test-corpus-26-train	ALG	ماشي مصنوعين فاليابان، ياك؟
+12443	corpus-6-test-corpus-26-train	ALG	موافق. من هنا، من فضلك. دوك نرافقك للغرفة ديالك.
+12479	corpus-6-test-corpus-26-train	ALG	لازم نغادر الفندق قبل منصف النهار.
+12495	corpus-6-test-corpus-26-train	ALG	زوج همبرغر وزوج قهوة، من فضلك. نديهم معايا.
+12510	corpus-6-test-corpus-26-train	ALG	اذا نقدر ندي هاذ الزوج أكياس؟
+12527	corpus-6-test-corpus-26-train	ALG	أنا طلبت اللحم ماشي الحوت. تقدر تبدللي؟
+12546	corpus-6-test-corpus-26-train	ALG	وليدي راهو مهلوك.
+12551	corpus-6-test-corpus-26-train	ALG	عندي الوجع في كرشي.
+12556	corpus-6-test-corpus-26-train	ALG	هاذ السترة ماشي من مقاسي.
+12557	corpus-6-test-corpus-26-train	ALG	راني حاب نشوف السيد ويليام.
+12560	corpus-6-test-corpus-26-train	ALG	فيه مجموعة متنوعة من سبعة فيتامينات و معادن.
+12562	corpus-6-test-corpus-26-test	ALG	السن راهي تنفك.
+12589	corpus-6-test-corpus-26-train	ALG	اذا نتعوض كي نولي لليابان؟
+12599	corpus-6-test-corpus-26-train	ALG	من واش يتكون هاذ الطبق؟
+12603	corpus-6-test-corpus-26-train	ALG	في آما بلاد مصنوع؟
+12608	corpus-6-test-corpus-26-train	ALG	تقدر تديرو في عشرة دقائق؟
+12611	corpus-6-test-corpus-26-dev	ALG	أنا ماشي متمكن فاللغة الانجليزية. اذا كاين كاش واحد يهدر اليابانية؟
+12615	corpus-6-test-corpus-26-train	ALG	وين نقدر نصيب الجوتون تع الميترو؟
+12638	corpus-6-test-corpus-26-train	ALG	عشرون عينة إضافية رايحين نبعثوهوملك.
+12644	corpus-6-test-corpus-26-train	ALG	ماشكيتتش ليا علا جال البشرة ديالي جافة.
+12650	corpus-6-test-corpus-26-train	ALG	اذا تقدر تعطيني التوقيت، من فضلك؟
+12658	corpus-6-test-corpus-26-dev	ALG	إيه، نظن بلي راح نستنا.
+12671	corpus-6-test-corpus-26-train	ALG	تسعون دولار للساعة للطفل.
+12672	corpus-6-test-corpus-26-train	ALG	أنا نعتذر بصح داو كلش.
+12677	corpus-6-test-corpus-26-train	ALG	لازم يكون هادئ.
+12678	corpus-6-test-corpus-26-dev	ALG	عندي الجهاز ديالي.
+12679	corpus-6-test-corpus-26-train	ALG	مفتاح الغرفة خمسمئة و ثلاثة، من فضلك.
+12699	corpus-6-test-corpus-26-test	ALG	وقتاش يجوز ترمينال مان؟
+12701	corpus-6-test-corpus-26-train	ALG	وين جاي الحفاف؟
+12708	corpus-6-test-corpus-26-train	ALG	على الساعة السبعة، من فضلك.
+12712	corpus-6-test-corpus-26-train	ALG	حقيبتي فسدت.
+12713	corpus-6-test-corpus-26-train	ALG	سياحة.
+12732	corpus-6-test-corpus-26-train	ALG	أنا إسباني.
+12750	corpus-6-test-corpus-26-dev	ALG	البطاقة تع الغرفة ديالي معلباليش وشبيها. تقدر تعطيني واحدوخرا، من فضلك؟
+12755	corpus-6-test-corpus-26-dev	ALG	عندي احمرارات في ذراعتيا.
+12761	corpus-6-test-corpus-26-train	ALG	ابعث هاذا بالطيارة لليابان، من فضلك.
+12766	corpus-6-test-corpus-26-test	ALG	وين راهي الصيدلية القريبة من هنا؟
+12770	corpus-6-test-corpus-26-dev	ALG	نبيذ آخر، من فضلك.
+12773	corpus-6-test-corpus-26-train	ALG	الناس بزاف طيبين.
+12776	corpus-6-test-corpus-26-test	ALG	شحال من مشروبات داخلين فالسعر؟
+12777	corpus-6-test-corpus-26-test	ALG	درتها.
+12782	corpus-6-test-corpus-26-train	ALG	وين راهي باب الصعود للطيارة لهاذ الرحلة؟
+12790	corpus-6-test-corpus-26-test	ALG	اذا كاين طاولة فارغة، تقدر تحجزلنا مكان قريب من الطاقة؟
+12805	corpus-6-test-corpus-26-dev	ALG	اذا الإعلان للصعود جاز؟
+12810	corpus-6-test-corpus-26-train	ALG	رانا على ارتفاع اثناعشر ألف قدم.
+12820	corpus-6-test-corpus-26-train	ALG	رانا حابين قبل نشوفو وال ستريت.
+12822	corpus-6-test-corpus-26-train	ALG	وين راهي المحطة لي تدي لأوكسفورد؟
+12823	corpus-6-test-corpus-26-train	ALG	نستنا حتى يفرغ مكان على التراس.
+12835	corpus-6-test-corpus-26-train	ALG	اذا نقدرو نشوفو محافظ جيبية من الجلد؟
+12861	corpus-6-test-corpus-26-dev	ALG	نشوفو التلفزيون. راهي تجوز مباراة بيزبول.
+12878	corpus-6-test-corpus-26-train	ALG	تقدر تكتب العنوان ديالك هنا؟
+12884	corpus-6-test-corpus-26-train	ALG	تقدر توريلي وين جاية الصيدلية القريبة من هنا.
+12903	corpus-6-test-corpus-26-train	ALG	للفندق ديالي، من فضلك. العنوان راهو هنا.
+12905	corpus-6-test-corpus-26-dev	ALG	شحال كاين من محافظة من غير طوكيو؟
+12917	corpus-6-test-corpus-26-train	ALG	اقطع و استنا شوية، من فضلك.
+12936	corpus-6-test-corpus-26-train	ALG	واش تدير عادة بعد العشا؟
+12941	corpus-6-test-corpus-26-train	ALG	أكيد. وقتاش تحب تلعب الغولف؟
+12945	corpus-6-test-corpus-26-train	ALG	لازم تكون فالبيت على الثالثة بعد الزوال تقريبا.
+12952	corpus-6-test-corpus-26-train	ALG	راني حاب نتصل هاتفيا بسفارة اليابان.
+12968	corpus-6-test-corpus-26-train	ALG	شوية كثر.
+12969	corpus-6-test-corpus-26-train	ALG	منين يجوزو الحافلات للرحلات السياحية؟
+12973	corpus-6-test-corpus-26-train	ALG	شحال باش نبعثهوم لليابان؟
+12976	corpus-6-test-corpus-26-dev	ALG	ماعندي لا نوادي و لا أحذية.
+13015	corpus-6-test-corpus-26-train	ALG	اذا يساعدك الين الياباني؟
+13022	corpus-6-test-corpus-26-train	ALG	اذا عندكم مستنغ؟
+13027	corpus-6-test-corpus-26-train	ALG	رايحين نقفزو من هاذ الارتفاع؟
+13069	corpus-6-test-corpus-26-train	ALG	سيد. كاواي، عندنا الآن طاولة ليكم. تفضل من هنا، من فضلك.
+13072	corpus-6-test-corpus-26-train	ALG	أكيد. اهبط من السلالم لي راهم هنا برك و تشوف علامات تبعهم.
+13075	corpus-6-test-corpus-26-dev	ALG	الاستقبال. نقدر نعاونك؟
+13076	corpus-6-test-corpus-26-train	ALG	تقدر تحطني فالهيلتون، من فضلك؟
+13077	corpus-6-test-corpus-26-dev	ALG	اذا غالبا ما تعمل متأخر؟
+13090	corpus-6-test-corpus-26-dev	ALG	أعتذر بشدة، بصح مبقولناش. و جرائد انجليزية؟
+13095	corpus-6-test-corpus-26-train	ALG	طاولة لغير المدخنين، من فضلك.
+13096	corpus-6-test-corpus-26-train	ALG	اذا تقدر تنبهني قبل ما نوصلوا لدوهمان؟
+13113	corpus-6-test-corpus-26-test	ALG	اذا طازج؟
+13116	corpus-6-test-corpus-26-train	ALG	ماشي عدل. أنت لي تخلص دايمن.
+13118	corpus-6-test-corpus-26-dev	ALG	تقدر توريلي فساتين؟
+13126	corpus-6-test-corpus-26-train	ALG	عيطلوا، من فضلك.
+13133	corpus-6-test-corpus-26-train	ALG	بدا النبيذ يسكرني.
+13134	corpus-6-test-corpus-26-train	ALG	حذار لأن الطقس متغير في الجبل.
+13159	corpus-6-test-corpus-26-train	ALG	شيكات سياحية وين ياباني، مليح؟
+13162	corpus-6-test-corpus-26-train	ALG	سامحني، طلبت من مكتب النظافة و مكتب الأشياء المفقودة. مصابوهش.
+13172	corpus-6-test-corpus-26-train	ALG	هاذا مكان صعيب باش تصيبو. هاذي طريق صغيرة فالخرجة تع الطريق الوطني.
+13183	corpus-6-test-corpus-26-train	ALG	مانعرف والو.
+13184	corpus-6-test-corpus-26-train	ALG	نقدروا نهدروا فيه في قهوة.
+13188	corpus-6-test-corpus-26-train	ALG	راني نشوف، في هاذ الحالة، منخلصش حق التعديل، و لالا؟
+13202	corpus-6-test-corpus-26-train	ALG	مشغل المكالمات، من فضلك.
+13262	corpus-6-test-corpus-26-train	ALG	تقدر تهبط السرج، من فضلك؟
+13264	corpus-6-test-corpus-26-dev	ALG	تقدر تسكني لليلة؟
+13267	corpus-6-test-corpus-26-train	ALG	موافق. ندي زوج برك. صحا.
+13268	corpus-6-test-corpus-26-train	ALG	هاك الفاتورة ديالك. فيها ثلاثمئة و سبعة و تسعون دولار.
+13269	corpus-6-test-corpus-26-train	ALG	عنك الزهر.
+13287	corpus-6-test-corpus-26-train	ALG	من فضلك أعطينا طاولة بمنظر شباب على الحياة الليلية.
+13290	corpus-6-test-corpus-26-train	ALG	اذا مصنوع باليدو لا بالماكنة؟
+13291	corpus-6-test-corpus-26-train	ALG	راني حاب نكري هاذ النوع من السيارة لمدة أربعة و عشرون ساعة.
+13306	corpus-6-test-corpus-26-train	ALG	أنا مسرور لي تعرفت بيك.
+13322	corpus-6-test-corpus-26-train	ALG	تقطع.
+13333	corpus-6-test-corpus-26-dev	ALG	حسنا، دوكا، خليني نشوف فيك.
+13347	corpus-6-test-corpus-26-train	ALG	حسنا، تخيل شحال من وقت تاخذ هاذ الخدمة اذا طرحوا سؤال اضافة على كل شخص. ارواح، نسرعوا ندو الأمتعة دياولنا. دوكا لازم نروحوا لمكتب الجمارك.
+13396	corpus-6-test-corpus-26-train	ALG	شحال الوزن؟
+13399	corpus-6-test-corpus-26-train	ALG	اذا كاين مطعم صيني ماشي بعيد من هنا؟
+13407	corpus-6-test-corpus-26-train	ALG	الرصيف الخامس راهو لهيك.
+13408	corpus-6-test-corpus-26-train	ALG	وقتاش تلعب مقابلة كرة القدم؟
+13423	corpus-6-test-corpus-26-dev	ALG	مايمشيش. تقدر تشوفلي جهاز التصوير ديالي؟
+13424	corpus-6-test-corpus-26-test	ALG	قهوة بالكريمة و السكر، من فضلك.
+13436	corpus-6-test-corpus-26-train	ALG	نظن بلي هاذ الفاتورة فيها أخطاء.
+13438	corpus-6-test-corpus-26-train	ALG	من فضلك اعطيني هاذا.
+13440	corpus-6-test-corpus-26-train	ALG	الباب سبعة.
+13444	corpus-6-test-corpus-26-train	ALG	اذا جيت من اسكتلندا؟
+13446	corpus-6-test-corpus-26-train	ALG	ثلاثة-اثنان-واحد-اثنان. اصبر ثانية، موافق؟ راني حاب نبعثلك كاش حاجة. سامحني.
+13471	corpus-6-test-corpus-26-test	ALG	مئة و خمسة و ثلاثون ين للدولار.
+13476	corpus-6-test-corpus-26-train	ALG	موضة التنورة القصيرة مع البوت لا تزول أبدا.
+13477	corpus-6-test-corpus-26-train	ALG	نقدر نهدر مع المدير؟
+13480	corpus-6-test-corpus-26-train	ALG	وعلاش السعر ديالك ماشي كيما تع العداد؟
+13484	corpus-6-test-corpus-26-train	ALG	اذا نقدر نشوف هاذا؟
+13487	corpus-6-test-corpus-26-train	ALG	وعدت نفسي باش نتعرف عليك ملي تلاقيت بيك.
+13488	corpus-6-test-corpus-26-train	ALG	واش راه يصرا مؤخرا؟
+13492	corpus-6-test-corpus-26-train	ALG	مانيش نحس روحي مليح. تقدر تعطيني اسم الطبيب؟
+13504	corpus-6-test-corpus-26-train	ALG	المتحدث بك متصل. تفضل.
+13515	corpus-6-test-corpus-26-train	ALG	اذا كاين عرض كاباريه؟
+13528	corpus-6-test-corpus-26-dev	ALG	دافق المرحاض ميمشيش.
+13532	corpus-6-test-corpus-26-dev	ALG	شحال الوقت من هنا لسيتي هول كي نروحو مشيا على الأقدام؟
+13547	corpus-6-test-corpus-26-train	ALG	خذ هاذ الدواء بعد كل وجبة اذا وجعك بزاف.
+13550	corpus-6-test-corpus-26-train	ALG	دير الدراهم في برية مشبحة واسمها شوغيبوكورو.
+13553	corpus-6-test-corpus-26-train	ALG	كاين واحد مصاب.
+13609	corpus-6-test-corpus-26-test	ALG	راني نتساءل واش نقدر نصيبلو كهدية؟
+13624	corpus-6-test-corpus-26-train	ALG	اذا عنك مخطط للميترو؟
+13629	corpus-6-test-corpus-26-train	ALG	عندي غرفة جاهزة ليكم فالفندق الكبير. تقدر تروح لتما؟
+13635	corpus-6-test-corpus-26-train	ALG	عيني اليمين وجعتني.
+13657	corpus-6-test-corpus-26-train	ALG	أنا ماشي متمكن بزاف من الألمانية.
+13660	corpus-6-test-corpus-26-train	ALG	لازم نزيدو نجتمعو مرة أخرى.
+13666	corpus-6-test-corpus-26-train	ALG	اذا تقدر تديلي هاذ السروال؟
+13682	corpus-6-test-corpus-26-train	ALG	اذا نقدر نتسلف مضرب و كرات؟
+13685	corpus-6-test-corpus-26-test	ALG	تقدر تحط ضرف؟
+13694	corpus-6-test-corpus-26-train	ALG	اذا نقدر نتحصل على نصف قنينة؟
+13707	corpus-6-test-corpus-26-train	ALG	مرحبا. أنا جون.
+13717	corpus-6-test-corpus-26-train	ALG	ناكاي.
+13719	corpus-6-test-corpus-26-train	ALG	اذا مفيش ازعاج لوكان نصورك أنت و الطاكسي ديالك؟
+13733	corpus-6-test-corpus-26-train	ALG	اتصلت علا جال ساك مفقود عندها ثلاثة أيام.
+13748	corpus-6-test-corpus-26-test	ALG	راني حاب فندق بالسعر المليح.
+13755	corpus-6-test-corpus-26-dev	ALG	أوه، كاين بزاف حاجات لي تقدر تشوفهم في بلدة غرينويش.
+13769	corpus-6-test-corpus-26-train	ALG	لغرض عمل. عندي علاقات عمل هناك.
+13783	corpus-6-test-corpus-26-train	ALG	يوالم مع البدلة ديالك.
+13784	corpus-6-test-corpus-26-train	ALG	تقدر تضرب طلة على الأمتعة ديالي؟
+13788	corpus-6-test-corpus-26-train	ALG	واش رايك في هاذ الفكرة؟ نقبلوا طلبك بإشعار ستة أشهر بشرط أنك تضمنلنا حق البيع في ظرف ستة أشهر بعد الغاء العقد.
+13803	corpus-6-test-corpus-26-train	ALG	المعذرة، اذا تعرف مليح نيويورك؟
+13824	corpus-6-test-corpus-26-test	ALG	رانا نستناو. من فضلك اتصل بينا كي تكون واجد.
+13827	corpus-6-test-corpus-26-train	ALG	راني حاب نشوف جراح.
+13828	corpus-6-test-corpus-26-dev	ALG	اذا هاذو مكونات طبيعية؟
+13831	corpus-6-test-corpus-26-train	ALG	راني حاب نطلع في سيارة رياضية.
+13843	corpus-6-test-corpus-26-train	ALG	الرمز الجهوي هو صفر ثلاثة. الرقم هو واحد وثلاثون ثلاثة وعشرون خمسة وأربعون سبعة و ستون.
+13854	corpus-6-test-corpus-26-train	ALG	حكماتو نزلة برد.
+13856	corpus-6-test-corpus-26-test	ALG	برنامج فرعي يكون أفضل.
+13862	corpus-6-test-corpus-26-train	ALG	راني حاب نبعث هاذا بالبريد العادي.
+13903	corpus-6-test-corpus-26-train	ALG	اسمحلي نوصل هاذ المحادثة للشخص المسؤول.
+13913	corpus-6-test-corpus-26-train	ALG	واش من مقاس راك حاب؟
+13919	corpus-6-test-corpus-26-train	ALG	أوه، يا ربي. مفقتش بلي مازال عندي هاذو.
+13920	corpus-6-test-corpus-26-train	ALG	اذا عندكم صناديق باش نبعث طرود بريدية؟
+13921	corpus-6-test-corpus-26-train	ALG	اذا كان شركة الطيران ستدعم فندقي ووجبات الطعام؟
+13938	corpus-6-test-corpus-26-train	ALG	اذا هاذو الأمتعة دياولك كامل؟
+13942	corpus-6-test-corpus-26-train	ALG	كيفاش راك حاب تدير الاتصال ديالك؟
+13946	corpus-6-test-corpus-26-train	ALG	حسنا، غالي. ماشي مصنوع فاليابان، ياك؟
+13953	corpus-6-test-corpus-26-train	ALG	تقدر تعطيني الملح، من فضلك؟
+13966	corpus-6-test-corpus-26-train	ALG	وين جاي المطعم القريب من هنا؟
+13993	corpus-6-test-corpus-26-train	ALG	راني حاب شامبوان للشعر العادي.
+14008	corpus-6-test-corpus-26-train	ALG	وقتاش تظن بلي يصيبوه؟
+14014	corpus-6-test-corpus-26-train	ALG	نتمنالك سنة سعيدة.
+14018	corpus-6-test-corpus-26-train	ALG	راني حاب سبرايت كبير.
+14043	corpus-6-test-corpus-26-test	ALG	من فضلك عاود بتمهل.
+14045	corpus-6-test-corpus-26-train	ALG	المعذرة. راني حاب ندير طلبية.
+14059	corpus-6-test-corpus-26-test	ALG	ناخذو جمبري نيوبرغ و جيغو مشوي.
+14069	corpus-6-test-corpus-26-train	ALG	راني حاب غرفة بإطلالة شابة.
+14074	corpus-6-test-corpus-26-train	ALG	ثلاثة أكواب من عصير البطيخ، من فضلك.
+14086	corpus-6-test-corpus-26-train	ALG	عندي ثلاثة أطفال.
+14088	corpus-6-test-corpus-26-train	ALG	كمل طوال لاخر هاذ الهول و دور على اليسار. تشوفو على اليمين ديالك.
+14089	corpus-6-test-corpus-26-dev	ALG	اذا هاذي رحلة ليوم كامل؟
+14094	corpus-6-test-corpus-26-train	ALG	شحال سعر التذكرة ذهاب إياب لأوكسفورد؟
+14098	corpus-6-test-corpus-26-train	ALG	نروح لنادي رياضي كل يومين.
+14099	corpus-6-test-corpus-26-train	ALG	وين نقدر نبقى خلال الرحلة؟
+14104	corpus-6-test-corpus-26-train	ALG	وقتاش تسجيل الخروج؟
+14108	corpus-6-test-corpus-26-train	ALG	شحال السعر اليومي لهاذ الدليل؟
+14120	corpus-6-test-corpus-26-train	ALG	وين نقدر نصيب لي سي دي؟
+14147	corpus-6-test-corpus-26-train	ALG	اعتذر، أنا ثانوي ياباني. أنت طالب في جامعة نيويورك؟
+14150	corpus-6-test-corpus-26-train	ALG	تقدر تقوللنا كيفاش تقيم هاذ المشروع؟
+14167	corpus-6-test-corpus-26-train	ALG	آكي، اذا تعرف مخزن مليح قريب من هنا؟
+14168	corpus-6-test-corpus-26-train	ALG	نقدا ولا بالبطاقة؟
+14174	corpus-6-test-corpus-26-train	ALG	نعمل في شركة اقتصادية.
+14175	corpus-6-test-corpus-26-train	ALG	ماشي من المهذب طلب الأشخاص شحال يخلصوا.
+14184	corpus-6-test-corpus-26-train	ALG	اذا هاذا ليفايز حقيقي خمسمئة وواحد؟
+14195	corpus-6-test-corpus-26-train	ALG	وقتاش نقدر ناخذ حمام؟
+14198	corpus-6-test-corpus-26-train	ALG	متديرش كتر من واحد و عشرون.
+14219	corpus-6-test-corpus-26-train	ALG	راني نشوف. بالحقيقة، كاين بيليكول ألترا سريعة فالداخل. يزعجك لوكان انحيه؟
+14224	corpus-6-test-corpus-26-train	ALG	هاذا وين شريتو.
+14232	corpus-6-test-corpus-26-train	ALG	دوك نجيب واحد فالحين.
+14235	corpus-6-test-corpus-26-train	ALG	ثمانية دولار. و هاك واحد فالحين.
+14242	corpus-6-test-corpus-26-train	ALG	من فضلك وري هاذا للجمارك تع المطار مع الأغراض اللي شريتهم.
+14261	corpus-6-test-corpus-26-train	ALG	اذا كاين تخفيضات فالمحلات الشاملة الآن؟
+14265	corpus-6-test-corpus-26-train	ALG	مشغل المكالمات، أعطني مركز الإطفاء.
+14266	corpus-6-test-corpus-26-train	ALG	البطارية و الساعة دياولي.
+14289	corpus-6-test-corpus-26-train	ALG	توقف عند المقطع الموالي.
+14292	corpus-6-test-corpus-26-train	ALG	أوه، هوليك. اذا كامل لازم يعمرو استمارة الجمارك؟
+14304	corpus-6-test-corpus-26-train	ALG	وتقدر تعطيني أسمك، من فضلك؟
+14306	corpus-6-test-corpus-26-train	ALG	اذا نزعجك لوكان ندير اتصال على حساب المتلقي؟
+14311	corpus-6-test-corpus-26-train	ALG	صباح الخير. واش راك؟
+14317	corpus-6-test-corpus-26-train	ALG	وين راهو قسم السفر؟
+14336	corpus-6-test-corpus-26-train	ALG	واش هو اسم الشخص اللي راك حاب تهدر معاه؟
+14347	corpus-6-test-corpus-26-test	ALG	أعتذر، راهو غائب دوكا.
+14363	corpus-6-test-corpus-26-train	ALG	شوف هاذا، شوف هاذا. تقولي واش هو الفرق بين هاذ الراجل و هاذ الراجل، هاذا سؤال تع حظ؟ محمد، احبس، من فضلك. مايزعجكش لوكان تحطوا هنا. راني متأخر. كانت حاجة ظريفة لي تلاقينا، ماشي صح؟
+14373	corpus-6-test-corpus-26-dev	ALG	اذا الغرفة ديالك تطل على المدينة؟
+14389	corpus-6-test-corpus-26-train	ALG	رسائل ليه؟
+14400	corpus-6-test-corpus-26-test	ALG	دايمن بزاف غالي. منقدرش نتحصل عليه بثلاثة دولار؟
+14402	corpus-6-test-corpus-26-train	ALG	رانا حابين غرفة من الخلف.
+14403	corpus-6-test-corpus-26-dev	ALG	ناخذ كأس نبيذ.
+14416	corpus-6-test-corpus-26-train	ALG	انتي شابة بزاف.
+14426	corpus-6-test-corpus-26-test	ALG	راني حاب غرفة مزدوجة. شحال السعر ديالها لليلة؟
+14434	corpus-6-test-corpus-26-train	ALG	بعيد حوالي تسعمئة و تسعون ميل.
+14441	corpus-6-test-corpus-26-train	ALG	فينس و ليندا حبوا يبقاو واحدهم، امالا سامحني لازم نقعد هنا هاذ الليلة.
+14444	corpus-6-test-corpus-26-train	ALG	من فضلك احتفظ بالأمتعة مربوطة.
+14448	corpus-6-test-corpus-26-train	ALG	إسمي ساتو.
+14457	corpus-6-test-corpus-26-train	ALG	نعرف فرقة جاز قديمة فالمدينة.
+14459	corpus-6-test-corpus-26-train	ALG	ناخذ هاذ الوجبة الرئيسية.
+14462	corpus-6-test-corpus-26-dev	ALG	راني حاب ندوق من نفس هاذ الطبق.
+14475	corpus-6-test-corpus-26-train	ALG	امالا ندوه.
+14477	corpus-6-test-corpus-26-train	ALG	اذا يطلع حتا الطابق السادس؟
+14478	corpus-6-test-corpus-26-dev	ALG	في جلد التمساح؟
+14483	corpus-6-test-corpus-26-train	ALG	من فضلك ديرو فالساشي تع الحوايج و خليه لهيك.
+14484	corpus-6-test-corpus-26-train	ALG	راني حاب نخرج هاذ البيليكول. وقتاش توجد؟
+14495	corpus-6-test-corpus-26-dev	ALG	متعطيش هاذ المفتاح لحتا واحد من غيري، من فضلك.
+14500	corpus-6-test-corpus-26-test	ALG	موافق. نجي نديك للفندق ديالك على الثامنة.
+14502	corpus-6-test-corpus-26-train	ALG	مليح قريب من الطاقة.
+14505	corpus-6-test-corpus-26-train	ALG	خلي الشعر هابط شوية، من فضلك.
+14507	corpus-6-test-corpus-26-train	ALG	اذا كامل مصاريف النقل داخلين؟
+14509	corpus-6-test-corpus-26-train	ALG	بيت الأوبرا متروبوليتان.
+14514	corpus-6-test-corpus-26-train	ALG	وين جاي مكتب اكري- سيارة؟
+14519	corpus-6-test-corpus-26-dev	ALG	راني نحس بروحي محموم من البارح عشية.
+14520	corpus-6-test-corpus-26-train	ALG	ماشي بالذوق ديالي.
+14530	corpus-6-test-corpus-26-train	ALG	واش من خضر عندكم؟
+14531	corpus-6-test-corpus-26-test	ALG	راني حاب برمانونت خفيفة من فضلك.
+14534	corpus-6-test-corpus-26-train	ALG	وقتاش يجي الطبيب؟
+14537	corpus-6-test-corpus-26-train	ALG	ماشي اللون المناسب.
+14538	corpus-6-test-corpus-26-train	ALG	الضرسة تكسرت.
+14542	corpus-6-test-corpus-26-train	ALG	مكان قريب من الكولواغ و قريب من الطاقة؟
+14557	corpus-6-test-corpus-26-train	ALG	بديت نتنزه.
+14564	corpus-6-test-corpus-26-dev	ALG	تقدر اطلعلي الأمتعة دياولي للغرفة ديالي؟
+14573	corpus-6-test-corpus-26-train	ALG	وريلي واحد لفتاة صغيرة.
+14590	corpus-6-test-corpus-26-train	ALG	تقدر تجبد منا؟
+14593	corpus-6-test-corpus-26-dev	ALG	اذا عندكم كاش حاجة بثمانون دولار بالضبط؟
+14605	corpus-6-test-corpus-26-train	ALG	راني عطشان.
+14612	corpus-6-test-corpus-26-train	ALG	بلا حليب، من فضلك.
+14683	corpus-6-test-corpus-26-dev	ALG	عندي ثلاث سيكان.
+14685	corpus-6-test-corpus-26-train	ALG	وين راه الساك؟
+14693	corpus-6-test-corpus-26-test	ALG	المعذرة. اضغط على زر التصوير، من فضلك.
+14709	corpus-6-test-corpus-26-train	ALG	نقدر نشوف مجلة ولا كاش حاجة هاكذا؟
+14718	corpus-6-test-corpus-26-train	ALG	للجنوب.
+14721	corpus-6-test-corpus-26-train	ALG	بشحال هاذ الأماكن فالشرفة؟
+14734	corpus-6-test-corpus-26-test	ALG	رانا حابين غرفة تطل على البحيرة.
+14737	corpus-6-test-corpus-26-train	ALG	اذا كاين صناديق بريد قراب من هنا؟
+14757	corpus-6-test-corpus-26-train	ALG	موافق. أنا نديك لهيك.
+14761	corpus-6-test-corpus-26-train	ALG	الجزء المكتوب بالمائل يبين التغيرات اللي صرات في سنوات الألف تسعمية وتسعين.
+14763	corpus-6-test-corpus-26-train	ALG	عندو ثلاثين سنة.
+14777	corpus-6-test-corpus-26-test	ALG	موافق. تقدر تكتبلي مرة أخرى العنوان على هاذ الغلاف؟
+14783	corpus-6-test-corpus-26-train	ALG	راني حاب نروح عند هارود. تقدر ترسملي مخطط، من فضلك؟
+14786	corpus-6-test-corpus-26-train	ALG	واش تدير كي يكون عندك وقت فراغ؟
+14789	corpus-6-test-corpus-26-train	ALG	اذا تبيعو بطاريات لهاذ آلة التصوير؟
+14805	corpus-6-test-corpus-26-train	ALG	راني حاب كابل للتصوير عن بعد.
+14807	corpus-6-test-corpus-26-train	ALG	اذا أنت هو الأخير في قائمة الانتظار؟
+14810	corpus-6-test-corpus-26-train	ALG	نظن بلي المكان تعمر بالحجوز.
+14813	corpus-6-test-corpus-26-train	ALG	قذفة شابة. بصح مخفقة.
+14818	corpus-6-test-corpus-26-train	ALG	تقدر تقولي الأمكان المهمة هنا؟
+14820	corpus-6-test-corpus-26-train	ALG	اذا كاين محلات شاملة فالنواحي؟
+14854	corpus-6-test-corpus-26-dev	ALG	أنا تاني.
+14862	corpus-6-test-corpus-26-train	ALG	راني حاب نلتحق بيكم من سان فرانسيسكو.
+14863	corpus-6-test-corpus-26-train	ALG	نظن بلي نتبع هاذ التكوين الصيف الجاي.
+14887	corpus-6-test-corpus-26-train	ALG	النبيذ ماشي جديد بزاف. تقدر تجددهولي؟
+14901	corpus-6-test-corpus-26-dev	ALG	اذا تقدر تبدلي هاذ القرط لمشابك؟
+14903	corpus-6-test-corpus-26-train	ALG	واش يهمك كثر في هاذ اللحظة؟
+14905	corpus-6-test-corpus-26-train	ALG	راني حاب تعوضوني. تقدر ترجعلي دراهمي؟
+14926	corpus-6-test-corpus-26-train	ALG	منقدرش نصيب مشروب كيما هاذا في أي مكان آخر.
+14933	corpus-6-test-corpus-26-train	ALG	غير تشري هاذا تاني، توصل لمبلغ بدون طاكس.
+14952	corpus-6-test-corpus-26-train	ALG	نقدر نشوف شهادة التلقيح ديالك، من فضلك؟
+14960	corpus-6-test-corpus-26-train	ALG	اذا تسافروا كثيرا؟
+14969	corpus-6-test-corpus-26-train	ALG	جيت من الولايات المتحدة.
+14976	corpus-6-test-corpus-26-train	ALG	عندي تذكرة طائرة لسان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	ALG	اذا المحطة غير على خمسة عشر دقيقة، نروح نمشي.
+15019	corpus-6-test-corpus-26-train	ALG	راني حاب فندق أقل سعرا.
+15020	corpus-6-test-corpus-26-test	ALG	فن بونساي، يدير نشاط لكبار السن.
+15024	corpus-6-test-corpus-26-dev	ALG	مازال مقررتش بعد. تقدر تعطيني وقت أكثر؟
+15025	corpus-6-test-corpus-26-train	ALG	عند وجع في راسي.
+15036	corpus-6-test-corpus-26-dev	ALG	واش اذا رحنا خذينا قهوة؟
+15037	corpus-6-test-corpus-26-train	ALG	راني حاب شهادة طبية ووصل التأمين ديالي.
+15046	corpus-6-test-corpus-26-test	ALG	أوه، لالا. من فضلك، أسرع. رانا متأخرين.
+15051	corpus-6-test-corpus-26-train	ALG	مانيش حاب ننفق كثر من عشرون دولار.
+15062	corpus-6-test-corpus-26-train	ALG	وعلاش مقلعناش؟ قولي واش كاين.
+15073	corpus-6-test-corpus-26-test	ALG	شحال سعر التوصيلة؟ تقدر تكتبلي سعر التوصيلة على ورقة؟
+15083	corpus-6-test-corpus-26-train	ALG	راني حاب نكري ترانزات.
+15087	corpus-6-test-corpus-26-train	ALG	لحظة، من فضلك.
+15088	corpus-6-test-corpus-26-test	ALG	اذا لازم على السيدات يلبسوا فستان رسمي؟
+15095	corpus-6-test-corpus-26-train	ALG	متمسنيش.
+15109	corpus-6-test-corpus-26-train	ALG	عندكم سجائر؟
+15123	corpus-6-test-corpus-26-train	ALG	اذا ماكانش بزاف الريح، نقدرو نروحو لتيكي بوينت.
+15126	corpus-6-test-corpus-26-train	ALG	روعة.
+15133	corpus-6-test-corpus-26-train	ALG	دوك نغلق. شكرا على انتباهك.
+15145	corpus-6-test-corpus-26-dev	ALG	اذا عندكم كيما هو بلون آخر؟
+15149	corpus-6-test-corpus-26-train	ALG	شكون؟
+15157	corpus-6-test-corpus-26-train	ALG	المعذرة. تقدر تقولي وين نقدر نصيب محطة طاكسي؟
+15170	corpus-6-test-corpus-26-train	ALG	و للشرب؟
+15181	corpus-6-test-corpus-26-train	ALG	هاوليك.
+15201	corpus-6-test-corpus-26-train	ALG	وين جاي متجر الخردوات القريب من هنا؟
+15206	corpus-6-test-corpus-26-train	ALG	همم. متمشيش، و لا لالا؟ تقدر تبدل المكان اذا حبيت.
+15221	corpus-6-test-corpus-26-train	ALG	راني نحوس على هاذا.
+15240	corpus-6-test-corpus-26-train	ALG	جيد، سيدي. واش تاخذ للتحلية؟
+15246	corpus-6-test-corpus-26-train	ALG	عربة أو بولمان؟
+15247	corpus-6-test-corpus-26-train	ALG	شيكات سياحية. صحا. هاك التذكرة و بطاقة الصعود دياولك. من فضلك أرواح ساعة قبل الإنطلاق.
+15257	corpus-6-test-corpus-26-test	ALG	ألم حاد.
+15259	corpus-6-test-corpus-26-train	ALG	الإسم هو غورو موكويامي. و الرقم هو صفر ثلاثة اثنان وثلاثون واحد وستون أربعة وعشرون خمسة عشر.
+15262	corpus-6-test-corpus-26-train	ALG	عندي وجع كبير في قلبي.
+15274	corpus-6-test-corpus-26-train	ALG	"وقتاش أوقات عرض ""كوسيز لوف""؟"
+15283	corpus-6-test-corpus-26-train	ALG	جيد، . تاخذ القهوة ديالك دوكا و لا ممبعد؟
+15292	corpus-6-test-corpus-26-train	ALG	قل لي شكون هو أهم نادي الريغي في نيويورك.
+15295	corpus-6-test-corpus-26-test	ALG	كيفاش يختلف المنتوج ديالكم على المنافسين؟
+15296	corpus-6-test-corpus-26-train	ALG	اذا ميهمش باش كل واحد يسمع تعليمات السلامة؟
+15319	corpus-6-test-corpus-26-train	ALG	اذا الممر خطير؟
+15320	corpus-6-test-corpus-26-train	ALG	إيه. دير اللازم.
+15323	corpus-6-test-corpus-26-train	ALG	إيه. واحد برك. وقتاش نعرف؟ واش يكون عندي كمقابل؟
+15331	corpus-6-test-corpus-26-dev	ALG	هيليك بطاقة التعريف ديالي.
+15337	corpus-6-test-corpus-26-train	ALG	نفضلوا طاولة قريبة من الطاقة.
+15347	corpus-6-test-corpus-26-train	ALG	قولي كيفاش نروح لسان فرانسيسكو بأقل تكلفة.
+15362	corpus-6-test-corpus-26-train	ALG	اذا تعرف المطعم كييوكا؟
+15378	corpus-6-test-corpus-26-train	ALG	ذهاب فقط.
+15380	corpus-6-test-corpus-26-train	ALG	دوك نسمان اذا بقيت ناكل هنا باستمرار.
+15400	corpus-6-test-corpus-26-train	ALG	اذا كاين نادي ليلي مليح بعروض فلامنكو؟
+15419	corpus-6-test-corpus-26-train	ALG	الفستان اللي راكي لابستيه شباب.
+15431	corpus-6-test-corpus-26-train	ALG	عندي وجع في رجلي.
+15436	corpus-6-test-corpus-26-train	ALG	وين جاية المغسلة القريبة؟
+15443	corpus-6-test-corpus-26-train	ALG	تقدر تبدل المكان معايا، من فضلك؟
+15447	corpus-6-test-corpus-26-train	ALG	مانكونوش قاعدين كيف كيف.
+15452	corpus-6-test-corpus-26-train	ALG	بالحقيقة، نحب نأمن على هاذ الطرد كذلك.
+15463	corpus-6-test-corpus-26-train	ALG	الفاتورة لحقت مئة دولار.
+15464	corpus-6-test-corpus-26-test	ALG	مخارج الطوارئ جايين فالقدام، فالوسط، و من وراء الجهاز.
+15470	corpus-6-test-corpus-26-train	ALG	جيد، تم تأكيد الحجز ديالكم مجددا.
+15476	corpus-6-test-corpus-26-train	ALG	الكعب عالي بزاف.
+15477	corpus-6-test-corpus-26-train	ALG	رانا حابين طاولة فالتراس.
+15482	corpus-6-test-corpus-26-train	ALG	هاذا يعني بلي الفيلم ميوالمش الأطفال قل من خمسة عشر سنة. الأولياء لازم يقرروا اذا يخليو الأطفال يشوفوا و لا لالا.
+15487	corpus-6-test-corpus-26-train	ALG	بأي شكل تحب الدراهم؟ من فضلك عمر هذه الورقة ووقع هنا.
+15509	corpus-6-test-corpus-26-train	ALG	مينداك عندي وجع في كرشي.
+15522	corpus-6-test-corpus-26-train	ALG	اذا عندكم وجبات خفاف؟ راني في حمية حاليا.
+15529	corpus-6-test-corpus-26-dev	ALG	متخلص والو.
+15539	corpus-6-test-corpus-26-train	ALG	ايه، عندي تذكرتين جيون ودوجرز.
+15546	corpus-6-test-corpus-26-train	ALG	حنا من أفضل المزودين بأجهزة الكمبيوتر.
+15553	corpus-6-test-corpus-26-train	ALG	صحا. أنا تاني. إلى المرة القادمة.
+15564	corpus-6-test-corpus-26-train	ALG	غرفة بسرير مزدوج و بينواغ، من فضلك.
+15566	corpus-6-test-corpus-26-train	ALG	طحت فالدروج.
+15575	corpus-6-test-corpus-26-train	ALG	واش هو الآيس كريم اللي تنصحني بيه؟
+15577	corpus-6-test-corpus-26-dev	ALG	همم. هاذا. اللون خرج عليك.
+15598	corpus-6-test-corpus-26-test	ALG	وين راهم الكتب باللغة الأجنبية؟
+15604	corpus-6-test-corpus-26-train	ALG	زوج حصص و واحد سبرايت.
+15607	corpus-6-test-corpus-26-test	ALG	اعطيني سجائر.
+15610	corpus-6-test-corpus-26-dev	ALG	ماشي قانوني تجيب هاذا للبلاد، سامحني. حسنا، نظن بلي هاذا ماكان.
+15652	corpus-6-test-corpus-26-train	ALG	أيه. يسكنوا قدامي في كاليفورنيا بصح رحلوا لفلوريدا عندها عامين. و أنت؟ راك مسافر وحدك؟
+15664	corpus-6-test-corpus-26-train	ALG	راني مريض.
+15666	corpus-6-test-corpus-26-train	ALG	وليدي راهو يبان مهلوك بالحمى.
+15673	corpus-6-test-corpus-26-train	ALG	في هاذ المقاس، من فضلك.
+15674	corpus-6-test-corpus-26-train	ALG	وسام الاستحقاق الثقافي اعطاوه للفنانين و الجامعيين المميزين بهاذ المناسبة.
+15676	corpus-6-test-corpus-26-train	ALG	أنا ياباني.
+15692	corpus-6-test-corpus-26-train	ALG	بزاف غالي.
+15699	corpus-6-test-corpus-26-train	ALG	إيه. خوذ الحافلة لطوكيو.
+15710	corpus-6-test-corpus-26-train	ALG	مخصص للأعضاء؟
+15735	corpus-6-test-corpus-26-dev	ALG	الغرفة تسوا ستة آلاف ين لليلة.
+15763	corpus-6-test-corpus-26-train	ALG	نقدرندي هاذا داخل الجهاز؟
+15775	corpus-6-test-corpus-26-train	ALG	موافق. كل واش راني حاب نعرف، اذا القضية مربحة في النهاية.
+15784	corpus-6-test-corpus-26-train	ALG	جيد. اذا راك حاب شال مع هاذا؟
+15788	corpus-6-test-corpus-26-train	ALG	اشحن البطارية، من فضلك.
+15791	corpus-6-test-corpus-26-train	ALG	راني واجد باش ندير نطلبية.
+15798	corpus-6-test-corpus-26-dev	ALG	أملاح الاستحمام بالنباتات يخلي بشرتك ناعمة و ملساء.
+15804	corpus-6-test-corpus-26-train	ALG	أكتب الإسم تع شركة الطيران و رقم الرحلة، تاني.
+15814	corpus-6-test-corpus-26-train	ALG	صح. اليوم هو الأحد، ويوم الاحد هو أسوأ يوم.
+15896	corpus-6-test-corpus-26-train	ALG	إيه، هي مشكلة في معالجة النفايات.
+15897	corpus-6-test-corpus-26-train	ALG	نحب هاذ الشكل في وضع خمسة أماكن.
+15899	corpus-6-test-corpus-26-train	ALG	بزاف عائلات عندهم زوج مداخيل.
+15902	corpus-6-test-corpus-26-train	ALG	"أوه. هاذ الفضة نادرة ""القمر والجرس. "" راك متأكد بلي حبيت تبدلو؟"
+15911	corpus-6-test-corpus-26-train	ALG	أمي وأختي يجو من اليابان باش يشوفوني. يوصلو حوالي السبعة تع العشية.
+15942	corpus-6-test-corpus-26-train	ALG	البني ناجح بزاف هاذ العام.
+15950	corpus-6-test-corpus-26-test	ALG	فكرة جيدة. وقتاش راك تخمم باش تجي؟
+15967	corpus-6-test-corpus-26-train	ALG	موافق. زوج أماكن، من فضلك.
+15989	corpus-6-test-corpus-26-train	ALG	وين راه السوق؟
+16007	corpus-6-test-corpus-26-train	ALG	راني متشوق باش نجرب اللبسة تع السباق ديالي.
+16016	corpus-6-test-corpus-26-train	ALG	نظن بلي تاكل غير لي بينيي.
+16034	corpus-6-test-corpus-26-train	ALG	شحال تذكرة الدرجة الأولى لإيدنبره، من فضلك؟
+16042	corpus-6-test-corpus-26-train	ALG	نظن بلي ينقص عشرة دولار من المجموع لي رجعتهولي.
+16046	corpus-6-test-corpus-26-train	ALG	هاذا وين اتصلت بالسيد سميث للغرفة مئتين وواحد، بصح ماكانش لي رجع. اذا راك عارف بلي حجز هنا؟
+16061	corpus-6-test-corpus-26-train	ALG	حبيت واحد حديث.
+16070	corpus-6-test-corpus-26-train	ALG	نعمل عند دار نشر.
+16073	corpus-6-test-corpus-26-train	ALG	من فضلك تعمر لي هاذا؟
+16080	corpus-6-test-corpus-26-test	ALG	واسمها هاذ الطريق؟
+16082	corpus-6-test-corpus-26-test	ALG	تقدر توزنلي هاذ الحزمة؟
+16089	corpus-6-test-corpus-26-train	ALG	كيفاش نقولوا هاذا بالانجليزية؟
+16091	corpus-6-test-corpus-26-train	ALG	ارواح في هاذ الممر. تصيبو على اليمين.
+16098	corpus-6-test-corpus-26-train	ALG	راني حاب نأمن على هاذا.
+16106	corpus-6-test-corpus-26-train	ALG	صباح الخير. معاك فالاستقبال. بواش نقدر نخدمك؟
+16127	corpus-6-test-corpus-26-train	ALG	جيد. ادخل امالا.
+16130	corpus-6-test-corpus-26-test	ALG	إيه. سيدي. نجي ناخذ فطور الصباح ديالي هنا كل يوم، من الاثنين إلى الجمعة، قبل الذهاب إلى العمل.
+16140	corpus-6-test-corpus-26-dev	ALG	ماكانش مشكل.
+16141	corpus-6-test-corpus-26-train	ALG	مررلي اثنان وثلاثون تسعة وستون ثمانية عشر.
+16158	corpus-6-test-corpus-26-train	ALG	إيه، نقدروا نخدموك ابتداءا من الساعة السابعة.
+16167	corpus-6-test-corpus-26-train	ALG	اتكسل هنا.
+16169	corpus-6-test-corpus-26-test	ALG	شحال سريعة هاذ الخدمة.
+16191	corpus-6-test-corpus-26-train	ALG	بالاك يعاود يظهر.
+16217	corpus-6-test-corpus-26-train	ALG	من فضلك دور على اليسار في التقاطع المقبل.
+16219	corpus-6-test-corpus-26-dev	ALG	المعذرة. كيفاش نديرو باش نلحقوا للضفة؟
+16222	corpus-6-test-corpus-26-train	ALG	اذا متحف فورد عندو خدمة الحافلة؟
+16227	corpus-6-test-corpus-26-train	ALG	إيه. أسمك و رقم الغرفة، من فضلك.
+16231	corpus-6-test-corpus-26-train	ALG	شحال الوقت باش تلحق لليابان بالطيارة؟
+16238	corpus-6-test-corpus-26-train	ALG	موافق. يوم الأحد، على الثانية بعد الزوال.
+16258	corpus-6-test-corpus-26-train	ALG	راني حاب نروح من نيويورك لطورونتو.
+16259	corpus-6-test-corpus-26-train	ALG	السنسلة تكسرت. اذا عندكم واحدوخرين من نفس النوع؟
+16271	corpus-6-test-corpus-26-train	ALG	موسخ إلى حد ما.
+16279	corpus-6-test-corpus-26-dev	ALG	تقدر تعاود تأكد لي الرحلة؟ هاك التذكرة ديالي.
+16291	corpus-6-test-corpus-26-train	ALG	عندكم منو فالأخضر الغامق؟
+16292	corpus-6-test-corpus-26-test	ALG	تقدر تديني لكانترباري و ترجعني؟
+16311	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على فرشيطة واحدوخرى؟
+16312	corpus-6-test-corpus-26-train	ALG	صحا بزاف على اللطف ديالك.
+16335	corpus-6-test-corpus-26-train	ALG	نعتذر، منبيعوش تذاكر للمسرح.
+16337	corpus-6-test-corpus-26-train	ALG	راني حاب نشوف هاذا.
+16339	corpus-6-test-corpus-26-train	ALG	أوه، مليح. واش لازم ندير؟
+16344	corpus-6-test-corpus-26-dev	ALG	راني حاب نمدد الإقامة ديالي هنا ليومين.
+16351	corpus-6-test-corpus-26-train	ALG	بدلي المكان، من فضلك.
+16365	corpus-6-test-corpus-26-train	ALG	عندنا جمبري بزاف بنين اليوم.
+16371	corpus-6-test-corpus-26-train	ALG	مفتوح حتى لوقتاش؟
+16395	corpus-6-test-corpus-26-train	ALG	مدخن ولا ماشي مدخن؟
+16403	corpus-6-test-corpus-26-train	ALG	غالي بزاف عليا. متقدرش تخفضلي السعر؟
+16409	corpus-6-test-corpus-26-dev	ALG	أنا مفتوح الأربعاء صباحا ولا الجمعة بعد منتصف النهار.
+16413	corpus-6-test-corpus-26-train	ALG	مدرتش حجز.
+16434	corpus-6-test-corpus-26-train	ALG	علا جال الصيف فاليابان عادة سخون بزاف، وماكانش عندنا البراد هاديك المرة.
+16444	corpus-6-test-corpus-26-train	ALG	تقدر تعيطلي لطاكسي لثامنة غدوة صبح؟
+16453	corpus-6-test-corpus-26-train	ALG	كئيب.
+16465	corpus-6-test-corpus-26-train	ALG	وعلاش منستناوش الحافلة تحت الساترة؟
+16477	corpus-6-test-corpus-26-train	ALG	ارواح، كنجي. اسمحلي نوريلك المكتب.
+16478	corpus-6-test-corpus-26-train	ALG	إيه، مفتوح من التاسعة صباحا حتى التاسعة ليلا.
+16484	corpus-6-test-corpus-26-dev	ALG	منقردش مليح فاليل.
+16487	corpus-6-test-corpus-26-train	ALG	كيفاش أثر الركود على أعمالك؟
+16495	corpus-6-test-corpus-26-train	ALG	عندي موعد آخر.
+16516	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على مخطط للمدينة؟
+16536	corpus-6-test-corpus-26-dev	ALG	بالضبط واش راني نحوس.
+16542	corpus-6-test-corpus-26-train	ALG	مانيش نفهم الشرح ديالك.
+16546	corpus-6-test-corpus-26-train	ALG	عندي مراسلة. نروح لبوسطن.
+16547	corpus-6-test-corpus-26-train	ALG	وين جاي أفضل مكان للسياحة؟
+16576	corpus-6-test-corpus-26-train	ALG	يقاوم؟
+16577	corpus-6-test-corpus-26-train	ALG	استمتعت بزاف.
+16581	corpus-6-test-corpus-26-train	ALG	في هاذ الحالة، حبيت وجه أصغر كيما جوليا روبرت.
+16586	corpus-6-test-corpus-26-train	ALG	تقدر تدي هاذا، من فضلك؟
+16601	corpus-6-test-corpus-26-train	ALG	المسافرين تع الخطوط أيه بي سي سبعمئة و ثلاثة لي رايحين لطوكيو يتفضلوا لباب الاقلاع رقم عشرون للإجراءات الحكومية.
+16607	corpus-6-test-corpus-26-train	ALG	وين راهي محطة الحافلة ل بي؟
+16643	corpus-6-test-corpus-26-train	ALG	فالعادي، من فضلك.
+16653	corpus-6-test-corpus-26-dev	ALG	وين نقدر نشري فرشة للطاولة؟
+16679	corpus-6-test-corpus-26-train	ALG	اذا نقدر نعين دليل يهدر اليابانية؟
+16696	corpus-6-test-corpus-26-train	ALG	تحب ناخذلك تصويرة؟
+16709	corpus-6-test-corpus-26-train	ALG	مخذيتش هاذ الطبق.
+16718	corpus-6-test-corpus-26-train	ALG	قطعت صبعي. اذا عندك مطهر؟
+16723	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على طابع بخمسة و تسعون سنتيم؟
+16736	corpus-6-test-corpus-26-train	ALG	نكون هنا على الثامنة غير ربع.
+16746	corpus-6-test-corpus-26-train	ALG	حبيت الريحة.
+16747	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على جدول زمني؟
+16751	corpus-6-test-corpus-26-test	ALG	هنا لي تروح للمدرسة؟
+16758	corpus-6-test-corpus-26-dev	ALG	اذا كاين بزاف لداخل؟
+16760	corpus-6-test-corpus-26-train	ALG	اذا الهلتون ماشي بعيد من هنا؟
+16769	corpus-6-test-corpus-26-train	ALG	راني متأكد بلي درتو في حامل الملفات ديالي.
+16770	corpus-6-test-corpus-26-train	ALG	اليدين إلى السماء.
+16771	corpus-6-test-corpus-26-train	ALG	اذا كاين مطعم لي تنصحني بيه قريب من هنا؟
+16773	corpus-6-test-corpus-26-train	ALG	واش تفضل، بلون غامق ولا فاتح؟
+16781	corpus-6-test-corpus-26-train	ALG	تقدر تقولي وين نروحو؟
+16793	corpus-6-test-corpus-26-train	ALG	تذكرة مراسلة، من فضلك.
+16796	corpus-6-test-corpus-26-train	ALG	وين نقدرو نصيبو مكان شباب باش نديرو رحلة ليوم واحد؟
+16799	corpus-6-test-corpus-26-train	ALG	راني حاب ساك كيلي أحمر في نفس الطراز كيما هاذا.
+16805	corpus-6-test-corpus-26-train	ALG	مازال نقدرو نحافظو التواريخ؟
+16810	corpus-6-test-corpus-26-train	ALG	على آما ساعة يفتح البنك؟
+16811	corpus-6-test-corpus-26-train	ALG	مانيش نحس بروحي مليح.
+16819	corpus-6-test-corpus-26-train	ALG	مربك. نقدر ترسملي مخطط؟
+16822	corpus-6-test-corpus-26-test	ALG	في الخارج.
+16829	corpus-6-test-corpus-26-test	ALG	اديني للمستشفى.
+16833	corpus-6-test-corpus-26-train	ALG	اذا لازم نجي للمستشفى كل يوم؟
+16837	corpus-6-test-corpus-26-train	ALG	عندي وجع في كرشي.
+16839	corpus-6-test-corpus-26-train	ALG	شحال سعر البريد باش نبعث هاذ الرسالة لليابان؟
+16842	corpus-6-test-corpus-26-train	ALG	راني حاب كأس شيري.
+16869	corpus-6-test-corpus-26-train	ALG	اذا لازم نجي نجيبك من المطار؟
+16872	corpus-6-test-corpus-26-dev	ALG	اجراءات الصعود تبدا على الساعة الرابعة. ارواح من قبل.
+16878	corpus-6-test-corpus-26-train	ALG	من ثلاثون ألف ين.
+16879	corpus-6-test-corpus-26-train	ALG	وين نقدر نشري بطاقة تلفونية؟
+16888	corpus-6-test-corpus-26-train	ALG	نقدر نرجعو في مدينة آخرى؟
+16889	corpus-6-test-corpus-26-dev	ALG	نويت نبقى اثنا عشر يوم.
+16893	corpus-6-test-corpus-26-train	ALG	اتكسل شويا للأعلى.
+16896	corpus-6-test-corpus-26-train	ALG	لازم تشوف مختص.
+16899	corpus-6-test-corpus-26-dev	ALG	زيد شوية دقائق، من فضلك.
+16904	corpus-6-test-corpus-26-train	ALG	رصيف رقم أربعة عشر.
+16911	corpus-6-test-corpus-26-train	ALG	أوه، صاح؟ حقا عندكم خيار كبير.
+16928	corpus-6-test-corpus-26-dev	ALG	ماصبتهومش في حتى مكان.
+16936	corpus-6-test-corpus-26-test	ALG	بقاو أماكن للندن؟
+16952	corpus-6-test-corpus-26-train	ALG	راني حاب نسخة من تصريح السرقة.
+16955	corpus-6-test-corpus-26-dev	ALG	على بعد تقاطع في الشارع.
+16960	corpus-6-test-corpus-26-train	ALG	تقدر تعطيني الشعلة مادام راك هنا؟
+16962	corpus-6-test-corpus-26-test	ALG	هاذو سجائر خفيفة؟
+16964	corpus-6-test-corpus-26-train	ALG	جيد. هاكذا برك.
+16967	corpus-6-test-corpus-26-train	ALG	الاكبسرس المقبل في ساعة.
+16976	corpus-6-test-corpus-26-train	ALG	راني حاب نطول اليدين تع هاذ السترة الرياضية.
+16992	corpus-6-test-corpus-26-train	ALG	عندي حجز. هاهو رقم التأكيد.
+17027	corpus-6-test-corpus-26-train	ALG	عيد ميلادك قرب.
+17030	corpus-6-test-corpus-26-dev	ALG	القطارات ماهومش يمشو على جال الإضراب.
+17038	corpus-6-test-corpus-26-train	ALG	تقدر توجدلي هاذا؟
+17068	corpus-6-test-corpus-26-dev	ALG	الطريق كانت معمرة بالسيارات.
+17079	corpus-6-test-corpus-26-train	ALG	البناية الثانية على اليسار في هاذ العمارة البيضاء.
+17094	corpus-6-test-corpus-26-train	ALG	حجزنا مكان للخامس و عشرون أكتوبر على الساعة الحادية عشر صباحا.
+17097	corpus-6-test-corpus-26-train	ALG	لالا، شوية للقدام. هاهو، إيه.
+17115	corpus-6-test-corpus-26-train	ALG	إيه، الوجبات ماشي داخلة.
+17117	corpus-6-test-corpus-26-train	ALG	وين نقدر نعوض هاذ التذكرة؟
+17120	corpus-6-test-corpus-26-train	ALG	وعلاش هاذا يصرا دايمن؟
+17149	corpus-6-test-corpus-26-train	ALG	راني حاب نشوف الباقي.
+17158	corpus-6-test-corpus-26-train	ALG	السيارة ديالي تعطلت. أرواح تديها من فضلك.
+17163	corpus-6-test-corpus-26-train	ALG	راني حاب شعري شوية طويل من الخلف.
+17177	corpus-6-test-corpus-26-train	ALG	واش من الأنواع عندكم؟
+17179	corpus-6-test-corpus-26-dev	ALG	موافق. هاذا من الأماكن المفضلة بالنسبة لي.
+17180	corpus-6-test-corpus-26-train	ALG	واش من نوع النماذج لي عندكم؟
+17204	corpus-6-test-corpus-26-test	ALG	اسمي هو ميشيكو طاناكا و رقم الرحلة ديالي هو خمسمئة و واحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	ALG	تقدر ترسملي مخطط بسيط على المكان اللي رانا فيه؟
+17217	corpus-6-test-corpus-26-train	ALG	وين نديرو موعد؟
+17222	corpus-6-test-corpus-26-train	ALG	راني حاب نفس المشطة اللي مقبل.
+17229	corpus-6-test-corpus-26-train	ALG	أعطيني خمسين، من فضلك.
+17272	corpus-6-test-corpus-26-train	ALG	وين نقدر نسجل للخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	ALG	واش هو المحتوى؟
+17295	corpus-6-test-corpus-26-train	ALG	اذا كاين أماكن منصوح بيها بزاف فالحومة؟
+17311	corpus-6-test-corpus-26-train	ALG	أعطيني الصرف، من فضلك.
+17313	corpus-6-test-corpus-26-train	ALG	جيد. نحرص باش الحقائب ديالك يكونو هنا.
+17315	corpus-6-test-corpus-26-train	ALG	هاذا التخصص ديالنا، صول دوفر مشوي.
+17339	corpus-6-test-corpus-26-train	ALG	رانا رايحين نقعدو.
+17350	corpus-6-test-corpus-26-train	ALG	اتعداو عليا.
+17356	corpus-6-test-corpus-26-train	ALG	جيد. اذا لازم نركز عليه؟
+17381	corpus-6-test-corpus-26-dev	ALG	نتقاسمو.
+17394	corpus-6-test-corpus-26-train	ALG	حاليا معندناش هاذ الطراز الخاص. دوك نتحقق فالمخزن ديالنا. انتظر دقيقة، من فضلك.
+17398	corpus-6-test-corpus-26-train	ALG	سكوتش مع ماء، من فضلك.
+17399	corpus-6-test-corpus-26-train	ALG	يبان مليح. شحال يسوا؟
+17414	corpus-6-test-corpus-26-train	ALG	ادي هاذ الوصفة للصيدلية. تصيب الدواء لهيك.
+17438	corpus-6-test-corpus-26-train	ALG	أنا طلبت هاذا.
+17453	corpus-6-test-corpus-26-train	ALG	إيه، تقدر تحبس فالمحطة اللي تحب من هنا لشيكاغو.
+17460	corpus-6-test-corpus-26-train	ALG	وين نقدر نشري أشياء تذكارية؟
+17475	corpus-6-test-corpus-26-train	ALG	بزاف غالي. منقدرش نشريه.
+17482	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على رقم إيه بي سي أند كومباني، من فضلك.
+17488	corpus-6-test-corpus-26-test	ALG	وين راهي الكاتدرائية؟
+17496	corpus-6-test-corpus-26-train	ALG	كيفاش تحب البيض ديالك؟
+17504	corpus-6-test-corpus-26-train	ALG	قدام هاذ العمارة بالضبط.
+17526	corpus-6-test-corpus-26-train	ALG	لالا، نظن بلي نساو مجابولناش واحد.
+17537	corpus-6-test-corpus-26-train	ALG	موافق. انه مؤكد. تقدر تعطيلنا رقم الهاتف ديالك، بالاك نحتاجو نتصلو بيك؟
+17548	corpus-6-test-corpus-26-train	ALG	واسمو الرسام؟
+17559	corpus-6-test-corpus-26-train	ALG	اذا لازم نطلب منو يعاود يتصل بيك غير يوصل؟
+17593	corpus-6-test-corpus-26-train	ALG	راني حاب هاذا.
+17606	corpus-6-test-corpus-26-train	ALG	يعجبني هاذ الترحيب بالشامبانيا عند الصعود. نشربو لصحتك.
+17609	corpus-6-test-corpus-26-train	ALG	أربعون دولار لليوم زائد عشرة سنت للميل.
+17615	corpus-6-test-corpus-26-train	ALG	نراهن خمسة دولارات.
+17636	corpus-6-test-corpus-26-train	ALG	هاذي ماشي الطلبية تع شخص واحد آخر؟
+17645	corpus-6-test-corpus-26-train	ALG	تقدر تقولي كيفاش نروح للمتحف؟
+17649	corpus-6-test-corpus-26-train	ALG	راني نعتذر بزاف، بصح راني حاب نأجل الموعد.
+17652	corpus-6-test-corpus-26-test	ALG	تقدر تنصحني برحلة؟
+17660	corpus-6-test-corpus-26-train	ALG	القطار ديالك يروح من الرصيف رقم ثمانية.
+17673	corpus-6-test-corpus-26-train	ALG	نحتاج إلى ساك مع حزام كتف قابل للتعديل.
+17674	corpus-6-test-corpus-26-train	ALG	نحب هاذا يبقى في أقل من ثمانمئة وتسعون دولار.
+17739	corpus-6-test-corpus-26-train	ALG	نطلبو منكم غير يكون عندي الوقت باش نشوفو.
+17745	corpus-6-test-corpus-26-test	ALG	إيه. حجز لستة ليال من فضلك. من الثالث و العشرون جوان.
+17757	corpus-6-test-corpus-26-train	ALG	تقدر توريلي واحدآخرين بأنماط مختلفة؟
+17765	corpus-6-test-corpus-26-train	ALG	واش من نوع تع عصير الفواكه اللي راك حاب؟
+17780	corpus-6-test-corpus-26-train	ALG	تروح لدارك فالعطلة؟
+17782	corpus-6-test-corpus-26-dev	ALG	وين نقدر نصيب مكان مليح بزاف؟
+17786	corpus-6-test-corpus-26-test	ALG	كان مكسر كي فتحت المجموعة.
+17790	corpus-6-test-corpus-26-test	ALG	التاسع و عشرون أوت.
+17797	corpus-6-test-corpus-26-train	ALG	راني حاب نبعث هاذا بالطيارة لليابان.
+17798	corpus-6-test-corpus-26-train	ALG	يوم شكر العمال. هو اليوم لي يشكرو فيه جميع اللي يدعمو المجتمع بالعمل ديالهم.
+17799	corpus-6-test-corpus-26-train	ALG	هاذ الغرفة صغيرة بزاف.
+17803	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على مزيد من الشاي، من فضلك؟
+17805	corpus-6-test-corpus-26-train	ALG	راني حاب تنظيف هاذ الملابس في وقت لاحق من اليوم.
+17808	corpus-6-test-corpus-26-train	ALG	اذا كاين بنك قريب من هنا؟
+17811	corpus-6-test-corpus-26-train	ALG	تقدر تنظف الطاولة، من فضلك؟
+17840	corpus-6-test-corpus-26-train	ALG	موس، من فضلك.
+17841	corpus-6-test-corpus-26-train	ALG	كامل مطبوعات.
+17842	corpus-6-test-corpus-26-train	ALG	تقدر تكتب رقم الغرفة ديالك من الخلف.
+17847	corpus-6-test-corpus-26-train	ALG	نستعملو العيدان للأكل.
+17852	corpus-6-test-corpus-26-train	ALG	الرحلة دالتا رقم ثمانية وعشرون لنيو اورليانز يتم تأجيلها حوالي ساعة.
+17854	corpus-6-test-corpus-26-train	ALG	غير نولي لليابان، نكتبلك رسالة. اذا عندك الوقت، واجبلي.
+17855	corpus-6-test-corpus-26-train	ALG	خليت التذكرة تع الطيارة ديالي فالفندق.
+17861	corpus-6-test-corpus-26-train	ALG	غرفة أحادية دون حمام، من فضلك.
+17869	corpus-6-test-corpus-26-train	ALG	يعطيك الصحة مرة أخرى لي فكرتني. كاين بزاف ناس لي موالف ينساو يمضو أسمهم؟
+17886	corpus-6-test-corpus-26-train	ALG	حسنا، مبقالناش الوقت. واش اذا كملنا هاذ الحديث نهار الخميس على الثالثة بعد الزوال؟
+17899	corpus-6-test-corpus-26-test	ALG	راني حاب بيجاما.
+17919	corpus-6-test-corpus-26-train	ALG	موافق. نعيطلك غير يكونوا واجدين.
+17935	corpus-6-test-corpus-26-train	ALG	والفطور؟
+17947	corpus-6-test-corpus-26-test	ALG	الليموزين تحبس أولا عند باب الشمال.
+17963	corpus-6-test-corpus-26-train	ALG	حتى لوقتاش نقدر نروح لمطعم الفندق؟
+17966	corpus-6-test-corpus-26-dev	ALG	اذا قطار مباشر؟
+17977	corpus-6-test-corpus-26-train	ALG	حسنا، راهو راح الحال. نظن بلي لازم نروح دوكا. صحا بزاف على هاذ العشية الرائعة.
+17986	corpus-6-test-corpus-26-train	ALG	تقدر نتحصل على دواء لآلام المعدة؟
+18003	corpus-6-test-corpus-26-train	ALG	راني حاب الدجاج المشوي.
+18018	corpus-6-test-corpus-26-train	ALG	هاذا الخطأ ديالي. ماشي ديالك.
+18036	corpus-6-test-corpus-26-train	ALG	المعذرة، وقتاش يخلاص الفيلم؟
+18040	corpus-6-test-corpus-26-train	ALG	هاذا، من فضلك.
+18077	corpus-6-test-corpus-26-train	ALG	سرقولي المجهورات دياولي. لازم نصرح بيه.
+18103	corpus-6-test-corpus-26-train	ALG	لحظة برك، من فضلك. دوك نديرك بعلاقة مع السيد جونس.
+18110	corpus-6-test-corpus-26-train	ALG	صباح الخير. هنا خطوط طيران يونايتد.
+18131	corpus-6-test-corpus-26-test	ALG	وين تعلم السيد جونس اليابانية؟
+18138	corpus-6-test-corpus-26-train	ALG	عندي واحد صغير من نفس النوع.
+18155	corpus-6-test-corpus-26-train	ALG	تقدر تعاود تدي هاذ السروال؟
+18161	corpus-6-test-corpus-26-train	ALG	الجمعة عشية، على التاسعة مساءا.
+18166	corpus-6-test-corpus-26-train	ALG	هاذي البوابة للاس فيغاس؟
+18181	corpus-6-test-corpus-26-train	ALG	اذا عندكم حافلة من المطار؟
+18189	corpus-6-test-corpus-26-train	ALG	مغرفة واحدأخرى، من فضلك.
+18211	corpus-6-test-corpus-26-train	ALG	شوية مالح، بصح عجبني. جبتو من اليابان؟
+18226	corpus-6-test-corpus-26-train	ALG	ابعثو عاجلا، اذا كان ممكن.
+18254	corpus-6-test-corpus-26-train	ALG	تقدر تدفع عشرة دولار دوكا كضمانة؟
+18264	corpus-6-test-corpus-26-train	ALG	إيه. نوظني بعد ثلاث ساعات، من فضلك.
+18273	corpus-6-test-corpus-26-dev	ALG	راني حاب ندير طلبية، من فضلك.
+18274	corpus-6-test-corpus-26-test	ALG	واش لازم نقول إيه ولا لالا؟
+18282	corpus-6-test-corpus-26-train	ALG	زوج مغارف، من فضلك.
+18323	corpus-6-test-corpus-26-train	ALG	واش هي المحطة المقبلة؟
+18334	corpus-6-test-corpus-26-dev	ALG	السيارة دارت صوت غريب.
+18336	corpus-6-test-corpus-26-test	ALG	وقتاش يغلق مركز البريد؟
+18338	corpus-6-test-corpus-26-dev	ALG	سبق و خلصت الضمانة بخمسين دولار غير وصلت.
+18341	corpus-6-test-corpus-26-train	ALG	اذا عندكم دواء لمشاكل المعدة؟
+18342	corpus-6-test-corpus-26-train	ALG	اذا لازم نلبس مونطو وربطة عنق؟
+18344	corpus-6-test-corpus-26-train	ALG	اذا نقدر نحول الأموال إلى حساب التوفير ديالي؟
+18355	corpus-6-test-corpus-26-train	ALG	نسيت حقيبة اليد ديالي.
+18382	corpus-6-test-corpus-26-train	ALG	راني حاب نعاود نأكد على الرحلة ديالي.
+18401	corpus-6-test-corpus-26-train	ALG	ساعتي. كانت ساعة رقمية جديدة، مصنوعة في سويسرا.
+18409	corpus-6-test-corpus-26-test	ALG	نجحت في هاذ الامتحان بكل سهولة.
+18412	corpus-6-test-corpus-26-dev	ALG	راني حاب تديني لأماكن مهمين. أنا سائح، علابالك.
+18419	corpus-6-test-corpus-26-train	ALG	نقدر ندير سياحة كي تكون الباخرة فالميناء؟
+18437	corpus-6-test-corpus-26-train	ALG	لازم تضبط المرآة.
+18440	corpus-6-test-corpus-26-dev	ALG	يكون حوالي عشر دقائق انتظار.
+18441	corpus-6-test-corpus-26-train	ALG	نقدر نجمع الصحون ديالكم؟
+18451	corpus-6-test-corpus-26-train	ALG	يكون من دواعي سروري. وقتاش يساعدك؟
+18487	corpus-6-test-corpus-26-train	ALG	نظن بلي نسيت آلة التصوير ديالي كي جيت تعشيت هنا لبارح عشية.
+18492	corpus-6-test-corpus-26-train	ALG	خذهم عند باب الصعود.
+18502	corpus-6-test-corpus-26-train	ALG	أوه، لالا. ماشي مهم. نقدر نتكلف بيه. راك درت بزاف حاجات.
+18519	corpus-6-test-corpus-26-train	ALG	صلحهولي ولا بدلهولي، من فضلك.
+18521	corpus-6-test-corpus-26-train	ALG	نقدر الشهر الجاي.
+18527	corpus-6-test-corpus-26-train	ALG	خوذ وقتك.
+18531	corpus-6-test-corpus-26-train	ALG	كيفاش هاذ المنتوج مقارنة بالمنتوجات المتوفرة؟
+18540	corpus-6-test-corpus-26-train	ALG	البائعين ظراف في هاذ المحل.
+18552	corpus-6-test-corpus-26-train	ALG	تقدر تحتفظ لي بهاذا؟
+18562	corpus-6-test-corpus-26-train	ALG	لحظة، من فضلك.
+18569	corpus-6-test-corpus-26-train	ALG	اذا معاك بطاقات التسجيل للأمتعة ديالك؟
+18572	corpus-6-test-corpus-26-train	ALG	راني حاب نكري سيارة لأسبوع.
+18580	corpus-6-test-corpus-26-train	ALG	إيه، اغسلوه قبل وحدوا.
+18585	corpus-6-test-corpus-26-train	ALG	وريلي ساعات تع الرجال.
+18595	corpus-6-test-corpus-26-train	ALG	راهي الرابعة و عشرة تع لعشية.
+18612	corpus-6-test-corpus-26-dev	ALG	شحال الليموزين باش نروح لوسط المدينة؟
+18614	corpus-6-test-corpus-26-train	ALG	من الصبح.
+18617	corpus-6-test-corpus-26-train	ALG	خير لوكان نغاولو. راهم يديرو إجراءات الصعود.
+18632	corpus-6-test-corpus-26-test	ALG	مليح تماما.
+18639	corpus-6-test-corpus-26-train	ALG	طلبت الدجاج.
+18640	corpus-6-test-corpus-26-train	ALG	لعشرة أيام.
+18642	corpus-6-test-corpus-26-train	ALG	شحال في عمرو هاذ الولد؟
+18643	corpus-6-test-corpus-26-train	ALG	شحال للكل؟
+18646	corpus-6-test-corpus-26-train	ALG	راني حاب كيما هاذا، من فضلك.
+18685	corpus-6-test-corpus-26-train	ALG	ضيعت كل شيكات السفر ديالي.
+18687	corpus-6-test-corpus-26-train	ALG	أعطيني دواء لنزلة البرد.
+18690	corpus-6-test-corpus-26-train	ALG	ديرلي هاذا في مخروط.
+18725	corpus-6-test-corpus-26-train	ALG	نشوفو كل يوم صبح فالقطار.
+18727	corpus-6-test-corpus-26-train	ALG	تقدر تتعشى معانا لعشية؟
+18747	corpus-6-test-corpus-26-train	ALG	راح ننزل في فندق بي حتي لغدوة. نكون سعيد اذا تقدر تقولوا له بلي ننزل فيه.
+18770	corpus-6-test-corpus-26-train	ALG	الرحلة ستتأخر خمسة وأربعون دقيقة.
+18771	corpus-6-test-corpus-26-train	ALG	إسمي شينو يامادا.
+18784	corpus-6-test-corpus-26-train	ALG	واش هو التخصص تع هاذ الفندق؟
+18798	corpus-6-test-corpus-26-test	ALG	عندنا نبيذ أبيض هايل.
+18830	corpus-6-test-corpus-26-train	ALG	حبة دواء لنزلات البرد.
+18834	corpus-6-test-corpus-26-dev	ALG	تقدر تهبطلي الأمتعة ديالي للهول غدوة صبح؟
+18836	corpus-6-test-corpus-26-train	ALG	أوه، وقيلا نضيع حاجة كلما نروح في سفر.
+18845	corpus-6-test-corpus-26-train	ALG	منقدرش نستعمل ذراعي اليمين.
+18847	corpus-6-test-corpus-26-train	ALG	صباح الخير، راني في روي؟
+18848	corpus-6-test-corpus-26-test	ALG	ممبعد، توصل على طريق تجارية. كي تتبع الطريق، توصل للمحطة.
+18872	corpus-6-test-corpus-26-train	ALG	لا، ماشي هنا. كاين غرفة للمدخنين فالمؤخرة تع العربة.
+18877	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على منشور؟
+18879	corpus-6-test-corpus-26-train	ALG	ارواح على التسعة، من فضلك.
+18906	corpus-6-test-corpus-26-train	ALG	إيه، سيدي. كيفاش راك حاب نقطعهوملك؟
+18912	corpus-6-test-corpus-26-test	ALG	نظن بلي كاين خطأ فالملاحظة.
+18917	corpus-6-test-corpus-26-train	ALG	الزيت و الخل برك، مليح.
+18919	corpus-6-test-corpus-26-train	ALG	عندي تماما واش راك تحوس. نقدر نقترحلك هاذا؟
+18938	corpus-6-test-corpus-26-train	ALG	قهوة بالسكر.
+18948	corpus-6-test-corpus-26-train	ALG	السابعة عشر ايه. أوه، عفوا. طحت.
+18951	corpus-6-test-corpus-26-test	ALG	اذا سمعت بأسبوع الذهب فاليابان؟
+18957	corpus-6-test-corpus-26-train	ALG	صحا. إلى الملتقى القريب.
+18963	corpus-6-test-corpus-26-test	ALG	اذا دايمن معمر؟
+18974	corpus-6-test-corpus-26-test	ALG	نقدر نخليه في أي مكان فالبلد؟
+18986	corpus-6-test-corpus-26-test	ALG	أي رقم نقدر نتصل بيه منا؟
+19002	corpus-6-test-corpus-26-train	ALG	كيفاش نديرو باش نروحو لديزني لند؟
+19005	corpus-6-test-corpus-26-train	ALG	تظن؟
+19007	corpus-6-test-corpus-26-train	ALG	المعذرة. وين جاي المطعم الرئيسي؟
+19009	corpus-6-test-corpus-26-train	ALG	راني حاب ندير مكالمة لليابان.
+19036	corpus-6-test-corpus-26-test	ALG	رقم المقعد ديالي هو دي اثناعشر. وين جاي؟
+19037	corpus-6-test-corpus-26-dev	ALG	واشنو هاذا، من فضلك؟
+19038	corpus-6-test-corpus-26-train	ALG	واش من نوع راهو في راسك؟
+19045	corpus-6-test-corpus-26-train	ALG	إيه. نلحقو على الثامنة، الوقت المحلي.
+19050	corpus-6-test-corpus-26-train	ALG	اذا صبت كاش حاجة، اتصل بيا.
+19057	corpus-6-test-corpus-26-train	ALG	نقدر نتحصل على لحم الخنزير و البيض؟
+19064	corpus-6-test-corpus-26-train	ALG	مثلج البطيخ للتحلية، من فضلك.
+19068	corpus-6-test-corpus-26-train	ALG	الماء السخون ماهوش سخون بزاف.
+19085	corpus-6-test-corpus-26-train	ALG	تقدر تشرحلي كيفاش نديرو؟
+19094	corpus-6-test-corpus-26-train	ALG	لو سمحت تكتب العنوان ديالك هنا.
+19100	corpus-6-test-corpus-26-train	ALG	نقدر نستعمل الفلاش؟
+19101	corpus-6-test-corpus-26-train	ALG	صحا. عاود ولي للغرفة ديالي غدوة في نفس الساعة. التصاور يكونو وجدو.
+19103	corpus-6-test-corpus-26-train	ALG	أنا أعتذر. في هاذ الساعة، تقدر تطلب فقط واش راهو مكتوب في قائمة الطلبات الليلية.
+19113	corpus-6-test-corpus-26-train	ALG	عادي أو منقى؟
+19144	corpus-6-test-corpus-26-train	ALG	عندي وجع في راسي.
+19147	corpus-6-test-corpus-26-test	ALG	هاك الغرفة ألف و مئتين و سبعة.
+19148	corpus-6-test-corpus-26-test	ALG	راني حاب غرفة أخرى.
+19156	corpus-6-test-corpus-26-train	ALG	شحال الوقت تبقى صالحة هاذ التأشيرة؟
+19162	corpus-6-test-corpus-26-train	ALG	اذا كاين مستشفى من هاذ النواحي؟
+19170	corpus-6-test-corpus-26-train	ALG	راني حاب بدلة.
+19196	corpus-6-test-corpus-26-train	ALG	اذا عندكم واحدة عريضة كثر؟
+19215	corpus-6-test-corpus-26-test	ALG	نقدر نجرب مقاس تسعة؟
+19217	corpus-6-test-corpus-26-train	ALG	فندق آمن يقدم إفطار جيد، من فضلك.
+19226	corpus-6-test-corpus-26-train	ALG	وين جاية حديقة الحيوانات؟
+19232	corpus-6-test-corpus-26-train	ALG	ماكاش أكبر من هاذا؟
+19250	corpus-6-test-corpus-26-dev	ALG	ثلاثون بال و ثمانون سنتيم.
+19251	corpus-6-test-corpus-26-train	ALG	هاذا يعتمد على درجة حرارة المكان، بصح في وسط اليابان، في أوائل أفريل.
+19258	corpus-6-test-corpus-26-train	ALG	شيزبرغر مع البطاطا المقلية.
+19269	corpus-6-test-corpus-26-train	ALG	فات الوقت على القطار الأخير.
+19281	corpus-6-test-corpus-26-train	ALG	معنديش صرف.
+19294	corpus-6-test-corpus-26-train	ALG	اذا خذيت تذكرة الحافلة ديالك؟
+19306	corpus-6-test-corpus-26-train	ALG	ببطاقة إئتمان، من فضلك.
+19307	corpus-6-test-corpus-26-train	ALG	كنت في رحلة طيران يونايتد رقم ثمانية اثنين ثنامية.
+19317	corpus-6-test-corpus-26-train	ALG	كاين بزاف الفوضى قدام الغرفة ديالي.
+19318	corpus-6-test-corpus-26-train	ALG	في الساحل الشرقي، تصيب تاني مناطق مشهورة، كيما نيويورك، واشنطن دي سي و بوسطن.
+19327	corpus-6-test-corpus-26-train	ALG	اذا عندكم جرائد يابانية؟
+19329	corpus-6-test-corpus-26-train	ALG	بانلي مليح.
+19346	corpus-6-test-corpus-26-train	ALG	اذا تقدر تحتفضلي بالأمتعة ديالي حتى الوحدة بعد الزوال؟
+19347	corpus-6-test-corpus-26-train	ALG	كاين جولة للمدينة؟
+19360	corpus-6-test-corpus-26-train	ALG	إيه. سامحني ماكانش عندي خيار. اذا الأمن مليح في هاذ الحومة؟
+19391	corpus-6-test-corpus-26-train	ALG	راني نشوف. نحاول نكري سيتروايان.
+19401	corpus-6-test-corpus-26-dev	ALG	عندي موهبة طبيعية.
+19413	corpus-6-test-corpus-26-train	ALG	يكون رائع. وين راهو الخبز؟
+19415	corpus-6-test-corpus-26-train	ALG	مدخن، من فضلك. و من جهة الطاقة، من فضلك.
+19423	corpus-6-test-corpus-26-train	ALG	و شحال باش تخيط هاذا؟
+19444	corpus-6-test-corpus-26-dev	ALG	واش لي يكون الأسرع، طاكسي ولا سيارة إسعاف؟
+19460	corpus-6-test-corpus-26-train	ALG	اذا عندكم هاذ التريكو في ألوان أخرى؟
+19463	corpus-6-test-corpus-26-test	ALG	مالازمش تشوف التلفزيون في كل وقت.
+19466	corpus-6-test-corpus-26-train	ALG	إيه، رانا جايين عليه، رانا جايين عليه.
+19467	corpus-6-test-corpus-26-train	ALG	من الأحسن تروح لمستشفى آخر.
+19469	corpus-6-test-corpus-26-train	ALG	وين نقدر نصيب سوق تجاري؟
+19475	corpus-6-test-corpus-26-train	ALG	شوية غالي. متقدرش تديرلي سومة؟
+19479	corpus-6-test-corpus-26-train	ALG	شحال من محطة حتى نبدلو؟
+19490	corpus-6-test-corpus-26-train	ALG	هاذ الراجل سرقلي حقيبة اليد ديالي.
+19494	corpus-6-test-corpus-26-train	ALG	حبات دواء ضد اضطرابات الهضم و هاذو ضد آلام المعدة ماشي كيف كيف، ياك؟
+19497	corpus-6-test-corpus-26-test	ALG	راني حاب نشوف الميناء.
+19500	corpus-6-test-corpus-26-test	ALG	فكرة شابة.
+19501	corpus-6-test-corpus-26-train	ALG	شحال الوقت مشيا؟
+19505	corpus-6-test-corpus-26-train	ALG	نآخذ عشرين دمية دبدوب كبيرة، من فضلك.
+19507	corpus-6-test-corpus-26-dev	ALG	شحال الرقم لمسجلة النقد؟
+19508	corpus-6-test-corpus-26-train	ALG	هاذا ساهل. نشوف برك فالدليل.
+19509	corpus-6-test-corpus-26-dev	ALG	اذا عندكم غرف أكبر؟
+19547	corpus-6-test-corpus-26-train	ALG	شحال توصل الفاتورة ديالي؟
+19548	corpus-6-test-corpus-26-train	ALG	راني حاب نزيد نبقى في هاذ الغرفة ليلة آخرى.
+19560	corpus-6-test-corpus-26-train	ALG	المعذرة، بصح راني حاب نسلم تصريح السرقة.
+19572	corpus-6-test-corpus-26-train	ALG	حسنا، هاذا يعتمد على وسيلة النقل اللي تديها. تروح فالحافلة ولا فالطيارة؟
+19578	corpus-6-test-corpus-26-train	ALG	تمل اذا قعدت هنا؟
+19581	corpus-6-test-corpus-26-train	ALG	نقدر نبعث برك إيميل لواحد دولار؟
+19589	corpus-6-test-corpus-26-train	ALG	إيه، طلعو للغرفة ألف و مئتين و أربعة و ثلاثون.
+19610	corpus-6-test-corpus-26-dev	ALG	عمر استمارة التسجيل من فضلك.
+19617	corpus-6-test-corpus-26-test	ALG	راني حاب تذكرتين ذهاب اياب لأوكسفورد.
+19619	corpus-6-test-corpus-26-train	ALG	على آما ساعة لازم نروح للمطار؟
+19620	corpus-6-test-corpus-26-train	ALG	ثقيل.
+19623	corpus-6-test-corpus-26-train	ALG	وين نقدر نخرج البيليكول ديالي؟
+19643	corpus-6-test-corpus-26-test	ALG	لالا. من فضلك. اذا تقدر تحتفظ بالأسئلة ديالك حتى لآخر خطابي، كي ندعوك؟
+19648	corpus-6-test-corpus-26-dev	ALG	راني حاب مكان مليح.
+19649	corpus-6-test-corpus-26-train	ALG	سامحني المرحاض ميمشيش. راني حاب مساعدة.
+19651	corpus-6-test-corpus-26-test	ALG	ماعندو حتى حاجة صعيبة و لا غامضة.
+19654	corpus-6-test-corpus-26-train	ALG	دوك نديك لمكانك. من هنا، من فضلك.
+19656	corpus-6-test-corpus-26-train	ALG	أعتذر، نقدر نطرح عليك سؤال؟
+19666	corpus-6-test-corpus-26-train	ALG	نظن نعم.
+19675	corpus-6-test-corpus-26-train	ALG	صباح الخير. متشرف بمعرفتك.
+19691	corpus-6-test-corpus-26-train	ALG	راني حاب نسجل هاذ الأمتعة لطوكيو، من فضلك.
+19694	corpus-6-test-corpus-26-train	ALG	تقدر توريلي واحدآخر كبير شوية؟
+19703	corpus-6-test-corpus-26-train	ALG	راني نشوف بلي الملابس المصنوعة فاليابان أفضل فصالة.
+19715	corpus-6-test-corpus-26-train	ALG	كنت بطلت أفضل.
+19716	corpus-6-test-corpus-26-dev	ALG	عاود، من فضلك.
+19722	corpus-6-test-corpus-26-train	ALG	تقدر تكتبلي العنوان و رقم الهاتف، من فضلك؟
+19726	corpus-6-test-corpus-26-train	ALG	اذا مسخن؟
+19732	corpus-6-test-corpus-26-train	ALG	نروح من أي مطار؟
+19733	corpus-6-test-corpus-26-train	ALG	متلقيتش الإستمارة داخل الطيارة؟
+19735	corpus-6-test-corpus-26-train	ALG	راني حاب الحديد.
+19752	corpus-6-test-corpus-26-dev	ALG	جات ثمانية و ثلاثون لكلش.
+19754	corpus-6-test-corpus-26-train	ALG	يعطيك الصحة لوكان تشاركنا أفكارك الاستثنائية.
+19755	corpus-6-test-corpus-26-train	ALG	راح ندير التزحلق مرتين فالشهر فالموسم.
+19760	corpus-6-test-corpus-26-train	ALG	تاريخ ميلادي أول أفريل ألف و تسعمئة و خمسة و خمسون.
+19769	corpus-6-test-corpus-26-test	ALG	نقدر نكري مضارب؟
+19809	corpus-6-test-corpus-26-train	ALG	اذا هاذي هي الحافلة الصحيحة لوسط المدينة؟
+19813	corpus-6-test-corpus-26-train	ALG	شحال يسوا هاذ العطر؟
+19814	corpus-6-test-corpus-26-train	ALG	وعلاش؟
+19819	corpus-6-test-corpus-26-train	ALG	وين نقدر ندير الإجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	ALG	خمسون جنيه.
+19840	corpus-6-test-corpus-26-test	ALG	اذا لي طاكس داخلين؟
+19853	corpus-6-test-corpus-26-test	ALG	واش هما الخراجات؟
+19862	corpus-6-test-corpus-26-train	ALG	اتصل بسيارة اسعاف.
+19864	corpus-6-test-corpus-26-dev	ALG	نراهن ثلاثة دولار عليه.
+19871	corpus-6-test-corpus-26-train	ALG	اذا كاين تقدم؟
+19889	corpus-6-test-corpus-26-train	ALG	نحب كل الماكولات.
+19902	corpus-6-test-corpus-26-train	ALG	يوم الدستور ولا كومبو كينان بي، لي كان فالثالث من ماي، هو يوم عطلة لإحياء ذكرى تأسيس الدستور الياباني الحالي.
+19912	corpus-6-test-corpus-26-train	ALG	اذا تشمل هاذ الدائرة زيارة لبرج سيرز تاور؟
+19923	corpus-6-test-corpus-26-train	ALG	اذا كاين مكتبة هنا؟
+19928	corpus-6-test-corpus-26-train	ALG	راني راح نتبع الدروس الصيفية في جامعة هاواي.
+19935	corpus-6-test-corpus-26-train	ALG	منين نجوزو دوكا؟
+19945	corpus-6-test-corpus-26-train	ALG	شخصين كبار وطفل بثلاث سنوات.
+19959	corpus-6-test-corpus-26-train	ALG	في مرحاض في المحطة.

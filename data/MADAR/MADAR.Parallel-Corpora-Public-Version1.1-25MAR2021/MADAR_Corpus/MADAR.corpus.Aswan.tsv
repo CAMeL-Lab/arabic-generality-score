@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	ASW	هناك، قدام مكتب ارشادات السياح على طول.
+9	corpus-6-test-corpus-26-train	ASW	انا عمرى ماسمعت عن العنوان ده هنا.
+11	corpus-6-test-corpus-26-train	ASW	امشي على طول لغاية متشوف صيدلية.
+26	corpus-6-test-corpus-26-train	ASW	بكام الفطار ده؟
+27	corpus-6-test-corpus-26-train	ASW	إزاي أقدر اساعدك؟
+30	corpus-6-test-corpus-26-train	ASW	امشي شمال لغاية الناصية التالتة.
+50	corpus-6-test-corpus-26-train	ASW	عايز كريمة وسكر على القهوة بتاعتك؟
+64	corpus-6-test-corpus-26-train	ASW	ممكن تصرفلى الشيك بتاعى بمتين دولار؟
+74	corpus-6-test-corpus-26-train	ASW	لو المفروض يظهر، كلمني.
+86	corpus-6-test-corpus-26-train	ASW	فين الكوفي شوب؟
+87	corpus-6-test-corpus-26-train	ASW	كنت عايز بلوفر اطفال.
+91	corpus-6-test-corpus-26-train	ASW	ماشي. هتكلف خمسة وتمانين سنت لو بالبريد العادي وتلات دولارات بالظبط زيادة لو بالتوصيل الخاص.
+120	corpus-6-test-corpus-26-test	ASW	لو مكانك هشتري ده.
+129	corpus-6-test-corpus-26-train	ASW	هو انا هلاقي اى صعوبة مع الجمارك؟
+130	corpus-6-test-corpus-26-train	ASW	عندك جزم رسمية بوش عريض؟
+140	corpus-6-test-corpus-26-train	ASW	لا. بس ممكن اقترح بدل من كدة أوضة مزدوجة لاستخدام فرد؟ احنا عندنا واحدة.
+143	corpus-6-test-corpus-26-train	ASW	كنت عاوز كيرلى كويس، لو سمحت.
+145	corpus-6-test-corpus-26-train	ASW	هي عايزة بيرة.
+157	corpus-6-test-corpus-26-train	ASW	صباح الخير. عامل ايه؟
+158	corpus-6-test-corpus-26-train	ASW	معلش كنت عايز اشوف تحقيق الشخصية.
+169	corpus-6-test-corpus-26-train	ASW	اي نوع صوص؟
+170	corpus-6-test-corpus-26-train	ASW	ده بارد شوية. ممكن تسخنه؟
+173	corpus-6-test-corpus-26-test	ASW	معلش، المكان ده أصلاً محݘوز.
+176	corpus-6-test-corpus-26-train	ASW	أنا كويس . بس لو معندكش مانع أكلم صاحبي؟
+177	corpus-6-test-corpus-26-test	ASW	متشكر. كدة كفاية.
+184	corpus-6-test-corpus-26-train	ASW	مين صاحبك الانتيم؟
+187	corpus-6-test-corpus-26-train	ASW	يوم الصحة والرياضة عشرة أكتوبرعيد وطني معمول علشان التوعية بتحسين صحة الناس.
+192	corpus-6-test-corpus-26-train	ASW	انت عايزنى ابصلك تحت الكبوت؟
+206	corpus-6-test-corpus-26-train	ASW	ممكن تدور معايا على الشنطة بتاعتي؟
+221	corpus-6-test-corpus-26-train	ASW	انت عملت الترتيبات مقدماً؟
+238	corpus-6-test-corpus-26-train	ASW	في حد بيساعدني. متشكر.
+261	corpus-6-test-corpus-26-train	ASW	لما توصل هناك، اسال أي حد تاني، لوسمحت.
+280	corpus-6-test-corpus-26-train	ASW	انا كنت عايز امد الحجز لمدة اربعة وعشرين ساعة، لو سمحت.
+285	corpus-6-test-corpus-26-train	ASW	اتفضل دولارين. وخلي الباقي علشانك.
+315	corpus-6-test-corpus-26-train	ASW	واحد برجر وواحد برجر بالجبنة، لوسمحت.
+319	corpus-6-test-corpus-26-train	ASW	انت بتاخد كام في العملية؟
+320	corpus-6-test-corpus-26-train	ASW	كل واحد فينا عايز يدفع للوجبة بتاعته.
+326	corpus-6-test-corpus-26-train	ASW	المكان كان على كرسي فى الحتة اللي قدام الإستقبال.
+333	corpus-6-test-corpus-26-test	ASW	لو سمحت غيرلي الينات دول لجنيهات.
+346	corpus-6-test-corpus-26-train	ASW	كنت عايز قاموس جيب صغير، لو سمحت.
+360	corpus-6-test-corpus-26-train	ASW	لشخصين الساعة سبعة. باسم واتانابي.
+368	corpus-6-test-corpus-26-train	ASW	ساعتي. كانت ساعة سايكو رقمية.
+370	corpus-6-test-corpus-26-train	ASW	تحت امر حضرتك انا هاجيب لحضرتك المشاريب اللى حضرتك عايزيها بعد العشا. كل المشاريب اللى عندنا فى الرحلة هتلقيها فى دليل المعلومات فى المجلة بتاعتنا.
+373	corpus-6-test-corpus-26-test	ASW	هو انت ساكن فى الحتة دي؟
+375	corpus-6-test-corpus-26-train	ASW	فين مكتبة الهدايا؟
+386	corpus-6-test-corpus-26-test	ASW	أنا على الطريق السريع قريب من خليج مورو.
+391	corpus-6-test-corpus-26-train	ASW	كنت عايز منبه، لو سمحت.
+398	corpus-6-test-corpus-26-dev	ASW	بالمناسبة، انا اسمي هيروشي ايجيما.
+401	corpus-6-test-corpus-26-dev	ASW	القطر ده بيوقف فى لايك فورست، مش كدة؟
+408	corpus-6-test-corpus-26-train	ASW	معظ اليابانين بياكلو اخطبوط وسبيط.
+416	corpus-6-test-corpus-26-train	ASW	كنت عايز تذكرتين درجة تانية لشيكاغو، لو سمحت؟
+419	corpus-6-test-corpus-26-train	ASW	انا رحت نيويورك.
+423	corpus-6-test-corpus-26-train	ASW	ايه هو رقم الرحلة؟
+442	corpus-6-test-corpus-26-test	ASW	واحد نيويورك، لو سمحت.
+446	corpus-6-test-corpus-26-train	ASW	لمدة تلات اربع ايام تقريباً كدة.
+447	corpus-6-test-corpus-26-train	ASW	التاني على الشمال.
+471	corpus-6-test-corpus-26-dev	ASW	الكارت ده، ماشي؟
+488	corpus-6-test-corpus-26-train	ASW	هو ده الريسيبشن؟ هو في عيادة قريبة؟
+493	corpus-6-test-corpus-26-train	ASW	هو عشرة دولار كفاية للتاكسي؟
+503	corpus-6-test-corpus-26-train	ASW	ده طعمه غريب.
+512	corpus-6-test-corpus-26-train	ASW	ايوة. استنى، انا هجيبلك واحد.
+516	corpus-6-test-corpus-26-train	ASW	نص جزازة، لو سمحت.
+540	corpus-6-test-corpus-26-train	ASW	مشبالظبط. حاجة متكنش غالية.
+548	corpus-6-test-corpus-26-train	ASW	انت بتدور على حاجة؟
+551	corpus-6-test-corpus-26-train	ASW	اربع ليالي.
+553	corpus-6-test-corpus-26-train	ASW	كنت عايز شوية شرابات.
+565	corpus-6-test-corpus-26-train	ASW	ممكن تبقى ارخص من كدة علشان عليها بقع؟
+571	corpus-6-test-corpus-26-train	ASW	في واحد خبط فيا. وبعديها ملقتش محفظتي.
+599	corpus-6-test-corpus-26-train	ASW	مش عارف خدت هدوم كفاية لسفرية التلات اسابيع ولا لا.
+612	corpus-6-test-corpus-26-train	ASW	خلاص، احنا حابين نجرب نبيت أبيض.
+631	corpus-6-test-corpus-26-train	ASW	لو حد سأل عليا، قولهم انا فى الكوفي شوب.
+632	corpus-6-test-corpus-26-train	ASW	انا متاكد انه كان فى جيب البالطو بتاعي من جوة.
+641	corpus-6-test-corpus-26-test	ASW	ممكن اعرف اسم ورقم الشخص اللى هتكلمه؟
+643	corpus-6-test-corpus-26-train	ASW	هي شركة الطيران هتدفعلي اللى يخليني اشتري حاجاتي الشخصية الضرورية؟
+650	corpus-6-test-corpus-26-train	ASW	انا عايز أوضة بحمام.
+652	corpus-6-test-corpus-26-dev	ASW	مفيش حاجة طلعت من المكنة؟
+667	corpus-6-test-corpus-26-test	ASW	انت كان المفروض تاخد الطيارة رقم تمنماية وعشرين، اللى هي طارت من ربع ساعة فاتت. خلاص، انا انا هظبطلك طيارة تناية.
+673	corpus-6-test-corpus-26-train	ASW	في واحد فتح الطرد بتاعي.
+679	corpus-6-test-corpus-26-test	ASW	اواه، مفيش حاجة. على العموم، انت هنا.
+680	corpus-6-test-corpus-26-train	ASW	خطوط الطيران اليابانية، رحلة رقم واحد اتنين تلاتة.
+681	corpus-6-test-corpus-26-train	ASW	كنت عايز اشتري شامبو.
+683	corpus-6-test-corpus-26-train	ASW	ممكن تقوللى امتى هنوصل لمركز الخدمات المدنية؟
+688	corpus-6-test-corpus-26-train	ASW	فين أقرب جزار؟
+703	corpus-6-test-corpus-26-train	ASW	إحنا كنا عاوزين نقعد اربع ليالي من اول يوم واحد في شهر اغسطس.
+708	corpus-6-test-corpus-26-train	ASW	هو ايه اسم الوردة دي؟
+719	corpus-6-test-corpus-26-train	ASW	يوم خمستاشر في شهر سبتمبر احتراماً ليوم لبلوغ الشباب.
+723	corpus-6-test-corpus-26-train	ASW	مفيش صابون في الأوضة بتاعتي.
+741	corpus-6-test-corpus-26-dev	ASW	في حاجة ممكن اخدها للطفح الجلي ده؟
+742	corpus-6-test-corpus-26-train	ASW	ممكن تغير المكتوب زى مانت قولت؟
+761	corpus-6-test-corpus-26-test	ASW	قدامي قد ايه علشان أطلب؟
+773	corpus-6-test-corpus-26-train	ASW	ممكن تعلي صوتك، لو سمحت؟
+777	corpus-6-test-corpus-26-train	ASW	هياخد قد ايه قبل ما يطلع؟
+786	corpus-6-test-corpus-26-train	ASW	فين معلومات الألعاب؟
+787	corpus-6-test-corpus-26-train	ASW	المقاس اللي هنا، اللي انت مسميه مقاس عادي. هيأدي الغرض.
+793	corpus-6-test-corpus-26-test	ASW	الرحلة هتنتهي فين، و إمتى؟
+848	corpus-6-test-corpus-26-train	ASW	انا المفروض اغير القطر فين علشان اروح ايدنبره؟
+855	corpus-6-test-corpus-26-train	ASW	كنت عايز احط ده في صندوق امانات.
+859	corpus-6-test-corpus-26-train	ASW	ممكن أغير فلوس فين؟
+897	corpus-6-test-corpus-26-train	ASW	ممكن نسيب حاجتنا، ماعدا الحاجات القيمة، فى الاتوبيس؟
+902	corpus-6-test-corpus-26-train	ASW	أنا مش عارف الفاتورة بتاعتي دي على ايه.
+917	corpus-6-test-corpus-26-train	ASW	انا هدفع خمسين دولار.
+941	corpus-6-test-corpus-26-train	ASW	دلوقتي انا عرفت ايه اللي كان غلط.
+957	corpus-6-test-corpus-26-dev	ASW	معاك ايكديا. انا كنت حاجز طربيزة انهاردة الساعة ستة ونص بليل. بس معلش انا هاجي نص ساعة متأخر.
+1003	corpus-6-test-corpus-26-train	ASW	انا ممكن اخد كام أوقية من البرفانات من غير مدفع جمارك؟
+1007	corpus-6-test-corpus-26-train	ASW	مجرد سياحة.
+1010	corpus-6-test-corpus-26-train	ASW	كدة تمام، لو سمحت إمضيهم. أنت عايزهم أزاي؟
+1023	corpus-6-test-corpus-26-test	ASW	إنت لسة عندك كراسي فاضية في عرض الليلة؟
+1036	corpus-6-test-corpus-26-train	ASW	أنا كنت عاوزواحد كبير.
+1037	corpus-6-test-corpus-26-dev	ASW	أنا كنت نايم لما المنبه رن الساعة ستة ونص.
+1038	corpus-6-test-corpus-26-train	ASW	انا مصور حر.
+1047	corpus-6-test-corpus-26-train	ASW	اللي بيوزعو الورق ممكن يبدللولك دولاراتك بقواشيط الكازينو، تيجي نروح؟
+1056	corpus-6-test-corpus-26-dev	ASW	إحنا عندينا حوالي تلاتين نوع من أنواع زيوت الحمام.
+1062	corpus-6-test-corpus-26-train	ASW	أنا عندي عرض ليك الأسبوع اللي جاي.
+1074	corpus-6-test-corpus-26-train	ASW	متشكر. بكام الجوانتي ده؟
+1098	corpus-6-test-corpus-26-train	ASW	أنا مضطر أمشي. هكلمك بعدين.
+1100	corpus-6-test-corpus-26-train	ASW	أنا عايز بامبرز اللي بيستخدم لمرة واحدة .
+1122	corpus-6-test-corpus-26-train	ASW	من فين أصل سمك الفراشة ده؟
+1124	corpus-6-test-corpus-26-train	ASW	ممكن تبدلهم لدولارت، لو سمحت؟
+1139	corpus-6-test-corpus-26-train	ASW	إحنا محظوظين. عنديهم واحد من مقاس أربعة في محل علا موانا.
+1146	corpus-6-test-corpus-26-train	ASW	في عربيات للإيجار؟
+1163	corpus-6-test-corpus-26-dev	ASW	ممكن حد يتصل يصحيني الساعة خمسة ونص الصبح؟
+1165	corpus-6-test-corpus-26-train	ASW	أنا بفضل اكتر أوضة هادية.
+1167	corpus-6-test-corpus-26-train	ASW	كنت عاوز مزيل مونيكير.
+1183	corpus-6-test-corpus-26-train	ASW	كنت عاوز بطارية.
+1193	corpus-6-test-corpus-26-test	ASW	هو فيه فرقة موسيقية لايف ولا دي جى؟
+1194	corpus-6-test-corpus-26-train	ASW	ممكن آجر معدات غطس؟
+1199	corpus-6-test-corpus-26-dev	ASW	ممكن أحجز أوضة لاربعة ليالي من أول اتنين وعشرين ديسمبر.
+1212	corpus-6-test-corpus-26-train	ASW	هي الشنطة دي مناسبة لكل الظروف الجوية؟
+1213	corpus-6-test-corpus-26-train	ASW	كنت عاوز دونات، لو سمحت.
+1218	corpus-6-test-corpus-26-train	ASW	كنت عاوز آجر عربية أتوماتيك لمدة يومين.
+1224	corpus-6-test-corpus-26-train	ASW	أنا فاتتني الطيارة رقم عشرين لسان فرانسيسكو.
+1234	corpus-6-test-corpus-26-train	ASW	بكام لغاية المطار؟
+1235	corpus-6-test-corpus-26-train	ASW	ده كويس. هو إمتى؟
+1276	corpus-6-test-corpus-26-train	ASW	أختك عندها كام سنة؟
+1312	corpus-6-test-corpus-26-train	ASW	أنت هتقولي على شوية فنادق نضاف ورخاص؟
+1321	corpus-6-test-corpus-26-train	ASW	إحنا ممكن نحجزلك أوضة مريحة في القلعة القديمة جنب ملعب جولف شهير.
+1329	corpus-6-test-corpus-26-train	ASW	أنا بنصحك بده علشان هو معمول مية في المية من مكونات طبيعية.
+1361	corpus-6-test-corpus-26-dev	ASW	هو القطر ده بيوقف فى برايتون؟
+1369	corpus-6-test-corpus-26-train	ASW	ممكن تقوللي آخد تاكسي من فين؟
+1375	corpus-6-test-corpus-26-train	ASW	تذكرتين درجة تانية، لو سمحت.
+1384	corpus-6-test-corpus-26-train	ASW	كنت عاوز ابعت فاكس.
+1394	corpus-6-test-corpus-26-train	ASW	كنت عاوز مكوة سفر.
+1396	corpus-6-test-corpus-26-train	ASW	ممكن أقدملك أي حاجة؟
+1404	corpus-6-test-corpus-26-train	ASW	يومي؟ أنا خايف اسأل، بس أنت تقصد أيه يعني؟
+1418	corpus-6-test-corpus-26-train	ASW	أنا عاوز واحد يمسك ورق جوابات عادي من غير ميلفهم.
+1433	corpus-6-test-corpus-26-test	ASW	أيوة، بس مش قوي جداً.
+1434	corpus-6-test-corpus-26-train	ASW	أنا عندي حساسية من القطط.
+1436	corpus-6-test-corpus-26-train	ASW	أيوة، أنت المفروض يكون معاك رخصة سواقة وبرضه المفروض تاخد رخصة من لجنة التاكسي والليموزين.
+1462	corpus-6-test-corpus-26-train	ASW	اتفضل، حضرتك.
+1465	corpus-6-test-corpus-26-test	ASW	شكلي مش هقدر أجيب مية سخنة.
+1474	corpus-6-test-corpus-26-train	ASW	كنت عاوز أحجز أوضة لليلة دي.
+1492	corpus-6-test-corpus-26-train	ASW	لا، ده من غير الضرايب ومصاريف الخدمة.
+1506	corpus-6-test-corpus-26-train	ASW	ممكن تيجي معايا نتسوق بعد الضهر؟
+1508	corpus-6-test-corpus-26-test	ASW	أزيك، ايه الفستان الحلو ده.
+1519	corpus-6-test-corpus-26-train	ASW	دلوقتي، مكالمتك اتوصلت، لو سمحت إتفضل.
+1525	corpus-6-test-corpus-26-train	ASW	أيه رقم البوابة؟
+1539	corpus-6-test-corpus-26-train	ASW	أيه الهدية اللي المفروض أجيبها من هواياي؟
+1556	corpus-6-test-corpus-26-train	ASW	ممكن أروح هناك بالمترو؟
+1560	corpus-6-test-corpus-26-train	ASW	كنت عاوز استشوار.
+1562	corpus-6-test-corpus-26-train	ASW	هو إحنا بطريقة الكلام دي هنوصل لحاجة؟
+1585	corpus-6-test-corpus-26-train	ASW	أنا من النرويج.
+1603	corpus-6-test-corpus-26-dev	ASW	من عشرة لاتناشر لو سمحت.
+1619	corpus-6-test-corpus-26-train	ASW	أكيد . خليني أشوفها. أنا متهيئلى، إن الاحجار المرجانية عورتك.
+1620	corpus-6-test-corpus-26-train	ASW	من باب الإحتياط، إديني رقم الشخص المسئول.
+1622	corpus-6-test-corpus-26-train	ASW	هو فيه أتوستراد؟
+1630	corpus-6-test-corpus-26-train	ASW	هو ليه مجاش الحفلة إمبارح؟
+1637	corpus-6-test-corpus-26-train	ASW	ده كان فيه حادث.
+1650	corpus-6-test-corpus-26-train	ASW	معلش، أنا طلبت الرقم غلط.
+1653	corpus-6-test-corpus-26-test	ASW	لو سمحت دخل الرقم السري.
+1663	corpus-6-test-corpus-26-dev	ASW	أنا مش قادر أظبط الصورة.
+1668	corpus-6-test-corpus-26-train	ASW	واحد برجر بالجبنة وواحد عصير برتكان، لو سمحت.
+1670	corpus-6-test-corpus-26-test	ASW	إتفضل الباسبور بتاعي.
+1682	corpus-6-test-corpus-26-test	ASW	ليه، متشكر جداً، واا، ممكن أطلع فوق للسطح؟
+1702	corpus-6-test-corpus-26-train	ASW	ممكن آخد تذكرتين للحفلة الموسيقية يوم الجمعة اللى جاية؟
+1718	corpus-6-test-corpus-26-train	ASW	فيه واحد تاني مسافر هناك بيقول أنه ممكن يبدل كرسيه معاك.
+1754	corpus-6-test-corpus-26-train	ASW	ممكن أمد الإقامة بتاعتي؟
+1766	corpus-6-test-corpus-26-train	ASW	مثلاً، تعرف أي حاجة تستاهل أن الواحد يشوفها قريب من هنا؟
+1768	corpus-6-test-corpus-26-dev	ASW	لا، أنا كنت عاوز أأجر نص مجموعة مضارب وجزمة.
+1782	corpus-6-test-corpus-26-train	ASW	ممكن تبلغني لما الشنطة الضايعة تتلاقى؟
+1788	corpus-6-test-corpus-26-train	ASW	هي الجنينة العامة دي أسمها أيه؟
+1791	corpus-6-test-corpus-26-train	ASW	أنا اتجرحت.
+1792	corpus-6-test-corpus-26-dev	ASW	فين ألاقي مكان كويس للسياحة؟
+1800	corpus-6-test-corpus-26-train	ASW	كنت عاوز شوية فاكهة؟
+1834	corpus-6-test-corpus-26-train	ASW	ممكن أتغدى دلوقتي؟
+1837	corpus-6-test-corpus-26-train	ASW	كنت عاوز أغير الدولارات دي.
+1867	corpus-6-test-corpus-26-train	ASW	كنت عاوز تاكسي. أنا عند ساوث مين ولايبرتي.
+1876	corpus-6-test-corpus-26-dev	ASW	أكيد، إنت عاوز كيرلي؟
+1878	corpus-6-test-corpus-26-train	ASW	دي مش تفاحة دي خوخة.
+1903	corpus-6-test-corpus-26-train	ASW	أنا هديك وصفة . خدها للصيدلية.
+1927	corpus-6-test-corpus-26-train	ASW	إحنا بنطير تلات مرات في الأسبوع، تلات وجمعة وسبت.
+1931	corpus-6-test-corpus-26-dev	ASW	ده غالي، مش كدة؟
+1948	corpus-6-test-corpus-26-train	ASW	ايوة، إحنا عندنا ده. هنجهزهولك.
+1950	corpus-6-test-corpus-26-dev	ASW	ممكن تخلي الشنط بتاعتي عندك لغاية الساعة تلاتة؟
+1951	corpus-6-test-corpus-26-train	ASW	لا، أنا هعدي بس مش هطول.
+1954	corpus-6-test-corpus-26-dev	ASW	ممكن احجز أجر-عربية هنا؟
+1968	corpus-6-test-corpus-26-train	ASW	هو أنت امريكي؟
+1980	corpus-6-test-corpus-26-test	ASW	للمكان ده، لو سمحت.
+1985	corpus-6-test-corpus-26-train	ASW	عربيتي عطلت.
+1988	corpus-6-test-corpus-26-train	ASW	فين الأي شادو؟
+1993	corpus-6-test-corpus-26-train	ASW	كنا عايزين ركن هادي، لو ممكن.
+1997	corpus-6-test-corpus-26-train	ASW	هو ده معلهوش ضرايب؟
+1998	corpus-6-test-corpus-26-train	ASW	هي دي محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	ASW	هو المفروض اعدي امتى؟
+2003	corpus-6-test-corpus-26-train	ASW	كنت عايز جزازة نبيت أبيض صغيرة.
+2005	corpus-6-test-corpus-26-train	ASW	اه، ممكن آخد الوجبة بتاعتي بعدين؟ انا حاسس أني مش كويس دلوفتي.
+2025	corpus-6-test-corpus-26-train	ASW	فعلاً، انا عندي أخبار. أنا إتجوزت.
+2033	corpus-6-test-corpus-26-train	ASW	أى بنطلونات تانية؟
+2035	corpus-6-test-corpus-26-train	ASW	ممكن برنامج؟
+2052	corpus-6-test-corpus-26-train	ASW	حد اقتحم اوضتي إمبارح بليل.
+2055	corpus-6-test-corpus-26-train	ASW	وريني السمكة اللي شوفتها في كتاب الصور إنهاردة، لو سمحت.
+2083	corpus-6-test-corpus-26-train	ASW	بص على التعليمات اللي على علبة الأكل المفرغة من الهوا.
+2086	corpus-6-test-corpus-26-train	ASW	أنا عايز فلوس ورقية.
+2100	corpus-6-test-corpus-26-test	ASW	ده هو لطش المحفظة بتاعتي وجري.
+2119	corpus-6-test-corpus-26-train	ASW	معندكش دروس تجريبية؟
+2147	corpus-6-test-corpus-26-train	ASW	من فين أقدر أشتري طوابع البوستة؟
+2148	corpus-6-test-corpus-26-train	ASW	أنا من بريطانيا العظمى.
+2156	corpus-6-test-corpus-26-train	ASW	أنا لازم أشوف الموضوع ده مع مراتي.
+2161	corpus-6-test-corpus-26-train	ASW	كنت عايز أسترجع فلوس ده.
+2179	corpus-6-test-corpus-26-train	ASW	فيه كابينة تليفون قدام البنك.
+2180	corpus-6-test-corpus-26-train	ASW	أنا هوصل يوم تسعة مارس وهمشي يوم اربعتاشر.
+2205	corpus-6-test-corpus-26-train	ASW	ده غالي شوية، ولا انت ايه رأيك؟
+2235	corpus-6-test-corpus-26-train	ASW	معاك الإيصال؟
+2236	corpus-6-test-corpus-26-train	ASW	فين محطة الأتوبيس؟
+2238	corpus-6-test-corpus-26-train	ASW	انت عايز التحلية؟
+2302	corpus-6-test-corpus-26-train	ASW	إنت بتتكلم؟
+2306	corpus-6-test-corpus-26-train	ASW	أنا كمان زيه، لوسمحت.
+2318	corpus-6-test-corpus-26-train	ASW	أنا طلبي مجاش.
+2324	corpus-6-test-corpus-26-train	ASW	فيه عيون ميه سخنة كتير.
+2329	corpus-6-test-corpus-26-train	ASW	لو سمحت غير خمسين ألف ين لدولارات امريكية.
+2338	corpus-6-test-corpus-26-train	ASW	انا معنديش مشكلة. أصلاً أنا عايز أدخن.
+2347	corpus-6-test-corpus-26-test	ASW	من فين أقدر ااجر حاجات التزحلق والجزم؟
+2353	corpus-6-test-corpus-26-dev	ASW	هوإنت نسيت المشاريب بتاعتنا؟
+2368	corpus-6-test-corpus-26-test	ASW	ممكن تبعتهولي على عنواني فى اليابان عن طريق بوستة طرود كولكت الدولية؟
+2381	corpus-6-test-corpus-26-train	ASW	كنت عايز كاس نبيت أحمر.
+2389	corpus-6-test-corpus-26-train	ASW	ده بس لو بتاعك، حضرتك. ههههه، أنا بهزر معاك.
+2401	corpus-6-test-corpus-26-train	ASW	أكيد، ممكن نقدر نخدمك إزاي؟
+2412	corpus-6-test-corpus-26-dev	ASW	إحنا عندينا بيرة وويسكي وبراندي وجن وفوديكا ونبيت.
+2425	corpus-6-test-corpus-26-train	ASW	البطاقة، اه ماشي. الباسبور ينفع؟
+2428	corpus-6-test-corpus-26-train	ASW	رقم الأوضة بتاعتي تلتماية ستة وعشرين. ممكن تيجي تاخد الغسيل بتاعي؟
+2440	corpus-6-test-corpus-26-train	ASW	أنا هشوف لو فيه أي واحد من دول يناسبني.
+2441	corpus-6-test-corpus-26-train	ASW	كنت عايز غلاية.
+2445	corpus-6-test-corpus-26-train	ASW	هاتلي شوية جبنة مبشورة.
+2462	corpus-6-test-corpus-26-train	ASW	ممكن آخد تيشرتاتي نضيفة بكرة الصبح؟
+2476	corpus-6-test-corpus-26-train	ASW	ممكن تخليه يتصل بيا؟
+2490	corpus-6-test-corpus-26-train	ASW	ليه كدة؟
+2492	corpus-6-test-corpus-26-train	ASW	لو مؤاخذة، هو فيه مكتبة قريب من هنا؟
+2496	corpus-6-test-corpus-26-test	ASW	انا متهيئلي انك عملت حاجة غلط. الأوضة كان مدفوعلها. نا معايا الإيصال.
+2505	corpus-6-test-corpus-26-train	ASW	الأتوبيس هناك أهو.
+2516	corpus-6-test-corpus-26-train	ASW	كنت عايز بكرتين أيزو مية. فيلم ملون، ستة وتلاتين صورة، لو سمحت.
+2519	corpus-6-test-corpus-26-train	ASW	كنت عايز اصرف الشيك ده اللى بسبعين دولار.
+2521	corpus-6-test-corpus-26-train	ASW	كنت عايز أشتري طوابع لعشر بطاقات بريدية لليابان، لو سمحت.
+2528	corpus-6-test-corpus-26-train	ASW	هو فيه أي بنوك قريبة من المحطة؟
+2531	corpus-6-test-corpus-26-train	ASW	أنا متهيئلي انه في غلط فى الفاتورة.
+2552	corpus-6-test-corpus-26-test	ASW	هو هنا أهو.
+2557	corpus-6-test-corpus-26-train	ASW	واحد برجر بالجبنة برة، لو سمحت.
+2578	corpus-6-test-corpus-26-test	ASW	أنت خلاص متقدرش أصلاً تعمل شغل تصميم من غير كمبيوتر بعد كدة.
+2591	corpus-6-test-corpus-26-train	ASW	إجري.
+2601	corpus-6-test-corpus-26-train	ASW	بلوزتي مقطوعة. ممكن تخيطهالي، لو سمحت؟
+2613	corpus-6-test-corpus-26-dev	ASW	هيً مانشستير بعيدة قد أيه؟
+2643	corpus-6-test-corpus-26-train	ASW	ممكن تسلفيني كابل لشحن البطارية؟
+2644	corpus-6-test-corpus-26-train	ASW	من فين أقدراشتري حصيرة للشاطئ؟
+2670	corpus-6-test-corpus-26-test	ASW	خلاص، اعملي حجز جديد لو سمحت.
+2676	corpus-6-test-corpus-26-train	ASW	إدينى شريحة لحم الخنزير دي، بس متكنش تخينة زي دي.
+2678	corpus-6-test-corpus-26-train	ASW	إحنا جايين الساعة سبعة.
+2687	corpus-6-test-corpus-26-train	ASW	لما بشوف الأسعار رخيصة كدة، بحس أنه من السخافة إني أشتري حاجة من اليابان.
+2690	corpus-6-test-corpus-26-train	ASW	أنا التسجيلات بتاعتي إتسرقت، برضه.
+2695	corpus-6-test-corpus-26-train	ASW	أيس كريم كونو بالفانيليا، لو سمحت.
+2702	corpus-6-test-corpus-26-train	ASW	أنا موافق. لازم تبقى طبيعية.
+2704	corpus-6-test-corpus-26-train	ASW	خاي بالك من الفتحة، خلي بالك من الفتحة، وبعدين جنب البيبان، لو سمحت.
+2707	corpus-6-test-corpus-26-train	ASW	انا هحتاج كارت بنكي.
+2708	corpus-6-test-corpus-26-dev	ASW	إتفضل الباسبور بتاعي.
+2715	corpus-6-test-corpus-26-test	ASW	قولي على حتة كويسة فى النهر ده، لو سمحت.
+2726	corpus-6-test-corpus-26-train	ASW	لو سمحت إديني تقرير عن الحادثة.
+2729	corpus-6-test-corpus-26-train	ASW	لا، متشكر ده لسة دلوقتي.
+2734	corpus-6-test-corpus-26-train	ASW	ماشي، خليك على الخط لو سمحت. الأستاذ ناكاجيمي و مدام سايتو الظاهر أنهم مبيرضوش على التليفون. إنت عايزنى أرن عليهم اكتر من كدة؟
+2736	corpus-6-test-corpus-26-dev	ASW	إحتمال، بس إحنا لازم نوزنهم كل واحد لوحده.
+2747	corpus-6-test-corpus-26-train	ASW	الظاهر أنه نادر جداً.
+2748	corpus-6-test-corpus-26-train	ASW	فين إستلام شنط الرحلة رقم سبعماية وتلاتة؟
+2760	corpus-6-test-corpus-26-train	ASW	فيه حاجة غلط فى كفة أيدك.
+2765	corpus-6-test-corpus-26-train	ASW	هو ده هيبوظ؟
+2772	corpus-6-test-corpus-26-train	ASW	لا، شكراً. .أنا أحسنلي مشربش أكتر من كدة.
+2808	corpus-6-test-corpus-26-train	ASW	لو سمحت ممكن تقولي على شوارع كويسة للتسوق.
+2811	corpus-6-test-corpus-26-dev	ASW	هو الأتوبيس ده بيروح لفندق هيلتون؟
+2816	corpus-6-test-corpus-26-train	ASW	دلوقتي، اللوحة دي مميزة جدا. دي بتاعة تيسيوتارو كاتاأوكا. هو معروف أنه رسام عالمي.
+2850	corpus-6-test-corpus-26-train	ASW	أنا بقدر جدا الموسيقة الكلاسيكية.
+2851	corpus-6-test-corpus-26-dev	ASW	ممكن أعزمك على العشا برة فى مرة؟
+2862	corpus-6-test-corpus-26-train	ASW	تمام. أيه هو أسم الشخص اللي تبعك ورقمه لو سمحت.
+2871	corpus-6-test-corpus-26-train	ASW	لمؤاخذة. عديني، لو سمحت.
+2878	corpus-6-test-corpus-26-train	ASW	ممكن تطلبلى فريق بيتكلم ياباني؟
+2898	corpus-6-test-corpus-26-train	ASW	إحنا زرنا قرايبنا قريب جدا.
+2939	corpus-6-test-corpus-26-train	ASW	ميكي هاياكاوا. دي أوضة سبعماية واتنين.
+2945	corpus-6-test-corpus-26-train	ASW	أنا مضطر أقعد هنا الللة دي، مش كدة؟ ممكن تساعدني في حجز أوضة فى فندق؟
+2947	corpus-6-test-corpus-26-train	ASW	المفروض متكنش بعيدة. أفصى حاجة خمستاشر دقيقة.
+2960	corpus-6-test-corpus-26-train	ASW	ممكن تقولي تكلفة المكالمة دي كام؟
+2964	corpus-6-test-corpus-26-train	ASW	خلاص، ممكن تقولها إني اتصلت بيها، لو سمحت؟ أنا هتصل بيها تاني بعدين.
+2973	corpus-6-test-corpus-26-train	ASW	هو فيه أي جولة الصبح؟
+2982	corpus-6-test-corpus-26-train	ASW	هو انت بتغير عملات اجنبية؟
+2983	corpus-6-test-corpus-26-test	ASW	إحنا ميزانيتنا حوالي خمسين دولا لتلات أشخاص.
+2990	corpus-6-test-corpus-26-train	ASW	من فين أقدر اشتري فيلم كاميرا؟
+2995	corpus-6-test-corpus-26-train	ASW	إنت عندك بيرة يابانية؟
+3001	corpus-6-test-corpus-26-test	ASW	عايز بدل سباحة صغيرة، لو سمحت.
+3016	corpus-6-test-corpus-26-train	ASW	كنت عايز أسجل الشنط بتاعتي.
+3029	corpus-6-test-corpus-26-train	ASW	انا أنسة كاوازو اللي في اوضة الف ستماية وحيداشر.
+3030	corpus-6-test-corpus-26-train	ASW	العفو.
+3038	corpus-6-test-corpus-26-dev	ASW	مفيش ولا حاجة.
+3040	corpus-6-test-corpus-26-train	ASW	ايه الأهم للشعب اليابني، رأس السنة ولا عيد الميلاد؟
+3041	corpus-6-test-corpus-26-test	ASW	كرسيك رقمه اتنين وتلاتين ايه. طيب، إمشي على طول لاخر الممر. كرسيك جنب الشباك.
+3073	corpus-6-test-corpus-26-train	ASW	دقيقة واحدة، لو سمحت.
+3109	corpus-6-test-corpus-26-train	ASW	لو سمحت إملأ إستمارة الحاجات الضايعة.
+3111	corpus-6-test-corpus-26-dev	ASW	انا مقدرش افهم الانجيليزى الامريكي. انا بتكلم الانجيليزي البريطاني.
+3120	corpus-6-test-corpus-26-train	ASW	من إمبارح.
+3129	corpus-6-test-corpus-26-train	ASW	ده بيشمل تأمين على الاصطدام و المسئولية القانونية.
+3134	corpus-6-test-corpus-26-test	ASW	أنا ضيعت ورقة الاستلام بتاعتي.
+3152	corpus-6-test-corpus-26-train	ASW	عدك أي إطروحات فى التصميمات الكويسة دي؟
+3155	corpus-6-test-corpus-26-train	ASW	أنا بكلمك من كابينة تليفون من ميسي.
+3170	corpus-6-test-corpus-26-test	ASW	دولة كبار خالص.
+3176	corpus-6-test-corpus-26-train	ASW	بكام الركنة في الساعة؟
+3179	corpus-6-test-corpus-26-train	ASW	سيداتي وسادتي، إحنا معانا ناس بتتكلم ياباني على الرحلة بتاعتنا اللي هما معلقين دبابيس على شكل علم. أي حد يعرف حد عايز مساعدة فى اللغة يا ريت يبلغنا.
+3182	corpus-6-test-corpus-26-train	ASW	بتحب فترة معينة في الفن؟
+3185	corpus-6-test-corpus-26-train	ASW	معلش بص عليها تاني.
+3195	corpus-6-test-corpus-26-train	ASW	خليك ماشي على طول مع النهر حوالي نص ميل. هتلاقي الجنينة.
+3201	corpus-6-test-corpus-26-dev	ASW	لا، دولة متان جداً.
+3207	corpus-6-test-corpus-26-train	ASW	ماشي، انا هبعتهالك لاس فيجاس.
+3209	corpus-6-test-corpus-26-train	ASW	أنا بدرو على تيشيرتات جري.
+3220	corpus-6-test-corpus-26-train	ASW	عايز تشرب أي حاجة من البار؟
+3222	corpus-6-test-corpus-26-dev	ASW	من هنا لو سمحت. خد الاسانسير.
+3238	corpus-6-test-corpus-26-train	ASW	إنت أحسنلك تلحق قطر تمانية ونص.
+3267	corpus-6-test-corpus-26-test	ASW	هو فيه سينما قريبة من هنا؟
+3269	corpus-6-test-corpus-26-train	ASW	دلوقتي ده موسم المحار، علشان كدة هيبقى كويس.
+3279	corpus-6-test-corpus-26-train	ASW	كنت عايز مع ساعة يد تانية.
+3284	corpus-6-test-corpus-26-train	ASW	انا هادخل على الساعة تسعة بليل.
+3285	corpus-6-test-corpus-26-train	ASW	الوقت إتأخر، أنا المفروض أمشي.
+3289	corpus-6-test-corpus-26-train	ASW	أنا مستخدمتش خدمة المغسلة بتاعتك. ممكن تتأكد من ده تاني؟
+3292	corpus-6-test-corpus-26-train	ASW	أنا عايز شاي، لو سمحت.
+3295	corpus-6-test-corpus-26-train	ASW	لا، مفيش.
+3304	corpus-6-test-corpus-26-train	ASW	هي دي أخر محطة؟
+3318	corpus-6-test-corpus-26-train	ASW	خلينا نرن عليه.
+3323	corpus-6-test-corpus-26-train	ASW	هو ده حراق مشطشط؟
+3334	corpus-6-test-corpus-26-train	ASW	منين آخد اتوبيس المعالم السياحية؟
+3335	corpus-6-test-corpus-26-train	ASW	أيوة، أنا كنت عاوز أشوف معالم المدينة.
+3351	corpus-6-test-corpus-26-test	ASW	فيه سياح كتير حوالين المبنى، اللي الظاهر إتجمعو علشان يشوفو ايه اللي بيحصل.
+3359	corpus-6-test-corpus-26-train	ASW	متشكر على الضيافة بتاعتك.
+3375	corpus-6-test-corpus-26-train	ASW	الأمانة أحسن سياسة.
+3385	corpus-6-test-corpus-26-train	ASW	ممكن تصحيني الساعة ستة، لو سمحت؟
+3392	corpus-6-test-corpus-26-train	ASW	هو يكلف كام نص يوم؟
+3397	corpus-6-test-corpus-26-train	ASW	أنا كنجي.
+3402	corpus-6-test-corpus-26-train	ASW	تعرف أي أماكن كويسة تتشاف في شيكاجو؟
+3404	corpus-6-test-corpus-26-train	ASW	تمام، لو أنتو الاتنين مصرين، أنا همشي معاكو.
+3413	corpus-6-test-corpus-26-dev	ASW	ممكن تبدل ده بواحد تاني من نفس النوع، لو سمحت؟
+3446	corpus-6-test-corpus-26-train	ASW	كنت عاوز احجز الساعة تلاتة ونص بعد الضهر.
+3489	corpus-6-test-corpus-26-train	ASW	صندوق الأمانات، لو سمحت.
+3502	corpus-6-test-corpus-26-train	ASW	لو سمحت عايز نبيت كويس.
+3512	corpus-6-test-corpus-26-test	ASW	كنت عايز مكان صغير.
+3522	corpus-6-test-corpus-26-train	ASW	هو انا لازم ادفع البنزين؟
+3557	corpus-6-test-corpus-26-train	ASW	حرامي. امسك حرامي.
+3562	corpus-6-test-corpus-26-test	ASW	إحنا مستنين صحابنا يجو.
+3572	corpus-6-test-corpus-26-train	ASW	لو سمحت أديني شوية فكة.
+3619	corpus-6-test-corpus-26-test	ASW	كيرلي جامد، لو سمحت.
+3628	corpus-6-test-corpus-26-train	ASW	هيً صغيرة وحلوة.
+3638	corpus-6-test-corpus-26-test	ASW	ايه في الأوبرا إنهاردة؟
+3640	corpus-6-test-corpus-26-train	ASW	محمرة، لو سمحت.
+3644	corpus-6-test-corpus-26-train	ASW	أنا الغسيل بتاعي مرجعش لغاية دلوقتي.
+3649	corpus-6-test-corpus-26-train	ASW	بالمناسبة، أنت فاضي السبت الجاي؟
+3667	corpus-6-test-corpus-26-train	ASW	تمام، ماشي، إحنا إحتمال ننسجم مع بعض.
+3669	corpus-6-test-corpus-26-train	ASW	هيً عاملتني كأني متسول.
+3683	corpus-6-test-corpus-26-train	ASW	فهمت. برضه، ممكن تساعدني في مشكلة تانية؟
+3685	corpus-6-test-corpus-26-train	ASW	ممكن تحط العدسات الطبية في نضارات الشمس دي؟
+3698	corpus-6-test-corpus-26-dev	ASW	أنا هاخد اتنين من دول.
+3705	corpus-6-test-corpus-26-train	ASW	أيه الكلب اللطيف ده. سلالته ايه ده؟
+3721	corpus-6-test-corpus-26-train	ASW	أنا وقعت الشوكة بتاعتي. ممكن تجيبلي واحدة تانية.
+3742	corpus-6-test-corpus-26-train	ASW	ده كان مرح.
+3747	corpus-6-test-corpus-26-train	ASW	أكيد. إمشي على طول وإحود يمين عند الناصية التالتة. هتلاقيه على يمينك.
+3765	corpus-6-test-corpus-26-dev	ASW	عندك فيلم كاميرا لصور ملونة؟
+3780	corpus-6-test-corpus-26-train	ASW	أنت عارف كاتي؟ دي حفلة عيد ميلادها.
+3789	corpus-6-test-corpus-26-train	ASW	عندك جدول ألوان؟
+3792	corpus-6-test-corpus-26-dev	ASW	ممكن أدفع بشيك سياحي؟
+3806	corpus-6-test-corpus-26-train	ASW	لكن، هو، بنيآدم، إزاي أعرف أنه حقيقي؟
+3825	corpus-6-test-corpus-26-train	ASW	ممكن أخدها من غير ضرايب؟
+3829	corpus-6-test-corpus-26-train	ASW	أنا معرفتش أحط الشنطة بتاعتي تحت الكرسي. ممكن خلي بالك منها، لو سمحت؟
+3835	corpus-6-test-corpus-26-train	ASW	ممكن لو سمحت تحط الشنطة دي في شنطة العربية؟
+3847	corpus-6-test-corpus-26-train	ASW	أنا كدة كدة طالع برة دلوقتي، فخلاص هيجيبهالك.
+3856	corpus-6-test-corpus-26-train	ASW	لو سمحت ابعتلي حد فوق الصبح الساعة ستة ونص علشان الشنط.
+3858	corpus-6-test-corpus-26-dev	ASW	كنت عايز خريطة لسان فرانسيسكو والمنطقة اللي حواليها.
+3859	corpus-6-test-corpus-26-train	ASW	ايه العيش اللي معاك ده؟
+3860	corpus-6-test-corpus-26-train	ASW	فين الاسانسير؟
+3861	corpus-6-test-corpus-26-train	ASW	في حد بيعرف يعزف على البيانو؟
+3872	corpus-6-test-corpus-26-test	ASW	أنزل محطة أيه علشان اروح إمباير ستات بيلدينج؟
+3887	corpus-6-test-corpus-26-test	ASW	الميزانية أقل من ألف دولار.
+3892	corpus-6-test-corpus-26-train	ASW	شكراً، بس أنا معتقدش أنه أنا عندي وقت أقعد ليلتين. ممكن تحجزلي أوضة مزدوجة في الفندق ليلة اتناشر مارس بس؟
+3900	corpus-6-test-corpus-26-dev	ASW	ممكن أحجز أوضة مزدوجة بتبص على المحيط؟
+3920	corpus-6-test-corpus-26-train	ASW	إحنا مقررناش لسة.
+3928	corpus-6-test-corpus-26-train	ASW	زميلي إتكعبل والأنكل بتاعه اتلوى.
+3936	corpus-6-test-corpus-26-train	ASW	أنا هجرب أيس كريم فواكه.
+3961	corpus-6-test-corpus-26-train	ASW	في مطعم تايلاندي قريب؟
+3972	corpus-6-test-corpus-26-train	ASW	ده على يمين المبنى الطويل. فانت ارجع من نفس الطريق اللي جيت منه لغاية إشارة المرور. وبعدين إحود شمال.
+3974	corpus-6-test-corpus-26-train	ASW	عايز ألحق طيارة لوس انجلوس بكرة الصبح بدري.
+3988	corpus-6-test-corpus-26-train	ASW	"وبعدين أنا بكل ثقة بنصحك ب ""جولة مدينة سان فرانسيسكو"" دي. دي هتديك فكرة عامة عن سان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	ASW	أنا عايز أعمل تأمين.
+3995	corpus-6-test-corpus-26-test	ASW	خلينا نعمل كمدات باردة علشان نخفف الألم.
+4013	corpus-6-test-corpus-26-train	ASW	عايزة تشتري فستان.
+4016	corpus-6-test-corpus-26-train	ASW	التاكسي بياخد كام فلوس لغاية الفندق؟
+4017	corpus-6-test-corpus-26-train	ASW	فين الحمام؟
+4034	corpus-6-test-corpus-26-train	ASW	هو دخول المبنى ده بفلوس؟
+4036	corpus-6-test-corpus-26-train	ASW	زي مانت عايز.
+4082	corpus-6-test-corpus-26-test	ASW	أنا بدرو على حاجة شيك.
+4104	corpus-6-test-corpus-26-train	ASW	الشباك محشور.
+4109	corpus-6-test-corpus-26-dev	ASW	في أي جنب في يونيون سكوير؟
+4119	corpus-6-test-corpus-26-train	ASW	نص أوقية شانيل رقم خمسة، لو سمحت.
+4129	corpus-6-test-corpus-26-train	ASW	أيه رأيك في شوية قهوة؟
+4143	corpus-6-test-corpus-26-train	ASW	هو أنا لازم اقطع تذكرة؟
+4182	corpus-6-test-corpus-26-train	ASW	حوالي بكام الخدة دي؟
+4185	corpus-6-test-corpus-26-train	ASW	تبعد قد أيه من هنا؟
+4187	corpus-6-test-corpus-26-train	ASW	كريمة وسكر؟
+4193	corpus-6-test-corpus-26-train	ASW	عندك أي تخفيض في عدد الأعضاء؟
+4219	corpus-6-test-corpus-26-train	ASW	في سوبر اكسبريس تسعة ونص؟
+4221	corpus-6-test-corpus-26-train	ASW	خليني ابصلك على زيت الفرامل والموتور. الموتور بتاعك شكله عطلان.
+4224	corpus-6-test-corpus-26-train	ASW	دي كانت غلطتي.
+4262	corpus-6-test-corpus-26-train	ASW	النور قاطع.
+4263	corpus-6-test-corpus-26-train	ASW	أنا هبلغ الشرطة عن الموضوع ده.
+4269	corpus-6-test-corpus-26-train	ASW	هو كل واحد المفروض يدفع المشاريب بتاعته؟
+4275	corpus-6-test-corpus-26-train	ASW	في أي حتة من تلاتين لخمسين دولار في الليلة.
+4278	corpus-6-test-corpus-26-train	ASW	لو سمحت صلح دي.
+4284	corpus-6-test-corpus-26-train	ASW	في يوم رأس السنة. وفي المناسبات الخاصة زي الأفراح وحفلات التكريم والجنازات.
+4285	corpus-6-test-corpus-26-test	ASW	زود المسطردة، لو سمحت.
+4305	corpus-6-test-corpus-26-train	ASW	إنت متدهاش هدية ليه؟
+4321	corpus-6-test-corpus-26-test	ASW	تنصحني بفيلم أيه؟
+4324	corpus-6-test-corpus-26-test	ASW	إتفضل عشرين وإديني الباقي دولارين، لو سمحت.
+4326	corpus-6-test-corpus-26-train	ASW	هي خبطتني من الجنب.
+4335	corpus-6-test-corpus-26-train	ASW	ممكن أعدي على الساعة اتنين.
+4341	corpus-6-test-corpus-26-train	ASW	هي دي شنط رحلة جيه إيه إل زيرو واحد؟
+4346	corpus-6-test-corpus-26-train	ASW	دي أول رحلة ليا لباريس.
+4348	corpus-6-test-corpus-26-train	ASW	ممكت تقدر هتكلف قد أيه قبل متبتدي شغل؟
+4358	corpus-6-test-corpus-26-train	ASW	أدخل، لو سمحت.
+4364	corpus-6-test-corpus-26-test	ASW	التمشية بتاعتنا المفروض تبقى مليانة متعة.
+4365	corpus-6-test-corpus-26-train	ASW	إحنا مرسين المركب فين؟
+4373	corpus-6-test-corpus-26-train	ASW	إحنا معندناش شنطة تشيل الكمية دل كلها فنحطها فى الكيس البلستيك الكبير ده.
+4374	corpus-6-test-corpus-26-train	ASW	أنا عايز ألعب تنس.
+4375	corpus-6-test-corpus-26-train	ASW	فيه عصير أناناس وبرتكان وطماطم.
+4377	corpus-6-test-corpus-26-train	ASW	على شمال الدور، جنب السلم الكهربائي.
+4382	corpus-6-test-corpus-26-test	ASW	ايه اللي بيتعزف في قاعة الحفلة إنهاردة؟
+4409	corpus-6-test-corpus-26-train	ASW	إنت مش هتشوف فيلم تاني؟
+4418	corpus-6-test-corpus-26-train	ASW	لو سمحت إصرفلي الشيك السياحي ده.
+4432	corpus-6-test-corpus-26-dev	ASW	أنا كنت عايز أخد نفس التدريب بكرة، لو سمحت.
+4450	corpus-6-test-corpus-26-train	ASW	أنا ممكن أديلك إجابة أحسن لده بعد عرضين.
+4451	corpus-6-test-corpus-26-test	ASW	أنا محتاج هدية لذكرى سنوية.
+4464	corpus-6-test-corpus-26-train	ASW	هو في ايه مسرحيات موسيقية دلوقتي؟
+4475	corpus-6-test-corpus-26-train	ASW	عندك مراية؟
+4478	corpus-6-test-corpus-26-dev	ASW	لمؤاخذة، أنا تهت. ممكن تساعدني؟
+4479	corpus-6-test-corpus-26-train	ASW	أنا هاخد ده، لو سمحت.
+4497	corpus-6-test-corpus-26-train	ASW	متقدرش تجيب العاب نارية لكندا.
+4501	corpus-6-test-corpus-26-train	ASW	مراتك طباخة رائعة.
+4503	corpus-6-test-corpus-26-train	ASW	عايز مساعدتي؟
+4505	corpus-6-test-corpus-26-train	ASW	ممكن تحجزلي تاكسي بكرة الساعة ستة الصبح، لو سمحت؟
+4510	corpus-6-test-corpus-26-train	ASW	تحب تاخد حاجة مع الوجبة الرئيسية؟
+4540	corpus-6-test-corpus-26-test	ASW	فيه بوتيك قريب من هنا؟
+4549	corpus-6-test-corpus-26-train	ASW	المكان ده مليان بالناس، مش كدة؟
+4558	corpus-6-test-corpus-26-train	ASW	معلش. هيبقو جاهزين في خمس دقايق.
+4588	corpus-6-test-corpus-26-train	ASW	أنا رقبتي اتلوت انا ونايم.
+4594	corpus-6-test-corpus-26-train	ASW	ماشي، مفيش مشكلة. ممكن اشوف الباسبو بتاعك؟
+4615	corpus-6-test-corpus-26-test	ASW	معايسش أي فلوس.
+4624	corpus-6-test-corpus-26-train	ASW	المفروض ابقى في المحطة الساعة كام؟
+4630	corpus-6-test-corpus-26-train	ASW	في مطاعم كتيرة قريبة من هنا.
+4635	corpus-6-test-corpus-26-train	ASW	جنب أوضة الامانات.
+4640	corpus-6-test-corpus-26-train	ASW	كلام كويس ليك.
+4644	corpus-6-test-corpus-26-test	ASW	في جولة بعد الضهر؟
+4648	corpus-6-test-corpus-26-test	ASW	أنا مع صحابي.
+4653	corpus-6-test-corpus-26-train	ASW	أنا استمتعت بالقعدة. متشكر.
+4654	corpus-6-test-corpus-26-train	ASW	الشاطئ تحت أهو. ايه المنظر الحلو ده.
+4658	corpus-6-test-corpus-26-train	ASW	شكراً لإنتظارك، أنسة ماكجواير. أهو هنا. إتفضلي، لو سمحتي.
+4662	corpus-6-test-corpus-26-train	ASW	معاك صورة للبطاقة؟
+4671	corpus-6-test-corpus-26-train	ASW	سبعة، لو سمحت.
+4674	corpus-6-test-corpus-26-train	ASW	أنا عايز ابعت ده للمغسلة. هيبقى جاهز إمتى؟
+4685	corpus-6-test-corpus-26-train	ASW	معايا بنطلون مقلم.
+4699	corpus-6-test-corpus-26-train	ASW	أيوة. فيه شنط بتاعة حد وصلتني الأوضة لسة دلوقتي. ممكن تشوف الموضوع ده، لو سمحت؟
+4714	corpus-6-test-corpus-26-train	ASW	ممكن تتشرحلي دي بتفاصيل اكتر؟
+4729	corpus-6-test-corpus-26-train	ASW	انت نمت كويس؟
+4733	corpus-6-test-corpus-26-train	ASW	ممكن تدوس على زرار التوصير؟
+4740	corpus-6-test-corpus-26-train	ASW	مفتاحين، لو سمحت.
+4742	corpus-6-test-corpus-26-dev	ASW	كنت عايز لمبة.
+4744	corpus-6-test-corpus-26-train	ASW	في أخر الطرقة.
+4773	corpus-6-test-corpus-26-dev	ASW	عايز مفكرة.
+4788	corpus-6-test-corpus-26-train	ASW	إحنا هنروح بالأتوبيس؟
+4790	corpus-6-test-corpus-26-train	ASW	انت قلت إنك هتروح طوكيو بكرة؟
+4795	corpus-6-test-corpus-26-test	ASW	خليني أنام لغاية الساعة تسعة.
+4801	corpus-6-test-corpus-26-train	ASW	أنا ممكن اتنقل لايه دابليو واحد زيرو زيرو. ده ممكن؟
+4813	corpus-6-test-corpus-26-train	ASW	أيه أخبار دنيتك اليومين دول؟
+4814	corpus-6-test-corpus-26-dev	ASW	أنا حاسسس ان صدري طابق عليا.
+4826	corpus-6-test-corpus-26-train	ASW	مفيش مشكلة. لو بتيجي يوم خمسة سبتمر، هتستمتع بعرض فيلم علمي علشان إحنا عندينا يوم مفتوح في أول جمعة كل شهر.
+4828	corpus-6-test-corpus-26-train	ASW	عندك أي جولة تانية؟
+4836	corpus-6-test-corpus-26-train	ASW	تمام، خمسة في المية تخفيض. كدة كويس؟
+4845	corpus-6-test-corpus-26-train	ASW	أنا رايح باريس.
+4848	corpus-6-test-corpus-26-train	ASW	ده مش أخر موديل، مش كدة؟
+4857	corpus-6-test-corpus-26-train	ASW	ده مترتب الساعة تمانية ونص بليل بالتوقيت المحلي.
+4889	corpus-6-test-corpus-26-train	ASW	خد المبنى ده معانا، لو سمحت.
+4894	corpus-6-test-corpus-26-train	ASW	ماشي. هاخد طبق رز وسط.
+4901	corpus-6-test-corpus-26-train	ASW	ده شكله ايه؟
+4924	corpus-6-test-corpus-26-train	ASW	كنت عاوز اشوف ده في إطار، لو سمحت.
+4945	corpus-6-test-corpus-26-train	ASW	مستحيل. إحنا في أجازة. أنا مش موافق اقعد في الفندق واتفرج على ماتش بيسبول في التليفزيون. أنا عايز اروح اشوف مسرحية.
+4957	corpus-6-test-corpus-26-train	ASW	ممكن ألمسها؟
+4974	corpus-6-test-corpus-26-train	ASW	ممكن تيجي علشان تصلحها؟
+4983	corpus-6-test-corpus-26-train	ASW	عاوز شوية فايبر صناعي.
+4985	corpus-6-test-corpus-26-train	ASW	إسمي تارو تاناكا. أنا حاجز.
+4990	corpus-6-test-corpus-26-train	ASW	كنت عاوز كريم تطهير.
+5004	corpus-6-test-corpus-26-train	ASW	كنت عاوز بلوفر بكمام طويلة.
+5009	corpus-6-test-corpus-26-train	ASW	انا شنطتي اتسرقت.
+5017	corpus-6-test-corpus-26-train	ASW	سككنا بتتقابل كتير، مش كدة ولا ايه؟
+5035	corpus-6-test-corpus-26-train	ASW	ممكن أشوف المنيو تاني؟
+5045	corpus-6-test-corpus-26-train	ASW	شكلهم لسة قلالة خبرة.
+5082	corpus-6-test-corpus-26-train	ASW	كام؟
+5083	corpus-6-test-corpus-26-train	ASW	فرولة، لو سمحت.
+5090	corpus-6-test-corpus-26-dev	ASW	جبل فوجي أعلى قمة يابانية بإرتفاع سبعتلاف سبعماية ستة وسبعين متر.
+5091	corpus-6-test-corpus-26-train	ASW	لا، لسة. قدامي كتير علشان اختار منهم.
+5098	corpus-6-test-corpus-26-dev	ASW	كنت عايز كريم ليلي.
+5104	corpus-6-test-corpus-26-test	ASW	ده بين المخبز والجزار.
+5116	corpus-6-test-corpus-26-train	ASW	ممكن تقصر الكمام؟
+5117	corpus-6-test-corpus-26-train	ASW	للأسف مفيش ملعب جولف قريب من هنا.
+5121	corpus-6-test-corpus-26-train	ASW	ممكن توريني الخاتم التاني من الشمال؟
+5124	corpus-6-test-corpus-26-train	ASW	ممكن تقوله يكلمني؟
+5138	corpus-6-test-corpus-26-train	ASW	أنا حاولت اعمل مكالمة دولية. الخط إتوصل؟
+5148	corpus-6-test-corpus-26-test	ASW	ده غلط.
+5175	corpus-6-test-corpus-26-train	ASW	ايوة كدة. علشان انت ممكن تشوف العلم قدام البوستة.
+5207	corpus-6-test-corpus-26-test	ASW	انت أكيد هتبعتهم، صح؟
+5219	corpus-6-test-corpus-26-train	ASW	كنت عاوز اعمل تليفون بالبطاقة الإئتمانية.
+5224	corpus-6-test-corpus-26-train	ASW	بتاعي عايزه برة.
+5245	corpus-6-test-corpus-26-train	ASW	لما يوصل، هندفعلك ونشحنهالك على عنوان بيتك.
+5246	corpus-6-test-corpus-26-dev	ASW	الأيام دي أنا بستخدم الكومبيوتر على طول في الشغل.
+5250	corpus-6-test-corpus-26-train	ASW	اه، ماشي. أنا فهمت. انا هاجي عندك.
+5259	corpus-6-test-corpus-26-train	ASW	لا، كدة كفاية.
+5261	corpus-6-test-corpus-26-train	ASW	كنت عايز بطانية ومخدة؟
+5262	corpus-6-test-corpus-26-train	ASW	ممكن تيجي هنا بسرة على قد ماتقدر، لو سمحت؟
+5263	corpus-6-test-corpus-26-train	ASW	فنجان قهوة، لو سمحت.
+5267	corpus-6-test-corpus-26-test	ASW	كنت بدرو على كروت تذكارية لهاواي.
+5272	corpus-6-test-corpus-26-train	ASW	ممكن تضيقلي الوسط كام سنتي؟
+5289	corpus-6-test-corpus-26-train	ASW	أنا في نفس العمر.
+5300	corpus-6-test-corpus-26-train	ASW	ممكن تجيبلي شوية قهوة؟
+5307	corpus-6-test-corpus-26-dev	ASW	تلتماية وخمسين دولار؟ ده اكتر من ميزانيتي.
+5323	corpus-6-test-corpus-26-train	ASW	عايز تعمل تصويت على ده؟ لو لا، يبقى إحنا خلاص وصلنا لحل، وهبعته لمجلس الإدارة بتاعنا بكرة الصبح.
+5334	corpus-6-test-corpus-26-train	ASW	متعرفش فيه اي فنادق رخيصة؟
+5361	corpus-6-test-corpus-26-train	ASW	صباح الخير. انت نمت كويس؟
+5364	corpus-6-test-corpus-26-train	ASW	ناوي تعمل ايه بعد ما تخلص مدرسة؟
+5366	corpus-6-test-corpus-26-train	ASW	شنطة الكتف بتاعتي اتسرقت انا وفي الشارع.
+5367	corpus-6-test-corpus-26-train	ASW	عنكم اي خدمات تانية غير الفطار الصبح؟
+5407	corpus-6-test-corpus-26-train	ASW	كنت عاوز فنجان قهوة بحليب، لو سمحت.
+5410	corpus-6-test-corpus-26-test	ASW	ماشي. هو فندق الشيراتون قريب من هنا؟
+5411	corpus-6-test-corpus-26-train	ASW	يا رب تكون مش تعبان.
+5431	corpus-6-test-corpus-26-train	ASW	كنت عايز آجر عربية من الفئة دي لمدة يومين.
+5436	corpus-6-test-corpus-26-train	ASW	كنت عاوز توت من جاك دانييل.
+5437	corpus-6-test-corpus-26-train	ASW	كنت عايز كيس فشار، لو سمحت.
+5447	corpus-6-test-corpus-26-train	ASW	أنا وقعت عصاية بتاعة الزحلقة على الجليد.
+5455	corpus-6-test-corpus-26-train	ASW	إحنا مجبناش أي هدايا للفرح. بدل من كدة الضيوف نقضت.
+5458	corpus-6-test-corpus-26-train	ASW	كنت عايز ابعت ده بالبريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	ASW	الطيارة وصلت متأخر علشان التلج الكتير.
+5518	corpus-6-test-corpus-26-train	ASW	الحساب، لو سمحت.
+5521	corpus-6-test-corpus-26-train	ASW	ممكن تاخد الرسالة، لو سمحت؟
+5540	corpus-6-test-corpus-26-train	ASW	معلش، مش قادر اتابعك. ممكن تتكلم بالراحة شوية، لو سمحت؟
+5549	corpus-6-test-corpus-26-dev	ASW	عايزني أوريك أيه؟
+5559	corpus-6-test-corpus-26-train	ASW	ممكن آخد صور؟
+5570	corpus-6-test-corpus-26-train	ASW	واحد من مية.
+5584	corpus-6-test-corpus-26-dev	ASW	رقم الطيارة تسة وتمانين اتش بي لطوكيو يوم حيداشر مارس.
+5585	corpus-6-test-corpus-26-train	ASW	ممكن تجيبلي طبق زي ده؟
+5594	corpus-6-test-corpus-26-dev	ASW	إنت معاك واحد تاني؟
+5596	corpus-6-test-corpus-26-train	ASW	ممكن تجيبلي الفطار في الأوضة بتاعتي بكرة الساعة سبعة الصبح.
+5615	corpus-6-test-corpus-26-train	ASW	الصنايعي هيطلعلك على طول.
+5617	corpus-6-test-corpus-26-dev	ASW	معلش انا آسف. هاجي تاني بعدين.
+5640	corpus-6-test-corpus-26-test	ASW	أخدها ازاي دي؟
+5648	corpus-6-test-corpus-26-train	ASW	فيه أماكن فاضية في جولة يوم الخميس؟
+5657	corpus-6-test-corpus-26-train	ASW	لمؤاخذة. ممكن أعدي؟
+5680	corpus-6-test-corpus-26-train	ASW	عندك خضروات وفاكهة؟
+5684	corpus-6-test-corpus-26-train	ASW	لو سمحت ممكن تقولي إزاي املى استمارة النزول دي؟
+5695	corpus-6-test-corpus-26-train	ASW	أنا اعتقد إن عربيتي تستاهل حوالي حمستلاف دولار.
+5706	corpus-6-test-corpus-26-train	ASW	هو الأكل ده سعراته الحرارية قليلة؟
+5717	corpus-6-test-corpus-26-train	ASW	أخد اتوبيس ايه علشان اروح المحطة؟
+5723	corpus-6-test-corpus-26-train	ASW	أيوة، كدة. بس إنت لازم تحود شمال عند إشارة المرور التالتة وتخليك ماشي فى الشارع لغاية متوصل طريق ستة وستين.
+5733	corpus-6-test-corpus-26-dev	ASW	كنت عاوز كوباية مية علشان اخد الدوا، لو سمحت.
+5761	corpus-6-test-corpus-26-train	ASW	هكون ممنون جدا لو اخدتني للشاطئ.
+5772	corpus-6-test-corpus-26-train	ASW	انا اسف. الرقم غلط. هنا تانكيويشا برس.
+5779	corpus-6-test-corpus-26-train	ASW	إحنا ماشيين.
+5830	corpus-6-test-corpus-26-dev	ASW	أيه الموسيقى دي؟
+5847	corpus-6-test-corpus-26-train	ASW	لوسمحت إدى الدوا ده لأبنك جرعة واحدة بعد الأكل.
+5848	corpus-6-test-corpus-26-train	ASW	الموديل ده موجود منه تمانية وعشرين و واحد وتلاتين وخمسة وتلاتين سنتي.
+5875	corpus-6-test-corpus-26-train	ASW	اه، ده شكله كتير.
+5898	corpus-6-test-corpus-26-train	ASW	ممكن استخدم تليفونك؟
+5902	corpus-6-test-corpus-26-test	ASW	ده ريحته حلوة جدا. بكام ده؟
+5906	corpus-6-test-corpus-26-train	ASW	كنت عاوز اكد على حجز رحلتي لشيكاغو يوم سبعتاشر.
+5913	corpus-6-test-corpus-26-train	ASW	أنا كلت كتير شوية.
+5914	corpus-6-test-corpus-26-train	ASW	ممكن أكلم انسة براون؟
+5916	corpus-6-test-corpus-26-train	ASW	البيت ده شكله مريح في العيشة فيه، مش كدة؟
+5934	corpus-6-test-corpus-26-dev	ASW	كنت عايز احجز على خطوط نورثويست الجوية رحلة رقم صفر تمانية ستة يوم خمسة.
+5940	corpus-6-test-corpus-26-train	ASW	محفظتي وباسبوري وحاجاتي الشخصية.
+5956	corpus-6-test-corpus-26-train	ASW	بتقفل إمتى؟
+5974	corpus-6-test-corpus-26-test	ASW	إستنى دقيقة . أنا ممكن أكون سيبته فى الحمام.
+5987	corpus-6-test-corpus-26-train	ASW	ده اللي كنت هقوله بالظبط.
+5988	corpus-6-test-corpus-26-train	ASW	أيوة، أنا متهيئلي كدة.
+5997	corpus-6-test-corpus-26-train	ASW	بيتك كبير. فيه كام اوضة؟
+6006	corpus-6-test-corpus-26-train	ASW	إحنا إستمتعنا بالعشا.
+6024	corpus-6-test-corpus-26-test	ASW	أنا فاهم، بس مقدرش اقول كدة.
+6047	corpus-6-test-corpus-26-train	ASW	اه، ايوة، لو سمحت. بس يا ريت ميجيلهومش دوار البحر.
+6056	corpus-6-test-corpus-26-test	ASW	لطوكيو، لو سمحت.
+6073	corpus-6-test-corpus-26-train	ASW	امتى ميعاد وصولنا المتوقع؟
+6086	corpus-6-test-corpus-26-train	ASW	أنا ماشي بكرة بدري، علشان كدة انا عايز ادفع دلوقتي.
+6100	corpus-6-test-corpus-26-test	ASW	شيري مش حلو، لو سمحت.
+6109	corpus-6-test-corpus-26-test	ASW	كرسي مش مسموح فيه بالتدخين، لو سمحت.
+6156	corpus-6-test-corpus-26-train	ASW	هومشغول دلوقتي.
+6167	corpus-6-test-corpus-26-train	ASW	همن الأجانب ممكن يدخلو على الكتب في المكتبة؟
+6179	corpus-6-test-corpus-26-train	ASW	هو ممكن أقعد في الأوضة بتاعتي لغاية الساعة اتنين الضهر؟
+6190	corpus-6-test-corpus-26-train	ASW	ههههههه. صباح الخير بتوقيتك. كدة ماشي.
+6193	corpus-6-test-corpus-26-train	ASW	كنت عايز الفيلم رقم ايه اس ايه ده للكاميرا دي، لو سمحت.
+6205	corpus-6-test-corpus-26-train	ASW	فين رسومات مونت؟
+6214	corpus-6-test-corpus-26-train	ASW	البتزا دي لذيذة. مين اللي عملها؟
+6221	corpus-6-test-corpus-26-train	ASW	طعم الطبق عامل زي ايه؟
+6227	corpus-6-test-corpus-26-train	ASW	برضه دول غاليين.
+6228	corpus-6-test-corpus-26-train	ASW	القطر اللي جاي اللي رايح بوسطن هيمشي امتى؟
+6232	corpus-6-test-corpus-26-dev	ASW	أنا بخطط أتعلم جولف.
+6247	corpus-6-test-corpus-26-dev	ASW	لو سمحت إديني مشروب تاني.
+6253	corpus-6-test-corpus-26-train	ASW	راكب الامواج ده جامد.
+6272	corpus-6-test-corpus-26-train	ASW	للأسف الكمام قصيرة خالص.
+6283	corpus-6-test-corpus-26-train	ASW	ممكن توريني إزاي أحط البنزين؟
+6285	corpus-6-test-corpus-26-train	ASW	هيً تكلفة الفندق تشمل الفطار؟
+6287	corpus-6-test-corpus-26-train	ASW	ده كل حاجة؟
+6291	corpus-6-test-corpus-26-train	ASW	ده في اخر الطريق.
+6339	corpus-6-test-corpus-26-train	ASW	لو سمحت شغل العداد.
+6363	corpus-6-test-corpus-26-train	ASW	أوضتي برد جداً.
+6411	corpus-6-test-corpus-26-train	ASW	أنا هرجعلك لما تكون مش مشغول قوي.
+6413	corpus-6-test-corpus-26-dev	ASW	عندك واحد أكبر من ده؟
+6418	corpus-6-test-corpus-26-train	ASW	أنا حاسس نفسي أحسن.
+6430	corpus-6-test-corpus-26-dev	ASW	إنت عندك فكرة عن جغرافية اليابان؟
+6436	corpus-6-test-corpus-26-train	ASW	لو سمحت وريني أنا فين على الخريطة دي.
+6437	corpus-6-test-corpus-26-train	ASW	مية في المية قطن.
+6466	corpus-6-test-corpus-26-train	ASW	كنت عايز اغير الأوضة على المحيط. فيه تكلفة زيادة؟
+6472	corpus-6-test-corpus-26-train	ASW	بكام إيجار نص يوم للوح؟
+6481	corpus-6-test-corpus-26-train	ASW	عشرة نوفمبر.
+6484	corpus-6-test-corpus-26-dev	ASW	كنت عايز شريط آلة كاتبة.
+6492	corpus-6-test-corpus-26-train	ASW	مذاقه حلو جداً.
+6497	corpus-6-test-corpus-26-train	ASW	إحنا هنطير إمتى؟
+6498	corpus-6-test-corpus-26-train	ASW	إزاي خليت السواق يعرف لما كنت عايز تنزل؟
+6513	corpus-6-test-corpus-26-train	ASW	اربعة وعشرين دولار. إنت عايز اكتر؟
+6515	corpus-6-test-corpus-26-train	ASW	أنا حجزت في طوكيو من شهر.
+6517	corpus-6-test-corpus-26-train	ASW	أنا بشكرك من كل قلبي.
+6525	corpus-6-test-corpus-26-train	ASW	هو انا المفروض أنزل هنا علشان أروح مركز روكيفيلير؟
+6539	corpus-6-test-corpus-26-train	ASW	لو سمحت قيس مقاس الجزمة بتاعتي.
+6547	corpus-6-test-corpus-26-train	ASW	ده روعة.
+6550	corpus-6-test-corpus-26-train	ASW	ممكن تطلع معايا في ميعاد غرامي؟
+6552	corpus-6-test-corpus-26-train	ASW	لو سمحت نضف البالطو ده.
+6553	corpus-6-test-corpus-26-train	ASW	كنت عايز آجر لنش.
+6574	corpus-6-test-corpus-26-train	ASW	فين قسم الحريم؟
+6581	corpus-6-test-corpus-26-train	ASW	ده مبيشملش قهوة؟
+6593	corpus-6-test-corpus-26-train	ASW	هو كان في مجال ايه قبل كدة؟
+6602	corpus-6-test-corpus-26-train	ASW	ينعل ابو كدة. ينعل ابو كدة. ينعل ابو كدة. انا اتعودت على وشها.
+6609	corpus-6-test-corpus-26-train	ASW	هو انا المفروض أدفع فلوس زيادة لما أدخل مبنى؟
+6613	corpus-6-test-corpus-26-test	ASW	ازيك، الطرف التاني على الخط. إتفضل، لو سمحت.
+6625	corpus-6-test-corpus-26-train	ASW	الجرح بتاعي بيألم.
+6635	corpus-6-test-corpus-26-train	ASW	فين المحطة؟
+6657	corpus-6-test-corpus-26-train	ASW	عندي قشعريرة.
+6659	corpus-6-test-corpus-26-train	ASW	تلات تيام.
+6660	corpus-6-test-corpus-26-dev	ASW	عدي الكوبري من هنا، هتلاقي المكتبة على إيدك الشما.
+6692	corpus-6-test-corpus-26-dev	ASW	لو سمحت ساعدني ألاقي مرشد بيتكلم ياباني.
+6699	corpus-6-test-corpus-26-train	ASW	مش عايز واحد ضخم.
+6700	corpus-6-test-corpus-26-train	ASW	هيبقى فيه تاخير بسيط.
+6715	corpus-6-test-corpus-26-train	ASW	ايه الفرق بين الفنادق دي؟
+6724	corpus-6-test-corpus-26-test	ASW	المحطة بتاعتى فاتتني.
+6736	corpus-6-test-corpus-26-train	ASW	ده كان عظيم. متشكر.
+6740	corpus-6-test-corpus-26-dev	ASW	أنا هبقى هنا حوالي الساعة ستة بليل.
+6746	corpus-6-test-corpus-26-train	ASW	عندك أي حاجة أطول شوية؟
+6766	corpus-6-test-corpus-26-train	ASW	تاريخ إنتهاء الصلاحية في مارس الف تسعماية تسعة وتسعين.
+6780	corpus-6-test-corpus-26-test	ASW	كان إزاي ده؟
+6800	corpus-6-test-corpus-26-train	ASW	فيه كازينوهات حلوة هنا؟
+6810	corpus-6-test-corpus-26-train	ASW	خد فلوس أقلام الحبر. فاتورة بمية دولار.
+6812	corpus-6-test-corpus-26-train	ASW	فين قسم السيدات؟
+6825	corpus-6-test-corpus-26-train	ASW	من فين أقدر أركب مركب؟
+6832	corpus-6-test-corpus-26-train	ASW	صحابي اتعورو.
+6835	corpus-6-test-corpus-26-train	ASW	شكلك كويس.
+6836	corpus-6-test-corpus-26-dev	ASW	هو المحل ده هيبقى مفتوح الصبح؟
+6862	corpus-6-test-corpus-26-test	ASW	هو على طول في نهاية القاعة.
+6864	corpus-6-test-corpus-26-train	ASW	ممكن لو سمحت تظبطلي شنبي؟
+6866	corpus-6-test-corpus-26-dev	ASW	ده بيجي مع بار السلطة وممكن تختار بطاطس مخبوزة أو فرنسية مقلية.
+6875	corpus-6-test-corpus-26-dev	ASW	من فين اقدر أشتري حلة؟
+6914	corpus-6-test-corpus-26-train	ASW	مقدرش ابيع ده من غير روشتة.
+6917	corpus-6-test-corpus-26-train	ASW	ممكن احجز خمس تذاكر مع بعض في نفس الصف؟
+6923	corpus-6-test-corpus-26-test	ASW	ممكن تسلفني سلبة، لو سمحت؟
+6944	corpus-6-test-corpus-26-train	ASW	ايه العربية اللي ممكن تدي اميال احسن؟
+6960	corpus-6-test-corpus-26-train	ASW	انت مش هتاخد تخفيض لو عملت ايه.
+6966	corpus-6-test-corpus-26-train	ASW	ممكن تفتح الشنطة دي، لو سمحت؟ إنت معاك ايه هنا؟
+6970	corpus-6-test-corpus-26-train	ASW	كنت عايز اعمل مكالمة دولية لفندق هيلتون في بوسطن.
+6984	corpus-6-test-corpus-26-test	ASW	هما السيدات وافقو على كدة؟
+6991	corpus-6-test-corpus-26-train	ASW	خلي بالك، السقف واطي.
+6999	corpus-6-test-corpus-26-train	ASW	أنا مش اشوف الشاشة كويس من هنا. ممكن أغير الكراسي شوية؟
+7030	corpus-6-test-corpus-26-train	ASW	انا زرت جريت لايكس لاول مرة.
+7048	corpus-6-test-corpus-26-train	ASW	في حاجة غلط فى ماكينة البيه دي.
+7057	corpus-6-test-corpus-26-train	ASW	انا محتاج دكتور.
+7070	corpus-6-test-corpus-26-train	ASW	هيً ليها قد ايه في المملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	ASW	المعجبين بجماعة الطليعة اللي زيك هيحبو رسومات الهيبز وموسيقى الشوارع .
+7098	corpus-6-test-corpus-26-train	ASW	إمتى؟
+7099	corpus-6-test-corpus-26-dev	ASW	انا هاخد هوت دوج وكولا.
+7104	corpus-6-test-corpus-26-dev	ASW	معاك موظف التليفون الخارجي.
+7123	corpus-6-test-corpus-26-train	ASW	إنت شايف المبنى الابيض، صح؟ ده قدام المبنى ده.
+7130	corpus-6-test-corpus-26-test	ASW	من إمتى؟
+7137	corpus-6-test-corpus-26-test	ASW	معنديش حاجة اعلن عنها.
+7198	corpus-6-test-corpus-26-dev	ASW	أيه؟ هو انت مضطر تدفع ضرايب لما تشتري اكتر من تلات جزايز كحول؟
+7206	corpus-6-test-corpus-26-dev	ASW	صاحبي تعبان خالص. ممكن تطلب دكتور، لو سمحت؟
+7227	corpus-6-test-corpus-26-test	ASW	انا معرفش كتير عن النبيت. ايه المناسب للطبق ده؟
+7233	corpus-6-test-corpus-26-dev	ASW	ممكن تتصل بيا الصبح بدري، لو سمحت؟
+7248	corpus-6-test-corpus-26-dev	ASW	فيه محطة بنزين على بعد تقاطعين من هنا.
+7253	corpus-6-test-corpus-26-train	ASW	الشعب الياباني مبيخدوش اجازات طويلة.
+7264	corpus-6-test-corpus-26-train	ASW	انا حاسس انك بتبحلق فيا. دي أول مرة تشوف فيها واحد ياباني؟
+7269	corpus-6-test-corpus-26-test	ASW	طبعاً لا. إنت ليه بتقول لو؟
+7270	corpus-6-test-corpus-26-train	ASW	طريه ايه اللي يويديني للبوسطة المركزية؟
+7274	corpus-6-test-corpus-26-train	ASW	فين جراش جرايهويند في المدينة دي؟
+7281	corpus-6-test-corpus-26-train	ASW	بس مش المطاعم اليابانية غالية في كيوتو؟
+7289	corpus-6-test-corpus-26-train	ASW	متهيئلى ده عالي شوية بالنسبالي.
+7291	corpus-6-test-corpus-26-test	ASW	إحنا عندينا أوضة مزدوجة بحمام بخمسة وتمانين دولار.
+7305	corpus-6-test-corpus-26-train	ASW	كنت عايز تقييم الكتاب.
+7314	corpus-6-test-corpus-26-test	ASW	السنة دي ابرد من المعتاد، بس موصلتش انها تنزل تلج.
+7321	corpus-6-test-corpus-26-train	ASW	ممكن أشتري تذكرة مترو من فين؟
+7335	corpus-6-test-corpus-26-train	ASW	أنا هاخد كراسي بيزنس كلاس، مش صح؟
+7343	corpus-6-test-corpus-26-train	ASW	كام أجرة التاكسي من الفندق للمحطة؟
+7349	corpus-6-test-corpus-26-train	ASW	ممكن اخد ده وده، لو سمحت؟
+7381	corpus-6-test-corpus-26-train	ASW	بيقولو ان اليابان بلد غنية جداً.
+7386	corpus-6-test-corpus-26-train	ASW	في اي أوض فاضية في عربية النوم؟
+7391	corpus-6-test-corpus-26-dev	ASW	ممكن تنزلهالي لعشرين دولار، لو سمحت؟
+7395	corpus-6-test-corpus-26-train	ASW	دي هدية لواحد صاحبي.
+7412	corpus-6-test-corpus-26-train	ASW	التلج بيخلي الطريق بيزحلق.
+7414	corpus-6-test-corpus-26-train	ASW	انا مش لاقي الكاميرا بتاعتي.
+7416	corpus-6-test-corpus-26-test	ASW	انا هعمل سندوتشين من لحمة الخنزير.
+7438	corpus-6-test-corpus-26-train	ASW	عندك اي حاجة عايزتوضحها؟
+7439	corpus-6-test-corpus-26-train	ASW	مشفتش بالطو ازرق؟ انا حطيته على الكرسي.
+7470	corpus-6-test-corpus-26-test	ASW	فيه محل ورد في الشارع الناحية التانية.
+7478	corpus-6-test-corpus-26-train	ASW	أنا من طوكيو.
+7479	corpus-6-test-corpus-26-train	ASW	كنت عايز كريم غسيل ريفلون.
+7485	corpus-6-test-corpus-26-train	ASW	انا عندي كام حاجة للغسيل.
+7507	corpus-6-test-corpus-26-dev	ASW	أنا طلبته من بدري.
+7533	corpus-6-test-corpus-26-dev	ASW	ممكن تبعتلي شيال لأوضتي الساعة ستة الصبح؟
+7549	corpus-6-test-corpus-26-train	ASW	انا هاخد هوت شوكوليت.
+7550	corpus-6-test-corpus-26-train	ASW	إحنا بنحاول نظبط علشان ننضفلك أوضتك.
+7574	corpus-6-test-corpus-26-train	ASW	مخصوص، لو سمحت.
+7583	corpus-6-test-corpus-26-train	ASW	بكام لغاية فندق سي؟
+7612	corpus-6-test-corpus-26-test	ASW	ممكن اخد تذكرة اركب بيها كذا مرة ؟
+7622	corpus-6-test-corpus-26-train	ASW	كنت عايزاحجز طربيزة لاتنين الساعة سبعة، لو سمحت.
+7626	corpus-6-test-corpus-26-train	ASW	كنت عايز كريم ليلي.
+7627	corpus-6-test-corpus-26-train	ASW	ممكن تلفيلي دي لفة هدايا؟
+7636	corpus-6-test-corpus-26-train	ASW	تلاتة وربع.
+7650	corpus-6-test-corpus-26-train	ASW	أنا بخطط أني ابعت فواتير إحتياجاتي الضرورية، فلوسمحت قولي عنوان واسم الشخص المسئول.
+7656	corpus-6-test-corpus-26-test	ASW	صعب علينا نتكلم إنجليزي بطلاقة.
+7662	corpus-6-test-corpus-26-train	ASW	عندك من دول بنفس الشكل بس بكعوب اعلى؟
+7663	corpus-6-test-corpus-26-train	ASW	كنت عايز بلوفر لولد عنده عشر سنين.
+7671	corpus-6-test-corpus-26-train	ASW	خدني لطريق آبي، لو سمحت.
+7684	corpus-6-test-corpus-26-dev	ASW	متشكر. اهلاً، شكراً انك استنيت.
+7693	corpus-6-test-corpus-26-train	ASW	أنا متأكد انا حاجز.
+7708	corpus-6-test-corpus-26-train	ASW	أنا هبعتهولك، فاستنى هنا لو سمحت.
+7712	corpus-6-test-corpus-26-dev	ASW	إحنا هنقعد هنا يوم .
+7721	corpus-6-test-corpus-26-train	ASW	أنا عندي صداع خفيف.
+7736	corpus-6-test-corpus-26-train	ASW	أنا استمتعت بالأكل مية مية.
+7756	corpus-6-test-corpus-26-train	ASW	لا، أقعد واستنى لو سمحت. انا هرجعلك على طول.
+7761	corpus-6-test-corpus-26-test	ASW	ممكن أشوف العربية؟
+7767	corpus-6-test-corpus-26-train	ASW	ممكن ترسملي خريطة، لو سمحت؟
+7789	corpus-6-test-corpus-26-test	ASW	ماشي، حضرتك. خليك في أوضتك لغاية ميجيلك الدكتور لو سمحت.
+7811	corpus-6-test-corpus-26-train	ASW	أنا اتثبت فى شاطئ واي مانولا. تعالالي حالاً لو سمحت.
+7812	corpus-6-test-corpus-26-train	ASW	أيه رايك في مية دولار؟
+7814	corpus-6-test-corpus-26-train	ASW	كنت عايز ده علبة.
+7831	corpus-6-test-corpus-26-train	ASW	عايز أقدم علشان إعادة إصدار.
+7834	corpus-6-test-corpus-26-train	ASW	الحكومة بتدعم تطوير الصناعات.
+7838	corpus-6-test-corpus-26-train	ASW	هو أكتر من خمسين سنة، متهيئلي.
+7858	corpus-6-test-corpus-26-dev	ASW	أهي اقل عمر لده؟
+7860	corpus-6-test-corpus-26-train	ASW	معاك أي خرايط بسيطة للمدينة؟
+7867	corpus-6-test-corpus-26-test	ASW	لو ممكن، أنا افضل انك متقلعليش السنة.
+7871	corpus-6-test-corpus-26-dev	ASW	النتيجة كورة وحدة وضربتين.
+7883	corpus-6-test-corpus-26-train	ASW	القطر هيوصل امتى سان دييجو، لو سمحت؟
+7913	corpus-6-test-corpus-26-train	ASW	كنت عايز ابص بصة على الصندوق بتاعك.
+7925	corpus-6-test-corpus-26-train	ASW	كنت عايز شامبو.
+7947	corpus-6-test-corpus-26-train	ASW	انا قاعد في فندق الهيلتون.
+7948	corpus-6-test-corpus-26-train	ASW	حاسس اني مش كويس وهيغمى عليا.
+7957	corpus-6-test-corpus-26-train	ASW	بس انا معايا معاها ميعاد الساعة اتنين.
+7972	corpus-6-test-corpus-26-train	ASW	هي العربية دي بتروح إدنبره؟
+7976	corpus-6-test-corpus-26-train	ASW	ايوة، لوسمحت إملى الفورمة دي.
+7983	corpus-6-test-corpus-26-train	ASW	بتدفع كام للوزن الزيادة؟
+7991	corpus-6-test-corpus-26-dev	ASW	اسمي كيمورا. كنت عايز الغي حجزي يوم الجمعة.
+7996	corpus-6-test-corpus-26-test	ASW	اه، معلش. كان فيه مشكلة وكنا بنحلها. ممكن تستنى حوالي تلاتين دقيقة؟
+8039	corpus-6-test-corpus-26-train	ASW	المفروض اعمل تشيك اوت امتى؟
+8050	corpus-6-test-corpus-26-train	ASW	أنا فهمت.
+8058	corpus-6-test-corpus-26-train	ASW	انا هاتصل بواحد.
+8067	corpus-6-test-corpus-26-test	ASW	كنت عايز تخلص الفاتورة دلوقتي؟
+8068	corpus-6-test-corpus-26-train	ASW	العربية جاتلي من جنب التقاطع.
+8094	corpus-6-test-corpus-26-train	ASW	ده صندوق الموسيقى.
+8095	corpus-6-test-corpus-26-train	ASW	فين المنطقة دي؟
+8098	corpus-6-test-corpus-26-train	ASW	فيه اتوبيس بيعمل جولة في المدينة؟
+8108	corpus-6-test-corpus-26-train	ASW	هنبتدي إمتى؟
+8114	corpus-6-test-corpus-26-train	ASW	تمام، لو انت عايز الحجم الكتوسط ممكن نقدملك ميركري سابل، مشي كدة؟
+8116	corpus-6-test-corpus-26-train	ASW	انت خدتلك كدمة في العضلة.
+8141	corpus-6-test-corpus-26-train	ASW	بس اإنت لازم توعدني انك تضرب الكورة، مش أنا. ماشي؟
+8143	corpus-6-test-corpus-26-train	ASW	تبعد قد ايه؟
+8149	corpus-6-test-corpus-26-train	ASW	ممكن استلف شوية بياضات؟
+8156	corpus-6-test-corpus-26-train	ASW	الشنطة دي معمولة من جلد ايه؟
+8161	corpus-6-test-corpus-26-train	ASW	انا معتقدش ان السكينة دي نضيفة. ممكن تجيبلي واحدة تانية؟
+8164	corpus-6-test-corpus-26-train	ASW	انا اشتريته من لحظة، إنت هتغيره علشان دي؟
+8173	corpus-6-test-corpus-26-train	ASW	فرانكلي اللي بيتكلم. أنا مش موافق على كدة.
+8177	corpus-6-test-corpus-26-train	ASW	هو ده الطريق الصح للمحطة الرئيسية؟
+8183	corpus-6-test-corpus-26-train	ASW	مركب بمرشد، لو سمحت.
+8193	corpus-6-test-corpus-26-train	ASW	كنت عايز اطلب بدلة غامقة ليا.
+8194	corpus-6-test-corpus-26-train	ASW	الشمسية دي هتقوم بعمل العصاية.
+8202	corpus-6-test-corpus-26-test	ASW	هو انا لازم اسيب الشنط بتاعتي فى أوضة الامانات؟
+8210	corpus-6-test-corpus-26-train	ASW	لو سمحت وريني الباسبور بتاعك.
+8227	corpus-6-test-corpus-26-train	ASW	في اي مكان بياخد غسيل ايام الحد؟
+8233	corpus-6-test-corpus-26-train	ASW	اتنين برجر بالجبنة، لو سمحت.
+8234	corpus-6-test-corpus-26-train	ASW	أنهي اتوبيس بيروح لميامي؟
+8236	corpus-6-test-corpus-26-train	ASW	بس ضروري متديش بقشيش.
+8248	corpus-6-test-corpus-26-train	ASW	ممكن تشوف واحد في قاعة كارنيجي.
+8250	corpus-6-test-corpus-26-train	ASW	انا مش معايا شهادة.
+8271	corpus-6-test-corpus-26-train	ASW	أيه تخصص البيت؟
+8280	corpus-6-test-corpus-26-train	ASW	كنت عايز احجز ميعاد عند الدكتور.
+8291	corpus-6-test-corpus-26-dev	ASW	كنت بسال لو فيه طربيزة فاضية جنب الشباك لسبع افراد إنهاردة بليل.
+8295	corpus-6-test-corpus-26-train	ASW	انت معندكش مانع اجي عندك؟
+8305	corpus-6-test-corpus-26-train	ASW	باين عليه محتاج يتحسن.
+8316	corpus-6-test-corpus-26-train	ASW	فين المترو؟
+8334	corpus-6-test-corpus-26-train	ASW	عندك واحد منه اصغر شوية؟
+8338	corpus-6-test-corpus-26-train	ASW	ممكن اجيب إسبرين من فين؟
+8342	corpus-6-test-corpus-26-train	ASW	دى أقل حاجة؟
+8349	corpus-6-test-corpus-26-train	ASW	لو سمحت إديني تصريح بمرور اسبوع.
+8355	corpus-6-test-corpus-26-train	ASW	ده زميلي.
+8358	corpus-6-test-corpus-26-train	ASW	نوعه ايه البنزين ده؟ ممتاز وعادي ومنقى؟
+8368	corpus-6-test-corpus-26-train	ASW	خد واحد اهو.
+8371	corpus-6-test-corpus-26-train	ASW	شكله هيجيني برد.
+8409	corpus-6-test-corpus-26-test	ASW	ده بيبقى قافل يوم الاتنين، اي يوم تاني عادي معاك. هو بيبقى فاتح من تسعة لخمسة.
+8418	corpus-6-test-corpus-26-train	ASW	انا عايز تعبان البحر مشوي بصوص مخصوص على طبق رز كبير.
+8435	corpus-6-test-corpus-26-train	ASW	"هو قالي ""تعالى نحتفل"" وراح واخدني على البار. هو قالي انه رايح يعمل تليفون ومرجعش تاني وانا اتدبست في فاتورة كبيرة."
+8454	corpus-6-test-corpus-26-train	ASW	الجالون من ده بكام؟
+8456	corpus-6-test-corpus-26-train	ASW	انا كان معايا الباسبور و كارت البنك في الشنطة بتاعتي.
+8485	corpus-6-test-corpus-26-train	ASW	الحجز الساعة سبعة، باسم مانوي.
+8495	corpus-6-test-corpus-26-train	ASW	مش عايز كوباية شاي؟
+8497	corpus-6-test-corpus-26-dev	ASW	ممكن تقولي الاقي القنصلية اليابانية فين؟
+8509	corpus-6-test-corpus-26-train	ASW	فيه دكتور في الفندق او واحد تعرفه؟
+8516	corpus-6-test-corpus-26-train	ASW	هو دايما بيشتري من شارع بوند.
+8527	corpus-6-test-corpus-26-train	ASW	جورنان انجليزي، لو سمحت.
+8535	corpus-6-test-corpus-26-train	ASW	فيه اي مكان بتتعزف فيه موسيقى الريف؟
+8539	corpus-6-test-corpus-26-test	ASW	كنت عايز ابص على الحاجات القيمة بتاعتي.
+8543	corpus-6-test-corpus-26-train	ASW	فيه منه صوف تاني؟
+8551	corpus-6-test-corpus-26-train	ASW	بكام الصفحة الواحدة؟
+8574	corpus-6-test-corpus-26-train	ASW	تمام، دوس تسعة زيرو زيرو واحد، وبعد كدة كود البلد ورقم التليفون.
+8577	corpus-6-test-corpus-26-train	ASW	ممكن كولا دايت؟
+8584	corpus-6-test-corpus-26-train	ASW	ممكن أعمل طلبية؟
+8595	corpus-6-test-corpus-26-train	ASW	احنا استمتعنا بالسواقة. متشكرين.
+8604	corpus-6-test-corpus-26-test	ASW	لمؤاخذة. ممكن اعدي؟
+8610	corpus-6-test-corpus-26-train	ASW	كل الشعب الياباني حوالي مية وتلاتين مليون.
+8618	corpus-6-test-corpus-26-train	ASW	كنت عايز آجر شمسية.
+8625	corpus-6-test-corpus-26-train	ASW	ايوة، كنت عايز اتصل على حساب اللى هتصل بيه.
+8636	corpus-6-test-corpus-26-train	ASW	محفظة فيها مية دولار وكارتين بنك.
+8637	corpus-6-test-corpus-26-train	ASW	المية سخنة خالص.
+8675	corpus-6-test-corpus-26-train	ASW	أنت هنا.
+8688	corpus-6-test-corpus-26-dev	ASW	فنجان قهوة، لو سمحت.
+8690	corpus-6-test-corpus-26-train	ASW	مستبعد خالص.
+8696	corpus-6-test-corpus-26-train	ASW	معدتي بتوجعني بعد ماباكل.
+8734	corpus-6-test-corpus-26-train	ASW	الله، ده مكان رائع.
+8741	corpus-6-test-corpus-26-train	ASW	هو ممكن يكون عنده إنصمام هوائي.
+8749	corpus-6-test-corpus-26-train	ASW	إنت قررت؟
+8788	corpus-6-test-corpus-26-train	ASW	لو إنت عايز، ممكن نستريح هنا.
+8791	corpus-6-test-corpus-26-test	ASW	انا مش عارف مكان ايميل التسجيل فين.
+8803	corpus-6-test-corpus-26-train	ASW	متقدرش تغير شغلك بسهولة.
+8805	corpus-6-test-corpus-26-train	ASW	ايه المحطة اللي جاية؟
+8811	corpus-6-test-corpus-26-train	ASW	قشطة، بس مش في المدرجات المفتوحة. إنهاردة حر خالص.
+8823	corpus-6-test-corpus-26-dev	ASW	إنزل هنا، وإركب أتوبيس رقم ستة.
+8824	corpus-6-test-corpus-26-dev	ASW	انا لازم الحق طيارة الساعة عشرة الصبح.
+8827	corpus-6-test-corpus-26-train	ASW	انا لسة حاسس نفسي عايز ارجع.
+8833	corpus-6-test-corpus-26-train	ASW	انا مش عايز حاجة ضخمة.
+8840	corpus-6-test-corpus-26-train	ASW	بص، لو سمحت.
+8844	corpus-6-test-corpus-26-test	ASW	بكام الماشروم الطازة؟
+8850	corpus-6-test-corpus-26-train	ASW	الحساب، لو سمحت. انتو بتقبلو فيزة؟
+8851	corpus-6-test-corpus-26-train	ASW	إنهاردة هروح أشوف الحي الصيني ده عامل إزاي.
+8880	corpus-6-test-corpus-26-train	ASW	اتنين زيرو اتنين تسعة تلاتة تسعة ستة سبعة زيرو زيرو.
+8900	corpus-6-test-corpus-26-train	ASW	كنت عايز أخلع سناني.
+8905	corpus-6-test-corpus-26-train	ASW	كنت عايز شنطة مستحضرات التجميل.
+8907	corpus-6-test-corpus-26-dev	ASW	انا مش عارف المفروض اسيب تبس قد ايه.
+8914	corpus-6-test-corpus-26-train	ASW	افين اقدر اشوف رواية شبح الاوبرا؟
+8915	corpus-6-test-corpus-26-train	ASW	كنت عايز اشتري هدايا تذكارية لصحابي . ممكن تنصحني بحاجة؟
+8918	corpus-6-test-corpus-26-train	ASW	بطئ اكتر، لو سمحت.
+8919	corpus-6-test-corpus-26-dev	ASW	إنت بتدفع قد ايه كمتوسط للفاكس الدولي كل شهر؟
+8947	corpus-6-test-corpus-26-train	ASW	مقلي على الجنبين، لو سمحت.
+8966	corpus-6-test-corpus-26-dev	ASW	ماشي، ده كدة واضح جداً. انتو الاتنين لو سمحتم إدوني الرخص وورق التسجيل. والواد، للأسف إن إحنا هنضطر نعملك إختبار لقياس الكحول.
+9011	corpus-6-test-corpus-26-train	ASW	انا هبقى جاهز بعد بكرة بليل.
+9022	corpus-6-test-corpus-26-train	ASW	ده معمول من قطن؟
+9029	corpus-6-test-corpus-26-dev	ASW	انا معايا الدوا بتاعي.
+9034	corpus-6-test-corpus-26-train	ASW	هشوف ايه في الجولة دي؟
+9041	corpus-6-test-corpus-26-train	ASW	ايوة، انت لازم تشرب مشروب على الاقل.
+9051	corpus-6-test-corpus-26-train	ASW	بكام في اليوم؟
+9061	corpus-6-test-corpus-26-dev	ASW	هو الاتوبيس ده بيوقف جنب الفندق؟
+9073	corpus-6-test-corpus-26-train	ASW	كنت عايز سي دي.
+9077	corpus-6-test-corpus-26-train	ASW	فيه رحلات الخطوط الجوية اليابانية وأول نيبون ودول بيمشو الساعة حيداشر إلا خمسة. بس للأسف الرحلتين مليانين.
+9094	corpus-6-test-corpus-26-train	ASW	ده يناسبني جداً.
+9098	corpus-6-test-corpus-26-train	ASW	ممكن ناخد طربيزة لخمسة؟
+9100	corpus-6-test-corpus-26-train	ASW	هيً مبتعرفش انجليزي خالص.
+9126	corpus-6-test-corpus-26-dev	ASW	لو سمحت إصرفلي الشيك السياحي ده.
+9150	corpus-6-test-corpus-26-train	ASW	ممكن تخلي بالك منها من الساعة تسعة الصبح لغاية حوالي تلاتة؟
+9160	corpus-6-test-corpus-26-train	ASW	بكام البريد الجوي لغاية اليابان؟
+9176	corpus-6-test-corpus-26-train	ASW	الباب اتقفل عليا انا وبره . ممكن تفتحلي اباب، لو سمحت.
+9211	corpus-6-test-corpus-26-train	ASW	ايه افضل جولة اشوف فيها احسن الاماكن المعروفة؟
+9229	corpus-6-test-corpus-26-test	ASW	مفيش مضيفة بتتكلم إنجليزي؟
+9242	corpus-6-test-corpus-26-test	ASW	ممكن اخد كام شنطة معايا على الطيارة؟
+9263	corpus-6-test-corpus-26-train	ASW	لا، حضرتك. بعد الضهر كله محجوز. بس بكرة ماشي.
+9267	corpus-6-test-corpus-26-train	ASW	انا هروح اسأل البواب على الأجرة الصح.
+9303	corpus-6-test-corpus-26-train	ASW	انا حقيقي، متأسف.
+9308	corpus-6-test-corpus-26-train	ASW	إحنا عندينا حفلة يوم الجمعة بليل. متيجي معانا؟
+9312	corpus-6-test-corpus-26-train	ASW	تمام. أوضتك تسعة زيرو تمانية، يا أنسة. إتفضلي مفتاحك.
+9316	corpus-6-test-corpus-26-dev	ASW	مهم جداً ان احنا نرعف المواد الخام قبل منبتدي في المشروع.
+9324	corpus-6-test-corpus-26-train	ASW	لمؤاخذة، ظابط؟
+9325	corpus-6-test-corpus-26-train	ASW	هو القطر ده بيروح على إيدنبره مباشرة؟
+9329	corpus-6-test-corpus-26-train	ASW	هو ده يبقى جوه الاعفا من الضرايب؟
+9337	corpus-6-test-corpus-26-train	ASW	طلعلي الحاجات المهة بتاعتي برة، لو سمحت.
+9358	corpus-6-test-corpus-26-train	ASW	هي الرحلات السياحية بتبقى زحمة قد ايه؟
+9367	corpus-6-test-corpus-26-train	ASW	كنت عايز اشتري شوية هدايا تذكارية. في محل مناسب قريب من هنا؟
+9372	corpus-6-test-corpus-26-train	ASW	هيفضل فاتح لغاية امتى؟
+9384	corpus-6-test-corpus-26-train	ASW	هو برة دلوقتي.
+9385	corpus-6-test-corpus-26-train	ASW	مايومي، ممكن تملى الورقة دي وتوقعها؟
+9431	corpus-6-test-corpus-26-train	ASW	إتفضل واحد، حضرتك.
+9432	corpus-6-test-corpus-26-train	ASW	اما معايش شنط اعمل بيها تشيك ان.
+9446	corpus-6-test-corpus-26-test	ASW	أكيد، خد وقتك.
+9450	corpus-6-test-corpus-26-train	ASW	انا هنا في مهمة إعلامية.
+9463	corpus-6-test-corpus-26-train	ASW	انت عندك افلام الصيف؟
+9481	corpus-6-test-corpus-26-train	ASW	إمتى القطر اللي جاي لواشنطن دي سي؟
+9494	corpus-6-test-corpus-26-test	ASW	الطوال موضة دلوقتي.
+9516	corpus-6-test-corpus-26-train	ASW	انا هكون راجع اليابان الاتنين اللي جاي.
+9526	corpus-6-test-corpus-26-train	ASW	ممكن اخد خريطة المترو؟
+9542	corpus-6-test-corpus-26-train	ASW	هيً سواقة طويلة؟
+9560	corpus-6-test-corpus-26-train	ASW	ممكن تبدلي ده بواحد جديد؟
+9576	corpus-6-test-corpus-26-train	ASW	فردين.
+9579	corpus-6-test-corpus-26-test	ASW	اقدر اخد شنطي من فين؟
+9581	corpus-6-test-corpus-26-train	ASW	انا مش مرتاح. ممكن ارجع الكرسي بتاعي؟
+9604	corpus-6-test-corpus-26-train	ASW	اتناشر إلا ربع الصبح.
+9605	corpus-6-test-corpus-26-train	ASW	ممكن تقولي على مطعم مشهور بين الشباب؟
+9606	corpus-6-test-corpus-26-train	ASW	عربيته كانت ماشية بأقصى سرعة.
+9611	corpus-6-test-corpus-26-dev	ASW	ممكن اسيب رسالة؟ انا بتصل علشان آكد ميعادي مع الاستاذ إيبرت الأربع اللي جاي حيداشر الصبح.
+9628	corpus-6-test-corpus-26-dev	ASW	ممكن تشرحلي العيا بتاعك باي طريقة بالإنجليزي؟
+9634	corpus-6-test-corpus-26-test	ASW	ممكن تبعت تاكسي للمدخل الرئيسي لمول ويستمينيستر؟
+9651	corpus-6-test-corpus-26-train	ASW	انا هغير قوطورات كام مرة علشان اروح هناك؟
+9657	corpus-6-test-corpus-26-train	ASW	كدة تمام؟ خليني ابص تاني. مم، معلش انا اسف جدا، يا أنسة تاكانو. دي غلطتنا إحنا. دي فاتورتك الجديدة. ممكن تمضي هنا، لو سمحتي؟
+9673	corpus-6-test-corpus-26-train	ASW	فيه باقي خمسة دولار، لو سمحت.
+9683	corpus-6-test-corpus-26-train	ASW	السدادة بتاعة البانيو مش قافلة على الأخر.
+9687	corpus-6-test-corpus-26-train	ASW	ده حاجة بسيطة من تقديري.
+9688	corpus-6-test-corpus-26-train	ASW	انت هتملى الفورمة دي؟
+9695	corpus-6-test-corpus-26-test	ASW	ايه رايك في الموديلات البلاستيك دي؟
+9701	corpus-6-test-corpus-26-train	ASW	انت عندك توكيلات ايه؟
+9702	corpus-6-test-corpus-26-train	ASW	الكعوب عالية خالص بالنسبالي.
+9710	corpus-6-test-corpus-26-test	ASW	انا اتقفل عليا الباب وانا بره الأوضة.
+9730	corpus-6-test-corpus-26-train	ASW	انت ليك قد ايه قاعد في باريس؟
+9732	corpus-6-test-corpus-26-train	ASW	ممكن طوابع بوستة لتلات كروت هبعتهم بالبريد الجوي لليابان؟
+9746	corpus-6-test-corpus-26-train	ASW	ده بيستهجى كدة ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	ASW	تحب تشرب حاجة؟
+9748	corpus-6-test-corpus-26-train	ASW	مدد هنا.
+9752	corpus-6-test-corpus-26-train	ASW	خليه تلغراف مستعجل، لو سمحت.
+9788	corpus-6-test-corpus-26-train	ASW	على كلام النشرة الجوية، هتمطر تلج بكرة.
+9792	corpus-6-test-corpus-26-train	ASW	كنت عايز كورة.
+9822	corpus-6-test-corpus-26-train	ASW	طبعاً. إحنا هنبقى مبسوطين ان إحنا نعمل كدة.
+9829	corpus-6-test-corpus-26-train	ASW	ياه ه، كتب ماليزي هزلي. أنا هشتري واحد علشان اروح بيه البيت استخدمه نقتح بيه كلام.
+9862	corpus-6-test-corpus-26-train	ASW	طريق النجاح لجنمياكو، صح؟
+9866	corpus-6-test-corpus-26-dev	ASW	انا هوصل عندك في الفندق على حوالي الساعة تسعة بليل.
+9885	corpus-6-test-corpus-26-train	ASW	انا معايا حوالي الفين وخمسماية دولار بالين الياباني.
+9903	corpus-6-test-corpus-26-train	ASW	ايوة، إحنا بنعمل. أنا هوريك عينة.
+9906	corpus-6-test-corpus-26-train	ASW	كنت عاوز حبوب منومة .
+9910	corpus-6-test-corpus-26-train	ASW	انا هكون هنا لغاية يوم تسعة. يا ريت تقبض على المجرم في اقرب وقت ممكن.
+9945	corpus-6-test-corpus-26-train	ASW	أنا متاكد المجرم قربي من هنا.
+9948	corpus-6-test-corpus-26-train	ASW	عشر طوابع لو سمحت.
+9949	corpus-6-test-corpus-26-train	ASW	أنا عندي إالتهاب في الحلق.
+9955	corpus-6-test-corpus-26-train	ASW	كنت عايز شوية هدايا تذكارية من نيويورك.
+9969	corpus-6-test-corpus-26-train	ASW	انا همشي. ممكن تبعتلي شيال؟
+9979	corpus-6-test-corpus-26-train	ASW	ساعتي وقفت.
+9983	corpus-6-test-corpus-26-train	ASW	اه، كدة؟ هو انت بتحبها ازاي؟
+10006	corpus-6-test-corpus-26-train	ASW	إحنا بنفتح الساعة تسعة الصبح.
+10032	corpus-6-test-corpus-26-train	ASW	كنت عايز كتاب تلوين.
+10037	corpus-6-test-corpus-26-train	ASW	متهيئلى انا حاسس انه عندي دوران الجو.
+10043	corpus-6-test-corpus-26-train	ASW	هو انا لازم اروح لبنك ياباني؟
+10045	corpus-6-test-corpus-26-train	ASW	انت لازم تغير الفلوس في البنك.
+10065	corpus-6-test-corpus-26-train	ASW	فاضل وقت كتير على تسجيل الخروج؟
+10069	corpus-6-test-corpus-26-train	ASW	جوزك واحد من احسن زباينا.
+10078	corpus-6-test-corpus-26-train	ASW	متعرفش دكتور سنان كويس؟
+10084	corpus-6-test-corpus-26-train	ASW	اه. انت لازم تبلغ القنصلية دلوقتي حالاً.
+10091	corpus-6-test-corpus-26-train	ASW	مرجوج، مش مضروب.
+10098	corpus-6-test-corpus-26-dev	ASW	تحب طربيزة في المطعم الرئيسي ولا في أوضة خاصة، حضرتك؟
+10102	corpus-6-test-corpus-26-train	ASW	في ناس كتير بتروح البحر في الموسم.
+10107	corpus-6-test-corpus-26-train	ASW	وزني حوالي ماية وخمسين رطل.
+10111	corpus-6-test-corpus-26-train	ASW	هو المفروض انا اتنقل فين؟
+10114	corpus-6-test-corpus-26-train	ASW	فين مكتب الحاجات الضايعة؟
+10116	corpus-6-test-corpus-26-train	ASW	مفيش اتوبيس بيروح هنكا على طول؟
+10125	corpus-6-test-corpus-26-train	ASW	هو انا محتاج علاج خاص؟
+10129	corpus-6-test-corpus-26-train	ASW	ده هيبقى دفع ولا على الحساب؟
+10134	corpus-6-test-corpus-26-test	ASW	إحنا جينا البيت ده من سنة.
+10155	corpus-6-test-corpus-26-train	ASW	هتاخد وقت قد ايه لغاية الفيزة بتاعتي متطلع؟
+10156	corpus-6-test-corpus-26-train	ASW	فين الحمامات؟
+10160	corpus-6-test-corpus-26-train	ASW	كل الكمية المطلوبة متين تلاتة واربعين جنيه، يا مدام.
+10164	corpus-6-test-corpus-26-train	ASW	دي هدية. ممكن تلفهالي في ورق هدايا حلو؟
+10182	corpus-6-test-corpus-26-train	ASW	ايه المنظر ده.
+10187	corpus-6-test-corpus-26-dev	ASW	فيه ناس اتعورت.
+10191	corpus-6-test-corpus-26-dev	ASW	لمؤاخذة. فين المحطة اللي قربية من هنا؟
+10224	corpus-6-test-corpus-26-train	ASW	ايوة. إحنا عندينا حجز ليك.
+10238	corpus-6-test-corpus-26-train	ASW	لمؤاخذة، بس كنت عايز اروح الفندق بتاعي في المدينة بالاتوبيس. أقدرأخد اتوبيس من فين؟
+10243	corpus-6-test-corpus-26-test	ASW	فراخ، لو سمحت.
+10257	corpus-6-test-corpus-26-train	ASW	دي أوضة اتنين زيرو واحد. كنت عاوز اطلب فطار بكرة.
+10272	corpus-6-test-corpus-26-test	ASW	ايه رايك في التحرش الجنسي في أماكن الشغل؟
+10318	corpus-6-test-corpus-26-dev	ASW	انا عندي اختين.
+10336	corpus-6-test-corpus-26-dev	ASW	رحلة رقم اتين زيرو تمانية، لطوكيو.
+10354	corpus-6-test-corpus-26-train	ASW	وبعدين خلينا نحشيها من جوه.
+10366	corpus-6-test-corpus-26-test	ASW	خلينا نتقابل مع بعض علشان نناقش الموضوع ده اكتر.
+10372	corpus-6-test-corpus-26-train	ASW	تحب شعرك اعملهولك إزاي انهاردة؟
+10403	corpus-6-test-corpus-26-train	ASW	ممكن تقوله بكلمات تانية؟
+10408	corpus-6-test-corpus-26-train	ASW	انا هدبر الموضوع مهما كان اللي معاك.
+10411	corpus-6-test-corpus-26-train	ASW	أحنا عايزين طربيزة قريبة من المسرح.
+10416	corpus-6-test-corpus-26-train	ASW	أنا كويس. تمام، أنت رايح حتة؟
+10433	corpus-6-test-corpus-26-train	ASW	ده أرتفاعه ألفين وربعماية متر.
+10435	corpus-6-test-corpus-26-train	ASW	أدخل. لو سمحت حطه على الطربيزة هناك.
+10440	corpus-6-test-corpus-26-train	ASW	لو سمحت ألغيلى كارت الرقم بتاعى.
+10468	corpus-6-test-corpus-26-train	ASW	معلش، كلهم أتباعوا، بس أحنا هنجيب منهم خلال يومين.
+10473	corpus-6-test-corpus-26-test	ASW	ممكن شوية قهوة؟
+10477	corpus-6-test-corpus-26-train	ASW	أنا مش معايا ميعاد، بس الموضوع مستعجل.
+10479	corpus-6-test-corpus-26-train	ASW	ده معمول بطريقة مش كويسة.
+10480	corpus-6-test-corpus-26-train	ASW	الأسانسير فين؟
+10497	corpus-6-test-corpus-26-train	ASW	معاك بانفليت للمناسبات؟
+10500	corpus-6-test-corpus-26-train	ASW	فين مدخل المترو؟
+10504	corpus-6-test-corpus-26-train	ASW	أنا ضيعت تذكرة الطيران بتاعتى.
+10559	corpus-6-test-corpus-26-train	ASW	متقدرش تقعد هنا فى الاجازة؟
+10562	corpus-6-test-corpus-26-train	ASW	اه، أنا زعلان جدآ إنى زعلتك.
+10563	corpus-6-test-corpus-26-dev	ASW	ممكن تحجزلى؟
+10565	corpus-6-test-corpus-26-train	ASW	فيه حمام عمومى قريب من هنا؟
+10590	corpus-6-test-corpus-26-train	ASW	أيه المجمل؟
+10593	corpus-6-test-corpus-26-train	ASW	كده كويس قوى. دلوقتى للاسئلة، لو سمحت.
+10599	corpus-6-test-corpus-26-train	ASW	معاك أى فكة لماكنة الركنة؟
+10617	corpus-6-test-corpus-26-test	ASW	أكتر حاجة عملت مبيعات الأربع سنين اللى فاتوا هي ماكنة تصوير أكس ربعمية وخمسين.
+10645	corpus-6-test-corpus-26-train	ASW	ألف شمال؟
+10662	corpus-6-test-corpus-26-test	ASW	فيه أى حد من المضيفات بتتكلم يابانى؟
+10670	corpus-6-test-corpus-26-train	ASW	سعر رائع، مش كدة؟
+10680	corpus-6-test-corpus-26-train	ASW	أنت لازم تاخده تسعه وتسعين مرة فى اليوم، قبل الأكل.
+10707	corpus-6-test-corpus-26-train	ASW	أنا بحبه.
+10733	corpus-6-test-corpus-26-train	ASW	كنت عايز حامل ثلاثي.
+10736	corpus-6-test-corpus-26-dev	ASW	كنت عايز جاكيت رياضى.
+10749	corpus-6-test-corpus-26-dev	ASW	أنت ممكن تقعد فى بيتى.
+10753	corpus-6-test-corpus-26-test	ASW	ممكن أرجع الكرسى بتاعى، لو سمحت؟
+10756	corpus-6-test-corpus-26-train	ASW	عظيم. كنت بدور على تاكسى، بس كدة أحسن.
+10760	corpus-6-test-corpus-26-train	ASW	بالطو جامد. ده بريطانى؟
+10778	corpus-6-test-corpus-26-train	ASW	أنا عايز أروح مركز هارفارد. ممكن تقولى لما توصل هناك؟
+10790	corpus-6-test-corpus-26-train	ASW	أتنين كبار و عيلين، لو سمحت.
+10817	corpus-6-test-corpus-26-train	ASW	أيه السعر؟
+10824	corpus-6-test-corpus-26-train	ASW	ستار وورز حقق أعظم نجاح فى ألف تسعماية أربعة وتمانين.
+10830	corpus-6-test-corpus-26-train	ASW	فين المكان اللى مش مسموح فيه التدخين؟
+10831	corpus-6-test-corpus-26-train	ASW	"ده ""ت"" زى اللى فى توم، أيوه معايا هنا، يا تارو."
+10848	corpus-6-test-corpus-26-test	ASW	انا متهيئلي ده جميل.
+10851	corpus-6-test-corpus-26-test	ASW	كنت عاوز شوية تفاح، لو سمحت.
+10869	corpus-6-test-corpus-26-train	ASW	ده لأيه؟
+10882	corpus-6-test-corpus-26-train	ASW	بتقبل أى نوع من كروت البنك؟
+10922	corpus-6-test-corpus-26-train	ASW	أنا معايا وقت كتير.
+10930	corpus-6-test-corpus-26-train	ASW	طيب، ده ميعاد الغدا. تحب تناقش ده أحنا وبنتغدا؟
+10937	corpus-6-test-corpus-26-dev	ASW	الفيديو أتسرق من الأوضة بتاعتى.
+10950	corpus-6-test-corpus-26-train	ASW	أزيك، أنا أسمى أودا. أنا عندى حجز الليلة، هاجى متأخر شوية. فلو سمحت متلغيش حجزى.
+10953	corpus-6-test-corpus-26-train	ASW	العروض دى قوية؟
+10955	corpus-6-test-corpus-26-test	ASW	لو سمحت بلغيه أنى أنا مستنى تليفونة.
+10964	corpus-6-test-corpus-26-train	ASW	بيقولوا أن الأنفلونزا منتشرة هناك.
+10973	corpus-6-test-corpus-26-train	ASW	جوة.
+10975	corpus-6-test-corpus-26-train	ASW	معلش. أحنا مليانين لغاية بكرة باليل.
+10976	corpus-6-test-corpus-26-train	ASW	أنا مع أصحابى.
+10985	corpus-6-test-corpus-26-train	ASW	على كلام جورو، الأستاذ يامادا عنده عيلين.
+10994	corpus-6-test-corpus-26-dev	ASW	ممكن تقول ده تانى؟
+10997	corpus-6-test-corpus-26-train	ASW	كنت عايز أعدي على برج لندن.
+11019	corpus-6-test-corpus-26-train	ASW	لوسمحت أربط حزام الكرسى بتاعك.
+11027	corpus-6-test-corpus-26-test	ASW	كود المنطقة تلاتة. رقم التليفون أتنين تلاتة أربعة تلاتة أربعة زيرو زيرو.
+11030	corpus-6-test-corpus-26-test	ASW	لمؤاخذة. فيه أى كوبرى قريب من هنا؟
+11041	corpus-6-test-corpus-26-dev	ASW	لمؤاخذة، كنت عايز استخدم الحمام.
+11046	corpus-6-test-corpus-26-train	ASW	ده مشغول.
+11047	corpus-6-test-corpus-26-test	ASW	هدومه دايما مش على الموضة.
+11054	corpus-6-test-corpus-26-train	ASW	عندك سى فود؟
+11057	corpus-6-test-corpus-26-train	ASW	ده مكلف جداً.
+11058	corpus-6-test-corpus-26-train	ASW	حابب اعمل كدة. بس للأسف مقدرش أعمل كدة المرة دي.
+11064	corpus-6-test-corpus-26-train	ASW	طيب، أنا لسة معرفش، بس بالتأكيد هحاول.
+11069	corpus-6-test-corpus-26-dev	ASW	ملح، لوسمحت.
+11082	corpus-6-test-corpus-26-train	ASW	لو سمحت أستخدم أوضة البروفة هناك.
+11100	corpus-6-test-corpus-26-train	ASW	تسعين دولار لتذكرة الروحة. هتدفع فلوس ولا بالكارت؟
+11109	corpus-6-test-corpus-26-dev	ASW	ممكن تفضيلى الطربيزة، لو سمحت؟
+11123	corpus-6-test-corpus-26-train	ASW	أزاى الأبهات اليابنين بيربوا عيالهم؟ هما بيشدوا على عيالهم؟
+11126	corpus-6-test-corpus-26-train	ASW	ممكن تقولى ساعات العمل؟
+11131	corpus-6-test-corpus-26-dev	ASW	لوسمحت لفهم كل واحد لوحده.
+11161	corpus-6-test-corpus-26-train	ASW	معدتي بتألمني جامد.
+11171	corpus-6-test-corpus-26-dev	ASW	كده ماشى. ممكن نستناك فين؟
+11174	corpus-6-test-corpus-26-train	ASW	ممكن نبتدى لعب لما يخلصو؟
+11190	corpus-6-test-corpus-26-train	ASW	سكان اليابان حوالى ماية وعشرين مليون.
+11197	corpus-6-test-corpus-26-train	ASW	إملى النقط دول في كارت التسجيل.
+11199	corpus-6-test-corpus-26-train	ASW	ممكن أخد حاجتى؟
+11240	corpus-6-test-corpus-26-train	ASW	عندك إيشارب حرير؟ أنا بدور على هدية لمراتى.
+11246	corpus-6-test-corpus-26-train	ASW	أحنا هنجيبه دلوقتى. رقم أوضتك كام؟
+11264	corpus-6-test-corpus-26-test	ASW	أستاذ كوباياشى بيدور عليك.
+11267	corpus-6-test-corpus-26-train	ASW	كنت عايز أسافر من شنغهاى لهاواى بالسفينة.
+11278	corpus-6-test-corpus-26-test	ASW	ممكن تبعتلى حد؟
+11282	corpus-6-test-corpus-26-train	ASW	ممكن يبقى معاك جاهز على بكرة الساعة خمسة العصر؟
+11302	corpus-6-test-corpus-26-train	ASW	تأخد عشر دقايق مشى.
+11316	corpus-6-test-corpus-26-train	ASW	قبل منخلص، ممكن تديني دقايق؟
+11325	corpus-6-test-corpus-26-dev	ASW	أقدر أركن عربيتى فين؟
+11336	corpus-6-test-corpus-26-dev	ASW	أنا حاسس نفسى بردان ومعدتى بتوجعنى جامد.
+11342	corpus-6-test-corpus-26-train	ASW	سكوتش ومية، لوسمحت. عندك أى حاجة نمزمز بيها؟
+11343	corpus-6-test-corpus-26-train	ASW	أطفى النور ده أزاى؟
+11360	corpus-6-test-corpus-26-train	ASW	هو مشغول خالص أنهاردة؟
+11374	corpus-6-test-corpus-26-train	ASW	كنت عايز خيط.
+11375	corpus-6-test-corpus-26-train	ASW	أدينى شهادة صحية، لوسمحت.
+11378	corpus-6-test-corpus-26-train	ASW	كنت عايزك تعملها أقصر إنش من هنا.
+11392	corpus-6-test-corpus-26-train	ASW	أنا حاسس نفسى مش كويس. لوسمحت أدينى دوا.
+11403	corpus-6-test-corpus-26-train	ASW	ممكن أخد جريدة يابانية، لوسمحت؟
+11404	corpus-6-test-corpus-26-train	ASW	تمام، ممكن أوصل العربية في اي حتة؟ وايه تكلفة التوصيل؟
+11412	corpus-6-test-corpus-26-train	ASW	أنهى أتوبيس بيروح لوسط البلد؟
+11420	corpus-6-test-corpus-26-train	ASW	فيه أي اكسبريس رايح بوسطن؟
+11435	corpus-6-test-corpus-26-train	ASW	لو سمحت تبقى صديق المراسلة بتاعى.
+11438	corpus-6-test-corpus-26-dev	ASW	أنا هروح أقعد مع واحد صاحبى.
+11442	corpus-6-test-corpus-26-train	ASW	أنا متحمس جدآ، أنا مش عارف أقعد على بعضى.
+11449	corpus-6-test-corpus-26-train	ASW	ممكن أنزل عند فندق الهليتون؟
+11450	corpus-6-test-corpus-26-train	ASW	أنا عايزك تشيلها.
+11457	corpus-6-test-corpus-26-train	ASW	أمشى شمال على طول فى الشارع ده وخد أول يمين.
+11462	corpus-6-test-corpus-26-train	ASW	كنت عايز أعرف أنى ممكن أشحن مجموعة الأطباق دى لطوكيو.
+11467	corpus-6-test-corpus-26-train	ASW	كنت عايز مقويات للجسم.
+11478	corpus-6-test-corpus-26-train	ASW	فيه أى أكل حاو و مشطشط؟
+11479	corpus-6-test-corpus-26-train	ASW	هو قريب أمشيه؟
+11491	corpus-6-test-corpus-26-dev	ASW	كنت عايز كريم يد.
+11493	corpus-6-test-corpus-26-train	ASW	ممكن تدينى ملح؟
+11500	corpus-6-test-corpus-26-train	ASW	كنت عايز أروح وال ستريت. أروح هناك أزاى؟
+11541	corpus-6-test-corpus-26-train	ASW	التمرين أكثر من اللازم هيأزيك.
+11544	corpus-6-test-corpus-26-train	ASW	للأفطار، والضرائب، ومصاريف الخدمة، هيبقى خمسة وأربعين دولار لكل واحد فى الليلة.
+11550	corpus-6-test-corpus-26-train	ASW	ممكن تصلحى ده؟
+11574	corpus-6-test-corpus-26-train	ASW	مساء الخير. أزيك.
+11576	corpus-6-test-corpus-26-train	ASW	أنا مش لاقى الشنط بتاعتك.
+11595	corpus-6-test-corpus-26-train	ASW	أمشى على طول. لو سمحت.
+11600	corpus-6-test-corpus-26-train	ASW	هى الماية هنا ينفع تتشرب؟
+11622	corpus-6-test-corpus-26-train	ASW	أوه، خلص. أتنين دولار كفاية.
+11626	corpus-6-test-corpus-26-train	ASW	ممكن تغيرى الفستان ده بواحد مقاسه أكبر؟
+11631	corpus-6-test-corpus-26-train	ASW	طيب، يلا بينا. أنا هساعدك فى الواجب بتاعك بعد ما نأكل شوية بيتزا.
+11633	corpus-6-test-corpus-26-train	ASW	أيوه، يأستاذ تاناكا. فيه رسالتين ليك.
+11643	corpus-6-test-corpus-26-train	ASW	ده مينسبنيش.
+11646	corpus-6-test-corpus-26-train	ASW	بكره يوم تانى.
+11663	corpus-6-test-corpus-26-train	ASW	أقدر أساعدك. أنت عايز فيتامين سى؟
+11689	corpus-6-test-corpus-26-train	ASW	محفظتى أتنشلت من جيبى فى القطر.
+11704	corpus-6-test-corpus-26-train	ASW	ده بعيد خالص. أنت أحسنلك تاخد تاكسى.
+11708	corpus-6-test-corpus-26-train	ASW	كنت عايز كرسى جنب الممر، لو سمحت.
+11709	corpus-6-test-corpus-26-train	ASW	أنا عايش فى شقة بتمانين ألف ين فى الشهر.
+11714	corpus-6-test-corpus-26-train	ASW	ممكن أقاطعكم؟
+11720	corpus-6-test-corpus-26-dev	ASW	ورينى واحد واسع.
+11734	corpus-6-test-corpus-26-train	ASW	لمؤاخذة، لو معندكش مانع ممكن تغير الكراسى معايا؟
+11746	corpus-6-test-corpus-26-train	ASW	أيوه، طبعا.
+11751	corpus-6-test-corpus-26-train	ASW	أمشى على طول لغاية الناصية وأحود شمال عند إشارة المرور.
+11754	corpus-6-test-corpus-26-dev	ASW	تحب بكرات صغيرة ولا كبيرة؟
+11767	corpus-6-test-corpus-26-test	ASW	كنت عايز أوضة مفردة بحمام بتمانين دولار، لو سمحت.
+11800	corpus-6-test-corpus-26-train	ASW	كنت عايز أحط حاجتى الغالية فى خزنة الفندق.
+11817	corpus-6-test-corpus-26-dev	ASW	عندك أوضة فاضيه الليلة دى؟
+11821	corpus-6-test-corpus-26-train	ASW	أيوة، بس أتاكد أنه معاك تذكرتك.
+11862	corpus-6-test-corpus-26-train	ASW	يادوب ناس قليلين اللى هينضموا للجولة الاختيارية.
+11872	corpus-6-test-corpus-26-train	ASW	ميهمش، على أى حال، لوسمحت خدنى لوسط المدينة الصينية. وأنا هحاول أكتشفها بنفسى.
+11879	corpus-6-test-corpus-26-train	ASW	فيه ناس جديدة هتتعين فى أبريل.
+11880	corpus-6-test-corpus-26-train	ASW	ياريت.
+11885	corpus-6-test-corpus-26-train	ASW	أتنين سكوتش وماية، لو سمحت.
+11901	corpus-6-test-corpus-26-train	ASW	مين اللى بيلعب؟
+11913	corpus-6-test-corpus-26-dev	ASW	ممكن تكلمنى لو لقيت الشنطة بتاعتى؟
+11916	corpus-6-test-corpus-26-train	ASW	على الشمال، لو سمحت.
+11932	corpus-6-test-corpus-26-test	ASW	ممكن تقف تتصور معايا؟
+11938	corpus-6-test-corpus-26-dev	ASW	السنة اللي من قدام بتوجعني؟
+11949	corpus-6-test-corpus-26-train	ASW	السنه دى اللى من قدام واجعانى.
+11959	corpus-6-test-corpus-26-train	ASW	إيه آخر لعبة نزلت لسن خمستاشر سنة؟
+11972	corpus-6-test-corpus-26-train	ASW	هنشوفك بكرة.
+11973	corpus-6-test-corpus-26-test	ASW	فيه مطعم أرخص من كدة قريب من هنا؟
+11975	corpus-6-test-corpus-26-train	ASW	لا، بس متشكر. أنا حاسس نفسى أحسن.
+11976	corpus-6-test-corpus-26-train	ASW	عندك عيش؟
+11977	corpus-6-test-corpus-26-train	ASW	أنت كويس فى الكمان قد أية؟
+11990	corpus-6-test-corpus-26-train	ASW	صاحب أتزحلق ووقع فى الحمام.
+11991	corpus-6-test-corpus-26-train	ASW	ممكن طفاية سجاير؟
+11997	corpus-6-test-corpus-26-train	ASW	المسيحية أتمنعت والبلد كانت قريبة لبقية العالم.
+12005	corpus-6-test-corpus-26-train	ASW	عايز قد أيه؟
+12012	corpus-6-test-corpus-26-train	ASW	كوكتيل جمبرى ليها ونفس الكلام ليا.
+12033	corpus-6-test-corpus-26-train	ASW	ممكن توقعلى هنا؟ وأمضيه مبدئيآ هنا لو سمحت.
+12035	corpus-6-test-corpus-26-train	ASW	ده كان شرف عظيم ليا إني اجي وازورك في المكتب الرئيسي بتاعك والمناقشات الكبير ة دي معاك. الف شكر على تعاونك الطيب.
+12054	corpus-6-test-corpus-26-train	ASW	شخيرك مزعج.
+12056	corpus-6-test-corpus-26-train	ASW	أنا مش عاجبنى اللون رغم كل حاجة. ممكن أرجعه؟
+12057	corpus-6-test-corpus-26-dev	ASW	أطلع برة الباب ده هناك، وأستنى فى محطة رقم ستة.
+12060	corpus-6-test-corpus-26-dev	ASW	فراخ مشوية، لو سمحت.
+12069	corpus-6-test-corpus-26-train	ASW	ممكن شوية فلفل؟
+12074	corpus-6-test-corpus-26-test	ASW	أيوة، كنت عايز أقراها.
+12101	corpus-6-test-corpus-26-train	ASW	انا أستاذ تاكاهاشى فى أوضة رقم خمسة أربعة تسعة. ممكن تبعتلي فوق أربع جزازات بيرة بادويسير، لو سمحت؟
+12131	corpus-6-test-corpus-26-train	ASW	ده سبعين دولار.
+12140	corpus-6-test-corpus-26-train	ASW	لو سمحت كلمني في الفندق بتاعي لما نلاقي الشنط بتاعتي.
+12150	corpus-6-test-corpus-26-train	ASW	كنت عايز تليفون يصحينى بكرة الصبح الساعة تمانية ونص، لوسمحت.
+12167	corpus-6-test-corpus-26-train	ASW	أيوة، بس ده كتير جدآ وأنا آصلآ أتمليت.
+12172	corpus-6-test-corpus-26-train	ASW	كنت عايز غسول فم.
+12173	corpus-6-test-corpus-26-train	ASW	أنا حاسس نفسى مش كويس.
+12182	corpus-6-test-corpus-26-train	ASW	أنت بتدى تخفيضات كبيرة؟
+12193	corpus-6-test-corpus-26-train	ASW	طوكيو زيرو تلاتة أربع تسعات أربعة خمسة ستة سبعة.
+12240	corpus-6-test-corpus-26-train	ASW	ممكن تساعدنى ألاقى حديقة الحيوان؟
+12246	corpus-6-test-corpus-26-train	ASW	ممكن تقولى أظبطه أزاى؟
+12247	corpus-6-test-corpus-26-train	ASW	فى أى وقت جولة الأتوبيس هتخلص؟
+12254	corpus-6-test-corpus-26-train	ASW	تعرف أزاى تستخدم التليفون؟
+12259	corpus-6-test-corpus-26-train	ASW	طبعآ. أحنا عندينا شوية فواصل للكتب أمريكية أصلية رائعة.
+12298	corpus-6-test-corpus-26-train	ASW	موظف تليفون بيتكلم يابانى، لوسمحت.
+12331	corpus-6-test-corpus-26-train	ASW	أحنا مهتمين قوى بالموضة.
+12333	corpus-6-test-corpus-26-train	ASW	ممكن تديني جرة؟
+12345	corpus-6-test-corpus-26-train	ASW	دى عيادة إف؟
+12364	corpus-6-test-corpus-26-train	ASW	أزيك، أنسة ياماجوتشى؟ الطرف التاني على الخط. مكالمتك اتقبلت. إتفضلى، لوسمحتى.
+12391	corpus-6-test-corpus-26-test	ASW	ممكن أشترى كوبون تذكرة المصعد؟
+12396	corpus-6-test-corpus-26-train	ASW	أحنا هنوصل لوس أنجلوس إمتى؟
+12403	corpus-6-test-corpus-26-train	ASW	أمشى على طول لمدة خمس دقايق، وأحود شمال.
+12416	corpus-6-test-corpus-26-train	ASW	هو ده الطريق للشاطئ.
+12420	corpus-6-test-corpus-26-train	ASW	شاى الأعشاب بيساعد الجسم على التجديد.
+12421	corpus-6-test-corpus-26-train	ASW	دول مش معمولين فى اليابان، مش كدة؟
+12443	corpus-6-test-corpus-26-train	ASW	تمام. من هنا لوسمحت. أنا هوريك أوضتك.
+12479	corpus-6-test-corpus-26-train	ASW	أنا لازم أمشى من الفندق قبل الظهر.
+12495	corpus-6-test-corpus-26-train	ASW	أتنين همبورجر وأتنين قهوة، لو سمحت. أنا عايز أخدهم برة.
+12510	corpus-6-test-corpus-26-train	ASW	ممكن أعتمد على الشنطتين دول؟
+12527	corpus-6-test-corpus-26-train	ASW	أنا طلبت لحمة، مش سمك. ممكن تغيرلى ده؟
+12546	corpus-6-test-corpus-26-train	ASW	ولدي تعبان جداً.
+12551	corpus-6-test-corpus-26-train	ASW	عندي عسر في الهضم.
+12556	corpus-6-test-corpus-26-train	ASW	الجاكيت مش مقاسى.
+12557	corpus-6-test-corpus-26-train	ASW	أنا كنت عايز أقبل الأستاذ وليم.
+12560	corpus-6-test-corpus-26-train	ASW	دى كانت تشكيلة من سبع فيتامينات و معادن.
+12562	corpus-6-test-corpus-26-test	ASW	السنه مش متثبته.
+12589	corpus-6-test-corpus-26-train	ASW	ممكن ترجعلى فلوس لما أرجع لليابان؟
+12599	corpus-6-test-corpus-26-train	ASW	الطبق ده معمول من أية؟
+12603	corpus-6-test-corpus-26-train	ASW	هو ده معمول فى أى بلد؟
+12608	corpus-6-test-corpus-26-train	ASW	ممكن تعمله فى عشر دقايق؟
+12611	corpus-6-test-corpus-26-dev	ASW	أنا مش كويس فى الأنجليزى. فيه أى حد هنا بيتكلم يابانى؟
+12615	corpus-6-test-corpus-26-train	ASW	أجيب من فين رمز المترو؟
+12638	corpus-6-test-corpus-26-train	ASW	فيه عشرين عينة زيادة هتتبعتلك.
+12644	corpus-6-test-corpus-26-train	ASW	معتقدش أن ده ليا لإن بشرتى غالبآ جافة.
+12650	corpus-6-test-corpus-26-train	ASW	ممكن أخد جدول المواعيد، لو سمحت؟
+12658	corpus-6-test-corpus-26-dev	ASW	أيوة، متهيلى هستنى.
+12671	corpus-6-test-corpus-26-train	ASW	تسعة وتسعين دولار فى الساعة لكل عيل.
+12672	corpus-6-test-corpus-26-train	ASW	معلش، إحنا أتبعنا.
+12677	corpus-6-test-corpus-26-train	ASW	لازم يبقى هادي.
+12678	corpus-6-test-corpus-26-dev	ASW	أنا معايا العدة بتاعتى.
+12679	corpus-6-test-corpus-26-train	ASW	مفتاح الأوضة، خمسة زيرو تلاتة، لوسمحت.
+12699	corpus-6-test-corpus-26-test	ASW	فى أى وقت هيتعرض تيرمينال مان؟
+12701	corpus-6-test-corpus-26-train	ASW	فين محل الكوافير؟
+12708	corpus-6-test-corpus-26-train	ASW	فى الساعة سبعة، لو سمحت.
+12712	corpus-6-test-corpus-26-train	ASW	شنطتى باظت.
+12713	corpus-6-test-corpus-26-train	ASW	سياحة.
+12732	corpus-6-test-corpus-26-train	ASW	أنا جيت من أسبانيا.
+12750	corpus-6-test-corpus-26-dev	ASW	فيه حاجة غلط مع كارت المفتاح. ممكن تدينى واحد تانى، لو سمحت؟
+12755	corpus-6-test-corpus-26-dev	ASW	أنا عندى طفح جلدى على ذراعى.
+12761	corpus-6-test-corpus-26-train	ASW	أشحن ده بالجو لليابان، لو سمحت.
+12766	corpus-6-test-corpus-26-test	ASW	فين أقرب صيدلى؟
+12770	corpus-6-test-corpus-26-dev	ASW	نبيت تانى، لو سمحت.
+12773	corpus-6-test-corpus-26-train	ASW	الناس ودوده جدآ.
+12776	corpus-6-test-corpus-26-test	ASW	فيه مشاريب قد أية جوه السعر؟
+12777	corpus-6-test-corpus-26-test	ASW	أنت عملتها.
+12782	corpus-6-test-corpus-26-train	ASW	فين بوابة البوردنج للرحلة دى؟
+12790	corpus-6-test-corpus-26-test	ASW	لو فيه واحدة فاضية، ممكن تحجز طربيزة جنب الشباك؟
+12805	corpus-6-test-corpus-26-dev	ASW	إعلان البوردنج أتعمل؟
+12810	corpus-6-test-corpus-26-train	ASW	أحنا على أرتفاع أتناشر ألف قدم.
+12820	corpus-6-test-corpus-26-train	ASW	أول حاجة، عايزين نشوف وال ستريت.
+12822	corpus-6-test-corpus-26-train	ASW	فين موقف الأتوبيس بتاع أكسفورد؟
+12823	corpus-6-test-corpus-26-train	ASW	أنا هستنى لغاية ماالبلكون تفضى.
+12835	corpus-6-test-corpus-26-train	ASW	ممكن نشوف محافظ جلد؟
+12861	corpus-6-test-corpus-26-dev	ASW	يالا نتفرج على الماتش. فيه ماتش بيسيول شغال.
+12878	corpus-6-test-corpus-26-train	ASW	ممكن تكتب عنوان التواصل بتاعك هنا؟
+12884	corpus-6-test-corpus-26-train	ASW	لو سمحت قولى فين أقرب صيدلية هنا.
+12903	corpus-6-test-corpus-26-train	ASW	ودينى الفندق بتاعى، لو سمحت. عنوان الفندق أهو.
+12905	corpus-6-test-corpus-26-dev	ASW	كم ولاية جنب طوكيو؟
+12917	corpus-6-test-corpus-26-train	ASW	أقفل السكة و أستنى شوية لو سمحت.
+12936	corpus-6-test-corpus-26-train	ASW	إنت عادة بتعمل ايه في البيت بعد العشا؟
+12941	corpus-6-test-corpus-26-train	ASW	أكيد، إنت عايز تلعب جولف إمتى؟
+12945	corpus-6-test-corpus-26-train	ASW	هي هتبقى في االبيت على الساعة تلاتة.
+12952	corpus-6-test-corpus-26-train	ASW	اناعايز اكلم السفارة اليابانية.
+12968	corpus-6-test-corpus-26-train	ASW	اكتر شوية.
+12969	corpus-6-test-corpus-26-train	ASW	اتوبيس المعالم السياحية بيتحرك من فين؟
+12973	corpus-6-test-corpus-26-train	ASW	إنت دفعت كام علشان تبت دول لليابان؟
+12976	corpus-6-test-corpus-26-dev	ASW	أنا معنديش نوادي ولا عروض.
+13015	corpus-6-test-corpus-26-train	ASW	هو الين الياباني شغال؟
+13022	corpus-6-test-corpus-26-train	ASW	إنت عندك الموستانج؟
+13027	corpus-6-test-corpus-26-train	ASW	إحنا هنط من هنا؟
+13069	corpus-6-test-corpus-26-train	ASW	أستاذ كاواي. إحنا عندينا طربيزة ليك. تعالى من هنا، لو سمحت.
+13072	corpus-6-test-corpus-26-train	ASW	أكيد. إنزل السلالم على اليمين هناك هتشوف بعض الإتجاهات. بس إنت إمشي وراهم.
+13075	corpus-6-test-corpus-26-dev	ASW	مكتب الاستقبال. ممكن أساعدك؟
+13076	corpus-6-test-corpus-26-train	ASW	ممكن تنزليني عند فندق الهيلتون، لو سمحت؟
+13077	corpus-6-test-corpus-26-dev	ASW	إنت متعود تشتغل متأخر؟
+13090	corpus-6-test-corpus-26-dev	ASW	أنا اسف جدا، إحنا معندناش تاني. أيه رأيك في جورنان إنجليزي؟
+13095	corpus-6-test-corpus-26-train	ASW	طربيزة لغير المدخنين، لو سمحت.
+13096	corpus-6-test-corpus-26-train	ASW	ممكن تقولي قبل مانوصل لديرهام؟
+13113	corpus-6-test-corpus-26-test	ASW	ده طازة؟
+13116	corpus-6-test-corpus-26-train	ASW	ده مش صحيح. إنت على طول بتعزمني.
+13118	corpus-6-test-corpus-26-dev	ASW	ممكن توريني شوية فساتين؟
+13126	corpus-6-test-corpus-26-train	ASW	إتهاجاها، لو سمحت.
+13133	corpus-6-test-corpus-26-train	ASW	أنا بسكر من النبيت.
+13134	corpus-6-test-corpus-26-train	ASW	خلي بالك علشان الجو متغير على الجبال.
+13159	corpus-6-test-corpus-26-train	ASW	شيك سياحي وين ياباني، ماشي؟
+13162	corpus-6-test-corpus-26-train	ASW	أسف، انا سالت الاتنين بتوع نضافة الاوض وبتوع الحاجات الضايعة. هم مش معاهم.
+13172	corpus-6-test-corpus-26-train	ASW	ده مكان صعب أنه يتلاقى. ده على طريق صغير متفرع من الطريق السريع الرئيسي.
+13183	corpus-6-test-corpus-26-train	ASW	انا معرفش حاجة عنه.
+13184	corpus-6-test-corpus-26-train	ASW	إحنا ممكن نتكلم في الموضوع ده على قهوة.
+13188	corpus-6-test-corpus-26-train	ASW	فهمت، في الحالة دي انا مش مضطر أدفع تكلفة التبديل، صح؟
+13202	corpus-6-test-corpus-26-train	ASW	موظف التليفون، لو سمحت.
+13262	corpus-6-test-corpus-26-train	ASW	ممكن تنزل الستاير، لو سمحت؟
+13264	corpus-6-test-corpus-26-dev	ASW	إنت هتسكيني الليلة دي؟
+13267	corpus-6-test-corpus-26-train	ASW	تمام. انا هاخد اتنين. متشكر.
+13268	corpus-6-test-corpus-26-train	ASW	إتفضل فاتورتك. تلتماية سبعة وتسعين دولار.
+13269	corpus-6-test-corpus-26-train	ASW	إنت محظوظ.
+13287	corpus-6-test-corpus-26-train	ASW	ممكن تخليها طربيزة على منظر ليلي حلو.
+13290	corpus-6-test-corpus-26-train	ASW	دي معمولة في مصنع ولا على الايد؟
+13291	corpus-6-test-corpus-26-train	ASW	كنت عايز آجر النوع ده من العربية اربعة وعشرين ساعة.
+13306	corpus-6-test-corpus-26-train	ASW	فرصة سعيدة جدا إني اقابلك.
+13322	corpus-6-test-corpus-26-train	ASW	ده مقطوع.
+13333	corpus-6-test-corpus-26-dev	ASW	طيب دلوقتي، خلينا نبص بصة عليك.
+13347	corpus-6-test-corpus-26-train	ASW	طيب، إنت بس تخيل شغله هياخد قد ايه لو هو سأل سؤال زيادة لكل واحد. خلص، ياللا بينا بسرعة ناخد شنطنا. إحنا هنروح لتخليص الجمارك بعدين.
+13396	corpus-6-test-corpus-26-train	ASW	ايه الوزن؟
+13399	corpus-6-test-corpus-26-train	ASW	هو فيه مطعم صيني قريب من هنا؟
+13407	corpus-6-test-corpus-26-train	ASW	رصيف خمسة هناك.
+13408	corpus-6-test-corpus-26-train	ASW	إمتى ماتش الكورة هيبتدي؟
+13423	corpus-6-test-corpus-26-dev	ASW	دي بايظة. ممكن تبصلي على الكاميرا بتاعتي؟
+13424	corpus-6-test-corpus-26-test	ASW	قهوة بكريمة وسكر، لو سمحت.
+13436	corpus-6-test-corpus-26-train	ASW	متهيئلي في شوية غلطات في الفاتورة.
+13438	corpus-6-test-corpus-26-train	ASW	لو سمحت إدينى اللي هناك ده.
+13440	corpus-6-test-corpus-26-train	ASW	دي بوابة سبعة.
+13444	corpus-6-test-corpus-26-train	ASW	إنت اسكتلندي؟
+13446	corpus-6-test-corpus-26-train	ASW	تلاتة-اتنين-واحد-اتنين. إستنى ثوانى، ماشي؟ انا عايز ابعتلك حاجة هنا. لمؤاخذة.
+13471	corpus-6-test-corpus-26-test	ASW	ماية خمسة وتلاتين ين لكل دولار.
+13476	corpus-6-test-corpus-26-train	ASW	الجيب الصغيرة والبوتات مش هيبقو برة الموضة ابداً.
+13477	corpus-6-test-corpus-26-train	ASW	ممكن اكلم المدير؟
+13480	corpus-6-test-corpus-26-train	ASW	ليه أجرتك مختلفة عن العداد؟
+13484	corpus-6-test-corpus-26-train	ASW	ممكن اشوف ده؟
+13487	corpus-6-test-corpus-26-train	ASW	انا وعدت نفسي لما اشوفك، انا هابدأ افهمك.
+13488	corpus-6-test-corpus-26-train	ASW	ايه اللي بيحصل في الايام الاخيرة؟
+13492	corpus-6-test-corpus-26-train	ASW	أنا حاسس نفسي مش كويس. ممكن تتنصحني بدكتور؟
+13504	corpus-6-test-corpus-26-train	ASW	الطرف التاني على الخط. إتفضل.
+13515	corpus-6-test-corpus-26-train	ASW	هو فيه برنامج ترفيهي؟
+13528	corpus-6-test-corpus-26-dev	ASW	الحمام السيفون اللي فيه بايظ.
+13532	corpus-6-test-corpus-26-dev	ASW	تاخد قد ايه وقت من هنا لغاية فندق المدينة مشي؟
+13547	corpus-6-test-corpus-26-train	ASW	خد الدوا ده بعد كل اكلة لما يوجعك خالص.
+13550	corpus-6-test-corpus-26-train	ASW	إنت حطيت الفلوس في ظرف مرسوم مميز اللي اسمه شيوجيبيوكيورو.
+13553	corpus-6-test-corpus-26-train	ASW	في حد اتعور.
+13609	corpus-6-test-corpus-26-test	ASW	انا مش عارف انا المفروض اجيبله ايه؟
+13624	corpus-6-test-corpus-26-train	ASW	معاك خريطة للمترو؟
+13629	corpus-6-test-corpus-26-train	ASW	انا عندي أوضة جاخزة ليك في فندق جراند. ممكن تروح هناك؟
+13635	corpus-6-test-corpus-26-train	ASW	انا عندي ألم في عينيا اليمين.
+13657	corpus-6-test-corpus-26-train	ASW	انا مش كويس قوي في الالماني.
+13660	corpus-6-test-corpus-26-train	ASW	إحنا لازم نروح هناك تاني مع بعض.
+13666	corpus-6-test-corpus-26-train	ASW	ممكن تضيق البنطلون ده؟
+13682	corpus-6-test-corpus-26-train	ASW	ممكن استلف مضرب الراكيت والكور؟
+13685	corpus-6-test-corpus-26-test	ASW	ممكن تحط شوية فكة؟
+13694	corpus-6-test-corpus-26-train	ASW	ممكن اخد نص جزازة؟
+13707	corpus-6-test-corpus-26-train	ASW	غزيك، انا جين.
+13717	corpus-6-test-corpus-26-train	ASW	ناكاي.
+13719	corpus-6-test-corpus-26-train	ASW	عندك مانع لو اخدت صورة ليك وللتاكسي بتاعك؟
+13733	corpus-6-test-corpus-26-train	ASW	انا ناديت على شنطة ضايعة من تلاتة يام.
+13748	corpus-6-test-corpus-26-test	ASW	كنت عاوز فندق أرخص.
+13755	corpus-6-test-corpus-26-dev	ASW	اه، فيه حاجات كتير إنت لازم تشوفها في قرية الجرينويتش.
+13769	corpus-6-test-corpus-26-train	ASW	على الشغل. انا عندي وصلة شغل هناك.
+13783	corpus-6-test-corpus-26-train	ASW	دي قريبة من بدلتكز.
+13784	corpus-6-test-corpus-26-train	ASW	ممكن تخلي بالك من الشنطة بتاعتي؟
+13788	corpus-6-test-corpus-26-train	ASW	ايه رايك في الفكرة دي؟ إحنا موافقين على شرطك بتاع الست شهور ملاحظة بس إنت تضمنلنا ان إحنا لينا الحق في البيع لمدة ست شهور بعد ما العد ينتهي.
+13803	corpus-6-test-corpus-26-train	ASW	لمؤاخذة. إنت تعرف نيويورك كويس؟
+13824	corpus-6-test-corpus-26-test	ASW	إحنا هنستنى. لو سمحت كلمنا لما تبقى جاهز.
+13827	corpus-6-test-corpus-26-train	ASW	كنت عايز اشوف دكتور جراح.
+13828	corpus-6-test-corpus-26-dev	ASW	دي مكونات طبيعية؟
+13831	corpus-6-test-corpus-26-train	ASW	كنت عايز اسوق عربية رياضية.
+13843	corpus-6-test-corpus-26-train	ASW	كود المنطقة زيرو تلاتة. الرقم تلاتة واحد اتنين تلاتة اربعة خمسة ستة سبعة.
+13854	corpus-6-test-corpus-26-train	ASW	انا جالي برد.
+13856	corpus-6-test-corpus-26-test	ASW	الصغيرة خالص هتبقى احسن حاجة.
+13862	corpus-6-test-corpus-26-train	ASW	كنت عايز ابعت ده بالنظام تااي يخلي البوستة محافظة عليه لغاية ميجي ياخده.
+13903	corpus-6-test-corpus-26-train	ASW	خليني أحول المكالمة دي للشخص المسئول.
+13913	corpus-6-test-corpus-26-train	ASW	إنت عايز أنهي مقاس؟
+13919	corpus-6-test-corpus-26-train	ASW	اه، يا غالي. انا مادركتش انه انا لسة معايا دولز.
+13920	corpus-6-test-corpus-26-train	ASW	إنت معاك صندوق يبفع ابتع فيه طرود؟
+13921	corpus-6-test-corpus-26-train	ASW	هيً شركة الطيران هتدفعلي تمن الفندق والأكل؟
+13938	corpus-6-test-corpus-26-train	ASW	هيً دي كل شنطك؟
+13942	corpus-6-test-corpus-26-train	ASW	أنت عايز تعمل المكالمة إزاي؟
+13946	corpus-6-test-corpus-26-train	ASW	طيب، ده غالي خالص. ده مش معمول فى اليابان، مش كدة؟
+13953	corpus-6-test-corpus-26-train	ASW	ممكن لو سمحت تديني الملح؟
+13966	corpus-6-test-corpus-26-train	ASW	فين اقرب مطعم من الفندق ده؟
+13993	corpus-6-test-corpus-26-train	ASW	كنت عايز شامبو للشعر العادي.
+14008	corpus-6-test-corpus-26-train	ASW	إنت تفتكر ممكن يتلاقى فين؟
+14014	corpus-6-test-corpus-26-train	ASW	اتمنالك سنة جديدة سعيدة جدا عليك.
+14018	corpus-6-test-corpus-26-train	ASW	أنا هاخد سبرايت كبير.
+14043	corpus-6-test-corpus-26-test	ASW	ممكن تقوله تاني بالراحة شوية.
+14045	corpus-6-test-corpus-26-train	ASW	لمؤاخذة. انا عايز اعمل طلب شراء.
+14059	corpus-6-test-corpus-26-test	ASW	إحنا عندينا جمبري نيوبرج رجلين ضاني مشوية.
+14069	corpus-6-test-corpus-26-train	ASW	كنت عايز اوضة على مناظر جميلة.
+14074	corpus-6-test-corpus-26-train	ASW	تلات كوبايات عصير بطيخ، لو سمحت.
+14086	corpus-6-test-corpus-26-train	ASW	أنا عندي تلات عيال.
+14088	corpus-6-test-corpus-26-train	ASW	امشي على طول لاخر القاعة ولف شمال عند الناصية. هتشوفه على يمينك.
+14089	corpus-6-test-corpus-26-dev	ASW	هي الجولة اليوم كله؟
+14094	corpus-6-test-corpus-26-train	ASW	بكام تكلف تذكرة روحة ورجعة لأكسفورد؟
+14098	corpus-6-test-corpus-26-train	ASW	انا بروح للنادي الرياضي مرة كل يومين.
+14099	corpus-6-test-corpus-26-train	ASW	أقدر أقعد فين أثناء الجولة؟
+14104	corpus-6-test-corpus-26-train	ASW	ايه ميعاد التشيك اوت؟
+14108	corpus-6-test-corpus-26-train	ASW	كام اجرة المرشد في اليوم؟
+14120	corpus-6-test-corpus-26-train	ASW	الاقي سيديهات فين؟
+14147	corpus-6-test-corpus-26-train	ASW	لمؤاخذة. أنا تلميذ دراسة من اليابان. انت من جامعة نيويورك؟
+14150	corpus-6-test-corpus-26-train	ASW	ممكن تقولنا إنت بتقيم الخطة دي إزاي؟
+14167	corpus-6-test-corpus-26-train	ASW	آكي، متعرفش محل اسطوانات موسيقى فريب من هنا؟
+14168	corpus-6-test-corpus-26-train	ASW	هتدف كاش ولا على الفاتورة؟
+14174	corpus-6-test-corpus-26-train	ASW	انا شغال في شركة تجارة.
+14175	corpus-6-test-corpus-26-train	ASW	دي حاجة مش من الأدب أن تسأل الناس هم بيكسبو كام.
+14184	corpus-6-test-corpus-26-train	ASW	هما دول ليفايز خمسمية وواحد اصليين؟
+14195	corpus-6-test-corpus-26-train	ASW	أقدراخد حمام إمتى؟
+14198	corpus-6-test-corpus-26-train	ASW	إنت ميبانش علياك أنه عندك عشرين سنة.
+14219	corpus-6-test-corpus-26-train	ASW	فهمت. في الحقيقة، كان فيها فيلم سريع خالصز عندك مانع لو طلعته؟
+14224	corpus-6-test-corpus-26-train	ASW	مشتري ده لسة دلوقتي.
+14232	corpus-6-test-corpus-26-train	ASW	أنا هاجيب واحد على طول دلوقتي.
+14235	corpus-6-test-corpus-26-train	ASW	تمن دولارات. وإتفضل واحد دلوقتي.
+14242	corpus-6-test-corpus-26-train	ASW	لوسمحت وريه بالحاجات اللي انت اشتريتها للجمارك في المطار.
+14261	corpus-6-test-corpus-26-train	ASW	فيه اي محل شامل عامل خصم دلوقتي؟
+14265	corpus-6-test-corpus-26-train	ASW	موظف التليفون، وصلني بالمطافي .
+14266	corpus-6-test-corpus-26-train	ASW	أنا بطاريتي خلصت.
+14289	corpus-6-test-corpus-26-train	ASW	أقف عند التقاطع اللي جاي.
+14292	corpus-6-test-corpus-26-train	ASW	ها، اهو. هو كل واحد لازم يملى فورمة تخليص الجمارك دي؟
+14304	corpus-6-test-corpus-26-train	ASW	ممكن آخد أسمك لو سمحت؟
+14306	corpus-6-test-corpus-26-train	ASW	عندك مانع لو اخد ت مكالمة على حساب الطرف التاني؟
+14311	corpus-6-test-corpus-26-train	ASW	إزيك. عامل ايه؟
+14317	corpus-6-test-corpus-26-train	ASW	فين قسم السفر؟
+14336	corpus-6-test-corpus-26-train	ASW	أيه اسم الشخص اللي انت عايز تكلمه؟
+14347	corpus-6-test-corpus-26-test	ASW	معلش انا اسف، هو مش موجود هنا في اللحظة دي.
+14363	corpus-6-test-corpus-26-train	ASW	بص على ده. بص على ده. إنت هتقولي الفرق بين الراجل ده والراجل ده الحظ؟ محمد، إركن على جنب ممكن؟ معندكش مانع لو نزلتك هنا . أنا متاخر. يا صاحبي، كانت فرصة سعيدة إني شوفتك، ماشي؟
+14373	corpus-6-test-corpus-26-dev	ASW	هي أوضتك بتبص على المدينة؟
+14389	corpus-6-test-corpus-26-train	ASW	في اي رسايل ليا؟
+14400	corpus-6-test-corpus-26-test	ASW	ده برضه لسة غالي. ممكن أخده بتلات دولارات؟
+14402	corpus-6-test-corpus-26-train	ASW	كنا عايزين أوضة من ورا.
+14403	corpus-6-test-corpus-26-dev	ASW	كنت عايز جزازة نبيت.
+14416	corpus-6-test-corpus-26-train	ASW	شكلك حلو.
+14426	corpus-6-test-corpus-26-test	ASW	كنت عايز أوضة بسريرين. بكام الأوضة في الليلة؟
+14434	corpus-6-test-corpus-26-train	ASW	ده تقريباً على بعد تسعة وتسعين ميل.
+14441	corpus-6-test-corpus-26-train	ASW	فينس وليندا كانو عايزين يبقو لوحديهم، فانا معلش هقعد هنا الليلة دي.
+14444	corpus-6-test-corpus-26-train	ASW	لو سمحت خلي الشنط دي مربوطة.
+14448	corpus-6-test-corpus-26-train	ASW	إسمي ساتو.
+14457	corpus-6-test-corpus-26-train	ASW	انا اعرف نادي جاز قديم في وسط البلد.
+14459	corpus-6-test-corpus-26-train	ASW	انا هاخد الوجبة الثابتة دي.
+14462	corpus-6-test-corpus-26-dev	ASW	كنت عايز أجرب نفس الطبق ده زي ده.
+14475	corpus-6-test-corpus-26-train	ASW	وبعدين هناخده.
+14477	corpus-6-test-corpus-26-train	ASW	هو ده بيطلع للدور السادس؟
+14478	corpus-6-test-corpus-26-dev	ASW	ده جلد قاطوري؟
+14483	corpus-6-test-corpus-26-train	ASW	لو سمحت، حطه في شنطة غسيل وسيبه هناك.
+14484	corpus-6-test-corpus-26-train	ASW	كن عايز أحمض الفيلم ده. إمتى هيبقى جاهز؟
+14495	corpus-6-test-corpus-26-dev	ASW	لو سمحت متديش المفتاح ده لحد تاني غيري.
+14500	corpus-6-test-corpus-26-test	ASW	ماشي . انا هاجي اخدك من الفندق الساعة تمانية.
+14502	corpus-6-test-corpus-26-train	ASW	الويندز تمام.
+14505	corpus-6-test-corpus-26-train	ASW	خليلي القصة تنزل لتحت، لو سمحت.
+14507	corpus-6-test-corpus-26-train	ASW	شاملة كل مصاريف الممواصلات؟
+14509	corpus-6-test-corpus-26-train	ASW	أوبرا متروبوليتان.
+14514	corpus-6-test-corpus-26-train	ASW	فين المكتب بتاع أجر-عربية؟
+14519	corpus-6-test-corpus-26-dev	ASW	أنا عندي حمى من إمبارح.
+14520	corpus-6-test-corpus-26-train	ASW	ده مش ذوقي.
+14530	corpus-6-test-corpus-26-train	ASW	عندك أيه خضروات؟
+14531	corpus-6-test-corpus-26-test	ASW	كنت عاوز كيرلي خفيف، لو سمحت.
+14534	corpus-6-test-corpus-26-train	ASW	الدكتور هيجي إمتى؟
+14537	corpus-6-test-corpus-26-train	ASW	ده اللون الغلط.
+14538	corpus-6-test-corpus-26-train	ASW	السنة اتكسرت.
+14542	corpus-6-test-corpus-26-train	ASW	هو الكرسي ده ممر ولا جنب الشباك؟
+14557	corpus-6-test-corpus-26-train	ASW	انا في فسحة مشي على الرجلين.
+14564	corpus-6-test-corpus-26-dev	ASW	ممكن توصلي الشنط لأوضتي؟
+14573	corpus-6-test-corpus-26-train	ASW	وري واحد للشابة.
+14590	corpus-6-test-corpus-26-train	ASW	ممكن توقف العربية هنا؟
+14593	corpus-6-test-corpus-26-dev	ASW	عندك اي حاجة بتمانين دولار بالظبط؟
+14605	corpus-6-test-corpus-26-train	ASW	أنا عطشان.
+14612	corpus-6-test-corpus-26-train	ASW	من غبر لبن، لو سمحت.
+14683	corpus-6-test-corpus-26-dev	ASW	انا معايا تلات شنط.
+14685	corpus-6-test-corpus-26-train	ASW	فين البحيرة؟
+14693	corpus-6-test-corpus-26-test	ASW	لمؤاخذة . دوس على زرار التصوير، لو سمحت.
+14709	corpus-6-test-corpus-26-train	ASW	ممكن اخد مجلة او اي حاجة؟
+14718	corpus-6-test-corpus-26-train	ASW	ده جنوب.
+14721	corpus-6-test-corpus-26-train	ASW	كراسي البالكون بكام؟
+14734	corpus-6-test-corpus-26-test	ASW	كنا عايزين أوضة بتبص على البحيرة.
+14737	corpus-6-test-corpus-26-train	ASW	هو فيه صناديق بوستى قريبة من هنا؟
+14757	corpus-6-test-corpus-26-train	ASW	تمام. انا هوديك هناك.
+14761	corpus-6-test-corpus-26-train	ASW	الجزء المكتوب بالميل ده بيتكلم عن التغيرات اللي حصلت في التسعينات.
+14763	corpus-6-test-corpus-26-train	ASW	هو تلاتين سنة.
+14777	corpus-6-test-corpus-26-test	ASW	تمام. ممكن تكتب العنوان مرة تانية على الظرف؟
+14783	corpus-6-test-corpus-26-train	ASW	كنت عايز اروح لهارودس. ممكن ترسملي خريطة، لو سمحت؟
+14786	corpus-6-test-corpus-26-train	ASW	إنت بتعمل ايه لما يكون عندك أوقات فراغ؟
+14789	corpus-6-test-corpus-26-train	ASW	عندك بطاريات للكاميرا دي؟
+14805	corpus-6-test-corpus-26-train	ASW	كنت عايز كابل الريليز بتاع الكاميرا.
+14807	corpus-6-test-corpus-26-train	ASW	إنت اخر واحد في الصف؟
+14810	corpus-6-test-corpus-26-train	ASW	متهيئلي ده مبالغ فيه.
+14813	corpus-6-test-corpus-26-train	ASW	شوطة حلوة. برة بسنة بسيطة.
+14818	corpus-6-test-corpus-26-train	ASW	ممكن تقولي الاماكن المهمة اللي هنا؟
+14820	corpus-6-test-corpus-26-train	ASW	مفيش محلات شاملة قريبة من هنا؟
+14854	corpus-6-test-corpus-26-dev	ASW	وأنا كمان.
+14862	corpus-6-test-corpus-26-train	ASW	كنت عايز انضم من سان دييجوز.
+14863	corpus-6-test-corpus-26-train	ASW	كنت بفكر آخد اللكورس ده في نص السنة اللي جاية.
+14887	corpus-6-test-corpus-26-train	ASW	النبيت مش باري قوي. ممكن تخليه ابرد؟
+14901	corpus-6-test-corpus-26-dev	ASW	ممكن تغيرلي الحلق ده لحلق بكلبسات؟
+14903	corpus-6-test-corpus-26-train	ASW	ايه اكتر حاجة إنت مهتم بيها دلوقتي؟
+14905	corpus-6-test-corpus-26-train	ASW	انا كنت عايز الفلوس اللي دفعتها. ممكن اخد فلوسي تاني؟
+14926	corpus-6-test-corpus-26-train	ASW	انا متهيئلي مش ممكن اخد مشروب زي ده في أي مكان تاني.
+14933	corpus-6-test-corpus-26-train	ASW	لو انت إشتريت ده برضه، ده هيخليك توصل للكمية المعفية من الضرايب.
+14952	corpus-6-test-corpus-26-train	ASW	ممكن اشوف شهادة التطعيم بتاعتك، لو سمحت؟
+14960	corpus-6-test-corpus-26-train	ASW	إنت بتسافر كتير؟
+14969	corpus-6-test-corpus-26-train	ASW	انا من الولايات المتحدة.
+14976	corpus-6-test-corpus-26-train	ASW	انا معيايا تذكرة طيران لسانفرانسيسكو.
+14998	corpus-6-test-corpus-26-train	ASW	لو هي ربع ساعة بس من المحطة، فانا همشيها.
+15019	corpus-6-test-corpus-26-train	ASW	كنت عايز فندق أرخص شوية.
+15020	corpus-6-test-corpus-26-test	ASW	بونساي شكله عامل زي واحد هوبي عجوز.
+15024	corpus-6-test-corpus-26-dev	ASW	انا مقررتش لسة . ممكن تديني وقت اكتر شوية؟
+15025	corpus-6-test-corpus-26-train	ASW	انا عندي صداع.
+15036	corpus-6-test-corpus-26-dev	ASW	ممكن تيجي تشرب معايا قهوة؟
+15037	corpus-6-test-corpus-26-train	ASW	كنت عايز الشهادة الصحية ووصل التامين بتاعي.
+15046	corpus-6-test-corpus-26-test	ASW	اه، لا. لو سمحت سرع. إحنا متاخرين.
+15051	corpus-6-test-corpus-26-train	ASW	مش عايزين نصرف اكتر من عشرين دولار.
+15062	corpus-6-test-corpus-26-train	ASW	هي الطايرة مطارتش ليه؟ قولي ايه اللي بيحصل.
+15073	corpus-6-test-corpus-26-test	ASW	بكام الأجرة؟ ممكن تكتبلي الأجرة على ورقة؟
+15083	corpus-6-test-corpus-26-train	ASW	ممكن تآجرلي كرسي على سطح الباخرة.
+15087	corpus-6-test-corpus-26-train	ASW	إستنى دقيقة ن لو سمحت.
+15088	corpus-6-test-corpus-26-test	ASW	هم الستات المفروض يلبسوا فستانين رسمية؟
+15095	corpus-6-test-corpus-26-train	ASW	متلمسنيش.
+15109	corpus-6-test-corpus-26-train	ASW	معاك سجاير؟
+15123	corpus-6-test-corpus-26-train	ASW	لو الريح مش قوية قوي، إحنا ممكن نروح تيكي بوينت.
+15126	corpus-6-test-corpus-26-train	ASW	رائع.
+15133	corpus-6-test-corpus-26-train	ASW	انا هقفل دلوقتي. متشكر لإهتمامك.
+15145	corpus-6-test-corpus-26-dev	ASW	عندك من ده الوان تانية؟
+15149	corpus-6-test-corpus-26-train	ASW	مين ده؟
+15157	corpus-6-test-corpus-26-train	ASW	لمؤاخذة. ممكن تقولي موقف التاكسي فين؟
+15170	corpus-6-test-corpus-26-train	ASW	وتشرب؟
+15181	corpus-6-test-corpus-26-train	ASW	اهو.
+15201	corpus-6-test-corpus-26-train	ASW	فين أقرب محل بيبيع قطع غيار الكمبيوتر؟
+15206	corpus-6-test-corpus-26-train	ASW	إمم. ده مش شغال، مش كدة؟ ممكن تنقل لكرسي فاضي، لو إنت عايز.
+15221	corpus-6-test-corpus-26-train	ASW	انا بدور عليه ده.
+15240	corpus-6-test-corpus-26-train	ASW	تمام حضرتك. و تحب ايه فى التحلية؟
+15246	corpus-6-test-corpus-26-train	ASW	عربية عادية ولا عربية نوم؟
+15247	corpus-6-test-corpus-26-train	ASW	شيكات سياحية. متشكر. إتفضل تذكرتك والبوردنج باس بتاعك. خليك هنا، لو سمحت، قبل ميعاد الرحلة بساعة.
+15257	corpus-6-test-corpus-26-test	ASW	ده ألم شديد.
+15259	corpus-6-test-corpus-26-train	ASW	الاسم جورو موتوياما. والرقم زيرو تلاتة تلاتة اتنين ستة واحد اتنين اربعة تسعة خمسة.
+15262	corpus-6-test-corpus-26-train	ASW	انا حاسس نفسي عيان خالص.
+15274	corpus-6-test-corpus-26-train	ASW	"ايه اوقات عرض ""كوسيز لاف""؟"
+15283	corpus-6-test-corpus-26-train	ASW	تمام . هتاخد قهوتك دلوقتي ولا بعدين؟
+15292	corpus-6-test-corpus-26-train	ASW	فين اسخن نادي ريجيه في نيويورك.
+15295	corpus-6-test-corpus-26-test	ASW	باي طريقة المنتج بتاعك مختلف عن منافسيك؟
+15296	corpus-6-test-corpus-26-train	ASW	هو ينفع ان مفيش حد يسمع لتعليمات الامان؟
+15319	corpus-6-test-corpus-26-train	ASW	هو الشارع الخلفي خطر؟
+15320	corpus-6-test-corpus-26-train	ASW	ايوة. لوسمحت خد الإجراء الضروري.
+15323	corpus-6-test-corpus-26-train	ASW	ايوة، انا بس. إمتى هعرف؟ أنا هتعوض إزاي؟
+15331	corpus-6-test-corpus-26-dev	ASW	إتفضل البطاة بتعاتي.
+15337	corpus-6-test-corpus-26-train	ASW	إحنا بنفضل طربيزة جنب الشباك.
+15347	corpus-6-test-corpus-26-train	ASW	لو سمحت قولي ايه أرخص طريقة أروح بيها سان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	ASW	تعرف المطعم، يا كيوايا؟
+15378	corpus-6-test-corpus-26-train	ASW	طريق رايح بس.
+15380	corpus-6-test-corpus-26-train	ASW	انا هتخن لو قعدت هنا اكل بمعدل ثابت.
+15400	corpus-6-test-corpus-26-train	ASW	هو فيه نايت كلب كويس بيعرضو فيه رقصة الفلامنكو؟
+15419	corpus-6-test-corpus-26-train	ASW	الفستان اللي غنتي لابساه جميل خالص.
+15431	corpus-6-test-corpus-26-train	ASW	رجليا واجعاني.
+15436	corpus-6-test-corpus-26-train	ASW	فين أقرب مغسلة؟
+15443	corpus-6-test-corpus-26-train	ASW	ممكن تغير الكراسي معايا، لو سمحت؟
+15447	corpus-6-test-corpus-26-train	ASW	كراسينا بعاد عن بعض.
+15452	corpus-6-test-corpus-26-train	ASW	في الحقيقة، كنت عايز الطرد ده متأمن عليه كمان.
+15463	corpus-6-test-corpus-26-train	ASW	الفاتورة قربت من ماية دولار.
+15464	corpus-6-test-corpus-26-test	ASW	مخارج الطوارئ في الطيارة من قدام وفي النص ومن ورا.
+15470	corpus-6-test-corpus-26-train	ASW	تمام، حجزك إتأكد.
+15476	corpus-6-test-corpus-26-train	ASW	الكعوب عالية خالص.
+15477	corpus-6-test-corpus-26-train	ASW	كنا عايزين طربيزة في البالكونة.
+15482	corpus-6-test-corpus-26-train	ASW	ده معناه ان الفيلم ممكن ميكونش مناسب للعيال اقل من خمستاشر. فالوالدين محتاجين يشوفو هيخلو العيال يتفرجو على الفيلم.
+15487	corpus-6-test-corpus-26-train	ASW	إنت عايز الفلوس إزاي؟ لو سمحت إملى الورقة وإمضي هنا.
+15509	corpus-6-test-corpus-26-train	ASW	أحياناً معدتي يتوجعني.
+15522	corpus-6-test-corpus-26-train	ASW	عندك أكلات فيه سعرات حرارية قليلة؟ أنا عامل دايت، دلوقتي.
+15529	corpus-6-test-corpus-26-dev	ASW	مفيش نكلفة ضرورية.
+15539	corpus-6-test-corpus-26-train	ASW	ايوة، انا معايا تذكرتين العمالقة والمحتالين.
+15546	corpus-6-test-corpus-26-train	ASW	غحنا على قمة موردين الكومبيوترات الصغيرة.
+15553	corpus-6-test-corpus-26-train	ASW	متشكر. وانا كمان. سلام لغاية بعدين.
+15564	corpus-6-test-corpus-26-train	ASW	مزدوجة بحمام، لوسمحت.
+15566	corpus-6-test-corpus-26-train	ASW	انا وقعت على السلم.
+15575	corpus-6-test-corpus-26-train	ASW	إنت تنصحنى بايس كريم ايه؟
+15577	corpus-6-test-corpus-26-dev	ASW	إممز ده. اللون ده ماشي عليك.
+15598	corpus-6-test-corpus-26-test	ASW	فين كتب اللغات الاجنبية؟
+15604	corpus-6-test-corpus-26-train	ASW	شريحتين وسبرايت.
+15607	corpus-6-test-corpus-26-test	ASW	إديني شوية سجاير.
+15610	corpus-6-test-corpus-26-dev	ASW	ده غير قانوني انك تجيبه للبلد - معلش. طيب، أعتقد ده كل حاجة خلاص.
+15652	corpus-6-test-corpus-26-train	ASW	ايوة، أنا. هم كانون عايشين قريب مني في كاليفورنيا بس هم نقلو لفلوريدا من سنتين. وإنت أخبارك أيه؟ إنت مسافر لوحدك؟
+15664	corpus-6-test-corpus-26-train	ASW	أنا عيان.
+15666	corpus-6-test-corpus-26-train	ASW	ولدي باين عليه عيان بالحمى.
+15673	corpus-6-test-corpus-26-train	ASW	بالحجم ده، لو سمحت.
+15674	corpus-6-test-corpus-26-train	ASW	تكريم الجدارة الثقافية بيدوه للفنانين والعلماء المميزين في اليوم ده.
+15676	corpus-6-test-corpus-26-train	ASW	انا ياباني.
+15692	corpus-6-test-corpus-26-train	ASW	ده غالي جداً.
+15699	corpus-6-test-corpus-26-train	ASW	اه، خد تاكسي رايح كيتو - إيكي.
+15710	corpus-6-test-corpus-26-train	ASW	ده للأعضاء بس؟
+15735	corpus-6-test-corpus-26-dev	ASW	تكلفة الأوضة ستلاف ين في الليلة.
+15763	corpus-6-test-corpus-26-train	ASW	ممكن اخد ده معايا على الطيارة؟
+15775	corpus-6-test-corpus-26-train	ASW	ماشي. كل اللي عايز اعرفه إذا كان الشغل هيدفع اصلاً بطريقته الخاصة.
+15784	corpus-6-test-corpus-26-train	ASW	كويس. إنت عايز شال علشان يمشي على ده؟
+15788	corpus-6-test-corpus-26-train	ASW	إشحن البطارية، لو سمحت.
+15791	corpus-6-test-corpus-26-train	ASW	انا مستعد اطلب.
+15798	corpus-6-test-corpus-26-dev	ASW	أملاح الحمام العشبية هيخلي بشرتك تحس انها ناعمة وملساء.
+15804	corpus-6-test-corpus-26-train	ASW	إكتب اسم شركة الطيران ورقم الرحلة، برضه.
+15814	corpus-6-test-corpus-26-train	ASW	حقيقي. إنهاردة الحد، والحد ده أسوء يوم.
+15896	corpus-6-test-corpus-26-train	ASW	ايوة، دي مشكلة التخلص من النفايات.
+15897	corpus-6-test-corpus-26-train	ASW	كنت عايز الشكل ده في وضع خمس اماكن.
+15899	corpus-6-test-corpus-26-train	ASW	عائلات كتيرة ليها مصدرين للدخل.
+15902	corpus-6-test-corpus-26-train	ASW	"اه. الفضة ده ندرة ""القمر والجرس"". أكيد ناوي تبدله؟"
+15911	corpus-6-test-corpus-26-train	ASW	أمي وأختي جايين من اليابان علشان يشوفوني. هيوصلو حوالي الساعة سبعة بليل.
+15942	corpus-6-test-corpus-26-train	ASW	البني منتشر جدا السنة دي.
+15950	corpus-6-test-corpus-26-test	ASW	فكرة كويسة. ناوي تيجي إمتى؟
+15967	corpus-6-test-corpus-26-train	ASW	ماشي. كرسين، لو سمحت.
+15989	corpus-6-test-corpus-26-train	ASW	فين السوق؟
+16007	corpus-6-test-corpus-26-train	ASW	كنت عايز أجرب بدلة السباق الجديدة بتعاتي.
+16016	corpus-6-test-corpus-26-train	ASW	انا افتكرت يا شباب انكم اكلتو دونات بس.
+16034	corpus-6-test-corpus-26-train	ASW	بكام تكلفة تذكرة الدرجة الاولى لإيدنبره، لو سمحت؟
+16042	corpus-6-test-corpus-26-train	ASW	الظاهر ان العشر دولارات اللي انت ادتهوملي مش كفاية.
+16046	corpus-6-test-corpus-26-train	ASW	انا بس ناديت على الاستاذ سميث فى اوضة رقم اتنين زيرو واحد، بس مكانش فيه رد. ممكن تشولي لو هو لسة موجود هنا؟
+16061	corpus-6-test-corpus-26-train	ASW	كنت عايز واحد مودرن.
+16070	corpus-6-test-corpus-26-train	ASW	انا شغال في شركة نشر.
+16073	corpus-6-test-corpus-26-train	ASW	ممكن لو سمحت تملى ده؟
+16080	corpus-6-test-corpus-26-test	ASW	شارع ايه ده؟
+16082	corpus-6-test-corpus-26-test	ASW	ممكن توزن الطرد ده؟
+16089	corpus-6-test-corpus-26-train	ASW	بتولو عليه ايه د ه بالانجيليزي؟
+16091	corpus-6-test-corpus-26-train	ASW	خليك ماشي على طول في اللمر ده، هتلاقيه على يمينك.
+16098	corpus-6-test-corpus-26-train	ASW	كنت عايز آمن على ده.
+16106	corpus-6-test-corpus-26-train	ASW	صباح الخير. معاك مكتب الاستقبال. اقدر أساعدك؟
+16127	corpus-6-test-corpus-26-train	ASW	تمام. لو سمحت أدخل.
+16130	corpus-6-test-corpus-26-test	ASW	ايوة، حضرتك. أنا باجي هنا كل يوم علشان الفطار، من الاتنين للجمعة، قبل ماروح الشغل.
+16140	corpus-6-test-corpus-26-dev	ASW	مفيش مشكلة.
+16141	corpus-6-test-corpus-26-train	ASW	لو سمحت وصلني بتلاتة اتنين ستة اتنين تسعة واحد تمانية.
+16158	corpus-6-test-corpus-26-train	ASW	أيوة، إحنا في خدمتك من الساعة سبعة.
+16167	corpus-6-test-corpus-26-train	ASW	لو سمحت مدد هنا.
+16169	corpus-6-test-corpus-26-test	ASW	ايه الخدمة السريعة دي.
+16191	corpus-6-test-corpus-26-train	ASW	ممكن لسه هييجي.
+16217	corpus-6-test-corpus-26-train	ASW	لو سمحت إحود شمال عند التقاطع اللي جاي.
+16219	corpus-6-test-corpus-26-dev	ASW	لمؤاخذة . إزاي أوصل للبنك؟
+16222	corpus-6-test-corpus-26-train	ASW	هو فيه خدمة أتوبيسات لمتحف فورد؟
+16227	corpus-6-test-corpus-26-train	ASW	ايوة. إسمك ورقم الأوضة، لو سمحت.
+16231	corpus-6-test-corpus-26-train	ASW	هياخد قد أيه وقت علشان يوصل اليابان بالبريد الجوي؟
+16238	corpus-6-test-corpus-26-train	ASW	ماشي. اشوفك الساعة اتنين يوم الحد.
+16258	corpus-6-test-corpus-26-train	ASW	كنت عايز اروح تورنتو عن طريق نيويورك.
+16259	corpus-6-test-corpus-26-train	ASW	السوستة بتاعته إتكسرت. عندك منه تاني؟
+16271	corpus-6-test-corpus-26-train	ASW	ده نوع زبالة.
+16279	corpus-6-test-corpus-26-dev	ASW	ممكن تأكدلي على الحجز بتاعي؟ إفضل تذكرة الطيران بتاعتي.
+16291	corpus-6-test-corpus-26-train	ASW	عندك من ده أخضر غامق؟
+16292	corpus-6-test-corpus-26-test	ASW	ممكن توديني كانتيربيري وترجعني تاني؟
+16311	corpus-6-test-corpus-26-train	ASW	ممكن شوكة جديدة؟
+16312	corpus-6-test-corpus-26-train	ASW	ألف شكر على طيبتك.
+16335	corpus-6-test-corpus-26-train	ASW	معلش، إحنا مش بنبيع تذاكر للمسرح.
+16337	corpus-6-test-corpus-26-train	ASW	كنت عايز أشوف ده.
+16339	corpus-6-test-corpus-26-train	ASW	اه، ده كويس. المفروض اعمل ايه؟
+16344	corpus-6-test-corpus-26-dev	ASW	كنت عايز امد قعدتي هنا ليومين أطول.
+16351	corpus-6-test-corpus-26-train	ASW	لو سمحت غير كرسيا.
+16365	corpus-6-test-corpus-26-train	ASW	إحنا عندنا شوية جمبري كويسين جداً إنهاردة.
+16371	corpus-6-test-corpus-26-train	ASW	بيفضل فاتح لغاية إمتى؟
+16395	corpus-6-test-corpus-26-train	ASW	تدخين ولا لأ؟
+16403	corpus-6-test-corpus-26-train	ASW	ده غالي جداص بالنسبالي. ممكن ترخصه شوية؟
+16409	corpus-6-test-corpus-26-dev	ASW	أنا فاتح يوم الأربع الصبح أو الجمعة بعد الضهر.
+16413	corpus-6-test-corpus-26-train	ASW	انا محجزتش.
+16434	corpus-6-test-corpus-26-train	ASW	علشان الصيف دايماً حر جداً فى اليابان، و إحنا مكنش عندينا تكييفات زمان.
+16444	corpus-6-test-corpus-26-train	ASW	ممكن تتصلي بتاكسي الساعة تمانية بكرة الصبح؟
+16453	corpus-6-test-corpus-26-train	ASW	ده شمولي.
+16465	corpus-6-test-corpus-26-train	ASW	ليه منستناش الاتوبيس تحت المظلة؟
+16477	corpus-6-test-corpus-26-train	ASW	تعالى، يا كينجي. خليني أوريك المكتب.
+16478	corpus-6-test-corpus-26-train	ASW	أيوة، ده مفتوح من تسعة لتسعة.
+16484	corpus-6-test-corpus-26-dev	ASW	أنا مبقدرش أنام كويس بليل.
+16487	corpus-6-test-corpus-26-train	ASW	الكساد أثر إزاي على الشغل؟
+16495	corpus-6-test-corpus-26-train	ASW	أنا عندي ميعاد تاني.
+16516	corpus-6-test-corpus-26-train	ASW	ممكن أخد خريطة لطرق المدينة؟
+16536	corpus-6-test-corpus-26-dev	ASW	انا كنت بدور على نفس الحاجة.
+16542	corpus-6-test-corpus-26-train	ASW	أنا مفهمتش الشرح بتاعك.
+16546	corpus-6-test-corpus-26-train	ASW	هتضطر تاخد رحلة توصيلية. الروحة لبوسطن.
+16547	corpus-6-test-corpus-26-train	ASW	فين احسن مكان للسياحة؟
+16576	corpus-6-test-corpus-26-train	ASW	ده متين؟
+16577	corpus-6-test-corpus-26-train	ASW	أنا إتمتعت جداً.
+16581	corpus-6-test-corpus-26-train	ASW	كويس طيب، أنا كنت عايز وش اصغر زي بتاع جوليا روبرتس.
+16586	corpus-6-test-corpus-26-train	ASW	ممكن تاخد ده، لو سمحت؟
+16601	corpus-6-test-corpus-26-train	ASW	المسافرين اللي مغادرين على شركة طيران أيه بي سي رحلة رقم سبعة زيرو تلاتة الي رايحة طوكيو لو سمحتو إتقدمو لبوابة عشرين للإجراءات الحكومية.
+16607	corpus-6-test-corpus-26-train	ASW	فين موقف الأتوبيس بتاع بي؟
+16643	corpus-6-test-corpus-26-train	ASW	منفردين، لو سمحت.
+16653	corpus-6-test-corpus-26-dev	ASW	ممكن اشتري فوط للطربيزة؟
+16679	corpus-6-test-corpus-26-train	ASW	ممكن اتعاقد مع مرشد بيتكلم ياباني؟
+16696	corpus-6-test-corpus-26-train	ASW	عايزنى أخدلك صورة؟
+16709	corpus-6-test-corpus-26-train	ASW	أنا معنديش الطبق ده.
+16718	corpus-6-test-corpus-26-train	ASW	انا جرحت صباعي. فيه مطهر؟
+16723	corpus-6-test-corpus-26-train	ASW	ممكن آخد طابع بخمسة وتسعين سنت؟
+16736	corpus-6-test-corpus-26-train	ASW	انا هبقى هنا على الساعة تمانية الا ربع.
+16746	corpus-6-test-corpus-26-train	ASW	كنت عايز برافان.
+16747	corpus-6-test-corpus-26-train	ASW	ممكن اخد جدول الواعيد؟
+16751	corpus-6-test-corpus-26-test	ASW	إنت بتروح المدرسة هنا؟
+16758	corpus-6-test-corpus-26-dev	ASW	كان فيه قد ايه؟
+16760	corpus-6-test-corpus-26-train	ASW	هو فندق الهيلتون بعيد من هنا؟
+16769	corpus-6-test-corpus-26-train	ASW	انا متاكد انا حطيته في شنطتي.
+16770	corpus-6-test-corpus-26-train	ASW	إرفعو الأيدين.
+16771	corpus-6-test-corpus-26-train	ASW	فيه مطعم قريب تنصحني بيه؟
+16773	corpus-6-test-corpus-26-train	ASW	ايه اللي انت بتفضله، غامق ولا فاتح؟
+16781	corpus-6-test-corpus-26-train	ASW	ممكن تقولى إحنا طايرين فين؟
+16793	corpus-6-test-corpus-26-train	ASW	تذكرة تنقل، لو سمحت.
+16796	corpus-6-test-corpus-26-train	ASW	فين مكان لطيف ينفع لجولة ليوم واحد؟
+16799	corpus-6-test-corpus-26-train	ASW	كنت عايز شنطة كيلي الحمرة نفس الإستايل ده.
+16805	corpus-6-test-corpus-26-train	ASW	لسة هتعمل الجدول ده؟
+16810	corpus-6-test-corpus-26-train	ASW	هو البنك بيفتح إمتى؟
+16811	corpus-6-test-corpus-26-train	ASW	انا حاسس اني تعبان.
+16819	corpus-6-test-corpus-26-train	ASW	انا اتلخبطت. ممكن ترسملي خريطة؟
+16822	corpus-6-test-corpus-26-test	ASW	برة.
+16829	corpus-6-test-corpus-26-test	ASW	خدني للمستشفى.
+16833	corpus-6-test-corpus-26-train	ASW	هو أنا لازم اجي المستشفى كل يوم؟
+16837	corpus-6-test-corpus-26-train	ASW	معدتي بتوجعني.
+16839	corpus-6-test-corpus-26-train	ASW	بكام تكلفة البوسطة لبعت الجواب ده لليابان؟
+16842	corpus-6-test-corpus-26-train	ASW	كنت عايز كاس شيري.
+16869	corpus-6-test-corpus-26-train	ASW	إنت محتاج انك حد ياخدك من المطار؟
+16872	corpus-6-test-corpus-26-dev	ASW	البوردنج هيبتدي الساعة اربعة ونص فلو سمحت خليك هناك بل كدة.
+16878	corpus-6-test-corpus-26-train	ASW	من تلاتين الف ين.
+16879	corpus-6-test-corpus-26-train	ASW	ممكن اشتري كارت تليفون من فين؟
+16888	corpus-6-test-corpus-26-train	ASW	ممكن أرجعه في مدينة تانية؟
+16889	corpus-6-test-corpus-26-dev	ASW	أنا بخطط لإتناشر يوم.
+16893	corpus-6-test-corpus-26-train	ASW	لو سمحت خلي القمة اطول شوية.
+16896	corpus-6-test-corpus-26-train	ASW	إنت لازم تشوف متخصص.
+16899	corpus-6-test-corpus-26-dev	ASW	دقايق، لو سمحت.
+16904	corpus-6-test-corpus-26-train	ASW	المسار رقم اربعتاشر.
+16911	corpus-6-test-corpus-26-train	ASW	اه، إنت اشتريت؟ إنت باتاكيد عندك تشكيلة كبيرة.
+16928	corpus-6-test-corpus-26-dev	ASW	انا مش لاقيهم في أي حتة.
+16936	corpus-6-test-corpus-26-test	ASW	عندك أي أماكن فاضية لندن؟
+16952	corpus-6-test-corpus-26-train	ASW	كنت عاي نسخة من تقرير السرقة.
+16955	corpus-6-test-corpus-26-dev	ASW	ده بعد تقاطع واحد في الشارع.
+16960	corpus-6-test-corpus-26-train	ASW	ممكن تولعلي لما تكون هناك؟
+16962	corpus-6-test-corpus-26-test	ASW	هي السجاير دي معتدلة؟
+16964	corpus-6-test-corpus-26-train	ASW	تمام. زى ده بس.
+16967	corpus-6-test-corpus-26-train	ASW	الاكسبريس اللي جاي خلال ساعة.
+16976	corpus-6-test-corpus-26-train	ASW	كنت عايز أطول الإكمام بتاعة الجاكيت الرياضي دي.
+16992	corpus-6-test-corpus-26-train	ASW	أنا حاجز. وده رقم تأكيد الحجز.
+17027	corpus-6-test-corpus-26-train	ASW	عيد ميلادك قرب.
+17030	corpus-6-test-corpus-26-dev	ASW	القطارات واقفة بسبب الإضراب.
+17038	corpus-6-test-corpus-26-train	ASW	ممكن تصلح ده؟
+17068	corpus-6-test-corpus-26-dev	ASW	الشارع كان مزحوم بالعربيات.
+17079	corpus-6-test-corpus-26-train	ASW	المبنى التاني على شمال المبنى الأبيض.
+17094	corpus-6-test-corpus-26-train	ASW	إحنا حجزنا كرسي يوم خمسة وعشرين اكتوبر في اللي بيمشي الساعة حيداشر بليل.
+17097	corpus-6-test-corpus-26-train	ASW	لا، قدام شوية. أيوة، هناك.
+17115	corpus-6-test-corpus-26-train	ASW	أيوة، ده ميشملش الوجبات.
+17117	corpus-6-test-corpus-26-train	ASW	من فين أقدر استرجع فلوس التذكرة دي؟
+17120	corpus-6-test-corpus-26-train	ASW	ده حصل ليه؟
+17149	corpus-6-test-corpus-26-train	ASW	أنا عايز آخد راحة.
+17158	corpus-6-test-corpus-26-train	ASW	عربيتي إتعطلت، ممكن تيجي وتاخدها.
+17163	corpus-6-test-corpus-26-train	ASW	كنت عايز شعري أطول شوية من ورا.
+17177	corpus-6-test-corpus-26-train	ASW	ايه الانواع اللي عندك؟
+17179	corpus-6-test-corpus-26-dev	ASW	انا موافق. ده واحد من الاماكن المفضلة عندي.
+17180	corpus-6-test-corpus-26-train	ASW	ايه نوع الموديل اللي في دماغك؟
+17204	corpus-6-test-corpus-26-test	ASW	إسمي ميكيكو تاناكا، ورقم الرحلة خمسة زيرو واحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	ASW	ممكن ترلسملي خريطة مبسطة من هنا؟
+17217	corpus-6-test-corpus-26-train	ASW	إحنا بنتقابل فين؟
+17222	corpus-6-test-corpus-26-train	ASW	كنت عايز تظبيطة شعري زي ماكانت.
+17229	corpus-6-test-corpus-26-train	ASW	إديني خمسين، لو سمحت.
+17272	corpus-6-test-corpus-26-train	ASW	أقدر اعمل تشيك إن في الخطوط الجوية اليابانية فين؟
+17280	corpus-6-test-corpus-26-train	ASW	إيه المكونات؟
+17295	corpus-6-test-corpus-26-train	ASW	فيه أي اماكن في المنطة اللي بيتصنف ينصح بيها قوي؟
+17311	corpus-6-test-corpus-26-train	ASW	إديني شوية فكة، لو سمحت.
+17313	corpus-6-test-corpus-26-train	ASW	تمام. أنا هتأكد انه شنطك هتبقى هنا.
+17315	corpus-6-test-corpus-26-train	ASW	ده تخصصنا. سمك دوفر المشوي.
+17339	corpus-6-test-corpus-26-train	ASW	هبقى قاعدين.
+17350	corpus-6-test-corpus-26-train	ASW	انا اتثبت.
+17356	corpus-6-test-corpus-26-train	ASW	تمام. المفروض إني اركز عليها؟
+17381	corpus-6-test-corpus-26-dev	ASW	هنشترك فيه.
+17394	corpus-6-test-corpus-26-train	ASW	إحنا معندناش الستايل ده بالظبط دلوقتي. بس انا هبص على المخزن . إستنى دقيقة، لو سمحت.
+17398	corpus-6-test-corpus-26-train	ASW	سكوتش ومية، لو سمحت.
+17399	corpus-6-test-corpus-26-train	ASW	ده شكله كويس. بكام ده؟
+17414	corpus-6-test-corpus-26-train	ASW	خد الروشتة دي للصيدلية . تقدر تاخد الدوا من هناك.
+17438	corpus-6-test-corpus-26-train	ASW	أنا طلبت ده.
+17453	corpus-6-test-corpus-26-train	ASW	ايوة، ممكن تنزل في أي محطة بين هنا وشيكاغو.
+17460	corpus-6-test-corpus-26-train	ASW	أقدراشتري هدايا تذكارية من فين؟
+17475	corpus-6-test-corpus-26-train	ASW	ده غالي جداً . أنا مقدرش اشتريه.
+17482	corpus-6-test-corpus-26-train	ASW	ممكن آخد الرقم بتاع إيه بي سي آند كومباني في شيكاغو، لو سمحت.
+17488	corpus-6-test-corpus-26-test	ASW	فين الكاتدرائية؟
+17496	corpus-6-test-corpus-26-train	ASW	إنت عايز البيض بتاعك إزاي؟
+17504	corpus-6-test-corpus-26-train	ASW	ده جنب المبنى على طول.
+17526	corpus-6-test-corpus-26-train	ASW	لا، أنا متهيئلي هم نسيو يجبولنا واحد.
+17537	corpus-6-test-corpus-26-train	ASW	ماشي. إتأكد. ممكن ناخد رقمك، بس علشان في حالة لو إحنا احتجنا نتواصل معاك؟
+17548	corpus-6-test-corpus-26-train	ASW	أيه اسم الرسام؟
+17559	corpus-6-test-corpus-26-train	ASW	أخليه يتصل بيك لما يجي؟
+17593	corpus-6-test-corpus-26-train	ASW	كنت عايز ده.
+17606	corpus-6-test-corpus-26-train	ASW	أنا عاجباني خدمة الترحيب بالشمانيا بعد البوردنج. خليني نشرب في صحتك.
+17609	corpus-6-test-corpus-26-train	ASW	أربعين دولار لكل يوم زائد تمانية سنتات لكل ميل.
+17615	corpus-6-test-corpus-26-train	ASW	أنا هراهن بخمس دولارات.
+17636	corpus-6-test-corpus-26-train	ASW	ده مش طلب حد تاني؟
+17645	corpus-6-test-corpus-26-train	ASW	ممكن تقولي اوصل للمتحف إزاي؟
+17649	corpus-6-test-corpus-26-train	ASW	انا متاس جدا، بس كنت عايز آجل الميعاد.
+17652	corpus-6-test-corpus-26-test	ASW	ممكن تصحني برحلة؟
+17660	corpus-6-test-corpus-26-train	ASW	قطرك هيتحرك من رصيف تمانية.
+17673	corpus-6-test-corpus-26-train	ASW	انا بدور على شنطة بحزام بيتظبط.
+17674	corpus-6-test-corpus-26-train	ASW	كنت حابب اقعد بأقل من ماية وتمانين دولار.
+17739	corpus-6-test-corpus-26-train	ASW	أنا هسألك لما ابص بصة.
+17745	corpus-6-test-corpus-26-test	ASW	ايوة، حجز لست أيام، لو سمحت. بداية من تلاتة وعشرين يوليو.
+17757	corpus-6-test-corpus-26-train	ASW	ممكن توريني حاجات تانية بتصميمات مختلفة؟
+17765	corpus-6-test-corpus-26-train	ASW	تحب اي نوع من العصير؟
+17780	corpus-6-test-corpus-26-train	ASW	انت بتروح بلدك في الاجازات؟
+17782	corpus-6-test-corpus-26-dev	ASW	أروح فين علشان اشوف منظر رائع بجد؟
+17786	corpus-6-test-corpus-26-test	ASW	ده كان اصلاً مكسور لما فتحت الطرد.
+17790	corpus-6-test-corpus-26-test	ASW	تسعة وعشريت اغسطس.
+17797	corpus-6-test-corpus-26-train	ASW	كنت عايز ابعت ده بالبريد الجوي لليابان.
+17798	corpus-6-test-corpus-26-train	ASW	عيد شكر العمال. ده يوم شكر كل من دم دعم للمجتمع باعمالهم.
+17799	corpus-6-test-corpus-26-train	ASW	الأوضة دي صغيرة خالص.
+17803	corpus-6-test-corpus-26-train	ASW	ممكن آخد شاي تاني، لو سمحت؟
+17805	corpus-6-test-corpus-26-train	ASW	كنت عايز الهدوم دي تتغسل بالكتير بكرة.
+17808	corpus-6-test-corpus-26-train	ASW	فيه بنك قريب من هنا؟
+17811	corpus-6-test-corpus-26-train	ASW	ممكن تنضف الطربيزة، لو سمحت؟
+17840	corpus-6-test-corpus-26-train	ASW	سكينة، لو سمحت.
+17841	corpus-6-test-corpus-26-train	ASW	دول كلهم مطبوعات.
+17842	corpus-6-test-corpus-26-train	ASW	لو سمحت إكتب رقم الأوضة بتاعتك من ورا.
+17847	corpus-6-test-corpus-26-train	ASW	إحنا بنستخدم العصيان احنا وبناكل.
+17852	corpus-6-test-corpus-26-train	ASW	رحلة دلتا رقم تمانية وعشرين لنيو اورليانز هتتأخر تقريباً ساعة .
+17854	corpus-6-test-corpus-26-train	ASW	لما أرجع اليابان، هكتبلك جواب. لو عندك وقت، لو سمحت إكتبلي جواب.
+17855	corpus-6-test-corpus-26-train	ASW	انا سبت تذكرة الطيران في الفندق.
+17861	corpus-6-test-corpus-26-train	ASW	أوضة مفردة من غير حمام، لو سمحت.
+17869	corpus-6-test-corpus-26-train	ASW	متشكر تاني علشان فكرتني. فيه ناس كتيرة ناوية تنسى تمضي اسمائها؟
+17886	corpus-6-test-corpus-26-train	ASW	طيب، الوقت بيجري مننا. ممكن نكمل المناقشة دي يوم الخميس الساعة وحدة؟
+17899	corpus-6-test-corpus-26-test	ASW	كنت عايز شوية بيجامات.
+17919	corpus-6-test-corpus-26-train	ASW	ماشي. هنادي عليك لما يكونو جاهزين.
+17935	corpus-6-test-corpus-26-train	ASW	أيه رأيك في غدا؟
+17947	corpus-6-test-corpus-26-test	ASW	العربية الليموزين هتوقف عند البوابة الشمالية الأولى.
+17963	corpus-6-test-corpus-26-train	ASW	أقدر استخدم مطعم الفندق متأخر لغاية قد أيه؟
+17966	corpus-6-test-corpus-26-dev	ASW	ده قطر مباشر؟
+17977	corpus-6-test-corpus-26-train	ASW	طيب، ده في الغالب هيتاخر. انا متهيئلي انا لازم أمشي دلوقتي. متشكر جدا على الامسية الرائعة دي.
+17986	corpus-6-test-corpus-26-train	ASW	ممكن آخد دوا لألم المعدة؟
+18003	corpus-6-test-corpus-26-train	ASW	كنت عايز فراخ مشوية.
+18018	corpus-6-test-corpus-26-train	ASW	ده غلطي. مش غلطك إنت.
+18036	corpus-6-test-corpus-26-train	ASW	لمؤاخذة، الفيلم ده هيخلص إمتى؟
+18040	corpus-6-test-corpus-26-train	ASW	ده، لو سمحت.
+18077	corpus-6-test-corpus-26-train	ASW	مجوهراتي اتسرقت. أنا عايز ابلغ.
+18103	corpus-6-test-corpus-26-train	ASW	لحظة واحدة، لو سمحت. انا هوصلك بالاستاذ جونز.
+18110	corpus-6-test-corpus-26-train	ASW	أهلا. معاك خطوط طيران يونايتد.
+18131	corpus-6-test-corpus-26-test	ASW	هو الاستاذ جونز إتعلم اليابانية فين؟
+18138	corpus-6-test-corpus-26-train	ASW	انا عندي واحد اصغر بنفس التصميم.
+18155	corpus-6-test-corpus-26-train	ASW	ممكن تضيق البنطلون ده؟
+18161	corpus-6-test-corpus-26-train	ASW	الجمعة بليل، الساعة تسعة.
+18166	corpus-6-test-corpus-26-train	ASW	هي دي بوابة لاس فيجاس؟
+18181	corpus-6-test-corpus-26-train	ASW	بتاخد أتوبيس من المطار؟
+18189	corpus-6-test-corpus-26-train	ASW	معلقة تانية، لو سمحت.
+18211	corpus-6-test-corpus-26-train	ASW	ده مالح شوية، بس انا حابه. إنت جبته معاك طول الطريق من اليابان؟
+18226	corpus-6-test-corpus-26-train	ASW	لو سمحت استعجله، لو ممكن.
+18254	corpus-6-test-corpus-26-train	ASW	ممكن تدفع عشر دولارات هنا عربون؟
+18264	corpus-6-test-corpus-26-train	ASW	ايوة. صحيني بعد تلات ساعات، لو سمحت.
+18273	corpus-6-test-corpus-26-dev	ASW	كنت عايز أطلب، لو سمحت.
+18274	corpus-6-test-corpus-26-test	ASW	المفروض اقول اه ولا لأ؟
+18282	corpus-6-test-corpus-26-train	ASW	معلقتين، لو سمحت.
+18323	corpus-6-test-corpus-26-train	ASW	ايه المحطة اللي جاية؟
+18334	corpus-6-test-corpus-26-dev	ASW	العربية بتعمل صوت غريب.
+18336	corpus-6-test-corpus-26-test	ASW	هي البو سطة بتقفل إمتى؟
+18338	corpus-6-test-corpus-26-dev	ASW	انا اصلاً دفعت خمسين دولار عربون لما عملت تشيك إن.
+18341	corpus-6-test-corpus-26-train	ASW	إنت جبت دوا لإضطراب المعدة؟
+18342	corpus-6-test-corpus-26-train	ASW	هو انا لازم البس بالطو وكرافتة؟
+18344	corpus-6-test-corpus-26-train	ASW	ممكن احول فلوس لحساب التوفير بتاعي؟
+18355	corpus-6-test-corpus-26-train	ASW	انا نسيت شنطة اليد بتعاعتي.
+18382	corpus-6-test-corpus-26-train	ASW	كنت عايز اكد على رحلتي.
+18401	corpus-6-test-corpus-26-train	ASW	ساعتي. كانت صناعة توكيل نيو سويس رقمية.
+18409	corpus-6-test-corpus-26-test	ASW	انا عديت الغمتحان بالوان طايرة.
+18412	corpus-6-test-corpus-26-dev	ASW	كنت عايزك توديني لأماكن مثيرة. أنا سايح، إنت عارف.
+18419	corpus-6-test-corpus-26-train	ASW	ممكن اروح أشوف معالم سياحية أثناء ما السفينة واقفة في المينا؟
+18437	corpus-6-test-corpus-26-train	ASW	إنت احسنلك تظبط المراية الخلفية.
+18440	corpus-6-test-corpus-26-dev	ASW	هيبقى فيه عشر دقايق إنتظار او حاجة كدة.
+18441	corpus-6-test-corpus-26-train	ASW	ممكن اخد الاطباق بتاعتك؟
+18451	corpus-6-test-corpus-26-train	ASW	انا هبقى سعيد. تحب انهي وقت؟
+18487	corpus-6-test-corpus-26-train	ASW	انا متهيئلي سيبت الكاميرا ورا لما كنت بتعشى إمبارح.
+18492	corpus-6-test-corpus-26-train	ASW	إجمعهم عند البوابة.
+18502	corpus-6-test-corpus-26-train	ASW	أه، لا. ده مش هيبقى ضروري. انا هتم بيهز إنت عملت اكتر من اللازم اصلاً.
+18519	corpus-6-test-corpus-26-train	ASW	يأما تصلحها او تبدلها ن لو سمحت.
+18521	corpus-6-test-corpus-26-train	ASW	ممكن اعملها في اي وقت الشهر اللي جاي.
+18527	corpus-6-test-corpus-26-train	ASW	لو سمحت خد وقتك.
+18531	corpus-6-test-corpus-26-train	ASW	إزاي المنتج الجديد بيقارن المنتجات الموجودة؟
+18540	corpus-6-test-corpus-26-train	ASW	موظفين المبيعات طيبين خالص في المتجر ده.
+18552	corpus-6-test-corpus-26-train	ASW	ممكن تخليلي بالك من ده؟
+18562	corpus-6-test-corpus-26-train	ASW	دقيقة واحدة، لو سمحت.
+18569	corpus-6-test-corpus-26-train	ASW	إنت معاك ورق الاستلام بتاعك؟
+18572	corpus-6-test-corpus-26-train	ASW	كنت عايز آجر عربية لمدة اسبوع.
+18580	corpus-6-test-corpus-26-train	ASW	ايوة، في الأول إغسله لوحده.
+18585	corpus-6-test-corpus-26-train	ASW	لو سمحت وريني شوية ساعات رجالي.
+18595	corpus-6-test-corpus-26-train	ASW	ده اربع عشرات.
+18612	corpus-6-test-corpus-26-dev	ASW	العربية الليموزين تاخد كام لمركز المدينة؟
+18614	corpus-6-test-corpus-26-train	ASW	من الصبح.
+18617	corpus-6-test-corpus-26-train	ASW	إحنا نسرع احسنلنا. هم عملو بوردنج أصلاً.
+18632	corpus-6-test-corpus-26-test	ASW	يناسب يادوب كويس.
+18639	corpus-6-test-corpus-26-train	ASW	انا طلبت فراخ.
+18640	corpus-6-test-corpus-26-train	ASW	بلعشر تيام.
+18642	corpus-6-test-corpus-26-train	ASW	الواد ده عنده كام سنة؟
+18643	corpus-6-test-corpus-26-train	ASW	كلهم مع بعض بكام؟
+18646	corpus-6-test-corpus-26-train	ASW	كنت عايز واحد زي ده، لو سمحت.
+18685	corpus-6-test-corpus-26-train	ASW	أنا ضيعت شيكات السياح بتعاتي.
+18687	corpus-6-test-corpus-26-train	ASW	ممكن تديني دوا برد.
+18690	corpus-6-test-corpus-26-train	ASW	لو سمحت حطه في قمع.
+18725	corpus-6-test-corpus-26-train	ASW	انا على طول بشوفه كل يوم الصبح في القطر.
+18727	corpus-6-test-corpus-26-train	ASW	ممكن تاخد العشا معانا الليلة؟
+18747	corpus-6-test-corpus-26-train	ASW	انا هفضل في فندق به لغاية بكرة. هبقى مبسوط لو قولتله أني هنا.
+18770	corpus-6-test-corpus-26-train	ASW	الرحلة متأخرة خمسة واربعين دقيقة.
+18771	corpus-6-test-corpus-26-train	ASW	إسمي شينو يامادا.
+18784	corpus-6-test-corpus-26-train	ASW	أيه تخصص المطعم ده؟
+18798	corpus-6-test-corpus-26-test	ASW	إحنا عندينا نبيت أبيض ممتاز.
+18830	corpus-6-test-corpus-26-train	ASW	دوا برد بس.
+18834	corpus-6-test-corpus-26-dev	ASW	ممكن تجيب الشنط بتاعاتي تحت عند الإستقبال بكرة الصبح؟
+18836	corpus-6-test-corpus-26-train	ASW	اه، انا باين عليا لازم حاجة تضيع كل ما اسافر.
+18845	corpus-6-test-corpus-26-train	ASW	انا مش قادر استخدم ايدي اليمين.
+18847	corpus-6-test-corpus-26-train	ASW	إزيك، هو ده بتاع روي؟
+18848	corpus-6-test-corpus-26-test	ASW	بعدين، هتوصل لشارع تسوق. لو كملت في الشارع ده هتوصل للمحطة.
+18872	corpus-6-test-corpus-26-train	ASW	لا، مش هنا. فيه مكان للتدخين في اخر العربية دي.
+18877	corpus-6-test-corpus-26-train	ASW	ممكن اخد بانفليت؟
+18879	corpus-6-test-corpus-26-train	ASW	أوصل هناك على الساعة تسعة، لو سمحت.
+18906	corpus-6-test-corpus-26-train	ASW	ايوة، حضرتك. إنت عايزني اقطعهالك إزاي؟
+18912	corpus-6-test-corpus-26-test	ASW	انا متهيئلي في غلط في الفاتورة.
+18917	corpus-6-test-corpus-26-train	ASW	زيات وخل بس هيبقى تمام.
+18919	corpus-6-test-corpus-26-train	ASW	انا جبت بالظبط اللي انت عايزه. ممكن اقنرح ده؟
+18938	corpus-6-test-corpus-26-train	ASW	قهوة بسكر.
+18948	corpus-6-test-corpus-26-train	ASW	سبعتاشر ايه. اه، انا اسف. أنا غلطت.
+18951	corpus-6-test-corpus-26-test	ASW	إنت سمعت قبل كدة على الأسبوع الذهبي في اليابان؟
+18957	corpus-6-test-corpus-26-train	ASW	متشكر. لو سمحت ابقى تعالى تاني.
+18963	corpus-6-test-corpus-26-test	ASW	لسه ده محجوز بالكامل؟
+18974	corpus-6-test-corpus-26-test	ASW	ممكن اسيبه في اي مكان في البلد؟
+18986	corpus-6-test-corpus-26-test	ASW	ايه الرقم اللي مفروض اتصل بيه من هنا؟
+19002	corpus-6-test-corpus-26-train	ASW	أروح إزاي لديزني لاند؟
+19005	corpus-6-test-corpus-26-train	ASW	إنت شايف كدة؟
+19007	corpus-6-test-corpus-26-train	ASW	لمؤاخذة. فين المطعم الئيسي؟
+19009	corpus-6-test-corpus-26-train	ASW	كنت عايز اعمل مكالمة لليابان.
+19036	corpus-6-test-corpus-26-test	ASW	رقم كرسيا دي اتناشر. فينه؟
+19037	corpus-6-test-corpus-26-dev	ASW	ايه ده، لو سمحت؟
+19038	corpus-6-test-corpus-26-train	ASW	ايه النوع اللي في دماغك؟
+19045	corpus-6-test-corpus-26-train	ASW	ايوة. إحنا هنوصل الساعة تمانية بالتوقيت المحلي.
+19050	corpus-6-test-corpus-26-train	ASW	لو لقيت أي حاجة، لو سمحت تواصل معايا.
+19057	corpus-6-test-corpus-26-train	ASW	ممكن اخد لحم خنزير وبيض؟
+19064	corpus-6-test-corpus-26-train	ASW	عصير بطيخ للتحلية، لو سمحت.
+19068	corpus-6-test-corpus-26-train	ASW	المية السخنة مش سخنة كفاية.
+19085	corpus-6-test-corpus-26-train	ASW	إنت هتشرح إزاي ده بيتعمل؟
+19094	corpus-6-test-corpus-26-train	ASW	لو سمحت إكتب عنوان التواصل بتاعك هنا.
+19100	corpus-6-test-corpus-26-train	ASW	ممكن أستخدم فلاش؟
+19101	corpus-6-test-corpus-26-train	ASW	متشكر. تعالى تاني بكرة لأوضتي في نفس الميعاد. هيبقى معايا الصور جاهزة ساعتها.
+19103	corpus-6-test-corpus-26-train	ASW	معلش دلوقتي إنت ممكن تطلب من القايمة الليلية بس.
+19113	corpus-6-test-corpus-26-train	ASW	عادي ولا منقى؟
+19144	corpus-6-test-corpus-26-train	ASW	أنا عندي صداع.
+19147	corpus-6-test-corpus-26-test	ASW	الأوضة دي اتناشر زيرو سبعة.
+19148	corpus-6-test-corpus-26-test	ASW	انا عايز أوضة مختلفة.
+19156	corpus-6-test-corpus-26-train	ASW	الى أي مدى الفيزة دي كويسة؟
+19162	corpus-6-test-corpus-26-train	ASW	فيه مستشفى قريبة من هنا؟
+19170	corpus-6-test-corpus-26-train	ASW	كنت عايز بدلة.
+19196	corpus-6-test-corpus-26-train	ASW	عندك اعرض شوية؟
+19215	corpus-6-test-corpus-26-test	ASW	ممكن اجرب اقيس تسعة؟
+19217	corpus-6-test-corpus-26-train	ASW	فندق أمن يقدم فطار كويس، لو سمحت.
+19226	corpus-6-test-corpus-26-train	ASW	فين جنينة الحيوانات؟
+19232	corpus-6-test-corpus-26-train	ASW	فيه أكبر؟
+19250	corpus-6-test-corpus-26-dev	ASW	تلاتين دولار و تمانين سنت.
+19251	corpus-6-test-corpus-26-train	ASW	ده بيعتمد على قد ايه المكان دافي هناك، لكن في نص اليابان، من أول ابريل.
+19258	corpus-6-test-corpus-26-train	ASW	برجر بالجبنة وبطاطس.
+19269	corpus-6-test-corpus-26-train	ASW	ده متاخر جداص بالنسبة للقطر الاخير.
+19281	corpus-6-test-corpus-26-train	ASW	معنديش اي فكة.
+19294	corpus-6-test-corpus-26-train	ASW	أخدت تذكرة الاتوبيس بتاعتك؟
+19306	corpus-6-test-corpus-26-train	ASW	بالكارت، لو سمحت.
+19307	corpus-6-test-corpus-26-train	ASW	انا كنت على رحلة طيران يونايتد رقم تمانية اتنين تمانية.
+19317	corpus-6-test-corpus-26-train	ASW	فيه دوشة جامدة حولين الأوضة بتاعتي.
+19318	corpus-6-test-corpus-26-train	ASW	على الساحل الشرقي، هتلاقي برضه أماكن مشهورة، زي نيويورك، وواشنطن دي سي وبوسطن.
+19327	corpus-6-test-corpus-26-train	ASW	عندك جرايد يابانية؟
+19329	corpus-6-test-corpus-26-train	ASW	باين عليه كويس.
+19346	corpus-6-test-corpus-26-train	ASW	مفيش مشكلة لو سبت الشنط بتاعتي عندك لغاية الساعة وحدة؟
+19347	corpus-6-test-corpus-26-train	ASW	فيه جولة للمدينة؟
+19360	corpus-6-test-corpus-26-train	ASW	ايوة. معلش مضطر اعمل كدة. ايه اخبار الأمن في المنطقة دي؟
+19391	corpus-6-test-corpus-26-train	ASW	فهمت. انا بحاول أأجر سيتروين.
+19401	corpus-6-test-corpus-26-dev	ASW	انا عندي موهبة طبيعية اتولدت بيها.
+19413	corpus-6-test-corpus-26-train	ASW	ده هيبقى كويس. فين العيش؟
+19415	corpus-6-test-corpus-26-train	ASW	مكان للمدخنين، لو سمحت. وكرسي جنب الشباك، لو سمحت.
+19423	corpus-6-test-corpus-26-train	ASW	وانت ايه اجرتك للخياطة؟
+19444	corpus-6-test-corpus-26-dev	ASW	مين هيبقى اسرع، تاكسي ولا عربية إسعاف؟
+19460	corpus-6-test-corpus-26-train	ASW	عندك من التيشرت ده ألوان تانية؟
+19463	corpus-6-test-corpus-26-test	ASW	انت المفروض متتفرجش على التليفزيون طول الوقت.
+19466	corpus-6-test-corpus-26-train	ASW	آه، إحنا جايين عليه، جايين عليه.
+19467	corpus-6-test-corpus-26-train	ASW	انت كان احسنلك تدخل المستشفى.
+19469	corpus-6-test-corpus-26-train	ASW	الاقي سوبرماركت فين؟
+19475	corpus-6-test-corpus-26-train	ASW	ده غالي شوية. ممكن تديني خصم؟
+19479	corpus-6-test-corpus-26-train	ASW	فاضل كام محطة لغاية مغير؟
+19490	corpus-6-test-corpus-26-train	ASW	الراجل د ه سرق محفظتي.
+19494	corpus-6-test-corpus-26-train	ASW	براشيم الهضم وبراشيم المعدة مختلفين، ماشي؟
+19497	corpus-6-test-corpus-26-test	ASW	انا عايز اشوف المينا.
+19500	corpus-6-test-corpus-26-test	ASW	فكرة جميلة.
+19501	corpus-6-test-corpus-26-train	ASW	تاخد قد ايه على الرجلين؟
+19505	corpus-6-test-corpus-26-train	ASW	هاخد عشرين من الدب تيدي اكبر واحد، لو سمحت.
+19507	corpus-6-test-corpus-26-dev	ASW	ايه رقم الكاشير؟
+19508	corpus-6-test-corpus-26-train	ASW	دي سهلة. انا هبص بس في دليل التليفونات.
+19509	corpus-6-test-corpus-26-dev	ASW	عندك اوض أكبر؟
+19547	corpus-6-test-corpus-26-train	ASW	الفاتورة بتاعتي كام؟
+19548	corpus-6-test-corpus-26-train	ASW	كنت عايز اقعد في الاوضة دي ليلة كمان.
+19560	corpus-6-test-corpus-26-train	ASW	لمؤاخذة، بس انا كنت عايز اسلم تقرير عن حادث السرقة.
+19572	corpus-6-test-corpus-26-train	ASW	طيبن ده هيعتمد على نوع المواصلات اللي انت هتاخدها. انت هتروح باتوبيس ولا طيارة؟
+19578	corpus-6-test-corpus-26-train	ASW	عندك مانع لو قعدت هنا؟
+19581	corpus-6-test-corpus-26-train	ASW	ممكن ابعت ايميل بدولار؟
+19589	corpus-6-test-corpus-26-train	ASW	ايوة، لو سمحت ابعته لأوضة اتناشر تلاتيتن اربعة.
+19610	corpus-6-test-corpus-26-dev	ASW	إملى إستمارة التسجيل، لو سمحت.
+19617	corpus-6-test-corpus-26-test	ASW	كنت عايز احجز تذكرتين روحة ورجعة لإكسفورد.
+19619	corpus-6-test-corpus-26-train	ASW	على إمتى المفرروض أجي المطار؟
+19620	corpus-6-test-corpus-26-train	ASW	ده بطئ.
+19623	corpus-6-test-corpus-26-train	ASW	ممكن احمض فيلم فين؟
+19643	corpus-6-test-corpus-26-test	ASW	لا، لو سمحت لا. ممكن توفر اسئلتك لغاية مخلص كلامي، لما اطلبها؟
+19648	corpus-6-test-corpus-26-dev	ASW	انا عايز كرسي كويس.
+19649	corpus-6-test-corpus-26-train	ASW	للأسف الحمام مش شغال. انا محتاج مساعدة.
+19651	corpus-6-test-corpus-26-test	ASW	مفيش حاجة صعبة ولا غامضة.
+19654	corpus-6-test-corpus-26-train	ASW	انا هوديك للكرسي بتاعك. من هنا، لو سمحت.
+19656	corpus-6-test-corpus-26-train	ASW	لمؤاخذة، ممكن أسالك سؤال؟
+19666	corpus-6-test-corpus-26-train	ASW	انا اعتقد كدة.
+19675	corpus-6-test-corpus-26-train	ASW	إزيك. فرصة لطيفة إني اقابلك.
+19691	corpus-6-test-corpus-26-train	ASW	كنت عايز أسجل الشنط دي لحد طوكيو، لو سمحت.
+19694	corpus-6-test-corpus-26-train	ASW	هتوريني واحد اكبر شوية؟
+19703	corpus-6-test-corpus-26-train	ASW	انا اعتقد ان الهدوم اللي معمولة في اليابان بالتاكيد احسن من اللي متخيطة.
+19715	corpus-6-test-corpus-26-train	ASW	انت كان احسنلك تستسلم.
+19716	corpus-6-test-corpus-26-dev	ASW	قولها تاني لو سمحت.
+19722	corpus-6-test-corpus-26-train	ASW	ممكن تكتبلي العنوان ورقم التليفون، لو سمحت؟
+19726	corpus-6-test-corpus-26-train	ASW	ده متسخن؟
+19732	corpus-6-test-corpus-26-train	ASW	انا هغادر من مطار ايه؟
+19733	corpus-6-test-corpus-26-train	ASW	انت مخدتش الإستمارة في الطيارة؟
+19735	corpus-6-test-corpus-26-train	ASW	كنت عايز مكوة.
+19752	corpus-6-test-corpus-26-dev	ASW	كله قرب على تمانية وتلاتين دولار.
+19754	corpus-6-test-corpus-26-train	ASW	متشكرين على مشاركتك لأفكارك الفريدة معانا.
+19755	corpus-6-test-corpus-26-train	ASW	انا بروح للتزحلق مرتين في الشهر خلال الموسم.
+19760	corpus-6-test-corpus-26-train	ASW	انا اتولدت في واحد ابريل سنة الف تسعماية خمسة وخمسين.
+19769	corpus-6-test-corpus-26-test	ASW	ممكن آجر مضارب راكيت؟
+19809	corpus-6-test-corpus-26-train	ASW	هو ده الاتوبيس اللي بيروح لوسط البلد؟
+19813	corpus-6-test-corpus-26-train	ASW	البرفان ده بكام؟
+19814	corpus-6-test-corpus-26-train	ASW	ده لأيه؟
+19819	corpus-6-test-corpus-26-train	ASW	منين اقدر اخلص الإجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	ASW	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	ASW	ده يشمل التاكسي؟
+19853	corpus-6-test-corpus-26-test	ASW	ايه هي الحصاوي؟
+19862	corpus-6-test-corpus-26-train	ASW	لوسمحت اتصل بالإسعاف.
+19864	corpus-6-test-corpus-26-dev	ASW	انا هراهن بتلات دولارات على ده.
+19871	corpus-6-test-corpus-26-train	ASW	بيجي إزاي ده؟
+19889	corpus-6-test-corpus-26-train	ASW	مفيش اكل مبحبهوش.
+19902	corpus-6-test-corpus-26-train	ASW	يوم الدستور او الكيمبو كينينبي أجازة قومية يوم تلاتة مايو لإحياء ذكرى تاسيس الدستور الياباني الحالي.
+19912	corpus-6-test-corpus-26-train	ASW	هيً الجولة دي فيها زيارة لبرج سيرس؟
+19923	corpus-6-test-corpus-26-train	ASW	فيه مكتبة قريب من هنا؟
+19928	corpus-6-test-corpus-26-train	ASW	انا هروح احضر المدرسة الصيفية في جامعة هاواي.
+19935	corpus-6-test-corpus-26-train	ASW	إحنا ماشيين فين دلوقتي؟
+19945	corpus-6-test-corpus-26-train	ASW	اتنين كبار وعيل عنده تلات سنين.
+19959	corpus-6-test-corpus-26-train	ASW	في الحمام في المحطة.

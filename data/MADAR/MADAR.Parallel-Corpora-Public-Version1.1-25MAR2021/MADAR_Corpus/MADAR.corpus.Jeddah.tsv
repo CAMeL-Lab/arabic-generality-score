@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	JED	شوفه هناك، قدام مكتب المعلومات السياحية بالضبط.
+9	corpus-6-test-corpus-26-train	JED	ماقد سمعت بدا العنوان هنا.
+11	corpus-6-test-corpus-26-train	JED	امشي سيدا لين ما تلاقي الصيدلية.
+26	corpus-6-test-corpus-26-train	JED	بكم الفطور؟
+27	corpus-6-test-corpus-26-train	JED	كيف أقدر اساعدك؟
+30	corpus-6-test-corpus-26-train	JED	روح يسار عند الزواية الثالثة.
+50	corpus-6-test-corpus-26-train	JED	تبا كريم وسكر في قهوتك؟
+64	corpus-6-test-corpus-26-train	JED	ممكن تعطيني كاش للشيك دا الميتين دولار؟
+74	corpus-6-test-corpus-26-train	JED	اذا لازم يظهر، اتصل عليا لو سمحت.
+86	corpus-6-test-corpus-26-train	JED	فين المقهى؟
+87	corpus-6-test-corpus-26-train	JED	أبا سترة اطفال.
+91	corpus-6-test-corpus-26-train	JED	اوك. يكلف خمسة وتمانين سنت للأيميل العادي وزيادة تلاتة دولار بالضبط للتوصيل الخاص.
+120	corpus-6-test-corpus-26-test	JED	لو أنا مكانك حشتريه.
+129	corpus-6-test-corpus-26-train	JED	ممكن اواجه صعوبات في الجمارك؟
+130	corpus-6-test-corpus-26-train	JED	عندك جزم رسمية واسعة عند الأصابع؟
+140	corpus-6-test-corpus-26-train	JED	لا. اقترحلك غرفة بسريرين لاستخدام شخص واحد بدال كدة؟ عندنا وحدة.
+143	corpus-6-test-corpus-26-train	JED	أبا شعري مجعد كثير، لو سمحت.
+145	corpus-6-test-corpus-26-train	JED	هيا تبا بيرة.
+157	corpus-6-test-corpus-26-train	JED	صباح الخير، كيفك؟
+158	corpus-6-test-corpus-26-train	JED	معليش لازم اشوف اثبات هوية.
+169	corpus-6-test-corpus-26-train	JED	اية نوع من الصوص؟
+170	corpus-6-test-corpus-26-train	JED	دا شوية بارد. ممكن تدفيه؟
+173	corpus-6-test-corpus-26-test	JED	معليش، دا المكان مأخود اصلا.
+176	corpus-6-test-corpus-26-train	JED	انا كويس، بس ممكن تدق على صاحبي؟
+177	corpus-6-test-corpus-26-test	JED	شكراً كدا كفأية.
+184	corpus-6-test-corpus-26-train	JED	مين أعز أصحابك؟
+187	corpus-6-test-corpus-26-train	JED	يوم الرياضة والصحة في عشرة أكتوبر هو أجازة وطنية عشان يثقفو الناس عن الصحة.
+192	corpus-6-test-corpus-26-train	JED	تباني اشيك تحت الكبوت؟
+206	corpus-6-test-corpus-26-train	JED	يمديك تدور معاية على شنطتي؟
+221	corpus-6-test-corpus-26-train	JED	حتسوي الترتيبات قبل؟
+238	corpus-6-test-corpus-26-train	JED	فيه واحد قاعد يساعدني، شكراً.
+261	corpus-6-test-corpus-26-train	JED	اذا وصلت هناك، باللهي اسأل شخص ثاني.
+280	corpus-6-test-corpus-26-train	JED	بالله ابغا امدد اربعة وعشرين.
+285	corpus-6-test-corpus-26-train	JED	دول دولارين، و خلي الباقي معاك.
+315	corpus-6-test-corpus-26-train	JED	بالله واحد برقر و واحد برقر جبن.
+319	corpus-6-test-corpus-26-train	JED	كم تطلب عشان العملية؟
+320	corpus-6-test-corpus-26-train	JED	نحن نبغا ندفع حساب اكلنا.
+326	corpus-6-test-corpus-26-train	JED	الموقع كان على الكرسي في اللوبي.
+333	corpus-6-test-corpus-26-test	JED	بالله غير الين الى جنيهات.
+346	corpus-6-test-corpus-26-train	JED	بالله ابغا قاموس قد الجيب.
+360	corpus-6-test-corpus-26-train	JED	شخصين ساعة سبعة، بإسم واتانابي.
+368	corpus-6-test-corpus-26-train	JED	ساعتي. كانت سأيكو رقمية.
+370	corpus-6-test-corpus-26-train	JED	من سعأدتنا انه نخدمك بالمشروبات من اختيارك، معاها عشاء. كل التوجيهات عن المشروبات اللي نقدمها موجودة في المجلة.
+373	corpus-6-test-corpus-26-test	JED	انتا عأيش هنا؟
+375	corpus-6-test-corpus-26-train	JED	فين محل الهدايا؟
+386	corpus-6-test-corpus-26-test	JED	انا في الطريق السريع قريب من خليج مورو.
+391	corpus-6-test-corpus-26-train	JED	أبا ساعة منبه، لو سمحت.
+398	corpus-6-test-corpus-26-dev	JED	بالمناسبة، اسمي هيروشي ايجيما.
+401	corpus-6-test-corpus-26-dev	JED	هادا القطار يوقف عند بحيرة فوريست، صح؟
+408	corpus-6-test-corpus-26-train	JED	اغلب اليابانين ياكلو الاخطبوط و الحبار.
+416	corpus-6-test-corpus-26-train	JED	بالله مداني اخذ تذكرتين في الدرجة الثانية على شيكاغو؟
+419	corpus-6-test-corpus-26-train	JED	رحت نيو يورك.
+423	corpus-6-test-corpus-26-train	JED	كم رقم الرحلة؟
+442	corpus-6-test-corpus-26-test	JED	بالله واحد لنيو يورك.
+446	corpus-6-test-corpus-26-train	JED	تقريبا كم يوم.
+447	corpus-6-test-corpus-26-train	JED	الثاني على اليسار.
+471	corpus-6-test-corpus-26-dev	JED	هادي البطاقة، تمام؟
+488	corpus-6-test-corpus-26-train	JED	هادا مكتب الاستقبال؟ في عيادة قريبة؟
+493	corpus-6-test-corpus-26-train	JED	عشرة دولارات تكفي التاكسي؟
+503	corpus-6-test-corpus-26-train	JED	طعمو غريب.
+512	corpus-6-test-corpus-26-train	JED	استنى، بجيب واحد لك.
+516	corpus-6-test-corpus-26-train	JED	بالله نص علبة.
+540	corpus-6-test-corpus-26-train	JED	غلط. شيء مو غالي.
+548	corpus-6-test-corpus-26-train	JED	تدور على شيء؟
+551	corpus-6-test-corpus-26-train	JED	اربعة ايام.
+553	corpus-6-test-corpus-26-train	JED	ابغا شراريب.
+565	corpus-6-test-corpus-26-train	JED	يمديك تراعيني عشان فيه بقع؟
+571	corpus-6-test-corpus-26-train	JED	فيه رجال صدمني، وبعدها محفظتي اختفت.
+599	corpus-6-test-corpus-26-train	JED	مدري اذا حطيت ملابس كفأية لرحلة أبو تلاتة أسابيع.
+612	corpus-6-test-corpus-26-train	JED	نفسي اجرب النبيذ الابيض.
+631	corpus-6-test-corpus-26-train	JED	اي واحد يسال عني، قلهم حكون في المقهى.
+632	corpus-6-test-corpus-26-train	JED	متاكد انه كان بالجيب الداخلي في معطفي.
+641	corpus-6-test-corpus-26-test	JED	ممكن اسم ورقم الشخص اللي انت داق عليه؟
+643	corpus-6-test-corpus-26-train	JED	حتدفعلي الخطوط الجوية عشان اشتري حاجاتي الشخصية؟
+650	corpus-6-test-corpus-26-train	JED	نفسي في غرفة مع حمام.
+652	corpus-6-test-corpus-26-dev	JED	مافي شيء خرج من الجهاز؟
+667	corpus-6-test-corpus-26-test	JED	كان المفروض انك في رحلة تمانية اتنين صفر، اللي أقلعت قبل ربع ساعة. على كلٍ اقدر ارتبك رحلة جديدة.
+673	corpus-6-test-corpus-26-train	JED	فيه واحد فتح محفظتي.
+679	corpus-6-test-corpus-26-test	JED	اوه، ولا شيء. انت هنا، على كل حال.
+680	corpus-6-test-corpus-26-train	JED	الخطوط الجوية اليابانية، رحلة رقم واحد اثنين ثلاثة.
+681	corpus-6-test-corpus-26-train	JED	يبالي اشتري شامبو.
+683	corpus-6-test-corpus-26-train	JED	يمديك تقولي لمن نوصل المركز المدني؟
+688	corpus-6-test-corpus-26-train	JED	فين اقرب جزار؟
+703	corpus-6-test-corpus-26-train	JED	نفسنا نجلس اربعة ايام من بداية اغسطس.
+708	corpus-6-test-corpus-26-train	JED	اش اسم ديك الزهرة؟
+719	corpus-6-test-corpus-26-train	JED	الخامس عشر سيبتمبر هو يوم الاحترام للشيخوخة.
+723	corpus-6-test-corpus-26-train	JED	مافي صابون في غرفتي.
+741	corpus-6-test-corpus-26-dev	JED	في اي شيء اسويه عشان الطفح الجلدي؟
+742	corpus-6-test-corpus-26-train	JED	ممكن تغير للصياغة اللي قلتها قبل شوية؟
+761	corpus-6-test-corpus-26-test	JED	كم يبالنا عشان نقدر نطلب؟
+773	corpus-6-test-corpus-26-train	JED	يمديك ترفع صوتك شوية، لو سمحت؟
+777	corpus-6-test-corpus-26-train	JED	كم باقي لين يخرج؟
+786	corpus-6-test-corpus-26-train	JED	فين المعلومات الرياضية؟
+787	corpus-6-test-corpus-26-train	JED	دا المقاس هنا، اللي تقول عنه مقاس عادي، حيناسب.
+793	corpus-6-test-corpus-26-test	JED	فين نهاية الجولة، ومتى؟
+848	corpus-6-test-corpus-26-train	JED	فين لازم اغير القطارات عشان اوصل ادنبره؟
+855	corpus-6-test-corpus-26-train	JED	ابغا احط هذا في صندوق امانات.
+859	corpus-6-test-corpus-26-train	JED	فين يمديني اغير فلوسي؟
+897	corpus-6-test-corpus-26-train	JED	يمدينا نخلي اغراضنا هنا، مو الغالية، ف الباص؟
+902	corpus-6-test-corpus-26-train	JED	محتار الرسوم دي حقت أيش.
+917	corpus-6-test-corpus-26-train	JED	حدفع خمسين دولار.
+941	corpus-6-test-corpus-26-train	JED	دحين عرفت أيش اللي كان غلط.
+957	corpus-6-test-corpus-26-dev	JED	انا أيكيدا. عندي حجز لطاولة الساعة ستة ونص. بس معليش حوصل متأخر بنص ساعة.
+1003	corpus-6-test-corpus-26-train	JED	كم اونصة من العطر اقدر اخذ بدون ضريبة؟
+1007	corpus-6-test-corpus-26-train	JED	بس سياحة.
+1010	corpus-6-test-corpus-26-train	JED	كدا كويس، وقعهم لو سمحت. كيف تباها؟
+1023	corpus-6-test-corpus-26-test	JED	باقي فيه أماكن للعرض حق اليوم؟
+1036	corpus-6-test-corpus-26-train	JED	ابغا وحدة كبيرة.
+1037	corpus-6-test-corpus-26-dev	JED	كملت نوم وسحبت على المنبه حق ستة ونص.
+1038	corpus-6-test-corpus-26-train	JED	انا مصور حر.
+1047	corpus-6-test-corpus-26-train	JED	اللي يوزع الورق يقدر يبدل دولاراتك ببقشيش للكازينو. نمشي؟
+1056	corpus-6-test-corpus-26-dev	JED	عندنا ثلاثين نوع من حمامات الزيت.
+1062	corpus-6-test-corpus-26-train	JED	حوريك العرض الأسبوع الجأي.
+1074	corpus-6-test-corpus-26-train	JED	شكراً، بكم دا القفاز؟
+1098	corpus-6-test-corpus-26-train	JED	لازم اروح دحين، اتصل عليك بعدين.
+1100	corpus-6-test-corpus-26-train	JED	أبا حفاضات تتبدل.
+1122	corpus-6-test-corpus-26-train	JED	من فين منشأ سمكات الفراشة دي؟
+1124	corpus-6-test-corpus-26-train	JED	ممكن تحولهم الى دولارات، لو سمحت؟
+1139	corpus-6-test-corpus-26-train	JED	احنا مرة محظوظين. عندهم دا بمقاس أربعة في متجر آلا موانا.
+1146	corpus-6-test-corpus-26-train	JED	فيه أي ليموزين هنا؟
+1163	corpus-6-test-corpus-26-dev	JED	تقدر تدق عليا عشان تصحيني على خمسة ونص الصبح؟
+1165	corpus-6-test-corpus-26-train	JED	أبا غرفة هادية.
+1167	corpus-6-test-corpus-26-train	JED	أبا اللي يزيل المناكير.
+1183	corpus-6-test-corpus-26-train	JED	أبا بطارية.
+1193	corpus-6-test-corpus-26-test	JED	فيه فرقة لايف ولا دي جي؟
+1194	corpus-6-test-corpus-26-train	JED	اقدر استأجر أدوات الغوص؟
+1199	corpus-6-test-corpus-26-dev	JED	أبا احجز غرفة لاربع ليالي من يوم اتنين وعشرين ديسمبر.
+1212	corpus-6-test-corpus-26-train	JED	دي الشنطة كويسة لكل الطقوس؟
+1213	corpus-6-test-corpus-26-train	JED	ابا دونات، لو سمحت.
+1218	corpus-6-test-corpus-26-train	JED	أبا استاجر سيارة أوتوماتيك ليومين.
+1224	corpus-6-test-corpus-26-train	JED	فأتتني رحلة رقم عشرين اللي رأيحة لسان فرانسيسكو.
+1234	corpus-6-test-corpus-26-train	JED	كم من هنا الى المطار؟
+1235	corpus-6-test-corpus-26-train	JED	كدا كويس، بس متى؟
+1276	corpus-6-test-corpus-26-train	JED	كم عمر بنتك؟
+1312	corpus-6-test-corpus-26-train	JED	ممكن تعلمني عن فنادق رخيصة ونظيفة؟
+1321	corpus-6-test-corpus-26-train	JED	نقدر نحجزلك غرفة مريحة لك في قصر قديم جمب ملعب قولف قديم.
+1329	corpus-6-test-corpus-26-train	JED	اقترح عليك دا عشانه مصنوع من مكونات طبيعية مية بالمية.
+1361	corpus-6-test-corpus-26-dev	JED	القطار يوقف عند برأيتون؟
+1369	corpus-6-test-corpus-26-train	JED	تقدر تقولي وين ممكن الاقي تاكسي؟
+1375	corpus-6-test-corpus-26-train	JED	تذكرتين من الدرجة الثانية، لو سمحت.
+1384	corpus-6-test-corpus-26-train	JED	أبا ارسل فاكس.
+1394	corpus-6-test-corpus-26-train	JED	أبا مكوى للسفر.
+1396	corpus-6-test-corpus-26-train	JED	اقدر اساعدك بشيء؟
+1404	corpus-6-test-corpus-26-train	JED	يومي؟ انا خأيس اسأل، بس أيش قصدك؟
+1418	corpus-6-test-corpus-26-train	JED	أبا شيء يحفظ الورق بحجم المستند بدون ما يعفطهم.
+1433	corpus-6-test-corpus-26-test	JED	أيوا، بس مو مرا قوي.
+1434	corpus-6-test-corpus-26-train	JED	عندي حساسية من البسس.
+1436	corpus-6-test-corpus-26-train	JED	أيوا، لازم يكون عندك رخصة و، اه، لازم كمان عندك رخصة من وكالة التكاسي والليموزينات.
+1462	corpus-6-test-corpus-26-train	JED	تفضل، سيدي.
+1465	corpus-6-test-corpus-26-test	JED	مني قادر الاقي موية حارة.
+1474	corpus-6-test-corpus-26-train	JED	ابا احجز غرفة حق اليوم بس.
+1492	corpus-6-test-corpus-26-train	JED	لا، مافيه ضريبة ولا سعر للخدمة.
+1506	corpus-6-test-corpus-26-train	JED	تبا تروح معأيا نتسوق بعد الظهر؟
+1508	corpus-6-test-corpus-26-test	JED	اهلا، دا مرة لبس حلو.
+1519	corpus-6-test-corpus-26-train	JED	الحين، مكالمتك بدات. لو سمحت تفضل.
+1525	corpus-6-test-corpus-26-train	JED	كم رقم البوابة؟
+1539	corpus-6-test-corpus-26-train	JED	أيش الذكرى الهواوية المثالية؟
+1556	corpus-6-test-corpus-26-train	JED	اقدر اروح لهناك بالمترو؟
+1560	corpus-6-test-corpus-26-train	JED	أبا استشوار.
+1562	corpus-6-test-corpus-26-train	JED	حنوصل لشيء من كلامنا دا؟
+1585	corpus-6-test-corpus-26-train	JED	انا من النرويج.
+1603	corpus-6-test-corpus-26-dev	JED	من عشرة الى اثنا عشر لو سمحت.
+1619	corpus-6-test-corpus-26-train	JED	طبعاً. خليي اشوفها. بأين انك انجرحت من المرجان، أتوقع.
+1620	corpus-6-test-corpus-26-train	JED	للاحتياط. اديني رقم الشخص المسؤول.
+1622	corpus-6-test-corpus-26-train	JED	في خط سريع؟
+1630	corpus-6-test-corpus-26-train	JED	ليش ما جاء الحفلة امس؟
+1637	corpus-6-test-corpus-26-train	JED	كان هناك حادث.
+1650	corpus-6-test-corpus-26-train	JED	معليش، بس معأي الرقم الغلط.
+1653	corpus-6-test-corpus-26-test	JED	لو سمحت ادخل رمز التعريف.
+1663	corpus-6-test-corpus-26-dev	JED	مو قادر اعدل الصورة.
+1668	corpus-6-test-corpus-26-train	JED	واحد تشيز برقر وواحد عصير برتقال، لو سمحت.
+1670	corpus-6-test-corpus-26-test	JED	اهو جواز سفري.
+1682	corpus-6-test-corpus-26-test	JED	ليش. شكرا مرة. اوه، اقدر اروح لاعلى شيء؟
+1702	corpus-6-test-corpus-26-train	JED	ممكن تذكرتين للحفلة الموسيقية للجمعة الجأية؟
+1718	corpus-6-test-corpus-26-train	JED	فيه راكب ثانية هناك يقدر يغير مكانه معاك.
+1754	corpus-6-test-corpus-26-train	JED	اقدر ازيد مدة جلوسي؟
+1766	corpus-6-test-corpus-26-train	JED	فيه أي مكان يستاهل انه ينشاف هنا؟
+1768	corpus-6-test-corpus-26-dev	JED	لا، أبا استأجر نص مجموعة من المضارب وجزمة.
+1782	corpus-6-test-corpus-26-train	JED	تقدر تعلمي لما يلاقو الشنطة الضأيعة؟
+1788	corpus-6-test-corpus-26-train	JED	اش اسم الحديقة الوطنية؟
+1791	corpus-6-test-corpus-26-train	JED	عندي جرح.
+1792	corpus-6-test-corpus-26-dev	JED	أيش فيه مكان كويس للسياحة؟
+1800	corpus-6-test-corpus-26-train	JED	ممكن اخذ شوية فواكه؟
+1834	corpus-6-test-corpus-26-train	JED	اقدر اخذ غداء دحين؟
+1837	corpus-6-test-corpus-26-train	JED	يبالي اغير الدولار دا.
+1867	corpus-6-test-corpus-26-train	JED	احتاج تاكسي. انا في ساوث مين وليبرتي.
+1876	corpus-6-test-corpus-26-dev	JED	اكيد، تبا كيرلي؟
+1878	corpus-6-test-corpus-26-train	JED	دي مو تفاحة دي خوخة.
+1903	corpus-6-test-corpus-26-train	JED	بعطيك وصفة طبية، وديها الصيدلية.
+1927	corpus-6-test-corpus-26-train	JED	احنا نسافر ثلاث مرات اسوعيا، الخميس، الجمعة والسبت.
+1931	corpus-6-test-corpus-26-dev	JED	دا غالي، ولا؟
+1948	corpus-6-test-corpus-26-train	JED	أيوا، عندنا. حنجهزه لك.
+1950	corpus-6-test-corpus-26-dev	JED	تقدر تشيل شنط سفري لين ثلاثة بالضبط؟
+1951	corpus-6-test-corpus-26-train	JED	لا، بس أبا ازور.
+1954	corpus-6-test-corpus-26-dev	JED	يمديني احجز اجر-سيارة من هنا؟
+1968	corpus-6-test-corpus-26-train	JED	انتا امريكي؟
+1980	corpus-6-test-corpus-26-test	JED	لداك المكان لو سمحت.
+1985	corpus-6-test-corpus-26-train	JED	توقفت سيارتي.
+1988	corpus-6-test-corpus-26-train	JED	فين حق ظل العين؟
+1993	corpus-6-test-corpus-26-train	JED	نفسنا في زاوية هادية، اذا ممكن.
+1997	corpus-6-test-corpus-26-train	JED	التاكسي دا مجاني؟
+1998	corpus-6-test-corpus-26-train	JED	دي محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	JED	متى لازم اجي؟
+2003	corpus-6-test-corpus-26-train	JED	أبا قنينة صغيرة من النبيذ الأبيض.
+2005	corpus-6-test-corpus-26-train	JED	اه. ممكن اخذ اكلي بعدين؟ حاس اني مو كويس دحين.
+2025	corpus-6-test-corpus-26-train	JED	حقيقة، عندي اخبار. حتزوج.
+2033	corpus-6-test-corpus-26-train	JED	فيه بنطلون ثاني؟
+2035	corpus-6-test-corpus-26-train	JED	ممكن خطة؟
+2052	corpus-6-test-corpus-26-train	JED	فيه واحد اقتحم غرفتي ليلة امس.
+2055	corpus-6-test-corpus-26-train	JED	وريني السمكة اللي شفتها اليوم في كتاب الصور، لو سمحت.
+2083	corpus-6-test-corpus-26-train	JED	شوف التعليمات على غلاف الطعام المفرغ من الهواء.
+2086	corpus-6-test-corpus-26-train	JED	أبا فلوس ورقية.
+2100	corpus-6-test-corpus-26-test	JED	سرق محظفتي وهرب.
+2119	corpus-6-test-corpus-26-train	JED	ما عندك دروس تجريبية؟
+2147	corpus-6-test-corpus-26-train	JED	من فين اشتري طوابع بريد؟
+2148	corpus-6-test-corpus-26-train	JED	انا من بريطانيا العظيمة.
+2156	corpus-6-test-corpus-26-train	JED	يبالي اشيك مع زوجتي.
+2161	corpus-6-test-corpus-26-train	JED	أبا استرجع فلوسي عشان دا.
+2179	corpus-6-test-corpus-26-train	JED	هناك كبينة تلفون قدام البنك.
+2180	corpus-6-test-corpus-26-train	JED	حوصل على تسعة مارس وحمشي يوم اربعطعشر.
+2205	corpus-6-test-corpus-26-train	JED	كأنو غالي شوية، ولا؟
+2235	corpus-6-test-corpus-26-train	JED	معاك الباقي؟
+2236	corpus-6-test-corpus-26-train	JED	فين محطة الباصات؟
+2238	corpus-6-test-corpus-26-train	JED	نفسك في حلا؟
+2302	corpus-6-test-corpus-26-train	JED	تقدر تهرج؟
+2306	corpus-6-test-corpus-26-train	JED	نفس الشيء ليا، لو سمحت.
+2318	corpus-6-test-corpus-26-train	JED	طلبي لسا ما جاء.
+2324	corpus-6-test-corpus-26-train	JED	فيه ينابيع حارة كتيرة.
+2329	corpus-6-test-corpus-26-train	JED	باللهي حول الخمسين الف ين الى دولار.
+2338	corpus-6-test-corpus-26-train	JED	عادي معأيا، أصلا نفسي ادخن.
+2347	corpus-6-test-corpus-26-test	JED	من فين استأجر أدوات التزلج والجزم؟
+2353	corpus-6-test-corpus-26-dev	JED	نسيت شرابنا؟
+2368	corpus-6-test-corpus-26-test	JED	ممكن ترسلها لعنواني في اليأبان بانك تجمع رقم الطرد العالمي؟
+2381	corpus-6-test-corpus-26-train	JED	أبا كاسة نبيذ احمر.
+2389	corpus-6-test-corpus-26-train	JED	بس اذا انها حقت، سيدي. هههههه، بس مزحة صغيرة.
+2401	corpus-6-test-corpus-26-train	JED	أكيد، كيف نقدر نخدمك؟
+2412	corpus-6-test-corpus-26-dev	JED	عندنا بيرة، وسكي، خمر، نبيذ، فودكا ونبيذ.
+2425	corpus-6-test-corpus-26-train	JED	هوية. اوه، اوك. هل جواز السفر يمشي؟
+2428	corpus-6-test-corpus-26-train	JED	رقم غرفتي ثلاثة ستة وعشرين. تقدر تأخذ غسيلي؟
+2440	corpus-6-test-corpus-26-train	JED	حشوف اذا فيه شيء يناسبني.
+2441	corpus-6-test-corpus-26-train	JED	أبا غلأية.
+2445	corpus-6-test-corpus-26-train	JED	جبلي جبن مبشور.
+2462	corpus-6-test-corpus-26-train	JED	ممكن تنظف قميصي على صباح بكرة؟
+2476	corpus-6-test-corpus-26-train	JED	قلتله يدق عليا بعدين؟
+2490	corpus-6-test-corpus-26-train	JED	ليش طيب؟
+2492	corpus-6-test-corpus-26-train	JED	معليش، فيه مكتبة هنا؟
+2496	corpus-6-test-corpus-26-test	JED	أتوقع انك غلطت. الغرفة اندفعت. عندي الأيصال.
+2505	corpus-6-test-corpus-26-train	JED	الباص هناك.
+2516	corpus-6-test-corpus-26-train	JED	بالله ابغا لفتين من ايزومية، و فيلم ملون، و ستة وتلاتين لقطة، لو سمحت.
+2519	corpus-6-test-corpus-26-train	JED	أبا كاش للشيك دا بسبعين دولار.
+2521	corpus-6-test-corpus-26-train	JED	أبا اشتري ختومات لعشرة كروت بريد لليأبان، لو سمحت.
+2528	corpus-6-test-corpus-26-train	JED	فيه أي بنك قريب من المحطة؟
+2531	corpus-6-test-corpus-26-train	JED	أتوقع انه فيه غلط في الفاتورة.
+2552	corpus-6-test-corpus-26-test	JED	تراه هنا.
+2557	corpus-6-test-corpus-26-train	JED	واحد تشيز برقر، لو سمحت.
+2578	corpus-6-test-corpus-26-test	JED	ما صار يمديك تسوي تصميم بدون كمبيوتر.
+2591	corpus-6-test-corpus-26-train	JED	اجري.
+2601	corpus-6-test-corpus-26-train	JED	فيه شق في بلوزتي. مدري اذا تقدر تخيطها لي، لو سمحت؟
+2613	corpus-6-test-corpus-26-dev	JED	كم سعر التذكرة لمانشستر؟
+2643	corpus-6-test-corpus-26-train	JED	تقدر تساعدني بسلك الاشتراك؟
+2644	corpus-6-test-corpus-26-train	JED	فين اقدر اشتري فرشة الشاطيء؟
+2670	corpus-6-test-corpus-26-test	JED	اجل، باللهي اعطيني حجز جديد.
+2676	corpus-6-test-corpus-26-train	JED	اعطيني قطعة لحم خنزير، بس مو سميكة زي ذيك.
+2678	corpus-6-test-corpus-26-train	JED	احنا جآيين على سبعة.
+2687	corpus-6-test-corpus-26-train	JED	لما اشوف الأسعار رخيصة قد كدا، احس انه سخافة اشتري أي شيء من اليأبان.
+2690	corpus-6-test-corpus-26-train	JED	كانت عندي سجلات انسرقت كمان.
+2695	corpus-6-test-corpus-26-train	JED	أيسكريم بالبسكوت، لو سمحت.
+2702	corpus-6-test-corpus-26-train	JED	انا اتفق، لازم تصيري مرة طبيعية.
+2704	corpus-6-test-corpus-26-train	JED	انتبه للفراغ، انتبه للفراغ، وقرب من الأبواب، لو سمحت.
+2707	corpus-6-test-corpus-26-train	JED	انا ابغا بطاقة ائتمان.
+2708	corpus-6-test-corpus-26-dev	JED	دا رقمي.
+2715	corpus-6-test-corpus-26-test	JED	علمني على مكان حلو في النهر دا، لو سمحت.
+2726	corpus-6-test-corpus-26-train	JED	لو سمحت اديني تقرير حادث.
+2729	corpus-6-test-corpus-26-train	JED	دحين لا شكرا.
+2734	corpus-6-test-corpus-26-train	JED	اوك، لو سمحت خليك على الخط. مستر ناكاجيما، الانسة سأيتو شكلها ما ترد. تبا تدق بعد شوية؟
+2736	corpus-6-test-corpus-26-dev	JED	يمكن، بس لازم نوزن كل وحده لحالها.
+2747	corpus-6-test-corpus-26-train	JED	باين انها مرا نادرة.
+2748	corpus-6-test-corpus-26-train	JED	فين استلام الشنط لرحلة سبعة صفر تلاتة؟
+2760	corpus-6-test-corpus-26-train	JED	فيه شيء غلط في يدك.
+2765	corpus-6-test-corpus-26-train	JED	هادا يعفن؟
+2772	corpus-6-test-corpus-26-train	JED	لا، شكرا. احسن لي اني ما اشرب.
+2808	corpus-6-test-corpus-26-train	JED	لو سمحت علمني شارع مناسب حق تسوق.
+2811	corpus-6-test-corpus-26-dev	JED	الباص دا حيروح لفندق الهيلتون؟
+2816	corpus-6-test-corpus-26-train	JED	دحين، دي الرسم مرة مميزة. من تسوروتارو كاتاوكا. معروف انه رسام عالمي.
+2850	corpus-6-test-corpus-26-train	JED	عندي تقدير كبير للموسيقى القديمة.
+2851	corpus-6-test-corpus-26-dev	JED	اقدر اعزمك على عشاء يوم من الأيام؟
+2862	corpus-6-test-corpus-26-train	JED	تمام. اش اسم الطرف الثاني ورقمه، لو سمحت.
+2871	corpus-6-test-corpus-26-train	JED	لو سمحتو شوية معليش خلوني اخرج.
+2878	corpus-6-test-corpus-26-train	JED	يمديك تتصل على الموظفين اللي يعرفوا يتكلمو ياباني؟
+2898	corpus-6-test-corpus-26-train	JED	احنا نزور أقاربنا عادة.
+2939	corpus-6-test-corpus-26-train	JED	ميكي هاياكاوا، هيا هادي الغرفة سبعة صفر اتنين.
+2945	corpus-6-test-corpus-26-train	JED	يبالي اقعد هنا الليلة، صح؟ تقدر تساعدني اني احجز غرفة في فندق؟
+2947	corpus-6-test-corpus-26-train	JED	المفروض انه ما يطول، ربع ساعة بالكثير.
+2960	corpus-6-test-corpus-26-train	JED	حتقولي عن هادي المكالمة؟
+2964	corpus-6-test-corpus-26-train	JED	يمديك تقولها اني كلمتها؟ انا حتصل عليها مرة تانية.
+2973	corpus-6-test-corpus-26-train	JED	فيه أي جولة صباحية؟
+2982	corpus-6-test-corpus-26-train	JED	مداك تحول عملات اجنبية؟
+2983	corpus-6-test-corpus-26-test	JED	ميزانيتنا حوالي خمسين دولار لثلاثة اشخاص.
+2990	corpus-6-test-corpus-26-train	JED	من فين اقدر اشتري لفة من الفيلم؟
+2995	corpus-6-test-corpus-26-train	JED	عندك بيرة يأبانية؟
+3001	corpus-6-test-corpus-26-test	JED	بالله ابغا لبس سباحة صغير.
+3016	corpus-6-test-corpus-26-train	JED	ابغا اسجل شنطي.
+3029	corpus-6-test-corpus-26-train	JED	معاك انسة كاوازو في غرفة سطعش احدعش.
+3030	corpus-6-test-corpus-26-train	JED	عفواً.
+3038	corpus-6-test-corpus-26-dev	JED	مافيه ولا شيء.
+3040	corpus-6-test-corpus-26-train	JED	اش هوا اكثر شيء مهم بالنسبة للشعب الياباني، راس السنة الميلادي ولا عيد الميلاد؟
+3041	corpus-6-test-corpus-26-test	JED	رقم كرسيك اتنين وتلاتين ايه، وبعدين روح سيدة لنهاية هادا الممر. كرسيك اللي عند الطاقة.
+3073	corpus-6-test-corpus-26-train	JED	باللهي دقيقة، لو سمحت.
+3109	corpus-6-test-corpus-26-train	JED	بالله عبي التقرير الضايع.
+3111	corpus-6-test-corpus-26-dev	JED	انا ما افهم الامريكية، بس اتكلم اللغة الانقليزية البريطانية.
+3120	corpus-6-test-corpus-26-train	JED	من يوم السبت.
+3129	corpus-6-test-corpus-26-train	JED	التامين يشمل الصدم و المسؤولية القانونية.
+3134	corpus-6-test-corpus-26-test	JED	ضيعت علامة الاستلام حقي.
+3152	corpus-6-test-corpus-26-train	JED	عندك أي مخرزة بتصميم كويس؟
+3155	corpus-6-test-corpus-26-train	JED	انا اتصلت عليك من كشك عام في ميسي.
+3170	corpus-6-test-corpus-26-test	JED	دولا مرا كبار.
+3176	corpus-6-test-corpus-26-train	JED	موقف السيارات بكم في الساعة؟
+3179	corpus-6-test-corpus-26-train	JED	سيداتي وسأدتي، في رحلتنا اليوم، عندنا مضيفين يتكلمو يأباني اللي تقدرو تعرفوهم من الدبابيس اللي لابسينا. اذا تعرفو احد يباهم.
+3182	corpus-6-test-corpus-26-train	JED	في جزء فني معين تحبه؟
+3185	corpus-6-test-corpus-26-train	JED	لو سمحت شيك مرة ثانية.
+3195	corpus-6-test-corpus-26-train	JED	امشي طوالي مع النهر حوالي نص ميل، حتجيك الحديقة.
+3201	corpus-6-test-corpus-26-dev	JED	لا، دولا يتحملو.
+3207	corpus-6-test-corpus-26-train	JED	اوك، حرسلها للاس فيقاس لك.
+3209	corpus-6-test-corpus-26-train	JED	قاعد ادور على تيشيرتات للجري.
+3220	corpus-6-test-corpus-26-train	JED	تبا تشرب أي شيء في البار؟
+3222	corpus-6-test-corpus-26-dev	JED	من هنا، اطلع مع الاصنصير.
+3238	corpus-6-test-corpus-26-train	JED	كنت احسن واحد حصل على ثمانين قطار.
+3267	corpus-6-test-corpus-26-test	JED	فيه أي سينما قريب من هنا؟
+3269	corpus-6-test-corpus-26-train	JED	دحين موسم المحار، يعني حيكون مرا تمام.
+3279	corpus-6-test-corpus-26-train	JED	ابغا مع ساعة يد تانية.
+3284	corpus-6-test-corpus-26-train	JED	حشيك إن حوالي الساعة تسعة في الليل.
+3285	corpus-6-test-corpus-26-train	JED	الوقت تأخر، يبالي اروح.
+3289	corpus-6-test-corpus-26-train	JED	انا ما استخدمت خدمة الغسيل عندك. حتشيك دا مرة تانية؟
+3292	corpus-6-test-corpus-26-train	JED	أبا شاهي، لو سمحت.
+3295	corpus-6-test-corpus-26-train	JED	لا، مافيه.
+3304	corpus-6-test-corpus-26-train	JED	هادي المحطة الاخيرة؟
+3318	corpus-6-test-corpus-26-train	JED	خلينا ندق عليه.
+3323	corpus-6-test-corpus-26-train	JED	هادا حار؟
+3334	corpus-6-test-corpus-26-train	JED	فين الاقي باص المعالم السياحية؟
+3335	corpus-6-test-corpus-26-train	JED	ابغا اتفرج على المدينة.
+3351	corpus-6-test-corpus-26-test	JED	في سياح كثير حول المبنى، باين انهم تجمعو عشان يشوفو اش صار.
+3359	corpus-6-test-corpus-26-train	JED	شكراً على ضيافتك.
+3375	corpus-6-test-corpus-26-train	JED	الصدق افضل سياسة.
+3385	corpus-6-test-corpus-26-train	JED	ممكن تقومني الساعة ستة بالضبط، لو سمحت؟
+3392	corpus-6-test-corpus-26-train	JED	كم يكلف لنص يوم؟
+3397	corpus-6-test-corpus-26-train	JED	انا كنجي.
+3402	corpus-6-test-corpus-26-train	JED	عارف أي مكان كويس نشوفه في شيكاغو؟
+3404	corpus-6-test-corpus-26-train	JED	اذا انكم ملزمين، حروح معاكم.
+3413	corpus-6-test-corpus-26-dev	JED	ممكن تبدل دا بواحد تاني من نفس النوع، لو سمحت؟
+3446	corpus-6-test-corpus-26-train	JED	أبا اسوي حجز الساعة تلاتة ونص المساء.
+3489	corpus-6-test-corpus-26-train	JED	الصندوق الامن، لو سمحت.
+3502	corpus-6-test-corpus-26-train	JED	لو سمحت اختار نبيذ مناسب.
+3512	corpus-6-test-corpus-26-test	JED	أبا مكان صغير.
+3522	corpus-6-test-corpus-26-train	JED	لازم ادفع للبنزين؟
+3557	corpus-6-test-corpus-26-train	JED	حرامي، امسكوه.
+3562	corpus-6-test-corpus-26-test	JED	احنا نستنى أصحابنا يجو.
+3572	corpus-6-test-corpus-26-train	JED	لو سمحت اديني فكة.
+3619	corpus-6-test-corpus-26-test	JED	كيرلي قوي، لو سمحت.
+3628	corpus-6-test-corpus-26-train	JED	هي صغيرة وحلوة.
+3638	corpus-6-test-corpus-26-test	JED	أيش الاوبرا حق أليوم؟
+3640	corpus-6-test-corpus-26-train	JED	مقلي، لو سمحت.
+3644	corpus-6-test-corpus-26-train	JED	غسيلي لين دحين ما رجعلي.
+3649	corpus-6-test-corpus-26-train	JED	على كل حال، انت فاضي السبت الجأي؟
+3667	corpus-6-test-corpus-26-train	JED	أممم، اجل، يمكن نعرف بعض اكثر.
+3669	corpus-6-test-corpus-26-train	JED	عاملتني كاني شحات.
+3683	corpus-6-test-corpus-26-train	JED	اها كدا. كمان، ممكن تساعدني بالمشكلة التانية؟
+3685	corpus-6-test-corpus-26-train	JED	ممكن تحط العدسات اللي من الوصفة الطبيه مع دي النظارات؟
+3698	corpus-6-test-corpus-26-dev	JED	حأخذ اصنين من دولا.
+3705	corpus-6-test-corpus-26-train	JED	كلاب جميلة، أيش نسلها؟
+3721	corpus-6-test-corpus-26-train	JED	طيحت شوكتي. باللهي جبلي وحدة تانية.
+3742	corpus-6-test-corpus-26-train	JED	كان فلة.
+3747	corpus-6-test-corpus-26-train	JED	أكيد. روح سيدا بعدين لف يمين عند ثالث زاوية، حتلاقيه يمينك.
+3765	corpus-6-test-corpus-26-dev	JED	ممكن شريط للشرأيح الملونة؟
+3780	corpus-6-test-corpus-26-train	JED	تعرف كاثي؟ ترى حفلة عيد ميلادها.
+3789	corpus-6-test-corpus-26-train	JED	عندك مخطط لون؟
+3792	corpus-6-test-corpus-26-dev	JED	يمديني ادفع باستخدام شيك سياحي؟
+3806	corpus-6-test-corpus-26-train	JED	لكن هوا رجال، كيف اعرف انه هادا هوا الشيء الحقيقي؟
+3825	corpus-6-test-corpus-26-train	JED	ممكن اخذه بدون ضريبة؟
+3829	corpus-6-test-corpus-26-train	JED	مو قادر احطي الشنط تحت المقعدة. ممكن تخليها معاك عشاني، لو سمحت؟
+3835	corpus-6-test-corpus-26-train	JED	ممكن تحط شنطة في شنطة السيارة؟
+3847	corpus-6-test-corpus-26-train	JED	انا دحين رأيح، فحاخذها.
+3856	corpus-6-test-corpus-26-train	JED	لو سمحت ارسل شخص يجي يأخذ شنطي على ستة ونص.
+3858	corpus-6-test-corpus-26-dev	JED	أبا خريطة لسان فرانسيسكو والأماكن اللي حولينها.
+3859	corpus-6-test-corpus-26-train	JED	أيش نوع العيش اللي عندك؟
+3860	corpus-6-test-corpus-26-train	JED	فين الاصنصير؟
+3861	corpus-6-test-corpus-26-train	JED	فيه أي واحد يقدر يعزف بيانو؟
+3872	corpus-6-test-corpus-26-test	JED	اية محطة انزل فيها عشان اروح امباير ستيت بيلدينج؟
+3887	corpus-6-test-corpus-26-test	JED	الميزانية تحت الف دولار.
+3892	corpus-6-test-corpus-26-train	JED	شكرا لك، بس م اتوقع عندي وقت اني اجلس يومين. يمديني احجز غرفة مزدوجة في هادا الفندق بس يوم اثناعشر مارس؟
+3900	corpus-6-test-corpus-26-dev	JED	يمديني احجز غرفة مزدوجة تطل على المحيط؟
+3920	corpus-6-test-corpus-26-train	JED	باقي ما قررنا لين دحين.
+3928	corpus-6-test-corpus-26-train	JED	صاحبي طاح والتوا مفصله.
+3936	corpus-6-test-corpus-26-train	JED	حجرب العصير.
+3961	corpus-6-test-corpus-26-train	JED	فيه مطعم تأيلندي قريب؟
+3972	corpus-6-test-corpus-26-train	JED	هوا جمب هادا المبنى الطويل، عشان كدا ارجع في نقس الطريق اللي جيت منه لين الاشارة وبعدها روح يسار.
+3974	corpus-6-test-corpus-26-train	JED	لازم امسك طيارة لوس انجلوس صباح بكرة من بدري.
+3988	corpus-6-test-corpus-26-train	JED	"يمديني اثق في ""جولة مدينة سان فرانسيسكو"". هادي تعلمك مخطط لسان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	JED	أبا تامين.
+3995	corpus-6-test-corpus-26-test	JED	خلينا نحط ضمادة ثلج عشان يخفف الألم.
+4013	corpus-6-test-corpus-26-train	JED	هي تبا تشتري لبس.
+4016	corpus-6-test-corpus-26-train	JED	كم سعر التاكسي لدا الفندق؟
+4017	corpus-6-test-corpus-26-train	JED	فين الحمام؟
+4034	corpus-6-test-corpus-26-train	JED	لازم ادفع عشان اخش المبنى؟
+4036	corpus-6-test-corpus-26-train	JED	سويها بطريقتك.
+4082	corpus-6-test-corpus-26-test	JED	ادور على شيء انيق.
+4104	corpus-6-test-corpus-26-train	JED	الشباك عالق.
+4109	corpus-6-test-corpus-26-dev	JED	في اية ناحية في يونيون سكوير؟
+4119	corpus-6-test-corpus-26-train	JED	نص اونصة من تشانل رقم خمسة، لو سمحت.
+4129	corpus-6-test-corpus-26-train	JED	طيب أيش رأيك بقهوة؟
+4143	corpus-6-test-corpus-26-train	JED	لازم يكون عندي تذكرة؟
+4182	corpus-6-test-corpus-26-train	JED	بكم سعر الخدمة تقريباً؟
+4185	corpus-6-test-corpus-26-train	JED	كم يباله من هنا؟
+4187	corpus-6-test-corpus-26-train	JED	كريمة وسكر؟
+4193	corpus-6-test-corpus-26-train	JED	عندكم أي تخفيض للأعضاء؟
+4219	corpus-6-test-corpus-26-train	JED	فيه سوبر اكسبريس على تسعة ونص؟
+4221	corpus-6-test-corpus-26-train	JED	خليني اشيك على سائل الفرامل والمكينة. مكينتك كانها متوقفة.
+4224	corpus-6-test-corpus-26-train	JED	ما كان غلطي.
+4262	corpus-6-test-corpus-26-train	JED	مافيه كهرباء.
+4263	corpus-6-test-corpus-26-train	JED	حبلغ الشرطة.
+4269	corpus-6-test-corpus-26-train	JED	لازم كل واحد يدفع للشراب حقه؟
+4275	corpus-6-test-corpus-26-train	JED	أي مكان بس تلاتين لخمسين دولار لليلة.
+4278	corpus-6-test-corpus-26-train	JED	لو سمحت صلح دا.
+4284	corpus-6-test-corpus-26-train	JED	في يوم السنة الجديدة. والمناسبات الخاصة زي الزواج، مراسم التكريم او الجنازات.
+4285	corpus-6-test-corpus-26-test	JED	زيادة خردل، لو سمحت.
+4305	corpus-6-test-corpus-26-train	JED	ليش ما تعطيها هدية؟
+4321	corpus-6-test-corpus-26-test	JED	أيش الفلم اللي تنصح فيه؟
+4324	corpus-6-test-corpus-26-test	JED	دي عشرين ورجعلي دولارين، لو سمحت.
+4326	corpus-6-test-corpus-26-train	JED	ضربتني من الجمب.
+4335	corpus-6-test-corpus-26-train	JED	اقدر اجي على اتنين.
+4341	corpus-6-test-corpus-26-train	JED	دي الشنط من رحلة جيه إيه إل صفر واحد؟
+4346	corpus-6-test-corpus-26-train	JED	دي اول رحلة لي لباريس.
+4348	corpus-6-test-corpus-26-train	JED	ممكن تقولي السعر تقريباً قبل ما تبدا تشتغل عليه؟
+4358	corpus-6-test-corpus-26-train	JED	ادخل، لو سمحت.
+4364	corpus-6-test-corpus-26-test	JED	رحلة المشي حقتنا لازم تكون فيها بسطة كثير.
+4365	corpus-6-test-corpus-26-train	JED	من فين نصعد للسفينة؟
+4373	corpus-6-test-corpus-26-train	JED	ما عندنا كيس للكمية دي فبحطه في دا الكيس البلاستيك الكبير.
+4374	corpus-6-test-corpus-26-train	JED	نفسي العب تنس.
+4375	corpus-6-test-corpus-26-train	JED	فيه عصير انأناس، وبرتقال وطماطم.
+4377	corpus-6-test-corpus-26-train	JED	الجهة اليسار من ذا الدور، جمب السلم الكهربائي.
+4382	corpus-6-test-corpus-26-test	JED	أيش الحفلة الموسيقية اللي شغالة؟
+4409	corpus-6-test-corpus-26-train	JED	ماتبا تشوف فلم تاني؟
+4418	corpus-6-test-corpus-26-train	JED	بالله حول شيك المسافر دا لكاش.
+4432	corpus-6-test-corpus-26-dev	JED	أبا نفس الطبق بكرة، لو سمحت.
+4450	corpus-6-test-corpus-26-train	JED	ممكن اعطيك أجابة احسن بعد كم عرض.
+4451	corpus-6-test-corpus-26-test	JED	أبا هدية لذكرى سنوية.
+4464	corpus-6-test-corpus-26-train	JED	أيش المسرحية الموسيقية اللي شغالة دحين؟
+4475	corpus-6-test-corpus-26-train	JED	عندك مرأيا؟
+4478	corpus-6-test-corpus-26-dev	JED	عفوا، انا ضأيع. ممكن تساعدني؟
+4479	corpus-6-test-corpus-26-train	JED	حاخذ دا الشيء، لو سمحت.
+4497	corpus-6-test-corpus-26-train	JED	ماتقدر تجيب طراطيع معاك لكندا.
+4501	corpus-6-test-corpus-26-train	JED	زوجتك طباخة ممتازة.
+4503	corpus-6-test-corpus-26-train	JED	تحتاج مساعدة؟
+4505	corpus-6-test-corpus-26-train	JED	ممكن تسوي حجز لتاكي الساعة ستة الصباح، لو سمحت؟
+4510	corpus-6-test-corpus-26-train	JED	أيش تبا مع الطبق الرئيسي حقك؟
+4540	corpus-6-test-corpus-26-test	JED	فيه أي محل بوتيك ورد قريب؟
+4549	corpus-6-test-corpus-26-train	JED	المكان دا مزحوم، صح؟
+4558	corpus-6-test-corpus-26-train	JED	معليش، حيكونو جاهزين في خمس دقأيق.
+4588	corpus-6-test-corpus-26-train	JED	عندي الم برقبتي وانا نأيم.
+4594	corpus-6-test-corpus-26-train	JED	اوك، مافيه مشكلة. ممكن اشوف جواز سفرك؟
+4615	corpus-6-test-corpus-26-test	JED	ماعندي فلوس.
+4624	corpus-6-test-corpus-26-train	JED	متى لازم أكون هنا في المحطة؟
+4630	corpus-6-test-corpus-26-train	JED	فيه مطاعم كتيرة قريبة من هنا.
+4635	corpus-6-test-corpus-26-train	JED	جمب غرفة الامانات.
+4640	corpus-6-test-corpus-26-train	JED	جميل اني هرجت معاك.
+4644	corpus-6-test-corpus-26-test	JED	فيه جولة بعد الظهر؟
+4648	corpus-6-test-corpus-26-test	JED	انا مع أصحابي.
+4653	corpus-6-test-corpus-26-train	JED	انبسطت في جلسوي، شكراً.
+4654	corpus-6-test-corpus-26-train	JED	الشاطيء تحت. منظر حلو.
+4658	corpus-6-test-corpus-26-train	JED	شكراً للانتظار، انسة مك قيور. اهو. تفضلي، لو سمحتي.
+4662	corpus-6-test-corpus-26-train	JED	عندك صورة هوية؟
+4671	corpus-6-test-corpus-26-train	JED	سبعة، لو سمحت.
+4674	corpus-6-test-corpus-26-train	JED	أبا ارسل دا للمغسلة. متى يجهز؟
+4685	corpus-6-test-corpus-26-train	JED	عندي بنطلون مخطط.
+4699	corpus-6-test-corpus-26-train	JED	أيوا. شنط شخص ثاني جات لغرفتي. ممكن تشيك، لو سمحت؟
+4714	corpus-6-test-corpus-26-train	JED	ممكن تشرحلي زيادة بالتفاصيل؟
+4729	corpus-6-test-corpus-26-train	JED	نمت كويس؟
+4733	corpus-6-test-corpus-26-train	JED	ممكن تضغط زر التصوير؟
+4740	corpus-6-test-corpus-26-train	JED	مفتاحين، لو سمحت.
+4742	corpus-6-test-corpus-26-dev	JED	أبا لمبة.
+4744	corpus-6-test-corpus-26-train	JED	في نهأية السيب.
+4773	corpus-6-test-corpus-26-dev	JED	ابا ورق ملاحظات.
+4788	corpus-6-test-corpus-26-train	JED	حنروح بالباص؟
+4790	corpus-6-test-corpus-26-train	JED	انت قلت انك رأيح لطوكيو بكرة؟
+4795	corpus-6-test-corpus-26-test	JED	خليني انام لين تسعة.
+4801	corpus-6-test-corpus-26-train	JED	لازم احول ل أي دبليو واحد صفر صفر. ممكن؟
+4813	corpus-6-test-corpus-26-train	JED	كيف مستواك الايام دي؟
+4814	corpus-6-test-corpus-26-dev	JED	احس بضيقة بصدري.
+4826	corpus-6-test-corpus-26-train	JED	مافيه مشكلة. اذا جيت خمسة سبتمبر، تقدر تنبط بعرض فلم علمي لانه عندنا يوم مفتوح مميز كل جمعة من كل شهر.
+4828	corpus-6-test-corpus-26-train	JED	عندك أي جولة سياحية تانية؟
+4836	corpus-6-test-corpus-26-train	JED	طيب، خمسة بالمية تخفيض، كدا كويس؟
+4845	corpus-6-test-corpus-26-train	JED	انا رأيح باريس.
+4848	corpus-6-test-corpus-26-train	JED	دا مو اخر موديل، صح؟
+4857	corpus-6-test-corpus-26-train	JED	مخططة للساعة ثمانية ونص المساء بالتوقيف المحلي.
+4889	corpus-6-test-corpus-26-train	JED	صور المبنى معانا.
+4894	corpus-6-test-corpus-26-train	JED	اوك، حاخذ صحن متوسط وكورة رز.
+4901	corpus-6-test-corpus-26-train	JED	كيف شكله؟
+4924	corpus-6-test-corpus-26-train	JED	أبا اشوف داك بالشباك، لو سمحت.
+4945	corpus-6-test-corpus-26-train	JED	مستحيل، احنا بأجازة. ما أبا اقعد بالفندق واتفرج مباراة بيسبول. أبا اخرط اتفرج مسرحية.
+4957	corpus-6-test-corpus-26-train	JED	ممكن المسه؟
+4974	corpus-6-test-corpus-26-train	JED	يمديك تجي هنا عشان تصلحه؟
+4983	corpus-6-test-corpus-26-train	JED	ابغا شوية من الالياف الصناعية.
+4985	corpus-6-test-corpus-26-train	JED	اسمي تارو تاناكا. عندي حجز.
+4990	corpus-6-test-corpus-26-train	JED	نفسي في شوية كريم تطهير.
+5004	corpus-6-test-corpus-26-train	JED	أبا سترة باكمام طويلة.
+5009	corpus-6-test-corpus-26-train	JED	انسرقت من شنطتي.
+5017	corpus-6-test-corpus-26-train	JED	طريقنا يتقاطع كثير، صح؟
+5035	corpus-6-test-corpus-26-train	JED	يمديني اشوف القايمة مرة ثانية؟
+5045	corpus-6-test-corpus-26-train	JED	باين انها خضرة شوية.
+5082	corpus-6-test-corpus-26-train	JED	كم العدد؟
+5083	corpus-6-test-corpus-26-train	JED	فراولة، لو سمحت.
+5090	corpus-6-test-corpus-26-dev	JED	جبل فوجي هو أطول جبل في اليأبان بطول تلاتة الاف وسبمعمية وستة وسبعين متر.
+5091	corpus-6-test-corpus-26-train	JED	لا مو دحين، في اختيارات كتيرة بينهم.
+5098	corpus-6-test-corpus-26-dev	JED	نفسي في شوية كريم الليل.
+5104	corpus-6-test-corpus-26-test	JED	هوا بين المخبز والجزار.
+5116	corpus-6-test-corpus-26-train	JED	ممكن تقصر الاكمام؟
+5117	corpus-6-test-corpus-26-train	JED	اسف مافيه ملعب للقولف قريب من هنا.
+5121	corpus-6-test-corpus-26-train	JED	ممكن توريني الخاتم التاني من اليسار؟
+5124	corpus-6-test-corpus-26-train	JED	ممكن تقوله يتصل عليا؟
+5138	corpus-6-test-corpus-26-train	JED	جربت اسوي مكالمة دولية. قدرت توصل؟
+5148	corpus-6-test-corpus-26-test	JED	دا غلط.
+5175	corpus-6-test-corpus-26-train	JED	أيوا، هوا. لانه فيه علم قدام مكتب البريد.
+5207	corpus-6-test-corpus-26-test	JED	متاكد انك حترسله، صح؟
+5219	corpus-6-test-corpus-26-train	JED	أبا اتصل عن طريق الكريدت كارد حقتي.
+5224	corpus-6-test-corpus-26-train	JED	أبا حقي سفري.
+5245	corpus-6-test-corpus-26-train	JED	لما توصل، حندفع عشان تنشحن لعنوان بيتك.
+5246	corpus-6-test-corpus-26-dev	JED	دي الأيام دأيم استخدم كمبيوتر في الشغل.
+5250	corpus-6-test-corpus-26-train	JED	اوه، اوك. فاهم. حجي لعندك.
+5259	corpus-6-test-corpus-26-train	JED	لا، كدا كفأية.
+5261	corpus-6-test-corpus-26-train	JED	ممكن مخدة وبطانية؟
+5262	corpus-6-test-corpus-26-train	JED	ممكن تجي بسرعة، لو سمحت؟
+5263	corpus-6-test-corpus-26-train	JED	كاسة قهوة، لو سمحت.
+5267	corpus-6-test-corpus-26-test	JED	ادور على كروت هواوية اصلية.
+5272	corpus-6-test-corpus-26-train	JED	ممكن تضيق الخصر تلاتة سنتيميترات؟
+5289	corpus-6-test-corpus-26-train	JED	انا نفس العمر.
+5300	corpus-6-test-corpus-26-train	JED	ممكن تجبلي قهوة؟
+5307	corpus-6-test-corpus-26-dev	JED	تلاتمية وخمسين دولار؟ فوق ميزانيتي.
+5323	corpus-6-test-corpus-26-train	JED	نبا نصوت عليه؟ اذا لا، أتوقع انه وصلنا الى نتيجة، وبرسلها الى مجلس ادراتنا الصبح بكرة.
+5334	corpus-6-test-corpus-26-train	JED	تعرف أي فندق رخيص؟
+5361	corpus-6-test-corpus-26-train	JED	صباح الخير، نمت كويس؟
+5364	corpus-6-test-corpus-26-train	JED	أيش ناوي تسوي بعد ما تخلص دراسة؟
+5366	corpus-6-test-corpus-26-train	JED	انسرقت شنطتي من كتفي في الشارع.
+5367	corpus-6-test-corpus-26-train	JED	كان عندك أي خدمات مع الفطور الصباح دا؟
+5407	corpus-6-test-corpus-26-train	JED	أبا كاسة قهوة بيضا، لو سمحت.
+5410	corpus-6-test-corpus-26-test	JED	اوك. فندق الشيراتون هناك؟
+5411	corpus-6-test-corpus-26-train	JED	أتمنى انك مو تعبان مرة.
+5431	corpus-6-test-corpus-26-train	JED	أبا استاجر سيارة من نفس الفئة ليومين.
+5436	corpus-6-test-corpus-26-train	JED	حاخذ صورة لجاك دانيالز.
+5437	corpus-6-test-corpus-26-train	JED	أبا فشار كبير، لو سمحت.
+5447	corpus-6-test-corpus-26-train	JED	طيحت عصا التزلج.
+5455	corpus-6-test-corpus-26-train	JED	مانجيب هدأيا للاستقبال. بدال كدا، الضيف يجيب كاش.
+5458	corpus-6-test-corpus-26-train	JED	أبا ارسله عن طريق البريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	JED	الطيارة وصلت متأخرة عشان الثلج.
+5518	corpus-6-test-corpus-26-train	JED	الفاتورة، لو سمحت.
+5521	corpus-6-test-corpus-26-train	JED	ممكن تأخذ مساج، لو سمحت؟
+5540	corpus-6-test-corpus-26-train	JED	معليش، مو قادر الحقك. ممكن تهرج ببطء، لو سمحت؟
+5549	corpus-6-test-corpus-26-dev	JED	أيش ممكن اوريك؟
+5559	corpus-6-test-corpus-26-train	JED	ممكن اصور؟
+5570	corpus-6-test-corpus-26-train	JED	فوق المية.
+5584	corpus-6-test-corpus-26-dev	JED	رحلة رقم اتش بي تسعة وتمانين لطوكيو في حداعشر مارس.
+5585	corpus-6-test-corpus-26-train	JED	ممكن نفس الطبق داك؟
+5594	corpus-6-test-corpus-26-dev	JED	عندك وحدة تانية؟
+5596	corpus-6-test-corpus-26-train	JED	لو سمحت جيب فطوري لغرفتي الساعة سبعة الصباح بكرة.
+5615	corpus-6-test-corpus-26-train	JED	حق الصيانة حيجي قريب.
+5617	corpus-6-test-corpus-26-dev	JED	معليش، حرجع بعدين.
+5640	corpus-6-test-corpus-26-test	JED	كيف ممكن اخذها؟
+5648	corpus-6-test-corpus-26-train	JED	فيه مكان فاضي في جولة الثلاثاء؟
+5657	corpus-6-test-corpus-26-train	JED	لو سمحت. ممكن امشي؟
+5680	corpus-6-test-corpus-26-train	JED	عندك نباتات ولا فواكه؟
+5684	corpus-6-test-corpus-26-train	JED	لو سمحت علمني كيف املي بيانات بطاقة النزول؟
+5695	corpus-6-test-corpus-26-train	JED	أتوقع سيارتي تستاهل خمسة الاف دولار.
+5706	corpus-6-test-corpus-26-train	JED	الاكل دا قليل في سعراته؟
+5717	corpus-6-test-corpus-26-train	JED	أيت باص اخذ عشان أوصل للمحطة؟
+5723	corpus-6-test-corpus-26-train	JED	أيوا، كدا. بس لازم تلف يسار عند تالت أشارة وخليك بنفس الشارع لين ما يجيك طريق ستة وستين.
+5733	corpus-6-test-corpus-26-dev	JED	أبا كاسة موية عشان اخذ الدواء، لو سمحت.
+5761	corpus-6-test-corpus-26-train	JED	حكون ممتن لك لو اخذتني للشاطيء.
+5772	corpus-6-test-corpus-26-train	JED	معليش. الرقم غلط. معاك تانكيوشا برس.
+5779	corpus-6-test-corpus-26-train	JED	احنا خارجين.
+5830	corpus-6-test-corpus-26-dev	JED	أيش الموسيقى دي؟
+5847	corpus-6-test-corpus-26-train	JED	بالله اعطي الشراب دا لطفلك، ملعقة وحدة، بعد كل وجبة.
+5848	corpus-6-test-corpus-26-train	JED	الشكل موجود بمقاس تمانية وعشرين، وواحد وتلاتين وخمسة وتلاتين سنتيميتر.
+5875	corpus-6-test-corpus-26-train	JED	اوه، كأنه كتير.
+5898	corpus-6-test-corpus-26-train	JED	ممكن استخدم تلفونك؟
+5902	corpus-6-test-corpus-26-test	JED	ريحته حلوة، بكم؟
+5906	corpus-6-test-corpus-26-train	JED	أبا اعيد تاكيد رحلتي لشيكاغو يوم سبعطشر.
+5913	corpus-6-test-corpus-26-train	JED	اكلت كتير.
+5914	corpus-6-test-corpus-26-train	JED	ممكن اكلم مس براون؟
+5916	corpus-6-test-corpus-26-train	JED	البيت دا بأين انه مريح تعيش فيه، صح؟
+5934	corpus-6-test-corpus-26-dev	JED	أبا احجز على طيران نورث ويست رحلة صفر تمانية ستة يوم خمسة.
+5940	corpus-6-test-corpus-26-train	JED	محفظتي، وجواز سفري واشيائي الخاصة التانية.
+5956	corpus-6-test-corpus-26-train	JED	متى تقفلوا؟
+5974	corpus-6-test-corpus-26-test	JED	دقيقة، انا ممكن سبته في الحمام.
+5987	corpus-6-test-corpus-26-train	JED	دا اللي كنت حقوله.
+5988	corpus-6-test-corpus-26-train	JED	أيوا، اعتقد ده.
+5997	corpus-6-test-corpus-26-train	JED	بيتك كبير، كم غرفة فيه؟
+6006	corpus-6-test-corpus-26-train	JED	انبسطنا في العشاء.
+6024	corpus-6-test-corpus-26-test	JED	فاهم، لكن مقدر أقوله.
+6047	corpus-6-test-corpus-26-train	JED	اون، أيوا، لو سمحت. أتمنى ما يجيهم دوار البحر.
+6056	corpus-6-test-corpus-26-test	JED	الى طوكيو، لو سمحت.
+6073	corpus-6-test-corpus-26-train	JED	متى موعد وصولنا المتوقع؟
+6086	corpus-6-test-corpus-26-train	JED	انا خارج بكرة بدري، فأبا ادفع دحين.
+6100	corpus-6-test-corpus-26-test	JED	دراي شيري، لو سمحت.
+6109	corpus-6-test-corpus-26-test	JED	مكان مافيه دخان، لو سمحت.
+6156	corpus-6-test-corpus-26-train	JED	هوا مشغول دحين.
+6167	corpus-6-test-corpus-26-train	JED	الأجانب عندهم الاذن للكتب في دي المكتبة؟
+6179	corpus-6-test-corpus-26-train	JED	عادي اقعد بغرفتي لين الساعة اتنين المساء؟
+6190	corpus-6-test-corpus-26-train	JED	هاها. صباح الخير بوقتك. عادي.
+6193	corpus-6-test-corpus-26-train	JED	أبا فيلم رقمه دا الإيه إس إيه لدي الكاميرا، لو سمحت.
+6205	corpus-6-test-corpus-26-train	JED	فين رسمات مونينت؟
+6214	corpus-6-test-corpus-26-train	JED	البيتزا طعمة، مين سواها؟
+6221	corpus-6-test-corpus-26-train	JED	أيش طعم الاكل دا؟
+6227	corpus-6-test-corpus-26-train	JED	كمان سعرهم غالي.
+6228	corpus-6-test-corpus-26-train	JED	متى القطار الجأي بيمشي من بوستن؟
+6232	corpus-6-test-corpus-26-dev	JED	انا ناوي اتعلم قولف.
+6247	corpus-6-test-corpus-26-dev	JED	لو سمحت اعطيني شراب تاني.
+6253	corpus-6-test-corpus-26-train	JED	راكب امواج ممتاز.
+6272	corpus-6-test-corpus-26-train	JED	اسف الاكمام قصيرة مرة.
+6283	corpus-6-test-corpus-26-train	JED	ممكن توريني كيف احط البنزين؟
+6285	corpus-6-test-corpus-26-train	JED	الفندق دا عنده رسوم على الفطور؟
+6287	corpus-6-test-corpus-26-train	JED	دا كل شيء؟
+6291	corpus-6-test-corpus-26-train	JED	بأخر الشارع.
+6339	corpus-6-test-corpus-26-train	JED	لو سمحت شغل العداد.
+6363	corpus-6-test-corpus-26-train	JED	غرفتي مرة باردة.
+6411	corpus-6-test-corpus-26-train	JED	حنرجعلك لما نفضى شوي.
+6413	corpus-6-test-corpus-26-dev	JED	عندك وحدة اكبر؟
+6418	corpus-6-test-corpus-26-train	JED	احس اني احسن.
+6430	corpus-6-test-corpus-26-dev	JED	انت متعود على الطبيعة الجغرافية لليأبان؟
+6436	corpus-6-test-corpus-26-train	JED	لو سمحت وريني مكاني على دي الخريطة.
+6437	corpus-6-test-corpus-26-train	JED	مية بالمية قطن.
+6466	corpus-6-test-corpus-26-train	JED	أبا اغير الى غرفة تطل على المحيط. فيه أي رسوم زيادة؟
+6472	corpus-6-test-corpus-26-train	JED	بكم سعر اجار اللوح لنص يوم؟
+6481	corpus-6-test-corpus-26-train	JED	عشرة نوفمبر.
+6484	corpus-6-test-corpus-26-dev	JED	أبا شريط لالة الكتابة.
+6492	corpus-6-test-corpus-26-train	JED	مرة طعم.
+6497	corpus-6-test-corpus-26-train	JED	متى حنقلع؟
+6498	corpus-6-test-corpus-26-train	JED	كيف تخلي السواق يعرف متى تبا تنزل؟
+6513	corpus-6-test-corpus-26-train	JED	أربعة وعشرين دولار. تبا زيادة؟
+6515	corpus-6-test-corpus-26-train	JED	سويت الحجز في طوكيو قبل شهر.
+6517	corpus-6-test-corpus-26-train	JED	اشكرك من كل أعماق قلبي.
+6525	corpus-6-test-corpus-26-train	JED	اقدر انزل هنا في مركز روك فلر؟
+6539	corpus-6-test-corpus-26-train	JED	لو سمحت قيس مقاس جزمتي.
+6547	corpus-6-test-corpus-26-train	JED	مرة روعة.
+6550	corpus-6-test-corpus-26-train	JED	ممكن تطلعي معأيا في ديت؟
+6552	corpus-6-test-corpus-26-train	JED	لو سمحت نظف المعطف دا.
+6553	corpus-6-test-corpus-26-train	JED	أبا استاجر مركب بمحرك.
+6574	corpus-6-test-corpus-26-train	JED	فين قسم السيدات؟
+6581	corpus-6-test-corpus-26-train	JED	القهوة مو داخلة معاها؟
+6593	corpus-6-test-corpus-26-train	JED	في أي مجال هو كان؟
+6602	corpus-6-test-corpus-26-train	JED	اف. اف. اف. اف. اتعودت على شكلها.
+6609	corpus-6-test-corpus-26-train	JED	لازم ادفع زيادة لما اخش المبنى؟
+6613	corpus-6-test-corpus-26-test	JED	اهلا، الطرف الثاني على الخط. تفضل، لو سمحت.
+6625	corpus-6-test-corpus-26-train	JED	جرحي يعورني.
+6635	corpus-6-test-corpus-26-train	JED	فين المحطة؟
+6657	corpus-6-test-corpus-26-train	JED	عندي قشعريرة.
+6659	corpus-6-test-corpus-26-train	JED	تلاتة أيام.
+6660	corpus-6-test-corpus-26-dev	JED	اقطع الجسر هناك، وحتلاقي المكتبة على الجهة اليسار.
+6692	corpus-6-test-corpus-26-dev	JED	لو سمحت ساعدني الاقي مرشد يتكلم يأباني.
+6699	corpus-6-test-corpus-26-train	JED	ما أبا شيء ضخم.
+6700	corpus-6-test-corpus-26-train	JED	حيكون فيه تأخير بسيط.
+6715	corpus-6-test-corpus-26-train	JED	أيش الفرق بين دول الفنادق؟
+6724	corpus-6-test-corpus-26-test	JED	نسيت محطة الوقوف حقتي.
+6736	corpus-6-test-corpus-26-train	JED	كان كويس. شكراً.
+6740	corpus-6-test-corpus-26-dev	JED	حكون هناك على ستة تقريباً المساء.
+6746	corpus-6-test-corpus-26-train	JED	عندك أي شيء أطول بشوي؟
+6766	corpus-6-test-corpus-26-train	JED	تاريخ الانتهاء مارس سنة الف وتسعمية وتسعة وتسعين .
+6780	corpus-6-test-corpus-26-test	JED	كيف كان؟
+6800	corpus-6-test-corpus-26-train	JED	فيه كازينوات كويسة؟
+6810	corpus-6-test-corpus-26-train	JED	اهي الفلوس حقت القلم الحبر. فاتورة مية دولار.
+6812	corpus-6-test-corpus-26-train	JED	فين قسم السيدات؟
+6825	corpus-6-test-corpus-26-train	JED	فين اقدر اركب السفينة؟
+6832	corpus-6-test-corpus-26-train	JED	صاحبي مصاب.
+6835	corpus-6-test-corpus-26-train	JED	شكلك حلو.
+6836	corpus-6-test-corpus-26-dev	JED	هل المحل دا فاتح بكرة؟
+6862	corpus-6-test-corpus-26-test	JED	سيدة في أخر القاعة.
+6864	corpus-6-test-corpus-26-train	JED	ممكن تقص شنبي؟
+6866	corpus-6-test-corpus-26-dev	JED	دا يجي مع سلطة واختيارك من البطاطس المهروسة او البطاطس المقلية.
+6875	corpus-6-test-corpus-26-dev	JED	فين اقدر اشتري قدور؟
+6914	corpus-6-test-corpus-26-train	JED	مقدر ابيع دا بدون وصفة طبية.
+6917	corpus-6-test-corpus-26-train	JED	اقدر احجز خمسة كراسي ورا بعض؟
+6923	corpus-6-test-corpus-26-test	JED	ممكن تعطيني الوأير، لو سمحت؟
+6944	corpus-6-test-corpus-26-train	JED	أيش السيارة اللي تعطيك افضل صرفية بنزين؟
+6960	corpus-6-test-corpus-26-train	JED	ما حتأخذ تخفيض أيش ما تسوي.
+6966	corpus-6-test-corpus-26-train	JED	ممكن تفتح الشنطة، لو سمحت؟ أيش عندك هنا؟
+6970	corpus-6-test-corpus-26-train	JED	أبا اسوي مكالة طويلة لفندق الهيلتون في بوسطن.
+6984	corpus-6-test-corpus-26-test	JED	يقبلو السيدات بدا؟
+6991	corpus-6-test-corpus-26-train	JED	انتبه، سقف منخفض.
+6999	corpus-6-test-corpus-26-train	JED	مقدر اشوف الشاشة من هنا كويس. ممكن نتبادل المقاعد شوية؟
+7030	corpus-6-test-corpus-26-train	JED	زرت البحيرات العظيمة لأول مرة.
+7048	corpus-6-test-corpus-26-train	JED	فيه مشكلة مع الالة دي.
+7057	corpus-6-test-corpus-26-train	JED	أحتاج دكتور.
+7070	corpus-6-test-corpus-26-train	JED	كم لها في بريطانيا؟
+7081	corpus-6-test-corpus-26-train	JED	دامك تحب الفنون التجريبية، شكلك تحب لوحات الهيبيش وموسيقى الشوارع.
+7098	corpus-6-test-corpus-26-train	JED	أيش الوقت؟
+7099	corpus-6-test-corpus-26-dev	JED	حاخذ نقانق وكولا.
+7104	corpus-6-test-corpus-26-dev	JED	معاك مشغل المكامات الخارجي.
+7123	corpus-6-test-corpus-26-train	JED	تقدر تشوف المبنى الأبيض، صح؟ تراه قدام داك المبنى.
+7130	corpus-6-test-corpus-26-test	JED	من متى؟
+7137	corpus-6-test-corpus-26-test	JED	ماعندي شيء أقوله.
+7198	corpus-6-test-corpus-26-dev	JED	أيش؟ لازم تدفع الضريبة لما تشتري فوق تلاتة علب كحول؟
+7206	corpus-6-test-corpus-26-dev	JED	صاحبي تعبان مرة. ممكن تدق على طبيب، لو سمحت؟
+7227	corpus-6-test-corpus-26-test	JED	ماعرف كتير عن النبيذ، أيش الكويس للطبق دا؟
+7233	corpus-6-test-corpus-26-dev	JED	تقدر تدق عليا بالصباح، لو سمحت؟
+7248	corpus-6-test-corpus-26-dev	JED	فيه محطة بنزين بعد شارعين من هنا.
+7253	corpus-6-test-corpus-26-train	JED	الناس اليأبانية ما تأخذ أجازات طويلة.
+7264	corpus-6-test-corpus-26-train	JED	احس اني احد يطالعني. هو نادرا نشوف شخص يأباني؟
+7269	corpus-6-test-corpus-26-test	JED	اكيد لا. ليش تقول اذا؟
+7270	corpus-6-test-corpus-26-train	JED	أيت طريق هو مدخل مكتب سنترال البريدي؟
+7274	corpus-6-test-corpus-26-train	JED	فين محطة الباصات حقت قريهاوند في المدينة دي؟
+7281	corpus-6-test-corpus-26-train	JED	لكن مو المطاعم اليابانية في كيوتو غالية؟
+7289	corpus-6-test-corpus-26-train	JED	احس انه عالي بالنسبة لي.
+7291	corpus-6-test-corpus-26-test	JED	عندنا غرفة بسريرين فيها حمام بخمسة وتمانين دولار.
+7305	corpus-6-test-corpus-26-train	JED	أبا تقييم الكتاب.
+7314	corpus-6-test-corpus-26-test	JED	ابرد من السنة اللي فأتت، بس مو برد كافية عشان ينزل ثلج.
+7321	corpus-6-test-corpus-26-train	JED	فين اقدر اشتري تذكرة مترو؟
+7335	corpus-6-test-corpus-26-train	JED	حاخذ مقاعد من درجة رجال الاعمال، صح؟
+7343	corpus-6-test-corpus-26-train	JED	كم سعر التاكي من دا الفندق للمحطة؟
+7349	corpus-6-test-corpus-26-train	JED	ممكن اخذ دا ودا، لو سمحت؟
+7381	corpus-6-test-corpus-26-train	JED	يقولو ان اليأبان بلد عني مرة.
+7386	corpus-6-test-corpus-26-train	JED	فيه أي غرفة فاضية في سيارة النوم؟
+7391	corpus-6-test-corpus-26-dev	JED	ممكن ترخصه لعشرين دولار، لو سمحت؟
+7395	corpus-6-test-corpus-26-train	JED	دي هدية لصاحبي.
+7412	corpus-6-test-corpus-26-train	JED	الثلج يخلي الطريق يزحلق.
+7414	corpus-6-test-corpus-26-train	JED	مو قادر الاقي كاميرتي.
+7416	corpus-6-test-corpus-26-test	JED	بسوي كم ساندويتش بلحم خنزير.
+7438	corpus-6-test-corpus-26-train	JED	عندك شيء تقوله؟
+7439	corpus-6-test-corpus-26-train	JED	شفت أي جاكيت ازرق؟ حطيته على الكرسي انا.
+7470	corpus-6-test-corpus-26-test	JED	فيه محل زهور مقابل المجمع.
+7478	corpus-6-test-corpus-26-train	JED	انا من طوكيو.
+7479	corpus-6-test-corpus-26-train	JED	أبا كريم ريفلون حق الغسول.
+7485	corpus-6-test-corpus-26-train	JED	عندي شوية أشياء للغسيل.
+7507	corpus-6-test-corpus-26-dev	JED	طلبته من زمان.
+7533	corpus-6-test-corpus-26-dev	JED	ممكن ترسلي حمال لغرفتي على ستة الصباح؟
+7549	corpus-6-test-corpus-26-train	JED	حأخذ شوكولاته حارة.
+7550	corpus-6-test-corpus-26-train	JED	نقدر نرتب عشان ننظف غرفتك.
+7574	corpus-6-test-corpus-26-train	JED	مميز، لو سمحت.
+7583	corpus-6-test-corpus-26-train	JED	بكم الين فندق سي؟
+7612	corpus-6-test-corpus-26-test	JED	اقدر اخذ اكثر من تذكرة؟
+7622	corpus-6-test-corpus-26-train	JED	أبا احجز طاولة لشخصين على سبعة، لو سمحت.
+7626	corpus-6-test-corpus-26-train	JED	أبا كريم الليل.
+7627	corpus-6-test-corpus-26-train	JED	ممكن تغلقها كهدية؟
+7636	corpus-6-test-corpus-26-train	JED	الساعة تلاتة وربع.
+7650	corpus-6-test-corpus-26-train	JED	أبا ارسل فاتورة الضروريات حقتي اليومية، فعلمني لو سمحت العنوان واسم الشخص المسؤول.
+7656	corpus-6-test-corpus-26-test	JED	صعب علينا نهرج انجليزي بطلاقة.
+7662	corpus-6-test-corpus-26-train	JED	عندك منهم نفس التصميم بس بكعب اعلى؟
+7663	corpus-6-test-corpus-26-train	JED	أبا سترة لولد عمره عشر سنين.
+7671	corpus-6-test-corpus-26-train	JED	وديني لطريق ابي، لو سمحت.
+7684	corpus-6-test-corpus-26-dev	JED	شكراً. اهلاً، شكراً للانتظار.
+7693	corpus-6-test-corpus-26-train	JED	انا متاكد عندي حجز.
+7708	corpus-6-test-corpus-26-train	JED	حرسله لك، انتظر هنا.
+7712	corpus-6-test-corpus-26-dev	JED	احنا هنا ليوم واحد.
+7721	corpus-6-test-corpus-26-train	JED	عندي صداع خفيف.
+7736	corpus-6-test-corpus-26-train	JED	عجبتني الوجبة مرة.
+7756	corpus-6-test-corpus-26-train	JED	لا، لو سمحت اجلس وانتظر. حرجعلك.
+7761	corpus-6-test-corpus-26-test	JED	ممكن اشوف السيارة؟
+7767	corpus-6-test-corpus-26-train	JED	تقدر ترسملي خريطة، لو سمحت؟
+7789	corpus-6-test-corpus-26-test	JED	اوك، سيدي. لو سمحت خليك بغرفتك لين ما يجي الدكتور.
+7811	corpus-6-test-corpus-26-train	JED	انسرقت في شاطيء وايمانالو. لو سمحت تعال بسرعة.
+7812	corpus-6-test-corpus-26-train	JED	أيش رأيك بمية دولار؟
+7814	corpus-6-test-corpus-26-train	JED	أبا دا يتعبا.
+7831	corpus-6-test-corpus-26-train	JED	أبا اسوي أعادة اصدار.
+7834	corpus-6-test-corpus-26-train	JED	الحكومة ساعدت في تعزيز الصناعات.
+7838	corpus-6-test-corpus-26-train	JED	هو فوق الخمسين سنة، أتوقع.
+7858	corpus-6-test-corpus-26-dev	JED	كم العمر الأقل لدا الشيء؟
+7860	corpus-6-test-corpus-26-train	JED	عندك أي خريطة للمدينة دي؟
+7867	corpus-6-test-corpus-26-test	JED	اذا ممكن، ما أبا اخلع سنتي.
+7871	corpus-6-test-corpus-26-dev	JED	النتيجة ضربة وحدة واتنين برا.
+7883	corpus-6-test-corpus-26-train	JED	أيش الوقت اللي حيوصله القطار لسان دييقو، لو سمحت؟
+7913	corpus-6-test-corpus-26-train	JED	أبا اخذ نظرة على صندوقك.
+7925	corpus-6-test-corpus-26-train	JED	أبا شوية شامبو.
+7947	corpus-6-test-corpus-26-train	JED	حاقعد في فندق الهيلتون.
+7948	corpus-6-test-corpus-26-train	JED	احس اني سيء وغثيث.
+7957	corpus-6-test-corpus-26-train	JED	بس عندي موعد اني اشوفها الساعة اتنين.
+7972	corpus-6-test-corpus-26-train	JED	دي السيارة تروح لأيدنبيرة؟
+7976	corpus-6-test-corpus-26-train	JED	أيوا، عبي البيانات لو سمحت.
+7983	corpus-6-test-corpus-26-train	JED	كم حتأخذو على الوزن الزأيد؟
+7991	corpus-6-test-corpus-26-dev	JED	اسمي كيمورا. أبا الغي حجزي حق يوم الجمعة.
+7996	corpus-6-test-corpus-26-test	JED	اوه، اسف. فيه مشكلة واحنا قاعدين نحلها. ممكن تنتظر نص ساعة؟
+8039	corpus-6-test-corpus-26-train	JED	متى الوقت اللي اقدر اسوي فيه خروج؟
+8050	corpus-6-test-corpus-26-train	JED	لقيته.
+8058	corpus-6-test-corpus-26-train	JED	حتصل على واحد.
+8067	corpus-6-test-corpus-26-test	JED	تبا تدفع الحساب دحين؟
+8068	corpus-6-test-corpus-26-train	JED	السيارة جات علي من جهة التقاطع.
+8094	corpus-6-test-corpus-26-train	JED	دا صندوق الموسيقى.
+8095	corpus-6-test-corpus-26-train	JED	فين ضاحية المدينة؟
+8098	corpus-6-test-corpus-26-train	JED	فيه باص خاص لجولة حول المدينة؟
+8108	corpus-6-test-corpus-26-train	JED	متى نبدأ؟
+8114	corpus-6-test-corpus-26-train	JED	أيوا، أستاذي. بحجم متوسط نقدر نوفرلك سيارة ميركوري. كدا تمام؟
+8116	corpus-6-test-corpus-26-train	JED	عندك كدمة بضعلتك.
+8141	corpus-6-test-corpus-26-train	JED	بس اوعدني انك حتشوف الكورة، مو تشوتني. اوك؟
+8143	corpus-6-test-corpus-26-train	JED	كم باقي لسا؟
+8149	corpus-6-test-corpus-26-train	JED	ممكن اخذ شوية كتان؟
+8156	corpus-6-test-corpus-26-train	JED	أيش نوع الجلد اللي مصنوع منه الشنطة؟
+8161	corpus-6-test-corpus-26-train	JED	ما احس ان السكينة نظيفة. ممكن تجبلي وحدة تانية؟
+8164	corpus-6-test-corpus-26-train	JED	اشتريته قل شوية، بس تقدر تبدلي دا بداك؟
+8173	corpus-6-test-corpus-26-train	JED	بكل صراحة، ما اتفق.
+8177	corpus-6-test-corpus-26-train	JED	دا الطريق الصح للمحطة المركزية؟
+8183	corpus-6-test-corpus-26-train	JED	سفينة مع دليل، لو سمحت.
+8193	corpus-6-test-corpus-26-train	JED	أبا اطلب سترة لونها غامق لنفسي.
+8194	corpus-6-test-corpus-26-train	JED	المظلة حتقوم بالخبطة.
+8202	corpus-6-test-corpus-26-test	JED	لازم اسيب كل شنطي في غرفة الامانات؟
+8210	corpus-6-test-corpus-26-train	JED	لو سمحت وريني جواز سفرك.
+8227	corpus-6-test-corpus-26-train	JED	فيه أي مكان يقبل غسيل يوم الاحد؟
+8233	corpus-6-test-corpus-26-train	JED	اتنين تشيز برقر، لو سمحت.
+8234	corpus-6-test-corpus-26-train	JED	أيت باص حيروح لميامي؟
+8236	corpus-6-test-corpus-26-train	JED	بس البقشيش مو لازم.
+8248	corpus-6-test-corpus-26-train	JED	تقدر تشوف واحد في قاعة كارنيجي.
+8250	corpus-6-test-corpus-26-train	JED	انا مو معتمد.
+8271	corpus-6-test-corpus-26-train	JED	أيش تخصص البيت؟
+8280	corpus-6-test-corpus-26-train	JED	أبا اسوي موعد مع الدكتور.
+8291	corpus-6-test-corpus-26-dev	JED	محتار اذا فيه طاولة فاضية قريبة من الشباك على الساعة سبعة الليل.
+8295	corpus-6-test-corpus-26-train	JED	عادي اجي الى مكان؟
+8305	corpus-6-test-corpus-26-train	JED	بأين محتاج للتطوير.
+8316	corpus-6-test-corpus-26-train	JED	فين النفق؟
+8334	corpus-6-test-corpus-26-train	JED	عندك حجم اصغر؟
+8338	corpus-6-test-corpus-26-train	JED	فين اقدر الاقي اسبرين؟
+8342	corpus-6-test-corpus-26-train	JED	دا مستوى زفت؟
+8349	corpus-6-test-corpus-26-train	JED	بالله اعطيني أسبوع واحد اقضيه.
+8355	corpus-6-test-corpus-26-train	JED	دا زميلي.
+8358	corpus-6-test-corpus-26-train	JED	أيش نوع البنزين اللي هناك؟ ممتاز، عادي، وغير منقى؟
+8368	corpus-6-test-corpus-26-train	JED	اهو وحدة.
+8371	corpus-6-test-corpus-26-train	JED	بيصيبني برد.
+8409	corpus-6-test-corpus-26-test	JED	مقفل أيام الاثنين، بس يوم تاني عادي. أتوقع انه مفتوح من تسعة لخمسة.
+8418	corpus-6-test-corpus-26-train	JED	هو تعبان البحر بصوص خاص فوقه في صحن رز.
+8435	corpus-6-test-corpus-26-train	JED	"قال ""خلينا نحتفل"" واخذني للبار. قلي انه كان بيتصل وراح ولا رجع مرة تانية وورطني مع فاتورة كبيرة."
+8454	corpus-6-test-corpus-26-train	JED	كم سعر الجالون منه؟
+8456	corpus-6-test-corpus-26-train	JED	كان جواز سفري والكريدت كارد في شنطتي.
+8485	corpus-6-test-corpus-26-train	JED	حجز على الساعة سبعة، باسم مانو.
+8495	corpus-6-test-corpus-26-train	JED	ماحتأخذ كاسة شأي؟
+8497	corpus-6-test-corpus-26-dev	JED	ممكن تقولي كيف الاقي القنصلية اليأبانية؟
+8509	corpus-6-test-corpus-26-train	JED	فيه طبيب بالفندق ولا طبيب حسب الاتصال؟
+8516	corpus-6-test-corpus-26-train	JED	دأيم يتسوق في شارع بوند.
+8527	corpus-6-test-corpus-26-train	JED	ورقة انجليزية، لو سمحت.
+8535	corpus-6-test-corpus-26-train	JED	فيه أي مكان يشغل موسيقى ريفية؟
+8539	corpus-6-test-corpus-26-test	JED	أبا اشيك على أغراضي.
+8543	corpus-6-test-corpus-26-train	JED	فيه صوف زيادة؟
+8551	corpus-6-test-corpus-26-train	JED	كم السعر على الورقة الوحدة؟
+8574	corpus-6-test-corpus-26-train	JED	أممم، اضغط تسعة وصفر واحد واحد، بعدين رمز الدولة ورقم الجوال.
+8577	corpus-6-test-corpus-26-train	JED	ممكن مشروب غازي دأيت؟
+8584	corpus-6-test-corpus-26-train	JED	اقدر اطلب؟
+8595	corpus-6-test-corpus-26-train	JED	كانت جولة حلوة. شكراً.
+8604	corpus-6-test-corpus-26-test	JED	معليش. ممكن امر؟
+8610	corpus-6-test-corpus-26-train	JED	التعداد السكاني لليأبان تقريباً مية وتلاتين مليون.
+8618	corpus-6-test-corpus-26-train	JED	أبا استارج مظلة.
+8625	corpus-6-test-corpus-26-train	JED	أيوا، أبا اعكس الرسوم.
+8636	corpus-6-test-corpus-26-train	JED	محفظة فيها مية دولار وبطاقتين ائتمانية.
+8637	corpus-6-test-corpus-26-train	JED	الموية مرة حارة.
+8675	corpus-6-test-corpus-26-train	JED	انت هنا.
+8688	corpus-6-test-corpus-26-dev	JED	براد قهوة، لو سمحت.
+8690	corpus-6-test-corpus-26-train	JED	غير مرغوب فيه.
+8696	corpus-6-test-corpus-26-train	JED	بطني توجعني بعد الوجبات.
+8734	corpus-6-test-corpus-26-train	JED	واو، دا مكان جميل.
+8741	corpus-6-test-corpus-26-train	JED	أتوقع عنده انسداد بالهواء.
+8749	corpus-6-test-corpus-26-train	JED	قررت؟
+8788	corpus-6-test-corpus-26-train	JED	اذا تبا، نقدر نستريح هنا.
+8791	corpus-6-test-corpus-26-test	JED	ضيعت تتبع حق أيميل مسجل.
+8803	corpus-6-test-corpus-26-train	JED	ماتقدر تغير وظيفتك بسهولة.
+8805	corpus-6-test-corpus-26-train	JED	أيش المحطة الجأية؟
+8811	corpus-6-test-corpus-26-train	JED	تمام، بس مو المدرجات. مرة حر اليوم.
+8823	corpus-6-test-corpus-26-dev	JED	امشي من هنا، وحول لباص رقم ستة.
+8824	corpus-6-test-corpus-26-dev	JED	يبالي الحق على الرحلة اللي على الساعة عشرة الصباح.
+8827	corpus-6-test-corpus-26-train	JED	احس لسا أبا ارجع.
+8833	corpus-6-test-corpus-26-train	JED	مأبا أي شيء ضخم.
+8840	corpus-6-test-corpus-26-train	JED	الحساب، لو سمحت.
+8844	corpus-6-test-corpus-26-test	JED	كم سعر المشروم الطازج؟
+8850	corpus-6-test-corpus-26-train	JED	الحساب، لو سمحت. تقبلو الفيزا؟
+8851	corpus-6-test-corpus-26-train	JED	اليوم بروح اشوف كيف الحي الصيني.
+8880	corpus-6-test-corpus-26-train	JED	اتنين صفر اتنين تسعة تلاتة تسعة ستة سبعة صفر صفر.
+8900	corpus-6-test-corpus-26-train	JED	أبا اقلع سنتي.
+8905	corpus-6-test-corpus-26-train	JED	أبا شنطة فيها أدوات مكياج.
+8907	corpus-6-test-corpus-26-dev	JED	مدري كم احط كبقشيش.
+8914	corpus-6-test-corpus-26-train	JED	"فين اقدر اشوف ""وهم الاوبرا""؟"
+8915	corpus-6-test-corpus-26-train	JED	أبا اشتري ذكرى سنوية لأصحابي. ممكن تقترح بشيء؟
+8918	corpus-6-test-corpus-26-train	JED	ابطأ بزيادة، لو سمحت.
+8919	corpus-6-test-corpus-26-dev	JED	كم متوسط رسوم الفاكس شهريا؟
+8947	corpus-6-test-corpus-26-train	JED	مقلي على الجهتين، لو سمحت.
+8966	corpus-6-test-corpus-26-dev	JED	اوك، دا واضح مرة. كلكم لو سمحتو اعطوني رخصكم وتسجيلاتكم. وياابني، اسف انه لازم نسويلك اختبار التنفس.
+9011	corpus-6-test-corpus-26-train	JED	حيكون جاهز اليوم اللي بعد بكرة في المساء.
+9022	corpus-6-test-corpus-26-train	JED	دا مصنوع من القطن؟
+9029	corpus-6-test-corpus-26-dev	JED	عندي الدواء حقي.
+9034	corpus-6-test-corpus-26-train	JED	أيش اقدر اشوف في ديك الجولة؟
+9041	corpus-6-test-corpus-26-train	JED	أيوا، فيه شراب واحد اقل شيء.
+9051	corpus-6-test-corpus-26-train	JED	بكم لليوم الواحد؟
+9061	corpus-6-test-corpus-26-dev	JED	دا الباص يوقف قريب للفندق؟
+9073	corpus-6-test-corpus-26-train	JED	أبا سي دي.
+9077	corpus-6-test-corpus-26-train	JED	فيه رحلة الخطوط الجوية اليابانية و أول نيبون اللي بتقلع على عشرة وخمسة وخمسين دقيقة، بس للأسف الرحلتين كاملين.
+9094	corpus-6-test-corpus-26-train	JED	مرة مناسب عليا.
+9098	corpus-6-test-corpus-26-train	JED	ممكن طاولة لخمسة اشخاص؟
+9100	corpus-6-test-corpus-26-train	JED	ماتفهم انجليزي مرة.
+9126	corpus-6-test-corpus-26-dev	JED	لو سمحت كاش حق الشيك السياحي.
+9150	corpus-6-test-corpus-26-train	JED	ممكن تهتم فيها من تسعة الصباح لتلاتة تقريبا؟
+9160	corpus-6-test-corpus-26-train	JED	كم سعر الأيميل الجوي لليأبان؟
+9176	corpus-6-test-corpus-26-train	JED	مقفل علي. ممكن تفتح بابي، لو سمحت.
+9211	corpus-6-test-corpus-26-train	JED	أيش افضل جولة عشان اشوف افضل الأماكن المعروفة؟
+9229	corpus-6-test-corpus-26-test	JED	فيه أي مضيف يتكلم يأباني؟
+9242	corpus-6-test-corpus-26-test	JED	كم عدد الشنط اللي اقدر اجيبها للطيارة؟
+9263	corpus-6-test-corpus-26-train	JED	لا، يا سيدي. بعد الظهر مرة محجوز. لكن بكرة اوك.
+9267	corpus-6-test-corpus-26-train	JED	حسأل البواب عن الأجرة الصح.
+9303	corpus-6-test-corpus-26-train	JED	انا مرة اسف.
+9308	corpus-6-test-corpus-26-train	JED	عندنا حفلة الجمعة بالليل، ليش ما تشاركنا؟
+9312	corpus-6-test-corpus-26-train	JED	أممم، رقم غرفتك تسعة صفر تمانية، انسة، دا المفتاح.
+9316	corpus-6-test-corpus-26-dev	JED	مرة مهم انو عندنا الاذن نوصل للمواد اللي نحتاجها للمشروع.
+9324	corpus-6-test-corpus-26-train	JED	معليش، ضابط؟
+9325	corpus-6-test-corpus-26-train	JED	دا القطار يروح مباشرة على أيدينبيرة؟
+9329	corpus-6-test-corpus-26-train	JED	دا داخل حدود اللي بدون ضريبة؟
+9337	corpus-6-test-corpus-26-train	JED	خرج أغراضي، لو سمحت.
+9358	corpus-6-test-corpus-26-train	JED	قد أيش زحمة الرحلات السياحية؟
+9367	corpus-6-test-corpus-26-train	JED	أبا اشتري ذكرى سنوية. فيه أي محل مناسب قريب من هنا؟
+9372	corpus-6-test-corpus-26-train	JED	الى متى فاتح؟
+9384	corpus-6-test-corpus-26-train	JED	هوا برا دحين.
+9385	corpus-6-test-corpus-26-train	JED	مأيومي، ممكن تعبي البيانات وتوقع؟
+9431	corpus-6-test-corpus-26-train	JED	دا واحد لك، سيدي.
+9432	corpus-6-test-corpus-26-train	JED	ماعندي شنط شيك إن.
+9446	corpus-6-test-corpus-26-test	JED	اكيد، خذ وقتك.
+9450	corpus-6-test-corpus-26-train	JED	انا هنا لشغلة تغطية إعلامية.
+9463	corpus-6-test-corpus-26-train	JED	عندك أفلام للصيف؟
+9481	corpus-6-test-corpus-26-train	JED	متى القطار الجاي لواشنطن دي سي؟
+9494	corpus-6-test-corpus-26-test	JED	اللي طويل هو اللي الموضة دحين.
+9516	corpus-6-test-corpus-26-train	JED	حرجع لليأبان الاثنين الجأي.
+9526	corpus-6-test-corpus-26-train	JED	ممكن خريطة للمترو؟
+9542	corpus-6-test-corpus-26-train	JED	حتكون رحلة طويلة؟
+9560	corpus-6-test-corpus-26-train	JED	ممكن تبدل دا بواحد جديد؟
+9576	corpus-6-test-corpus-26-train	JED	شخصين.
+9579	corpus-6-test-corpus-26-test	JED	فين اقدر اشيل شنطي؟
+9581	corpus-6-test-corpus-26-train	JED	ما احس اني كويس. ممكن اتمدد على مقعدي؟
+9604	corpus-6-test-corpus-26-train	JED	حداعشر وخمسة وأربعين في الصباح.
+9605	corpus-6-test-corpus-26-train	JED	ممكن تعلمني على مطعم مشهور عند الشباب؟
+9606	corpus-6-test-corpus-26-train	JED	سيارته كانت ماشية بأقصى سرعة.
+9611	corpus-6-test-corpus-26-dev	JED	ممكن اسيب رسالة؟ قاعد ادق عشان ااكد موعدي مع مستر. أيبرت الأربعاء الجأي على حداعشر الصباح.
+9628	corpus-6-test-corpus-26-dev	JED	ممكن تشرح مرضك بالإنجليزي؟
+9634	corpus-6-test-corpus-26-test	JED	ممكن ترسل تاكسي للبوابة الرئيسية حقت سوق ويستمنستر؟
+9651	corpus-6-test-corpus-26-train	JED	كم يبالي اغير القطارات عشان أوصل هناك؟
+9657	corpus-6-test-corpus-26-train	JED	تمام؟ خليني اشيك. اوه، مرة اسف، سيدة تاكانو. دا خطأنا. اهي فاتورتك. ممكن توقعي هنا، لو سمحتي؟
+9673	corpus-6-test-corpus-26-train	JED	الباقي خمسة دولار، لو سمحت.
+9683	corpus-6-test-corpus-26-train	JED	سدادة البانيو ما تقفل تمام.
+9687	corpus-6-test-corpus-26-train	JED	دا بس عربون تقدير.
+9688	corpus-6-test-corpus-26-train	JED	ممكن تعبي البيانات؟
+9695	corpus-6-test-corpus-26-test	JED	وكيف الموديلات البلاستيكية؟
+9701	corpus-6-test-corpus-26-train	JED	أيش الماركة اللي عندك؟
+9702	corpus-6-test-corpus-26-train	JED	الكعب مرة عالي عليا.
+9710	corpus-6-test-corpus-26-test	JED	انقفل عليا.
+9730	corpus-6-test-corpus-26-train	JED	كم قعدت في باريس؟
+9732	corpus-6-test-corpus-26-train	JED	ممكن طوابع بريد لثلاثة بطأيق بريد لليأبان؟
+9746	corpus-6-test-corpus-26-train	JED	ينطق ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	JED	تبا شيء تشربه؟
+9748	corpus-6-test-corpus-26-train	JED	انسدح هنا.
+9752	corpus-6-test-corpus-26-train	JED	خليها برقية مستعجلة، لو سمحت.
+9788	corpus-6-test-corpus-26-train	JED	على حسب تقارير الطقس، حينزل ثلج بكرة.
+9792	corpus-6-test-corpus-26-train	JED	أبا كورة.
+9822	corpus-6-test-corpus-26-train	JED	اكيد، حنكون مبسوطين نسوي داك.
+9829	corpus-6-test-corpus-26-train	JED	اهلا، كتاب كوميدي ماليزي. حشتري واحد للبيتي كقطعة محادثة.
+9862	corpus-6-test-corpus-26-train	JED	"طريق النجاح هو""جينمياكو، "" صح؟"
+9866	corpus-6-test-corpus-26-dev	JED	حوصل الفندق حقك على تسعة المساء.
+9885	corpus-6-test-corpus-26-train	JED	عندي تقريباً الفين وخمسمية دولار بالين اليأباني.
+9903	corpus-6-test-corpus-26-train	JED	أيوا، طبعاً. حوريك بعضها.
+9906	corpus-6-test-corpus-26-train	JED	أبا حبوب منومة.
+9910	corpus-6-test-corpus-26-train	JED	حكون هنا لين تسعة. أتمنى انك تقبض على المجرج بسرعة.
+9945	corpus-6-test-corpus-26-train	JED	انا متاكد ان المجرم قريب.
+9948	corpus-6-test-corpus-26-train	JED	الطوابع لو سمحت.
+9949	corpus-6-test-corpus-26-train	JED	عندي الم بالحلق.
+9955	corpus-6-test-corpus-26-train	JED	أبا هدية تذكارية من نيو يورك.
+9969	corpus-6-test-corpus-26-train	JED	انا خارج. ممكن ترسل حمال؟
+9979	corpus-6-test-corpus-26-train	JED	ساعتي توقفت.
+9983	corpus-6-test-corpus-26-train	JED	اوه، كدا؟ كيف تباها؟
+10006	corpus-6-test-corpus-26-train	JED	احنا فاتحين على تسعة بالضبط في الصباح.
+10032	corpus-6-test-corpus-26-train	JED	أبا كتاب ملون.
+10037	corpus-6-test-corpus-26-train	JED	احس عندي دوار الجو.
+10043	corpus-6-test-corpus-26-train	JED	لازم اروح بنك يأباني؟
+10045	corpus-6-test-corpus-26-train	JED	يبالك تغير فلوسك في البنك.
+10065	corpus-6-test-corpus-26-train	JED	فيه وقت كافي للخروج؟
+10069	corpus-6-test-corpus-26-train	JED	زوجك واحد من افضل العملاء عندنا.
+10078	corpus-6-test-corpus-26-train	JED	تعرف أي طبيب اسنان كويس؟
+10084	corpus-6-test-corpus-26-train	JED	اوه. يبالك تعلم القنصلية دحين.
+10091	corpus-6-test-corpus-26-train	JED	مخلوط، مو مخفوق.
+10098	corpus-6-test-corpus-26-dev	JED	تبا طاولة جوا المطعم ولا في غرفة خاصة، سيدي؟
+10102	corpus-6-test-corpus-26-train	JED	ناس كتيرة تروح للشاطيء في الموسم.
+10107	corpus-6-test-corpus-26-train	JED	وزني تقريباً مية وخمسين رطل.
+10111	corpus-6-test-corpus-26-train	JED	فين يبالي احول؟
+10114	corpus-6-test-corpus-26-train	JED	فين مكتب الممتلكات الضأيعة؟
+10116	corpus-6-test-corpus-26-train	JED	فيه أي باص يودي لهناك على طول؟
+10125	corpus-6-test-corpus-26-train	JED	احتاج عنأية مميزة؟
+10129	corpus-6-test-corpus-26-train	JED	دا حيكون كاش ولا شحن؟
+10134	corpus-6-test-corpus-26-test	JED	نقلنا للبيت دا قبل سنة.
+10155	corpus-6-test-corpus-26-train	JED	كم حيأخذ عشان الفيزا حقتي يصدروها؟
+10156	corpus-6-test-corpus-26-train	JED	فين الحمام؟
+10160	corpus-6-test-corpus-26-train	JED	المبلغ كامل ميتين وتلاتة وأربعين جنيه، يا مدام.
+10164	corpus-6-test-corpus-26-train	JED	دي هدية. ممكن تغلفها بتغليف حلو؟
+10182	corpus-6-test-corpus-26-train	JED	منظر حلو. دي ممرات مشاة حلوة.
+10187	corpus-6-test-corpus-26-dev	JED	هناك ناس مصابة.
+10191	corpus-6-test-corpus-26-dev	JED	معليش، فين المحطة اللي هنا؟
+10224	corpus-6-test-corpus-26-train	JED	أيوا، عندنا حجز لك.
+10238	corpus-6-test-corpus-26-train	JED	معليش، بس أبا اروح فندقي في المدينة بالباص. فين اقدر اخذ باص؟
+10243	corpus-6-test-corpus-26-test	JED	دجاج، لو سمحت.
+10257	corpus-6-test-corpus-26-train	JED	دي غرفة اتنين صفر واحد. أبا اطلب الفطور بكرة.
+10272	corpus-6-test-corpus-26-test	JED	أيش رأيك بالتحرش الجنسي في الشغل؟
+10318	corpus-6-test-corpus-26-dev	JED	عندي اختين.
+10336	corpus-6-test-corpus-26-dev	JED	رحلة رقم اتنين صفر تمانية، لطوكيو.
+10354	corpus-6-test-corpus-26-train	JED	خلينا نخط حشوة جوا.
+10366	corpus-6-test-corpus-26-test	JED	خلينا نتجمع نتناقش في دا الموضوع.
+10372	corpus-6-test-corpus-26-train	JED	كيف تبا تسوي شعرك؟
+10403	corpus-6-test-corpus-26-train	JED	ممكن تقوله بكلمات تانية؟
+10408	corpus-6-test-corpus-26-train	JED	حسوي باللي عندك.
+10411	corpus-6-test-corpus-26-train	JED	نبا طاولة جمب المسرح.
+10416	corpus-6-test-corpus-26-train	JED	انا كويس. حتروح أي مكان؟
+10433	corpus-6-test-corpus-26-train	JED	طوله الفين واربعمية متر.
+10435	corpus-6-test-corpus-26-train	JED	ادخل، لو سمحت حطه على الطاولة هناك.
+10440	corpus-6-test-corpus-26-train	JED	لو سمحت الغي رقم بطاقتي.
+10468	corpus-6-test-corpus-26-train	JED	معليش، كلهم انباعو، بس بتكون عندنا بعد كم يوم.
+10473	corpus-6-test-corpus-26-test	JED	ممكن قهوة؟
+10477	corpus-6-test-corpus-26-train	JED	ماعندي موعد، بس هي حالة طارئة.
+10479	corpus-6-test-corpus-26-train	JED	دا مصنوع بشكل سيء.
+10480	corpus-6-test-corpus-26-train	JED	فين السلم الكهربائي؟
+10497	corpus-6-test-corpus-26-train	JED	عندك؟
+10500	corpus-6-test-corpus-26-train	JED	فين البوابة للمترو؟
+10504	corpus-6-test-corpus-26-train	JED	ضيعت تذكرة السفر.
+10559	corpus-6-test-corpus-26-train	JED	ماتقدر تقعد هنا في الأجازة؟
+10562	corpus-6-test-corpus-26-train	JED	اوه، معليش اني ازعجتك.
+10563	corpus-6-test-corpus-26-dev	JED	تقدر تسجل فعاليات؟
+10565	corpus-6-test-corpus-26-train	JED	فيه حمام عام قريب من هنا؟
+10590	corpus-6-test-corpus-26-train	JED	كم المجموع؟
+10593	corpus-6-test-corpus-26-train	JED	كدا كويس مرة. دحين للأسئلة، لو سمحت.
+10599	corpus-6-test-corpus-26-train	JED	عندكم أي فكة لعداد المواقف؟
+10617	corpus-6-test-corpus-26-test	JED	اعلى مبيعاتنا في اخر اربع سنين هو الة التصوير أيه اكس أربعمية وخمسين.
+10645	corpus-6-test-corpus-26-train	JED	الف يسار؟
+10662	corpus-6-test-corpus-26-test	JED	فيه أي مضيفه تتكلم يأباني؟
+10670	corpus-6-test-corpus-26-train	JED	سعر حلو، صح؟
+10680	corpus-6-test-corpus-26-train	JED	لازم تأخذه تسعة وتسعين مرة كل يوم، قبل الوجبة.
+10707	corpus-6-test-corpus-26-train	JED	احبه.
+10733	corpus-6-test-corpus-26-train	JED	أبا حامل الكاميرا.
+10736	corpus-6-test-corpus-26-dev	JED	أبا جاكيت رياضي.
+10749	corpus-6-test-corpus-26-dev	JED	تقدر تجلس في بيتي.
+10753	corpus-6-test-corpus-26-test	JED	ممكن امدد مقعدي، لو سمحت؟
+10756	corpus-6-test-corpus-26-train	JED	حلو. كنت ادور على تاكسي، بس دا افضل.
+10760	corpus-6-test-corpus-26-train	JED	معطف حلو. صناعة بريطانية؟
+10778	corpus-6-test-corpus-26-train	JED	أبا اروح مركز هارفرد. ممكن تقولي متى نوصل هناك؟
+10790	corpus-6-test-corpus-26-train	JED	اتنين كبار وطفلين، لو سمحت.
+10817	corpus-6-test-corpus-26-train	JED	كم السعر؟
+10824	corpus-6-test-corpus-26-train	JED	ستار وورز حقق اكبر نجاح في عام الف وتسعمية وأربعة وتمانين.
+10830	corpus-6-test-corpus-26-train	JED	فين قسم غير المدخنيين؟
+10831	corpus-6-test-corpus-26-train	JED	"دا ""ت"" زي في كلمة توم، أيوا عندي هنا، يا تارو."
+10848	corpus-6-test-corpus-26-test	JED	أتوقع انه منظر جميل.
+10851	corpus-6-test-corpus-26-test	JED	أبا شوية تفاحات، لو سمحت.
+10869	corpus-6-test-corpus-26-train	JED	لأيش دا؟
+10882	corpus-6-test-corpus-26-train	JED	أيش الكريديت كارد اللي تقبلها؟
+10922	corpus-6-test-corpus-26-train	JED	عندي وقت كتير.
+10930	corpus-6-test-corpus-26-train	JED	وقت غداء. تبا نكمل نتناقش واحنا نتغدا؟
+10937	corpus-6-test-corpus-26-dev	JED	مسجل الفيديو انسرع من غرفتي.
+10950	corpus-6-test-corpus-26-train	JED	اهلا، اسمي اودا. عندي حجز اليوم، بس حجي متأخر. فلو سمحت خلي حجزي.
+10953	corpus-6-test-corpus-26-train	JED	الجزم دي قوية؟
+10955	corpus-6-test-corpus-26-test	JED	بالله قوله اني منتظر اتصاله.
+10964	corpus-6-test-corpus-26-train	JED	يقولو ان الانلفونزا منتشرة هنا.
+10973	corpus-6-test-corpus-26-train	JED	بالداخل.
+10975	corpus-6-test-corpus-26-train	JED	معليش. احنا كاملين لليلة بكرة.
+10976	corpus-6-test-corpus-26-train	JED	انا مع أصحابي.
+10985	corpus-6-test-corpus-26-train	JED	على كلام قورو، السيد يامادا عنده طفلين.
+10994	corpus-6-test-corpus-26-dev	JED	ممكن تقول مرة تانية؟
+10997	corpus-6-test-corpus-26-train	JED	أبا الف من عند برج لندن.
+11019	corpus-6-test-corpus-26-train	JED	لو سمحت اربط حزامك.
+11027	corpus-6-test-corpus-26-test	JED	رقم المنطقة تلاتة. رقم الجوال اتنين تلاتة اربع تلاتة أربعة صفر صفر.
+11030	corpus-6-test-corpus-26-test	JED	معليش. فيه جسر قريب من هنا؟
+11041	corpus-6-test-corpus-26-dev	JED	معليش. أبا استخدم حمام.
+11046	corpus-6-test-corpus-26-train	JED	محجوز.
+11047	corpus-6-test-corpus-26-test	JED	ملابسه دأيما قديمة.
+11054	corpus-6-test-corpus-26-train	JED	عندك اكل بحري؟
+11057	corpus-6-test-corpus-26-train	JED	دا مرة غالي.
+11058	corpus-6-test-corpus-26-train	JED	نفسي، بس اسف ما حقدر اسويه دي المرة.
+11064	corpus-6-test-corpus-26-train	JED	أممم، مااعرف لسا، بس اكيد ححاول.
+11069	corpus-6-test-corpus-26-dev	JED	ملح، لو سمحت.
+11082	corpus-6-test-corpus-26-train	JED	لو سمحت استخدم غرفة القياس هناك.
+11100	corpus-6-test-corpus-26-train	JED	تسعين دولار للتذكرة ذهاب. كاش ولا بطاقة؟
+11109	corpus-6-test-corpus-26-dev	JED	ممكن تمسح الطاولة ليا، لو سمحت؟
+11123	corpus-6-test-corpus-26-train	JED	كيف يربو اليأبانين أولادهم؟ شديدين معاهم؟
+11126	corpus-6-test-corpus-26-train	JED	ممكن تعلمني بأوقات الشغل؟
+11131	corpus-6-test-corpus-26-dev	JED	لو سمحت غلفهم لوحدهم.
+11161	corpus-6-test-corpus-26-train	JED	بطني مليانة.
+11171	corpus-6-test-corpus-26-dev	JED	مرة كويس. فين نقدر ننتظرك؟
+11174	corpus-6-test-corpus-26-train	JED	نقدر نبدا نلعب لما يغلقو؟
+11190	corpus-6-test-corpus-26-train	JED	سكان اليأبان تقريباً مية وعشرين مليون.
+11197	corpus-6-test-corpus-26-train	JED	عبي البيانات في كرت التسجيل.
+11199	corpus-6-test-corpus-26-train	JED	ممكن ترجع أشيائي؟
+11240	corpus-6-test-corpus-26-train	JED	عندك طرحة حرير؟ ادور على هدية لزوجتي.
+11246	corpus-6-test-corpus-26-train	JED	حنجيبها دحين. كم رقم غرفتك؟
+11264	corpus-6-test-corpus-26-test	JED	مستر كوبأيشي قاعد ينتظرك.
+11267	corpus-6-test-corpus-26-train	JED	أبا اسافر من شنقهأي لهواوي بالسفينة.
+11278	corpus-6-test-corpus-26-test	JED	تقدر ترسل احد؟
+11282	corpus-6-test-corpus-26-train	JED	ممكن تغلقها بكرة الساعة خمسة المساء؟
+11302	corpus-6-test-corpus-26-train	JED	عشر دقأيق بالرجول.
+11316	corpus-6-test-corpus-26-train	JED	قبل ما نسميه يوم، ممكن تعطيني دقأيق؟
+11325	corpus-6-test-corpus-26-dev	JED	فين اقدر أوقف سيارتي؟
+11336	corpus-6-test-corpus-26-dev	JED	احس بقشعريرة وبطني يوجعني مرة.
+11342	corpus-6-test-corpus-26-train	JED	سكوتش وموية، لو سمحت. وعندك شيء انقنق عليه؟
+11343	corpus-6-test-corpus-26-train	JED	كيف اقدر اقفل الانوار؟
+11360	corpus-6-test-corpus-26-train	JED	هوا مشغول مرة اليوم؟
+11374	corpus-6-test-corpus-26-train	JED	أبا خيط.
+11375	corpus-6-test-corpus-26-train	JED	اديني عذر طبي، لو سمحت.
+11378	corpus-6-test-corpus-26-train	JED	أباك تخليها انش واحد اصغر.
+11392	corpus-6-test-corpus-26-train	JED	مااحس اني كويس. لو سمحت اديني دواء.
+11403	corpus-6-test-corpus-26-train	JED	ممكن جريدة يأبانية، لو سمحت؟
+11404	corpus-6-test-corpus-26-train	JED	تمام. اقدر أوقف السيارة أي مكان؟ وكم رسوم التوقيف؟
+11412	corpus-6-test-corpus-26-train	JED	أيت باص يروح لمركز المدينة؟
+11420	corpus-6-test-corpus-26-train	JED	فيه أكسبريس لبوسطن؟
+11435	corpus-6-test-corpus-26-train	JED	لو سمحت خليك صديقي اللي نتراسل.
+11438	corpus-6-test-corpus-26-dev	JED	انا رأيح اقعد مع صاحبي.
+11442	corpus-6-test-corpus-26-train	JED	مرة متحمس، مو قادر اقعد.
+11449	corpus-6-test-corpus-26-train	JED	اقدر انزل عند فندق الهيلتون؟
+11450	corpus-6-test-corpus-26-train	JED	أبا امسحه.
+11457	corpus-6-test-corpus-26-train	JED	روح يسار من عند الشارع دا وخذ اول يمين.
+11462	corpus-6-test-corpus-26-train	JED	أبا اعرف اذا ممكن اخذ دي الاطباق مشحونة الى طوكيو.
+11467	corpus-6-test-corpus-26-train	JED	أبا قوة جسدية.
+11478	corpus-6-test-corpus-26-train	JED	فيه أي اكل غير انه يكون حار؟
+11479	corpus-6-test-corpus-26-train	JED	مرة قريب انو نمشيله؟
+11491	corpus-6-test-corpus-26-dev	JED	أبا كريم يد.
+11493	corpus-6-test-corpus-26-train	JED	ممكن تعطيني الملح؟
+11500	corpus-6-test-corpus-26-train	JED	أبا اروح الى وول ستريت. كيف اقدر أوصل هناك؟
+11541	corpus-6-test-corpus-26-train	JED	التمارين الكثيرة حتضرك.
+11544	corpus-6-test-corpus-26-train	JED	مع الفطور، والضريبة، ورسوم الخدمة، حيكون بخمسة وأربعين لكل شخص لليلة وحدة.
+11550	corpus-6-test-corpus-26-train	JED	ممكن تصلح دا؟
+11574	corpus-6-test-corpus-26-train	JED	مساء الخير. اهلا.
+11576	corpus-6-test-corpus-26-train	JED	مو قادر الاقي شنطك.
+11595	corpus-6-test-corpus-26-train	JED	امشي قدام، لو سمحت.
+11600	corpus-6-test-corpus-26-train	JED	الموية هنا امنة اني اشربها؟
+11622	corpus-6-test-corpus-26-train	JED	ااه، هيا. دولارين بس.
+11626	corpus-6-test-corpus-26-train	JED	ممكن لو سمحت تبدل اللبس دا لمقاس اكبر؟
+11631	corpus-6-test-corpus-26-train	JED	أممم، يلا. اقدر اساعدك بواجباتك بعد ما ناكل بيتزا.
+11633	corpus-6-test-corpus-26-train	JED	أيوا، سيد. تاناكا. فيه رسالتين لك.
+11643	corpus-6-test-corpus-26-train	JED	مأيناسبني.
+11646	corpus-6-test-corpus-26-train	JED	بكرة يوم تاني.
+11663	corpus-6-test-corpus-26-train	JED	ممكن اقدر اساعدك. تبا فيتامين سي؟
+11689	corpus-6-test-corpus-26-train	JED	محظفتي انسرقت في القطار.
+11704	corpus-6-test-corpus-26-train	JED	مرة بعيد. احسن تأخذ تاكسي.
+11708	corpus-6-test-corpus-26-train	JED	أبا مقعد على الممر، لو سمحت.
+11709	corpus-6-test-corpus-26-train	JED	أعيش بشقة سعرها تمانين الف ين بالشهر.
+11714	corpus-6-test-corpus-26-train	JED	ممكن اقاطع؟
+11720	corpus-6-test-corpus-26-dev	JED	وريني واحد أوسع.
+11734	corpus-6-test-corpus-26-train	JED	معليش، تمانع اذا تغير الكراسي معأيا؟
+11746	corpus-6-test-corpus-26-train	JED	أيوا، طبعاً.
+11751	corpus-6-test-corpus-26-train	JED	روح للزاوية بعدين لف يسار من عند الأشارة.
+11754	corpus-6-test-corpus-26-dev	JED	تبا بكرات اصغر ولا اكبر؟
+11767	corpus-6-test-corpus-26-test	JED	أبا غرفة بسرير واحد بحمام بتمانين دولار، لو سمحت.
+11800	corpus-6-test-corpus-26-train	JED	أبا اودع أشياء الغالية حقي في خزنة الفندق.
+11817	corpus-6-test-corpus-26-dev	JED	عندك غرفة فاضية اليوم؟
+11821	corpus-6-test-corpus-26-train	JED	أيوا، بس تاكد ان التذكرة معاك.
+11862	corpus-6-test-corpus-26-train	JED	شوية ناس بس حيسووا الجولة الأختيارية.
+11872	corpus-6-test-corpus-26-train	JED	خلاص انسى. على كل حال، لو سمحت خذني الى وسط الحي الصيني. حكتشفها بنفسي.
+11879	corpus-6-test-corpus-26-train	JED	ناس جدد يتوظفو في ابريل.
+11880	corpus-6-test-corpus-26-train	JED	أتمنى.
+11885	corpus-6-test-corpus-26-train	JED	اتنين سكوتش وموية، لو سمحت.
+11901	corpus-6-test-corpus-26-train	JED	مين يلعب؟
+11913	corpus-6-test-corpus-26-dev	JED	ممكن تدق عليا اذا لقيت شنطتي؟
+11916	corpus-6-test-corpus-26-train	JED	لليسار، لو سمحت.
+11932	corpus-6-test-corpus-26-test	JED	ممكن تجي جمبي تتصور معأيا؟
+11938	corpus-6-test-corpus-26-dev	JED	لا. تبا تبلغ عنه؟
+11949	corpus-6-test-corpus-26-train	JED	السن دا اللي قدام يوجعني.
+11959	corpus-6-test-corpus-26-train	JED	أيش اخر لعبة كمبيوتر لشخص عمره خمسطعشر سنة؟
+11972	corpus-6-test-corpus-26-train	JED	حنشوف بكرة.
+11973	corpus-6-test-corpus-26-test	JED	فيه مطعم ارخص قريب من هنا؟
+11975	corpus-6-test-corpus-26-train	JED	لا، بس شكرا. احس اني افضل.
+11976	corpus-6-test-corpus-26-train	JED	عندك عيش؟
+11977	corpus-6-test-corpus-26-train	JED	قد أيش انت كويس بالكمان؟
+11990	corpus-6-test-corpus-26-train	JED	صاحبي اتزحلق وطاح في الحمام.
+11991	corpus-6-test-corpus-26-train	JED	ممكن طفأية دخان؟
+11997	corpus-6-test-corpus-26-train	JED	المسيحية انحظرت والبلد كان مقفل للعالم.
+12005	corpus-6-test-corpus-26-train	JED	بكم تباها؟
+12012	corpus-6-test-corpus-26-train	JED	كوكتيل قمبري لها وكمان واحد لي.
+12033	corpus-6-test-corpus-26-train	JED	ممكن توقيعك هنا؟ وكمان وقع هنا.
+12035	corpus-6-test-corpus-26-train	JED	مرة شرف لي اني زرت مكتاتبك الرئيسية نقاش ثري معاك. شكرا مرة على تعاونك.
+12054	corpus-6-test-corpus-26-train	JED	شخيرك مزعج.
+12056	corpus-6-test-corpus-26-train	JED	ما عجبني اللون مرة. اقدر ارجعه؟
+12057	corpus-6-test-corpus-26-dev	JED	اطلع من داك الباب، واستنى في المحطة رقم ستة.
+12060	corpus-6-test-corpus-26-dev	JED	دجاج مشوي، لو سمحت.
+12069	corpus-6-test-corpus-26-train	JED	ممكن اخذ فلفل اسود؟
+12074	corpus-6-test-corpus-26-test	JED	أيوا، أبا شيء اقراه.
+12101	corpus-6-test-corpus-26-train	JED	معاك سيد تاكاهاشي غرفة رقم خمسة وتسعة وأربعين. ممكن ترسل فوق أربع علب بيرة بودوايزر، لو سمحت؟
+12131	corpus-6-test-corpus-26-train	JED	دي سبعين دولار.
+12140	corpus-6-test-corpus-26-train	JED	باللهي اتصل على فندقي اذا لقيت شنطي.
+12150	corpus-6-test-corpus-26-train	JED	أبا مكالمة بكرة الصباح على الساعة تمانية ونص، لو سمحت.
+12167	corpus-6-test-corpus-26-train	JED	أيوا، بس دا مرة كتير وانا مرة شبعان.
+12172	corpus-6-test-corpus-26-train	JED	أبا غسيل الفم.
+12173	corpus-6-test-corpus-26-train	JED	ما احس اني كويس.
+12182	corpus-6-test-corpus-26-train	JED	فيه أي تخفيض كبير؟
+12193	corpus-6-test-corpus-26-train	JED	طوكيو صفر تلاتة أربع تسعات أربعة خمسة ستة سبعة.
+12240	corpus-6-test-corpus-26-train	JED	ممكن تساعدني الاقي حديقة الحيوانات؟
+12246	corpus-6-test-corpus-26-train	JED	ممكن تقلي كيف ازبطه؟
+12247	corpus-6-test-corpus-26-train	JED	متى تقريباً جولة الباص تغلق؟
+12254	corpus-6-test-corpus-26-train	JED	تعرف كيف تستخدم تلفون؟
+12259	corpus-6-test-corpus-26-train	JED	اكيد، عندنا شوية علامات للكتب جميلة أمريكية اصلية.
+12298	corpus-6-test-corpus-26-train	JED	مشغل مكالمات يتكلم يأباني، لو سمحت.
+12331	corpus-6-test-corpus-26-train	JED	احنا مهتمين بالأزياء.
+12333	corpus-6-test-corpus-26-train	JED	ممكن تعطيني سطحة؟
+12345	corpus-6-test-corpus-26-train	JED	دي عيادة اف؟
+12364	corpus-6-test-corpus-26-train	JED	اهلا، انسة ياماقوتشي؟ الطرف الثاني على الخط. اتصالك انقبل. تفضلي، لو سمحتي.
+12391	corpus-6-test-corpus-26-test	JED	كيف اقدر اشتري كوبون لتذكرة المصعد؟
+12396	corpus-6-test-corpus-26-train	JED	متى حنوصل لوس انجلوس؟
+12403	corpus-6-test-corpus-26-train	JED	امشي سيدا خمس دقأيق، بعدين لف يسار.
+12416	corpus-6-test-corpus-26-train	JED	هناك باتجاه الشاطيء.
+12420	corpus-6-test-corpus-26-train	JED	شاهي العشب يساعد بتجديد الجسم.
+12421	corpus-6-test-corpus-26-train	JED	دولا مو مصنوعين باليأبان، صح؟
+12443	corpus-6-test-corpus-26-train	JED	تمام. من هنا لو سمحت. حوريك غرفتك.
+12479	corpus-6-test-corpus-26-train	JED	لازم امشي من الفندق قبل المساء.
+12495	corpus-6-test-corpus-26-train	JED	اثنين همبرقر واثنين قهوة، لو سمحت. أباهم سفري.
+12510	corpus-6-test-corpus-26-train	JED	اقدر اشيل الشنطتين دولا؟
+12527	corpus-6-test-corpus-26-train	JED	طلبت لحم، مو سمك. ممكن تغير؟
+12546	corpus-6-test-corpus-26-train	JED	طفلي مرة تعبان.
+12551	corpus-6-test-corpus-26-train	JED	مريض مرة لين بطني.
+12556	corpus-6-test-corpus-26-train	JED	الجاكيت دا مو مقاسي.
+12557	corpus-6-test-corpus-26-train	JED	أبا اقابل السيد ويليام.
+12560	corpus-6-test-corpus-26-train	JED	فيها مجموعة من سبعة فيتامينات ومعادن.
+12562	corpus-6-test-corpus-26-test	JED	السن مهلهل.
+12589	corpus-6-test-corpus-26-train	JED	ممكن ارجع فلوسي لما ارجع لليأبان؟
+12599	corpus-6-test-corpus-26-train	JED	من أيش مصنوع الطبق دا؟
+12603	corpus-6-test-corpus-26-train	JED	أيش البلد اللي صنع دا؟
+12608	corpus-6-test-corpus-26-train	JED	ممكن تسويه بعشر دقأيق؟
+12611	corpus-6-test-corpus-26-dev	JED	انا مو كويس بالإنجليزي. فيه احد هنا يتكلم يأباني؟
+12615	corpus-6-test-corpus-26-train	JED	فين اقدر اشتري تذكرة مترو؟
+12638	corpus-6-test-corpus-26-train	JED	عشرين عينة زيادة حتنرسل لك.
+12644	corpus-6-test-corpus-26-train	JED	ما أتوقع دا لي عشان بشرتي جافة.
+12650	corpus-6-test-corpus-26-train	JED	ممكن المواعيد، لو سمحت؟
+12658	corpus-6-test-corpus-26-dev	JED	أيوا، أتوقع اني حنتظر.
+12671	corpus-6-test-corpus-26-train	JED	تسعة وتسعين دولا بالساعة لكل طفل.
+12672	corpus-6-test-corpus-26-train	JED	معليش، بس انباعت.
+12677	corpus-6-test-corpus-26-train	JED	لازم يكون هادئ.
+12678	corpus-6-test-corpus-26-dev	JED	عندي أدواتي.
+12679	corpus-6-test-corpus-26-train	JED	مفتاح غرفة خمسة صفر تلاتة، لو سمحت.
+12699	corpus-6-test-corpus-26-test	JED	أي وقت ينعرض تيرمنال مان؟
+12701	corpus-6-test-corpus-26-train	JED	فين صالون الشعر؟
+12708	corpus-6-test-corpus-26-train	JED	سبعة بالضبط، لو سمحت.
+12712	corpus-6-test-corpus-26-train	JED	شنطتي تلفت.
+12713	corpus-6-test-corpus-26-train	JED	سياحة.
+12732	corpus-6-test-corpus-26-train	JED	انا من اسبانيا.
+12750	corpus-6-test-corpus-26-dev	JED	فيه مشكلة مع البطاقة دي. ممكن تبدلي هو بواحد تاني، لو سمحت؟
+12755	corpus-6-test-corpus-26-dev	JED	عندي طفح جلدي بيديني.
+12761	corpus-6-test-corpus-26-train	JED	ارسل دي بالبريد الجوي لليأبان، لو سمحت.
+12766	corpus-6-test-corpus-26-test	JED	فين اقرب صيدلي؟
+12770	corpus-6-test-corpus-26-dev	JED	نبيذ تاني، لو سمحت.
+12773	corpus-6-test-corpus-26-train	JED	الناس مرة حبوبين.
+12776	corpus-6-test-corpus-26-test	JED	كم عدد المشروبات اللي داخلة بالسعر؟
+12777	corpus-6-test-corpus-26-test	JED	سويتها.
+12782	corpus-6-test-corpus-26-train	JED	فين مكان بوابة الصعود للرحلة دي؟
+12790	corpus-6-test-corpus-26-test	JED	اذا فيه وحدة فاضية، تقدر تحجزلي طاولة جمب الطاقة؟
+12805	corpus-6-test-corpus-26-dev	JED	اعلنو عن الصعود؟
+12810	corpus-6-test-corpus-26-train	JED	احنا على ارتفاع اثناعشر الف قدم.
+12820	corpus-6-test-corpus-26-train	JED	اول، نبا نشوف وول ستريت.
+12822	corpus-6-test-corpus-26-train	JED	فين يوقف الباص لأكسفورد؟
+12823	corpus-6-test-corpus-26-train	JED	حنتظر لين البلكونة تفضى.
+12835	corpus-6-test-corpus-26-train	JED	ممكن نشوف محافظ جلود؟
+12861	corpus-6-test-corpus-26-dev	JED	خلينا نتابع التلفزون. فيه مباراة بيسبول.
+12878	corpus-6-test-corpus-26-train	JED	ممكن تكتب عنوان التواصل حقك هنا؟
+12884	corpus-6-test-corpus-26-train	JED	لو سمحت قلي فين اقرب صيدلية هنا.
+12903	corpus-6-test-corpus-26-train	JED	للفندق حقي، لو سمحت. عنوان فندقي هنا.
+12905	corpus-6-test-corpus-26-dev	JED	كم عدد المحافظات مع طوكيو؟
+12917	corpus-6-test-corpus-26-train	JED	قفل وانتظر لفترة لو سمحت.
+12936	corpus-6-test-corpus-26-train	JED	أيش عادة تسوي بالبيت بعد العشاء؟
+12941	corpus-6-test-corpus-26-train	JED	اكيد، متى تبا نلعب قولف؟
+12945	corpus-6-test-corpus-26-train	JED	حتكون بالبيت قريب الساعة تلاتة.
+12952	corpus-6-test-corpus-26-train	JED	أبا اتصل على السفارة اليأبانية.
+12968	corpus-6-test-corpus-26-train	JED	زيادة شوية.
+12969	corpus-6-test-corpus-26-train	JED	من وين يروحو الباصات السياحية؟
+12973	corpus-6-test-corpus-26-train	JED	كم تأخذ عشان ارسلهم لليأبان؟
+12976	corpus-6-test-corpus-26-dev	JED	ما عندي مضرب ولا جزمة.
+13015	corpus-6-test-corpus-26-train	JED	الين اليأباني عادي؟
+13022	corpus-6-test-corpus-26-train	JED	عندك موستنق؟
+13027	corpus-6-test-corpus-26-train	JED	احنا حنقفز من هنا؟
+13069	corpus-6-test-corpus-26-train	JED	سيد كاواي، عندنا طاولة لك. تعال من هنا، لو سمحت.
+13072	corpus-6-test-corpus-26-train	JED	اكيد. انزل مع الدرج لهناك وحتشوف الاتجاهات. امشي معاهم.
+13075	corpus-6-test-corpus-26-dev	JED	الاستقبال. كيف اقدر اساعدك؟
+13076	corpus-6-test-corpus-26-train	JED	ممكن تنزلي عند فندق الهيلتون، لو سمحت؟
+13077	corpus-6-test-corpus-26-dev	JED	لازم تشتغل متأخر؟
+13090	corpus-6-test-corpus-26-dev	JED	اسفين مرة، ماعندنا زيادة. أيش رأيك بأوراق انجليزية؟
+13095	corpus-6-test-corpus-26-train	JED	طاولة بدون تدخين، لو سمحت.
+13096	corpus-6-test-corpus-26-train	JED	ممكن تعلمني قبل ما نوصل دورهام؟
+13113	corpus-6-test-corpus-26-test	JED	دا طازج؟
+13116	corpus-6-test-corpus-26-train	JED	دا مو صح. انت دائما تعالجني.
+13118	corpus-6-test-corpus-26-dev	JED	ممكن توريني ملابس؟
+13126	corpus-6-test-corpus-26-train	JED	تهجاها لو سمحت.
+13133	corpus-6-test-corpus-26-train	JED	قاعد اسكر من النبيذ.
+13134	corpus-6-test-corpus-26-train	JED	انتبه للجو لانه يتغير في الجبال.
+13159	corpus-6-test-corpus-26-train	JED	شيك سياحي وين يأباني، اوك؟
+13162	corpus-6-test-corpus-26-train	JED	اسف، شيكت مع الاثنين خدمة الغرف وقسم المفقودات. بس ما عندهم.
+13172	corpus-6-test-corpus-26-train	JED	مكان صعب تلاقيه. في شارع صغير جمب الطريق السريع الأساسي.
+13183	corpus-6-test-corpus-26-train	JED	مااعرف ولا شيء عنه.
+13184	corpus-6-test-corpus-26-train	JED	نقدر نتكلم عنه في قهوة.
+13188	corpus-6-test-corpus-26-train	JED	اها، في دي الحالة مو لازم ادفع الرسوم التانية، صح؟
+13202	corpus-6-test-corpus-26-train	JED	مشغل المكالمات، لو سمحت.
+13262	corpus-6-test-corpus-26-train	JED	ممكن تنزل مقعد الحصان، لو سمحت؟
+13264	corpus-6-test-corpus-26-dev	JED	تبا تقيم معاي الليلة؟
+13267	corpus-6-test-corpus-26-train	JED	اوك. حاخذ اتنين بس. شكرا.
+13268	corpus-6-test-corpus-26-train	JED	اهي فاتورتك. تراها تلتمية وسبعة وتسعين دولار.
+13269	corpus-6-test-corpus-26-train	JED	انتا محظوظ.
+13287	corpus-6-test-corpus-26-train	JED	لو سمحت هليا طاولة تطل على مكان حلو.
+13290	corpus-6-test-corpus-26-train	JED	دي صناعة الة ولا صناعة يدوية؟
+13291	corpus-6-test-corpus-26-train	JED	أبا استاجر دا النوع من السيارات لاربع وعشرين ساعة.
+13306	corpus-6-test-corpus-26-train	JED	مرة كان شيء جميل اني قابلتك.
+13322	corpus-6-test-corpus-26-train	JED	مشقق.
+13333	corpus-6-test-corpus-26-dev	JED	ودحين، خلينا ناخذ نطرة عليك.
+13347	corpus-6-test-corpus-26-train	JED	تمام، تخيل قد ايش بيصير دوامه اطول لو سأل كل شخص سؤال اضافي؟ هيا، عجل باقي شنطنا. لازم نسوي الاجراءات الجمركية.
+13396	corpus-6-test-corpus-26-train	JED	كم الوزن؟
+13399	corpus-6-test-corpus-26-train	JED	فيه مطعم صيني قريب من هنا؟
+13407	corpus-6-test-corpus-26-train	JED	المنصة الخامسة هناك.
+13408	corpus-6-test-corpus-26-train	JED	تى تبدا المباراة؟
+13423	corpus-6-test-corpus-26-dev	JED	ماهي مرتبة. ممكن شيك على كاميرتي؟
+13424	corpus-6-test-corpus-26-test	JED	قهوة بالكريمة والسكر، لو سمحت.
+13436	corpus-6-test-corpus-26-train	JED	احس فيه غلط في الفاتورة.
+13438	corpus-6-test-corpus-26-train	JED	لو سمحت اعطيني داك الشيء.
+13440	corpus-6-test-corpus-26-train	JED	تراها بوابة سبعة.
+13444	corpus-6-test-corpus-26-train	JED	انتا اسكتلندي؟
+13446	corpus-6-test-corpus-26-train	JED	تلات-اتنين-واحد-اتنين. انتظر لحظة، اوك؟ أبا ارسلك شيء هنا. ممكن.
+13471	corpus-6-test-corpus-26-test	JED	مية وخمسة وتلاتين ين لكل دولار.
+13476	corpus-6-test-corpus-26-train	JED	التنانير القصيرة مع البوتات مستحيل تنتهي موضتها.
+13477	corpus-6-test-corpus-26-train	JED	ممكن اكلم المدير؟
+13480	corpus-6-test-corpus-26-train	JED	ليش الرسوم مختلفة عن العداد؟
+13484	corpus-6-test-corpus-26-train	JED	ممكن اشوف دا الشيء؟
+13487	corpus-6-test-corpus-26-train	JED	حلفت ان لو شفتك، حتعرف عليك.
+13488	corpus-6-test-corpus-26-train	JED	أيش الأخبار؟
+13492	corpus-6-test-corpus-26-train	JED	ما احس اني كويس. ممكن تقترحلي على دكتور؟
+13504	corpus-6-test-corpus-26-train	JED	الطرف الثاني على الخط. تفضل.
+13515	corpus-6-test-corpus-26-train	JED	فيه برنامج ترفيهي؟
+13528	corpus-6-test-corpus-26-dev	JED	الحمام ما يسحب السيفون.
+13532	corpus-6-test-corpus-26-dev	JED	كم يأخذ مشي من هنا لين سيتي هول؟
+13547	corpus-6-test-corpus-26-train	JED	خذ الدواء بعد كل وجبة لما يوجعك مرة.
+13550	corpus-6-test-corpus-26-train	JED	انت حط فلوسك في ظرف مزخرف يسموه حقيبة اجتماعية.
+13553	corpus-6-test-corpus-26-train	JED	فيه واحد مصاب.
+13609	corpus-6-test-corpus-26-test	JED	مدري أيش ممكن اجبله؟
+13624	corpus-6-test-corpus-26-train	JED	عندك خريطة للمترو؟
+13629	corpus-6-test-corpus-26-train	JED	عندي لك غرفة فاضية لك في فندق قراند. تقدر تروح هناك؟
+13635	corpus-6-test-corpus-26-train	JED	عندي الم في عيني اليمين.
+13657	corpus-6-test-corpus-26-train	JED	انا مو مرة كويس في الألماني.
+13660	corpus-6-test-corpus-26-train	JED	لازم نخرج مع بعض مرة تانية.
+13666	corpus-6-test-corpus-26-train	JED	ممكن تضيق البنطلون دا؟
+13682	corpus-6-test-corpus-26-train	JED	ممكن استعير مضرب وكور؟
+13685	corpus-6-test-corpus-26-test	JED	ممكن تضيف شوية فكة؟
+13694	corpus-6-test-corpus-26-train	JED	ممكن اخذ نص قنينة؟
+13707	corpus-6-test-corpus-26-train	JED	هلا، انا جن.
+13717	corpus-6-test-corpus-26-train	JED	ناكأي.
+13719	corpus-6-test-corpus-26-train	JED	تمانع لو اخذ صورة لك وللتاكسي حقك؟
+13733	corpus-6-test-corpus-26-train	JED	اتصلت عشان شنطة مسروقة قبل تلاتة أيام.
+13748	corpus-6-test-corpus-26-test	JED	أبا فندق ارخص.
+13755	corpus-6-test-corpus-26-dev	JED	اوه، فيه أشياء كتيرة لازم تشوفها في قريبة قرينوتش.
+13769	corpus-6-test-corpus-26-train	JED	اوه اعمال. عندي اتصالات مع الاعمال هناك.
+13783	corpus-6-test-corpus-26-train	JED	لأيقة على بدلتك.
+13784	corpus-6-test-corpus-26-train	JED	ممكن تراقب محفظتي؟
+13788	corpus-6-test-corpus-26-train	JED	كيف عجبتك الفكرة؟ نقبل شرطك حق الستة شهور مع موافقه في الحق انه نبيعه لستة شهور حتى بعد انهاء العقد.
+13803	corpus-6-test-corpus-26-train	JED	معليش. تعرف نيو يوك كويس؟
+13824	corpus-6-test-corpus-26-test	JED	حننتظر. لو سمحت دق علينا لما تجهز.
+13827	corpus-6-test-corpus-26-train	JED	أبا اشوف جراح.
+13828	corpus-6-test-corpus-26-dev	JED	دي مكونات طبيعية؟
+13831	corpus-6-test-corpus-26-train	JED	أبا اركب سيارة رياضية.
+13843	corpus-6-test-corpus-26-train	JED	رمز المنطقة صفر تلاتة. الرقم تلاتة واحد اتنين تلاتة أربعة خمسة ستة سبعة.
+13854	corpus-6-test-corpus-26-train	JED	اصابه برد.
+13856	corpus-6-test-corpus-26-test	JED	السيارة الصغيرة حتكون افضل.
+13862	corpus-6-test-corpus-26-train	JED	أبا أرسله بالتوصيل العادي.
+13903	corpus-6-test-corpus-26-train	JED	خليني احول المكالة دي للشخص المسؤول.
+13913	corpus-6-test-corpus-26-train	JED	كم المقاس اللي تباه؟
+13919	corpus-6-test-corpus-26-train	JED	اوه، ياشيخ. ما عرفت انه عندي دولا.
+13920	corpus-6-test-corpus-26-train	JED	عندك صنأديق عشان ارسل شحنات؟
+13921	corpus-6-test-corpus-26-train	JED	الخطوط حتدفع رسوم الفندق والاكل؟
+13938	corpus-6-test-corpus-26-train	JED	كل دي شنطك؟
+13942	corpus-6-test-corpus-26-train	JED	كيف تبا تسوي اتصالك؟
+13946	corpus-6-test-corpus-26-train	JED	أممم، مرة غالية. ما صنعت في اليأبان، صح؟
+13953	corpus-6-test-corpus-26-train	JED	ممكن تعطيني الملح؟
+13966	corpus-6-test-corpus-26-train	JED	فين اقرب مطعم من دا الفندق؟
+13993	corpus-6-test-corpus-26-train	JED	أبا شامبو للشعر العادي.
+14008	corpus-6-test-corpus-26-train	JED	متى تتوقع حيلاقوها؟
+14014	corpus-6-test-corpus-26-train	JED	اتمنالك سنة جديدة سعيدة.
+14018	corpus-6-test-corpus-26-train	JED	أبا سبرأيت كبير.
+14043	corpus-6-test-corpus-26-test	JED	لو سمحت قوله مرة تانية ببطء اكثر.
+14045	corpus-6-test-corpus-26-train	JED	لو سمحت، أبا اطلب.
+14059	corpus-6-test-corpus-26-test	JED	عندنا قمبري نيوبيرق ورجل خروف مشوي.
+14069	corpus-6-test-corpus-26-train	JED	أبا غرفة فيها ديكور حلو.
+14074	corpus-6-test-corpus-26-train	JED	تلاتة كاسات عصير حبحب، لو سمحت.
+14086	corpus-6-test-corpus-26-train	JED	عندي تلاتة أطفال.
+14088	corpus-6-test-corpus-26-train	JED	امشي سيدا لأخر القاعدة ولف يسار من عند الكورنر. حتشوفه هناك على يمين.
+14089	corpus-6-test-corpus-26-dev	JED	دي رحلة يوم كامل؟
+14094	corpus-6-test-corpus-26-train	JED	كم حتكلف تذكرة ذهاب وعودة لأكسفورد؟
+14098	corpus-6-test-corpus-26-train	JED	اروح نادي رياضي كل يومين.
+14099	corpus-6-test-corpus-26-train	JED	فين اقدر اقعد خلال الرحلة السياحية؟
+14104	corpus-6-test-corpus-26-train	JED	متى وقت الخروج؟
+14108	corpus-6-test-corpus-26-train	JED	كم سعر المرشد السياحي لليوم؟
+14120	corpus-6-test-corpus-26-train	JED	فين اقدر الاقي سيديات؟
+14147	corpus-6-test-corpus-26-train	JED	معليش. انا طالب من اليأبان. انت طالب من نيويورك؟
+14150	corpus-6-test-corpus-26-train	JED	ممكن تقولنا كيف ججبت الخطة جي؟
+14167	corpus-6-test-corpus-26-train	JED	اكي، تعرف أي محل تسجيل قريب من هنا؟
+14168	corpus-6-test-corpus-26-train	JED	كاش ولا شحن؟
+14174	corpus-6-test-corpus-26-train	JED	انا اشتغل في شركة تجارية.
+14175	corpus-6-test-corpus-26-train	JED	مو حلو انك تسال الناس كم راتبهم.
+14184	corpus-6-test-corpus-26-train	JED	دي ليفايز خمسمية وواحد أصلية؟
+14195	corpus-6-test-corpus-26-train	JED	متى اقدر اخذ حمام؟
+14198	corpus-6-test-corpus-26-train	JED	شكلك مو فوق العشرين.
+14219	corpus-6-test-corpus-26-train	JED	اها. صراحة، فيه فيلم سرعات عالية. تمانع لو اطلعه؟
+14224	corpus-6-test-corpus-26-train	JED	اشتريته دحين.
+14232	corpus-6-test-corpus-26-train	JED	حجيب واحد دحين.
+14235	corpus-6-test-corpus-26-train	JED	تمانية دولار. واهي يجيك واحد دحين.
+14242	corpus-6-test-corpus-26-train	JED	لو سمحت اظهرها مع البضأيع اللي اشتريتها لجمارك المطار.
+14261	corpus-6-test-corpus-26-train	JED	في أي متاجر متنوعها فيها تخفيضات؟
+14265	corpus-6-test-corpus-26-train	JED	مشغل المكالمات، حولني على تلفون المطافي.
+14266	corpus-6-test-corpus-26-train	JED	بطاريتي غلقت.
+14289	corpus-6-test-corpus-26-train	JED	وقف عند التقاطع الجأي.
+14292	corpus-6-test-corpus-26-train	JED	اوه، اهو. لازم كل شخص يعبي نموذج الإعلان الجمركي هذا؟
+14304	corpus-6-test-corpus-26-train	JED	وممكن تقولي اسمك؟
+14306	corpus-6-test-corpus-26-train	JED	تمانع اذا سويت مكالمة على حساب اللي بدق عليه؟
+14311	corpus-6-test-corpus-26-train	JED	اهلاً، كيف حالك؟
+14317	corpus-6-test-corpus-26-train	JED	فين قسم السفر؟
+14336	corpus-6-test-corpus-26-train	JED	أيش اسم الشخص اللي تبا تكلمه؟
+14347	corpus-6-test-corpus-26-test	JED	معليش، مهو موجود دحين.
+14363	corpus-6-test-corpus-26-train	JED	شوف دا. شوف دا. حتقولي اش الفرق بين دا الرجال وبين داك الرجال المحظوظ؟ محمد، وقف، ممكن؟ مافيه مانع اذا وقفتك هنا. انا متأخر. صاحبي، كان شرف انه قابلتك، اوك؟
+14373	corpus-6-test-corpus-26-dev	JED	غرفتك تطل على المدينة؟
+14389	corpus-6-test-corpus-26-train	JED	أي رسالة ليا؟
+14400	corpus-6-test-corpus-26-test	JED	مرة غالي. ما اقدر اخذه بتلاتة دولار؟
+14402	corpus-6-test-corpus-26-train	JED	نبا غرفة بالخلف.
+14403	corpus-6-test-corpus-26-dev	JED	أبا كاسة نبيذ.
+14416	corpus-6-test-corpus-26-train	JED	شكلك جميل.
+14426	corpus-6-test-corpus-26-test	JED	أبا غرفة بسريرين. كم تكلف الغرفة ليوم واحد؟
+14434	corpus-6-test-corpus-26-train	JED	تقريباً بعيدة تسعة وتسعين ميل.
+14441	corpus-6-test-corpus-26-train	JED	فينس ولندا يبو يكونو لوحدهم، فاسف لازم اقعد هنا الليلة.
+14444	corpus-6-test-corpus-26-train	JED	لو سمحت اترك دي الشنط مربوطة.
+14448	corpus-6-test-corpus-26-train	JED	اسمي ساتو.
+14457	corpus-6-test-corpus-26-train	JED	اعرف نادي جاز قديم في وسط المدينة.
+14459	corpus-6-test-corpus-26-train	JED	حاخذ الوجبة الرئيسية دي.
+14462	corpus-6-test-corpus-26-dev	JED	أبا اجرب نفس الطبق دا.
+14475	corpus-6-test-corpus-26-train	JED	اجل حناخذه.
+14477	corpus-6-test-corpus-26-train	JED	دا يودي للدور السادس؟
+14478	corpus-6-test-corpus-26-dev	JED	جلد تمساح؟
+14483	corpus-6-test-corpus-26-train	JED	بالله حطه في كيس غسيل وخليه هناك.
+14484	corpus-6-test-corpus-26-train	JED	أبا احمض الفلم دا. متى يجهز؟
+14495	corpus-6-test-corpus-26-dev	JED	بالله اعطي المفتاح لأي احد غيري.
+14500	corpus-6-test-corpus-26-test	JED	اوك. حاخذك من الفندق على تمانية بالضبط.
+14502	corpus-6-test-corpus-26-train	JED	الشباك كويس.
+14505	corpus-6-test-corpus-26-train	JED	خلي شعري تطيح لتحت، لو سمحت.
+14507	corpus-6-test-corpus-26-train	JED	كل رسوم وسائل الموأصلات داخلة؟
+14509	corpus-6-test-corpus-26-train	JED	دار اوبرا عصري.
+14514	corpus-6-test-corpus-26-train	JED	فين المكتب حق استأجر-سيارة؟
+14519	corpus-6-test-corpus-26-dev	JED	مسخن من اخر ليلة.
+14520	corpus-6-test-corpus-26-train	JED	مو ذوقي.
+14530	corpus-6-test-corpus-26-train	JED	أيش الخضروات اللي عندك؟
+14531	corpus-6-test-corpus-26-test	JED	أبا كيرلي خفيف، لو سمحت.
+14534	corpus-6-test-corpus-26-train	JED	متى حيجي الدكتور؟
+14537	corpus-6-test-corpus-26-train	JED	اللون الخطأ.
+14538	corpus-6-test-corpus-26-train	JED	السن انكسرت.
+14542	corpus-6-test-corpus-26-train	JED	دا الكرسي على الممر ولا على الطاقة؟
+14557	corpus-6-test-corpus-26-train	JED	انا هاوي تزلج على الثلج.
+14564	corpus-6-test-corpus-26-dev	JED	ممكن تجيب شنطي لغرفتي؟
+14573	corpus-6-test-corpus-26-train	JED	وريني واحد لسيدة صغيرة.
+14590	corpus-6-test-corpus-26-train	JED	ممكن توقف هنا؟
+14593	corpus-6-test-corpus-26-dev	JED	عندك أي شيء حول التمانين دولار بالضبط؟
+14605	corpus-6-test-corpus-26-train	JED	انا عطشان.
+14612	corpus-6-test-corpus-26-train	JED	بدون حليب، لو سمحت.
+14683	corpus-6-test-corpus-26-dev	JED	عندي تلاتة شنط.
+14685	corpus-6-test-corpus-26-train	JED	فين البحيرة؟
+14693	corpus-6-test-corpus-26-test	JED	معليش، اضغط على زر التصوير، لو سمحت.
+14709	corpus-6-test-corpus-26-train	JED	ممكن مجلة او أي شيء؟
+14718	corpus-6-test-corpus-26-train	JED	بالجنوب.
+14721	corpus-6-test-corpus-26-train	JED	بكم المقاعد اللي على البلكونة؟
+14734	corpus-6-test-corpus-26-test	JED	نبا غرفة قدام البحيرة.
+14737	corpus-6-test-corpus-26-train	JED	فيه أي صندوق بريد قريب من هنا؟
+14757	corpus-6-test-corpus-26-train	JED	تمام. حأخذك لهناك.
+14761	corpus-6-test-corpus-26-train	JED	الجزء اللي مكتوب بخط مائل حق التغيرات اللي حصلت في تسعينات القرن العشرين.
+14763	corpus-6-test-corpus-26-train	JED	عمره تلاتين سنة.
+14777	corpus-6-test-corpus-26-test	JED	تمام. ممكن تكتب العنوان مرة تانية على الظرف؟
+14783	corpus-6-test-corpus-26-train	JED	أبا اروح هارودز. ممكن ترسملي خريطة، لو سمحت؟
+14786	corpus-6-test-corpus-26-train	JED	أيش تسوي لما يكون عندك وقت فراغ؟
+14789	corpus-6-test-corpus-26-train	JED	عندك بطاريات لدي الكاميرا؟
+14805	corpus-6-test-corpus-26-train	JED	أبا كابل للتصوير عن بعد.
+14807	corpus-6-test-corpus-26-train	JED	انت اخر واحد في الطأبور دا؟
+14810	corpus-6-test-corpus-26-train	JED	أتوقع انها محجوزة كاملة.
+14813	corpus-6-test-corpus-26-train	JED	لقطة حلوة. دحين انأخذت.
+14818	corpus-6-test-corpus-26-train	JED	ممكن تقولي أماكن مرغوب فيها هنا؟
+14820	corpus-6-test-corpus-26-train	JED	فيه أي متجر متنوع قريب من هنا؟
+14854	corpus-6-test-corpus-26-dev	JED	حتى انا.
+14862	corpus-6-test-corpus-26-train	JED	أبا أشارك من سان دييقو.
+14863	corpus-6-test-corpus-26-train	JED	كنت افكر اخذ المادة دي الترم الجأي.
+14887	corpus-6-test-corpus-26-train	JED	النبيذ مو باردة كفأية. ممكن تبرده زيادة؟
+14901	corpus-6-test-corpus-26-dev	JED	ممكن تحول دا الحلق لكلبسات؟
+14903	corpus-6-test-corpus-26-train	JED	أيش انت مهتم بشكل كبير دحين؟
+14905	corpus-6-test-corpus-26-train	JED	أبا ارجع فلوسي. ممكن ارجع فلوسي؟
+14926	corpus-6-test-corpus-26-train	JED	أتوقع انه ما حقدر الاقي مشروب زي دا في أي مكان تاني.
+14933	corpus-6-test-corpus-26-train	JED	اذا اشتريت دا كمان، حيخليه بدون ضريبة.
+14952	corpus-6-test-corpus-26-train	JED	ممكن اشوف شهادة تطعيماتك، لو سمحت؟
+14960	corpus-6-test-corpus-26-train	JED	تسافر كتير؟
+14969	corpus-6-test-corpus-26-train	JED	انا جأي من أمريكا.
+14976	corpus-6-test-corpus-26-train	JED	عندي تذكرة جوية لسان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	JED	اذا انها ربع ساعة من المحطة، فحمشي.
+15019	corpus-6-test-corpus-26-train	JED	أبا فندق ارخص بشوي.
+15020	corpus-6-test-corpus-26-test	JED	بونساوي صوته كانه شخص بهوأية رجل كبير.
+15024	corpus-6-test-corpus-26-dev	JED	لسا ما قررت. ممكن تطيني وقت زيادة؟
+15025	corpus-6-test-corpus-26-train	JED	عندي صداع.
+15036	corpus-6-test-corpus-26-dev	JED	تبا تشرب قهوة معأي؟
+15037	corpus-6-test-corpus-26-train	JED	أبا شهادة طبية و فاتورة للتامين حقي.
+15046	corpus-6-test-corpus-26-test	JED	اوه، لا. باللهي عجل. احنا متأخرين.
+15051	corpus-6-test-corpus-26-train	JED	ما أبا اصرف فوق عشرين دولار.
+15062	corpus-6-test-corpus-26-train	JED	ليش الطأيرة ما تبا تقلع؟ علمني أيش صأير.
+15073	corpus-6-test-corpus-26-test	JED	كم الأجرة؟ ممكن تكتبها في ورقة؟
+15083	corpus-6-test-corpus-26-train	JED	أبا اشتري كرسي يتطبق.
+15087	corpus-6-test-corpus-26-train	JED	انتظر دقيقة، لو سمحت.
+15088	corpus-6-test-corpus-26-test	JED	لازم السيدات يلبسو لبس رسمي؟
+15095	corpus-6-test-corpus-26-train	JED	لا تلمسني.
+15109	corpus-6-test-corpus-26-train	JED	عندك دخان؟
+15123	corpus-6-test-corpus-26-train	JED	اذا الجو مو قوي مرة، نقدر نروح لتيكي بوينت.
+15126	corpus-6-test-corpus-26-train	JED	روعة.
+15133	corpus-6-test-corpus-26-train	JED	حقفل دحين. شكراً لانتباهك.
+15145	corpus-6-test-corpus-26-dev	JED	عندك دا بلون تاني؟
+15149	corpus-6-test-corpus-26-train	JED	مين؟
+15157	corpus-6-test-corpus-26-train	JED	لو سمحت. ممكن تعلمني فين يوقف التاكسي؟
+15170	corpus-6-test-corpus-26-train	JED	وتشرب؟
+15181	corpus-6-test-corpus-26-train	JED	اهو.
+15201	corpus-6-test-corpus-26-train	JED	فين اقرب محل معدات؟
+15206	corpus-6-test-corpus-26-train	JED	أممم. ما يشغتل، صح؟ تقدر تحطه بكرسي فاضي، اذا تبا.
+15221	corpus-6-test-corpus-26-train	JED	انا ادور على دا.
+15240	corpus-6-test-corpus-26-train	JED	تمام ياسيدي. وأيش تبا للحلى؟
+15246	corpus-6-test-corpus-26-train	JED	عربة عادية ولا عربة نوم؟
+15247	corpus-6-test-corpus-26-train	JED	شيكات سياحية، شكراً. خذ التذكرة وبطاقة الصعود حقك. كون هناك، لو سمحت، قبل الرحلة بساعة.
+15257	corpus-6-test-corpus-26-test	JED	الم قوي.
+15259	corpus-6-test-corpus-26-train	JED	الاسمي قورو موتوياما. والرقم صفر تلاتة تلاتة اتنين ستة واحد اتنين أربعة تسعة خمسة.
+15262	corpus-6-test-corpus-26-train	JED	احس اني تعبان مرة.
+15274	corpus-6-test-corpus-26-train	JED	"متى أوقات عرض ""كوسيز لاف""؟"
+15283	corpus-6-test-corpus-26-train	JED	تمام. تبا قهوتك دحين ولا بعدين؟
+15292	corpus-6-test-corpus-26-train	JED	علمني عن افضل نادي جاميكي في نيو يورك.
+15295	corpus-6-test-corpus-26-test	JED	بأي طريقة منتجك يختلف عن المنافسين؟
+15296	corpus-6-test-corpus-26-train	JED	عادي محد يسمع لتعليمات الأمان؟
+15319	corpus-6-test-corpus-26-train	JED	الشارع الخلفي خطر؟
+15320	corpus-6-test-corpus-26-train	JED	أيوا. لو سمحت خذ الاجراءاة الضرورية.
+15323	corpus-6-test-corpus-26-train	JED	أيوا، بس واحد. متى حعرف؟ وكيف حتعوض؟
+15331	corpus-6-test-corpus-26-dev	JED	دي بطاقة الهوية.
+15337	corpus-6-test-corpus-26-train	JED	نبا طاولة جمب الشباك.
+15347	corpus-6-test-corpus-26-train	JED	لو سمحت قلي ارخص طريقة اروح فيها لسان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	JED	تعرف المطعم، كويويا؟
+15378	corpus-6-test-corpus-26-train	JED	اتجاه واحد.
+15380	corpus-6-test-corpus-26-train	JED	انا حمتن وانا قاعد اكل بشكل مستمر.
+15400	corpus-6-test-corpus-26-train	JED	فيه أي نادي كويس يعرض فيه رقصة الفلامنكو؟
+15419	corpus-6-test-corpus-26-train	JED	مرة حلو اللبس اللي عليك.
+15431	corpus-6-test-corpus-26-train	JED	قدمي توجعني.
+15436	corpus-6-test-corpus-26-train	JED	فين اقرب مغسلة؟
+15443	corpus-6-test-corpus-26-train	JED	ممكن تبدل القاعد معأيا، لو سمحت؟
+15447	corpus-6-test-corpus-26-train	JED	مقاعدنا انعزلت عن بعض.
+15452	corpus-6-test-corpus-26-train	JED	حقيقة، أبا دا الطرد يتأمن كمان.
+15463	corpus-6-test-corpus-26-train	JED	الفتورة جات ب مية دولار.
+15464	corpus-6-test-corpus-26-test	JED	مخارج الطوارئ موجودة قدام، وبالنص ورا في دي الطيارة.
+15470	corpus-6-test-corpus-26-train	JED	تمام، حجزك اتأكد مرة تانية.
+15476	corpus-6-test-corpus-26-train	JED	الكعب مرة عالي.
+15477	corpus-6-test-corpus-26-train	JED	نبا الطاولة على الرصيف.
+15482	corpus-6-test-corpus-26-train	JED	يعني الفلم يمكن مهو كويس للأطفال تحت خمسطعشر سنة. الأباء لازم يشوفو اذا عادي الأطفال يتفرجو ولا.
+15487	corpus-6-test-corpus-26-train	JED	كيف تبا الفلوس؟ لو سمحت عبي البيانات بدي الورقة ووقع هنا.
+15509	corpus-6-test-corpus-26-train	JED	بعض الأحيان بطني توجعني.
+15522	corpus-6-test-corpus-26-train	JED	عندك اطباق قليلة بالسعرات؟ انا ماشي على حمية، دحين.
+15529	corpus-6-test-corpus-26-dev	JED	مافيه رسوم لازمة.
+15539	corpus-6-test-corpus-26-train	JED	أيوا، عندي تذكرتين للعمالقة والمتهربين.
+15546	corpus-6-test-corpus-26-train	JED	احنا في اعلى قأئمة المزودين للكمبيوترات الصغيرة.
+15553	corpus-6-test-corpus-26-train	JED	شكرا. حتى انا. مع السلامة لين بعدين.
+15564	corpus-6-test-corpus-26-train	JED	سريرين بحمام، لو سمحت.
+15566	corpus-6-test-corpus-26-train	JED	طحت من على الدرج.
+15575	corpus-6-test-corpus-26-train	JED	أيش الأيسكريم اللي تنصحني فيه؟
+15577	corpus-6-test-corpus-26-dev	JED	أممم. دا. اللون بأين حلو عليك.
+15598	corpus-6-test-corpus-26-test	JED	فين كتب اللغات الأجنبية؟
+15604	corpus-6-test-corpus-26-train	JED	قطعتين وسبرأيت.
+15607	corpus-6-test-corpus-26-test	JED	اديني زقأير.
+15610	corpus-6-test-corpus-26-dev	JED	ممنوع ادخاله للدولة - اسف. طيب، اظن دا كل شيء.
+15652	corpus-6-test-corpus-26-train	JED	أيوا، انا. كانو عأيشين قريبين مني في كاليفورنيا بس نقلو لفلوريدا قبل سنتين. ونت؟ حتسافر بنفسك؟
+15664	corpus-6-test-corpus-26-train	JED	انا مريض.
+15666	corpus-6-test-corpus-26-train	JED	طفلي بأين مرهق مرة بسبب السخونة.
+15673	corpus-6-test-corpus-26-train	JED	بالمقاس دا، لو سمحت.
+15674	corpus-6-test-corpus-26-train	JED	اليوم، الأدباء والباحثين يلقو كتير من الثناء من المجتمع.
+15676	corpus-6-test-corpus-26-train	JED	انا ياباني.
+15692	corpus-6-test-corpus-26-train	JED	مرة غالي.
+15699	corpus-6-test-corpus-26-train	JED	أيوا، خذ باصي يودي لكيوتو أيكي.
+15710	corpus-6-test-corpus-26-train	JED	بس للأعضاء؟
+15735	corpus-6-test-corpus-26-dev	JED	سعر الغرفة ستة الاف ين لليلة الوحدة.
+15763	corpus-6-test-corpus-26-train	JED	اقدر اجيب دا في جوا الطيارة؟
+15775	corpus-6-test-corpus-26-train	JED	بس ابا اعرف اذا البزنس بيغطي راس المال ولا لا.
+15784	corpus-6-test-corpus-26-train	JED	تمام. تبغي طرحة تمشي معاها؟
+15788	corpus-6-test-corpus-26-train	JED	اشحن البطارية، لو سمحت.
+15791	corpus-6-test-corpus-26-train	JED	انا جاهز اطلب.
+15798	corpus-6-test-corpus-26-dev	JED	الحمامات العشبية تخلي بشرتك تحس بالنعومة.
+15804	corpus-6-test-corpus-26-train	JED	اكتب اسم شركة الطيران ورقم الرحلة، كمان.
+15814	corpus-6-test-corpus-26-train	JED	اما. اليوم احد، والأحد أسوأ يوم.
+15896	corpus-6-test-corpus-26-train	JED	أيوا، هي مشكلة كيف تتخلص من النفأيات.
+15897	corpus-6-test-corpus-26-train	JED	أبا زي هذا الشكل في وضع خمس اماكن.
+15899	corpus-6-test-corpus-26-train	JED	كتير من العوائل عندها دخل ثنائي.
+15902	corpus-6-test-corpus-26-train	JED	"أوه. هادي الفضة نادرة ""القمر والجرس"". اكيد تبا تبدلها؟"
+15911	corpus-6-test-corpus-26-train	JED	امي واختي جأيين من اليأبان يشوفوني. حيوصلو هنا على سبعة المساء.
+15942	corpus-6-test-corpus-26-train	JED	البني مرة مشهور دي السنة.
+15950	corpus-6-test-corpus-26-test	JED	فكرة كويس. متى ناوي تجي؟
+15967	corpus-6-test-corpus-26-train	JED	اوك، مقعدين، لو سمحت.
+15989	corpus-6-test-corpus-26-train	JED	فين السوق؟
+16007	corpus-6-test-corpus-26-train	JED	أبا متحمس اجرب بدلتي حقت السباق الجديدة.
+16016	corpus-6-test-corpus-26-train	JED	حسبت انكم اكلتو دونات.
+16034	corpus-6-test-corpus-26-train	JED	كم سعر تذكرة درجة اولى لأيدنبيره، لو سمحت؟
+16042	corpus-6-test-corpus-26-train	JED	كانه الفلوس اللي أعطيتني أياها ناقصة عشرة دولار.
+16046	corpus-6-test-corpus-26-train	JED	اتصلت على مستر سميث غرفة اتنين صفر واحد، بس مارد. ممكن تعلمني اذا لسا حيقعد هنا؟
+16061	corpus-6-test-corpus-26-train	JED	أبا شيء جديد.
+16070	corpus-6-test-corpus-26-train	JED	اشتغل عند شركة نشر.
+16073	corpus-6-test-corpus-26-train	JED	ممكن تعبي البيانات دي؟
+16080	corpus-6-test-corpus-26-test	JED	أيش الشارع دا؟
+16082	corpus-6-test-corpus-26-test	JED	ممكن تقيس وزن الحزمة دي؟
+16089	corpus-6-test-corpus-26-train	JED	أيش تنادو الشي داك بالإنجليزي؟
+16091	corpus-6-test-corpus-26-train	JED	سيدة مع الممر هذا، وحتلاقيه على اليمين.
+16098	corpus-6-test-corpus-26-train	JED	أبا أأمن على دا.
+16106	corpus-6-test-corpus-26-train	JED	صباح الخير. معاك الاستقبال. كيف اقدر اساعدك؟
+16127	corpus-6-test-corpus-26-train	JED	تمام. لو سمحت ادخل.
+16130	corpus-6-test-corpus-26-test	JED	أيوا، سيدي. اجي هنا للفطور كل يوم، الاثنين للجمعة، قبل ما اروح الشغل.
+16140	corpus-6-test-corpus-26-dev	JED	مافيه مشاكل.
+16141	corpus-6-test-corpus-26-train	JED	باللهي جبلي تلاتة اتنين ستة تسعة واحد تمانية.
+16158	corpus-6-test-corpus-26-train	JED	أيوا، نقدر نخدمك من الساعة سبعة.
+16167	corpus-6-test-corpus-26-train	JED	لو سمحت انسدح هنا.
+16169	corpus-6-test-corpus-26-test	JED	خدمة سريعة.
+16191	corpus-6-test-corpus-26-train	JED	ممكن يظهر.
+16217	corpus-6-test-corpus-26-train	JED	لو سمحت لف يمين عند التقاطع الجأي.
+16219	corpus-6-test-corpus-26-dev	JED	لو سمحت. كيف اقدر اروح للبنك؟
+16222	corpus-6-test-corpus-26-train	JED	فيه باص يودي لمتحف فورد؟
+16227	corpus-6-test-corpus-26-train	JED	اكيد، اسمك ورقم غرفتك، لو ممكن.
+16231	corpus-6-test-corpus-26-train	JED	كم يبالها عشان توصل لليأبان بالبريد الجوي؟
+16238	corpus-6-test-corpus-26-train	JED	اوك، اشوفك يوم الاحد الساعة اتنين.
+16258	corpus-6-test-corpus-26-train	JED	أبا اروح من نيو يورك لتورنتو.
+16259	corpus-6-test-corpus-26-train	JED	السستة انكسرت. عندك زيها؟
+16271	corpus-6-test-corpus-26-train	JED	دا شكله وسخ.
+16279	corpus-6-test-corpus-26-dev	JED	ممكن تعيد تأكيد رحلتي؟ دا رقم التذكرة.
+16291	corpus-6-test-corpus-26-train	JED	عندك منه بلون اخضر غامق؟
+16292	corpus-6-test-corpus-26-test	JED	تقدر تأخذني لكانتربري وترجعني؟
+16311	corpus-6-test-corpus-26-train	JED	ممكن اخذ شوكة تانية؟
+16312	corpus-6-test-corpus-26-train	JED	شكراً مرة لطيبتك.
+16335	corpus-6-test-corpus-26-train	JED	معليش، ما نبيع تذاكر للسينما.
+16337	corpus-6-test-corpus-26-train	JED	أبا اشوف دا.
+16339	corpus-6-test-corpus-26-train	JED	اوه، مرة حلو. أيش لازم اسوي؟
+16344	corpus-6-test-corpus-26-dev	JED	أبا ازيد جلوسي هنا ليومين كمان.
+16351	corpus-6-test-corpus-26-train	JED	لو سمحت بدل مقعدي.
+16365	corpus-6-test-corpus-26-train	JED	عندنا قمبري كويس اليوم.
+16371	corpus-6-test-corpus-26-train	JED	الى متى فاتح دا؟
+16395	corpus-6-test-corpus-26-train	JED	تدخين ولا بدون؟
+16403	corpus-6-test-corpus-26-train	JED	مرة غالي بالنسبالي. ممكن ترخصه؟
+16409	corpus-6-test-corpus-26-dev	JED	انا فاتح يوم الأربعاء الصباح او الجمعة بعد الظهر.
+16413	corpus-6-test-corpus-26-train	JED	ما عملت حجز.
+16434	corpus-6-test-corpus-26-train	JED	عشان الصيف في اليأبان عادة مرة حر، وما كان عندنا مكيف زمان.
+16444	corpus-6-test-corpus-26-train	JED	ممكن تتصلي على تاكسي الساعة تمانية الصباح بكرة؟
+16453	corpus-6-test-corpus-26-train	JED	مشؤوم.
+16465	corpus-6-test-corpus-26-train	JED	ليش ما ننتظر الباص تحت المظلة؟
+16477	corpus-6-test-corpus-26-train	JED	تعال، كنجي. خليني اوريك المكتب.
+16478	corpus-6-test-corpus-26-train	JED	أيوا، مفتوح من تسعة إلى تسعة الليل.
+16484	corpus-6-test-corpus-26-dev	JED	ما اقدر انام كويس على تسعة.
+16487	corpus-6-test-corpus-26-train	JED	كيف اثرت الازمة على الاعمال؟
+16495	corpus-6-test-corpus-26-train	JED	عندي موعد تاني.
+16516	corpus-6-test-corpus-26-train	JED	ممكن خريطة الطرق لدي المدينة؟
+16536	corpus-6-test-corpus-26-dev	JED	دا اللي كنت ابحث عنه.
+16542	corpus-6-test-corpus-26-train	JED	مافهمت شرحك.
+16546	corpus-6-test-corpus-26-train	JED	يبالي اسوي اتصالات، رأيح لبوسطن.
+16547	corpus-6-test-corpus-26-train	JED	أيش افضل مكان للسياحة؟
+16576	corpus-6-test-corpus-26-train	JED	يتحمل؟
+16577	corpus-6-test-corpus-26-train	JED	مرة انبسطت.
+16581	corpus-6-test-corpus-26-train	JED	اجل، أبا وجه اصغر زي جوليا روبرتس.
+16586	corpus-6-test-corpus-26-train	JED	ممكن تأخذ دا، لو سمحت؟
+16601	corpus-6-test-corpus-26-train	JED	الركاب المغادرين على خطوط إيه بي سي رحلة سبعمية وتلاتة الرجاء التوجه لبوابة عشرين لإنهاء الاجراءات الحكومية.
+16607	corpus-6-test-corpus-26-train	JED	فين يوقف الباص حق بي؟
+16643	corpus-6-test-corpus-26-train	JED	فردي، لو سمحت.
+16653	corpus-6-test-corpus-26-dev	JED	فين اقدر اشتري فرشة للطاولة؟
+16679	corpus-6-test-corpus-26-train	JED	ممكن استاجر مرشد يتكلم يأباني؟
+16696	corpus-6-test-corpus-26-train	JED	تباني اخذ صورة لك؟
+16709	corpus-6-test-corpus-26-train	JED	ما جربت الطبق دا.
+16718	corpus-6-test-corpus-26-train	JED	قطعت أصابعي. فيه مطهر؟
+16723	corpus-6-test-corpus-26-train	JED	ممكن ختم اللي ب خمسة وتسعين سنت؟
+16736	corpus-6-test-corpus-26-train	JED	حكون هنا تمانية الا ربع.
+16746	corpus-6-test-corpus-26-train	JED	أبا عطر.
+16747	corpus-6-test-corpus-26-train	JED	ممكن اخذ جدول الوقت؟
+16751	corpus-6-test-corpus-26-test	JED	حتروح المدرسة هنا؟
+16758	corpus-6-test-corpus-26-dev	JED	بكم كان؟
+16760	corpus-6-test-corpus-26-train	JED	فنقد الهيلتون بعيدن من هنا؟
+16769	corpus-6-test-corpus-26-train	JED	متاكد اني حطيتها في الشنطة.
+16770	corpus-6-test-corpus-26-train	JED	استسلم.
+16771	corpus-6-test-corpus-26-train	JED	فيه أي مطعم تقترحه قريب من هنا؟
+16773	corpus-6-test-corpus-26-train	JED	أيش تحب، الغامق ولا الفاتح؟
+16781	corpus-6-test-corpus-26-train	JED	ممكن تقولي فين احنا رأيحين؟
+16793	corpus-6-test-corpus-26-train	JED	تذكرة تحويل، لو سمحت.
+16796	corpus-6-test-corpus-26-train	JED	أيش فيه مكان حلو حق رحلة ليوم واحد؟
+16799	corpus-6-test-corpus-26-train	JED	أبا شنطة كيلي الحمراء نفس تصميم دا.
+16805	corpus-6-test-corpus-26-train	JED	باقي حتسوي داك الجدول؟
+16810	corpus-6-test-corpus-26-train	JED	متى يفك البنك؟
+16811	corpus-6-test-corpus-26-train	JED	احس اني تعبان.
+16819	corpus-6-test-corpus-26-train	JED	احترت، تمانع لو ترسملي خريطة؟
+16822	corpus-6-test-corpus-26-test	JED	برا.
+16829	corpus-6-test-corpus-26-test	JED	خذني للمستشفي.
+16833	corpus-6-test-corpus-26-train	JED	لازم اجي المستشفي كل يوم؟
+16837	corpus-6-test-corpus-26-train	JED	بطني يوجعني.
+16839	corpus-6-test-corpus-26-train	JED	كم رسوم البريد عشان ارسل الرسالة دي لليأبان؟
+16842	corpus-6-test-corpus-26-train	JED	أبا كاسة خمرة.
+16869	corpus-6-test-corpus-26-train	JED	تبا تناخذ من المطار؟
+16872	corpus-6-test-corpus-26-dev	JED	الصعود يبدا أربعة ونص فلو سمحت تعال هناك قبل دا الوقت.
+16878	corpus-6-test-corpus-26-train	JED	من تلاتة الاف ين.
+16879	corpus-6-test-corpus-26-train	JED	فين اقدر اشتري بطاقة تلفون؟
+16888	corpus-6-test-corpus-26-train	JED	اقدر ارجعه في مدينة تانية؟
+16889	corpus-6-test-corpus-26-dev	JED	افكر اني اقعد لاثناعشر يوم.
+16893	corpus-6-test-corpus-26-train	JED	باللهي خلي اللي فوق أطول.
+16896	corpus-6-test-corpus-26-train	JED	لازم تشوف متخصص.
+16899	corpus-6-test-corpus-26-dev	JED	دقأيق زيادة، لو سمحت.
+16904	corpus-6-test-corpus-26-train	JED	رقم التتبع اربعطعشر.
+16911	corpus-6-test-corpus-26-train	JED	باللهي عندكم؟ شكله عندكم كل شيء.
+16928	corpus-6-test-corpus-26-dev	JED	مو قادر الاقيهم بأي مكان.
+16936	corpus-6-test-corpus-26-test	JED	عندك أي كرسي فاضي للندن؟
+16952	corpus-6-test-corpus-26-train	JED	أبا نسخة من تقرير الحرامي.
+16955	corpus-6-test-corpus-26-dev	JED	هو على بعد تقاطع في الشارع.
+16960	corpus-6-test-corpus-26-train	JED	ممكن تعطيني ضوء لما تكون هناك؟
+16962	corpus-6-test-corpus-26-test	JED	دي الزقأير مطفية؟
+16964	corpus-6-test-corpus-26-train	JED	تمام. زي كذا.
+16967	corpus-6-test-corpus-26-train	JED	الاكسبريس الجاي بعد ساعة.
+16976	corpus-6-test-corpus-26-train	JED	أبا الاكمام حقت دا الجاكيت الرياضي طويلة.
+16992	corpus-6-test-corpus-26-train	JED	عندي حجز. دا رقم التأكيد.
+17027	corpus-6-test-corpus-26-train	JED	عيد ميلادك جأي.
+17030	corpus-6-test-corpus-26-dev	JED	القطارات موقفة عشان الاضراب.
+17038	corpus-6-test-corpus-26-train	JED	ممكن تصلح دا؟
+17068	corpus-6-test-corpus-26-dev	JED	الشارع كان مليان سيارات.
+17079	corpus-6-test-corpus-26-train	JED	تاني مبنى من اليسار لداك المبنى الأبيض.
+17094	corpus-6-test-corpus-26-train	JED	حجزنا مقعد يوم أكتوبر خمسة وعشرين على الساعة حداعشر الصباح.
+17097	corpus-6-test-corpus-26-train	JED	لا، زيادة شوية قدام. هناك، أيوا.
+17115	corpus-6-test-corpus-26-train	JED	أيوا، الوجبات مو داخلة.
+17117	corpus-6-test-corpus-26-train	JED	فين اقدر ارجع دي التذكرة؟
+17120	corpus-6-test-corpus-26-train	JED	ليش يصير كدا؟
+17149	corpus-6-test-corpus-26-train	JED	أبا اخذ راحة.
+17158	corpus-6-test-corpus-26-train	JED	سيارتي اتعطلت، لو سمحت تعال وخذها.
+17163	corpus-6-test-corpus-26-train	JED	أبا شعري أطول شوية من ورا.
+17177	corpus-6-test-corpus-26-train	JED	أيش الأنواع اللي عندك؟
+17179	corpus-6-test-corpus-26-dev	JED	اتفق معاك. واحد من الأماكن المفضلة عندي.
+17180	corpus-6-test-corpus-26-train	JED	أيش الموديل اللي في بالك؟
+17204	corpus-6-test-corpus-26-test	JED	اسمي ميتشيكو تاناكا، ورقم الرحلة خمسة صفر واحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	JED	ممكن ترسملي خريطة صغيرة من هنا؟
+17217	corpus-6-test-corpus-26-train	JED	فين نتقابل؟
+17222	corpus-6-test-corpus-26-train	JED	أبا اسوي شعري زي ما كان.
+17229	corpus-6-test-corpus-26-train	JED	اديني خمسين، لو سمحت.
+17272	corpus-6-test-corpus-26-train	JED	فين اقدر اشيك إن على الخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	JED	أيش المحتويات؟
+17295	corpus-6-test-corpus-26-train	JED	فيه أي مكان في المنطقة دي يقتروحوه بشكل كبير؟
+17311	corpus-6-test-corpus-26-train	JED	اديني الباقي، لو سمحت.
+17313	corpus-6-test-corpus-26-train	JED	تمام. حتاكد ان شنطتك تكون هنا.
+17315	corpus-6-test-corpus-26-train	JED	دا اختصاصنا، سمك مفلطح مشوي.
+17339	corpus-6-test-corpus-26-train	JED	حنقعد.
+17350	corpus-6-test-corpus-26-train	JED	انسرقت.
+17356	corpus-6-test-corpus-26-train	JED	تمام. لازم اركز عليها؟
+17381	corpus-6-test-corpus-26-dev	JED	حنتشارك.
+17394	corpus-6-test-corpus-26-train	JED	ماعندنا نفس الستأيل دحين. حشيك على المستودع. دقيقة انتظر، لو سمحت.
+17398	corpus-6-test-corpus-26-train	JED	سكوتش مع موية، لو سمحت.
+17399	corpus-6-test-corpus-26-train	JED	شكله ممتع. بكم يكلف؟
+17414	corpus-6-test-corpus-26-train	JED	خذ الوصفة دي للصيدلية. حتلاقي الدواء هناك.
+17438	corpus-6-test-corpus-26-train	JED	طلبت داك.
+17453	corpus-6-test-corpus-26-train	JED	أيوا، مداك توقف في أي محطة بين هنا وشيكاغو.
+17460	corpus-6-test-corpus-26-train	JED	فين اقدر اشتري ذكرى سنوية؟
+17475	corpus-6-test-corpus-26-train	JED	مرة غالي، مو قادر اشتريه.
+17482	corpus-6-test-corpus-26-train	JED	ممكن رقم إيه بي سي آند كومباني في شيكاغو، لو سمحت.
+17488	corpus-6-test-corpus-26-test	JED	فين الكنيسة؟
+17496	corpus-6-test-corpus-26-train	JED	كيف تبا البيض حقك؟
+17504	corpus-6-test-corpus-26-train	JED	جمب المبنى دا على طول.
+17526	corpus-6-test-corpus-26-train	JED	لا، أتوقع انهم نسيو يجيبو لنا واحد.
+17537	corpus-6-test-corpus-26-train	JED	اوك. اتاكد. ممكن رقم التلفون، عشان لو نبا نتواصل معاك؟
+17548	corpus-6-test-corpus-26-train	JED	أيش اسم الرسام؟
+17559	corpus-6-test-corpus-26-train	JED	اخليه يدق عليك لما يجي؟
+17593	corpus-6-test-corpus-26-train	JED	نفسي اخذ داك الشيء.
+17606	corpus-6-test-corpus-26-train	JED	حلوة الاستضافة بالشامبانيا دي بعد الركوب، بصحتك.
+17609	corpus-6-test-corpus-26-train	JED	أربعين دولا لليوم وكمان تمانية سنت لكل ميل.
+17615	corpus-6-test-corpus-26-train	JED	حراهن على خمسة دولار.
+17636	corpus-6-test-corpus-26-train	JED	دا مو كانه طلب شخص تاني؟
+17645	corpus-6-test-corpus-26-train	JED	ممكن تقولي كيف اقدر اروح للمتحف؟
+17649	corpus-6-test-corpus-26-train	JED	اسف جدا، بس أبا ااجل الموعد.
+17652	corpus-6-test-corpus-26-test	JED	تقدر تقترح مكان حق نزهة؟
+17660	corpus-6-test-corpus-26-train	JED	القطار حقك حيمشي من الرصيف التامن.
+17673	corpus-6-test-corpus-26-train	JED	أبا شنطة بحزام يتعدل.
+17674	corpus-6-test-corpus-26-train	JED	أباها تحت المية والتمانين دولار.
+17739	corpus-6-test-corpus-26-train	JED	حسالك بعد ما اشوف.
+17745	corpus-6-test-corpus-26-test	JED	أيوا. الحجز لستة ليالي، لو سمحت. بدأية من تلاتة وعشرين يوليو.
+17757	corpus-6-test-corpus-26-train	JED	ممكن توريني أشياء تانية بتصميم مختلف؟
+17765	corpus-6-test-corpus-26-train	JED	أيش نوع العصير اللي تباه؟
+17780	corpus-6-test-corpus-26-train	JED	حتروح البيت للأجازة؟
+17782	corpus-6-test-corpus-26-dev	JED	فين اقدر اروح واشوف منظر حلو؟
+17786	corpus-6-test-corpus-26-test	JED	دا كان مكسر لما فتحت الطرد.
+17790	corpus-6-test-corpus-26-test	JED	تسعة وشعرين أغسطس.
+17797	corpus-6-test-corpus-26-train	JED	أبا ارسل الأيميل دا عن طريق الجو لليأبان.
+17798	corpus-6-test-corpus-26-train	JED	يوم الشكر. هو يوم نشكر فيه كل اللي ساعدو المجتمع بشغلهم.
+17799	corpus-6-test-corpus-26-train	JED	الغرفة دي مرا صغيرة.
+17803	corpus-6-test-corpus-26-train	JED	ممكن شاهي زيادة، لو سمحت؟
+17805	corpus-6-test-corpus-26-train	JED	أبا الملابس تتنظف على نهأية اليوم.
+17808	corpus-6-test-corpus-26-train	JED	فيه بنك قريب من هنا؟
+17811	corpus-6-test-corpus-26-train	JED	ممكن تنظف الطاولة، لو سمحت؟
+17840	corpus-6-test-corpus-26-train	JED	سكينة، لو سمحت.
+17841	corpus-6-test-corpus-26-train	JED	كلهم مطبوعين.
+17842	corpus-6-test-corpus-26-train	JED	لو سمحت اكتب رقم غرفتك ورا.
+17847	corpus-6-test-corpus-26-train	JED	احنا نستخدم اعواد الاكل لما نأكل.
+17852	corpus-6-test-corpus-26-train	JED	رحلة دلتا رقم تمانية وعشرين لنيو اوريليانز حتتاجل تقريباً لساعة.
+17854	corpus-6-test-corpus-26-train	JED	لما ارجع اليأبان، حكتب رسالة. اذا عندك وقت، ارسلي رسالة.
+17855	corpus-6-test-corpus-26-train	JED	نسيت تذكرة السفر في الفندق.
+17861	corpus-6-test-corpus-26-train	JED	غرفة وحدة بدون حمام، لو سمحت.
+17869	corpus-6-test-corpus-26-train	JED	شكرا عشانك ذكرتني. هو الناس تنسى تكتب اسمها بالعاني؟
+17886	corpus-6-test-corpus-26-train	JED	أممم، الوقت غلق. تبانا نكمل النقاش يوم الخميس الساعة وحدة؟
+17899	corpus-6-test-corpus-26-test	JED	أبا بجأيم.
+17919	corpus-6-test-corpus-26-train	JED	اوك. حتصل عليك لما يكونو جاهزين.
+17935	corpus-6-test-corpus-26-train	JED	ايش شرايك غداء؟
+17947	corpus-6-test-corpus-26-test	JED	الليموزين حيقوف في البوابة الشمالية اول.
+17963	corpus-6-test-corpus-26-train	JED	الى متى اقدر استخدم مطعم الفندق؟
+17966	corpus-6-test-corpus-26-dev	JED	دا القطار يوصل مباشر؟
+17977	corpus-6-test-corpus-26-train	JED	أممم، الوقت تأخر. أتوقع لازم اروح دحين. شكراً على الأمسية الحلوة.
+17986	corpus-6-test-corpus-26-train	JED	ممكن علاج لالم بطني؟
+18003	corpus-6-test-corpus-26-train	JED	أبا دجاجة مشوية.
+18018	corpus-6-test-corpus-26-train	JED	غلطتي، مو غلطتك.
+18036	corpus-6-test-corpus-26-train	JED	لو سمحت، متى يغلق دا الفلم؟
+18040	corpus-6-test-corpus-26-train	JED	داك الشيء. لو سمحت.
+18077	corpus-6-test-corpus-26-train	JED	مجوهراتي انسرقت، أبا افك بلاغ.
+18103	corpus-6-test-corpus-26-train	JED	لحظة لو ممكن، دحين احولك على السيد جونز.
+18110	corpus-6-test-corpus-26-train	JED	اهلا. معاك خطوط طيران يونايتد.
+18131	corpus-6-test-corpus-26-test	JED	كيف تعلم السيد جونز اللغة اليأبانية؟
+18138	corpus-6-test-corpus-26-train	JED	عندي الصغيرة من نفس التصميم.
+18155	corpus-6-test-corpus-26-train	JED	ممكن تضيق البنطلون دا؟
+18161	corpus-6-test-corpus-26-train	JED	الجمعة الليل، على تسعة.
+18166	corpus-6-test-corpus-26-train	JED	هذه البوابة حقت لاس فيقاس؟
+18181	corpus-6-test-corpus-26-train	JED	عندك باص من المطار؟
+18189	corpus-6-test-corpus-26-train	JED	ملعقة تانية، لو سمحت.
+18211	corpus-6-test-corpus-26-train	JED	شوية مالح، بس عاجبني. جأيبه معاك من اليأبان؟
+18226	corpus-6-test-corpus-26-train	JED	باللهي استعجل، اذا تقدر.
+18254	corpus-6-test-corpus-26-train	JED	تقدر تدفع عشرة دولار كعربون؟
+18264	corpus-6-test-corpus-26-train	JED	أيوا، صحيني بعد تلات ساعات، لو سمحت.
+18273	corpus-6-test-corpus-26-dev	JED	أبا اطلب دحين، لو سمحت.
+18274	corpus-6-test-corpus-26-test	JED	لازم أقول أيوا او لا؟
+18282	corpus-6-test-corpus-26-train	JED	ملعقتين، لو سمحت.
+18323	corpus-6-test-corpus-26-train	JED	متى نقطة التوقف الجأية؟
+18334	corpus-6-test-corpus-26-dev	JED	السيارة تطلع أصوات غريبة.
+18336	corpus-6-test-corpus-26-test	JED	متى يقفل مكتب البريد؟
+18338	corpus-6-test-corpus-26-dev	JED	دقعت عربون خمسين دولار لما دخلت.
+18341	corpus-6-test-corpus-26-train	JED	اخذت علاج لالم بطنك؟
+18342	corpus-6-test-corpus-26-train	JED	لازم البس معطف وكارافته؟
+18344	corpus-6-test-corpus-26-train	JED	اقدر احول فلوسي لحساب الادخار حقي؟
+18355	corpus-6-test-corpus-26-train	JED	نسيت شنطتي.
+18382	corpus-6-test-corpus-26-train	JED	أبا أأكد رحلتي.
+18401	corpus-6-test-corpus-26-train	JED	ساعتي. كانت صناعة سويسرية رقمية.
+18409	corpus-6-test-corpus-26-test	JED	نجحت بالأختبار بشيء كويس.
+18412	corpus-6-test-corpus-26-dev	JED	أباك توديني أماكن تحمس. انا سائح، فاهم.
+18419	corpus-6-test-corpus-26-train	JED	اقدر ازور معالم سياحية بينما السفينة في الميناء؟
+18437	corpus-6-test-corpus-26-train	JED	احسن لك تزبط المرأيا الخلفية.
+18440	corpus-6-test-corpus-26-dev	JED	حيكون فيه انتظار عشر دقائق او حولينها.
+18441	corpus-6-test-corpus-26-train	JED	اقدر اخذ صحونك؟
+18451	corpus-6-test-corpus-26-train	JED	حكون مبسوط. أيش الوقت اللي يعجبك؟
+18487	corpus-6-test-corpus-26-train	JED	أتوقع اني نسيت الكاميرا هنا يوم جيت اتعشى هنا امس.
+18492	corpus-6-test-corpus-26-train	JED	اجمعهم عند البوابة.
+18502	corpus-6-test-corpus-26-train	JED	آه لا، ما يحتاج خلاص، اقدر اهتم فيه. أنت سويت اكثر من اللازم.
+18519	corpus-6-test-corpus-26-train	JED	يا إنك تصلحه او تغيره، لو سمحت.
+18521	corpus-6-test-corpus-26-train	JED	اقدر اسويها وقت تاني الشهر الجأي.
+18527	corpus-6-test-corpus-26-train	JED	خذ وقتك لو سمحت.
+18531	corpus-6-test-corpus-26-train	JED	كيف المنتج دا مقارنة مع المنتجات الموجودة؟
+18540	corpus-6-test-corpus-26-train	JED	موظفين البيع مرة حبوبين في المتجر دا.
+18552	corpus-6-test-corpus-26-train	JED	ممكن تخليه عندك؟
+18562	corpus-6-test-corpus-26-train	JED	بس دقيقة، لو سمحت.
+18569	corpus-6-test-corpus-26-train	JED	معاك ورق الاستلام حقك؟
+18572	corpus-6-test-corpus-26-train	JED	أبا استاجر سيارة لمدة أسبوع.
+18580	corpus-6-test-corpus-26-train	JED	ايوا، في البداية غسلها لوحدها.
+18585	corpus-6-test-corpus-26-train	JED	وريني ساعات رجالية لو سمحت.
+18595	corpus-6-test-corpus-26-train	JED	الساعة أربعة وعشر.
+18612	corpus-6-test-corpus-26-dev	JED	كم سعر الليموزرين عشان اروح وسط المدينة؟
+18614	corpus-6-test-corpus-26-train	JED	من الصباح.
+18617	corpus-6-test-corpus-26-train	JED	يبالنا نسرع. تراهم قاعدين يصعدو.
+18632	corpus-6-test-corpus-26-test	JED	مرة مناسب.
+18639	corpus-6-test-corpus-26-train	JED	انا طلبت دجاج.
+18640	corpus-6-test-corpus-26-train	JED	لعشر أيام.
+18642	corpus-6-test-corpus-26-train	JED	كم عمر الولد دا؟
+18643	corpus-6-test-corpus-26-train	JED	كم السعر كله؟
+18646	corpus-6-test-corpus-26-train	JED	أبا نفس الشيء داك، لو سمحت.
+18685	corpus-6-test-corpus-26-train	JED	ضيعت شيك السياحة.
+18687	corpus-6-test-corpus-26-train	JED	لو سمحت اعطيني دواء زكام.
+18690	corpus-6-test-corpus-26-train	JED	حطه في كوز.
+18725	corpus-6-test-corpus-26-train	JED	كل يوم اشوفه على الصبحية عند القطار.
+18727	corpus-6-test-corpus-26-train	JED	تبا تتعشى معانا دا المساء؟
+18747	corpus-6-test-corpus-26-train	JED	حقعد في فندق بي لين بكرة. حكون مبسوط لو تقله اني هنا.
+18770	corpus-6-test-corpus-26-train	JED	الرحلة اتاجلت خمسة وأربعين دقيقة.
+18771	corpus-6-test-corpus-26-train	JED	اسمي شأينو يامادا.
+18784	corpus-6-test-corpus-26-train	JED	في ايش متخصص دا المطعم؟
+18798	corpus-6-test-corpus-26-test	JED	عندنا نبيذ ابيض ممتاز.
+18830	corpus-6-test-corpus-26-train	JED	بس دواء زكام.
+18834	corpus-6-test-corpus-26-dev	JED	ممكن تجيب شنطي تحت لين اللوبي بكرة الصباح؟
+18836	corpus-6-test-corpus-26-train	JED	اوه، احس اني افقد شيء كل مرة اسافر.
+18845	corpus-6-test-corpus-26-train	JED	خسرت يدي اليمين.
+18847	corpus-6-test-corpus-26-train	JED	اهلا، معأيا روي؟
+18848	corpus-6-test-corpus-26-test	JED	بعدين، حتوصل لشارع حق تسوق. اذا مشيت مع الشارع حتوصل للمحطة.
+18872	corpus-6-test-corpus-26-train	JED	لا، موهنا. فيه غرفة للتدخين نهاية هادي العربة.
+18877	corpus-6-test-corpus-26-train	JED	ممكن اخذ كتيب؟
+18879	corpus-6-test-corpus-26-train	JED	تعال هناك على تسعة، لو سمحت.
+18906	corpus-6-test-corpus-26-train	JED	أيوا، كيف تباني اقصه؟
+18912	corpus-6-test-corpus-26-test	JED	أتوقع فيه غلط في الفاتورة.
+18917	corpus-6-test-corpus-26-train	JED	بس زيت مع خل حيكون كويس.
+18919	corpus-6-test-corpus-26-train	JED	اخذت نفس الشيء اللي تباه. ممكن اقترح عليك دا؟
+18938	corpus-6-test-corpus-26-train	JED	قهوة مع سكر.
+18948	corpus-6-test-corpus-26-train	JED	تراه سبعطعشر أيه. اوه، معليش. غلطت.
+18951	corpus-6-test-corpus-26-test	JED	قد سمعت عن الأسبوع الذهبي في اليأبان؟
+18957	corpus-6-test-corpus-26-train	JED	شكراً، زورنا مرة تانية.
+18963	corpus-6-test-corpus-26-test	JED	هل كلها محجوزة؟
+18974	corpus-6-test-corpus-26-test	JED	ممكن اتركه بأي مكان في البلد؟
+18986	corpus-6-test-corpus-26-test	JED	أيش الرقم اللي ادق عليه من هنا؟
+19002	corpus-6-test-corpus-26-train	JED	كيف اروح لديزني لاند؟
+19005	corpus-6-test-corpus-26-train	JED	يعني تشوف كدا؟
+19007	corpus-6-test-corpus-26-train	JED	معليش. فين المطعم الرئيسي؟
+19009	corpus-6-test-corpus-26-train	JED	أبا اسوي اتصال لليأبان.
+19036	corpus-6-test-corpus-26-test	JED	رقم مقعدي دي اثناعشر. فينه؟
+19037	corpus-6-test-corpus-26-dev	JED	ايش دا، لو سمحت؟
+19038	corpus-6-test-corpus-26-train	JED	أيش النوع اللي في بالك؟
+19045	corpus-6-test-corpus-26-train	JED	أيوا. حنوصل على تمانية على الوقت المحلي.
+19050	corpus-6-test-corpus-26-train	JED	اذا لقيت شيء، كلمني باللهي.
+19057	corpus-6-test-corpus-26-train	JED	ممكن لحم خنزير وبيض؟
+19064	corpus-6-test-corpus-26-train	JED	عصير شمام للحلى، لو سمحت.
+19068	corpus-6-test-corpus-26-train	JED	الموية الحراة مو مرة حارة.
+19085	corpus-6-test-corpus-26-train	JED	ممكن تشرحلي كيف اسوي داك؟
+19094	corpus-6-test-corpus-26-train	JED	لو سمحت اكتب عنوان التواصل حقك هنا.
+19100	corpus-6-test-corpus-26-train	JED	ممكن استخدم فلاش؟
+19101	corpus-6-test-corpus-26-train	JED	شكراً. تعال بكرة لغرفتي نفس الساعة. حغلق الصور وقتها.
+19103	corpus-6-test-corpus-26-train	JED	معليش بس دحين تقدر تطلب بس من القأئمة حقت الليل.
+19113	corpus-6-test-corpus-26-train	JED	غير منقى ولا منقى؟
+19144	corpus-6-test-corpus-26-train	JED	عندي صداع.
+19147	corpus-6-test-corpus-26-test	JED	دي الغرفة اثناعشر صفر سبعة.
+19148	corpus-6-test-corpus-26-test	JED	ابا غرفة تانية.
+19156	corpus-6-test-corpus-26-train	JED	لمتى صالحة دي الفيزا؟
+19162	corpus-6-test-corpus-26-train	JED	فيه مستشفى قريب من هنا؟
+19170	corpus-6-test-corpus-26-train	JED	أبا بدلة.
+19196	corpus-6-test-corpus-26-train	JED	عندك شيء اعرض؟
+19215	corpus-6-test-corpus-26-test	JED	ممكن اجرب على تسعة؟
+19217	corpus-6-test-corpus-26-train	JED	فندق آمن عنده فطور كويس، لو سمحت.
+19226	corpus-6-test-corpus-26-train	JED	فين حديقة الحيوانات؟
+19232	corpus-6-test-corpus-26-train	JED	فيه حجم اكبر؟
+19250	corpus-6-test-corpus-26-dev	JED	تلاتين دولار وتمانين سنت.
+19251	corpus-6-test-corpus-26-train	JED	يعتمد على حرارة المكان، بس في نص اليأبات، بدأية ابريل.
+19258	corpus-6-test-corpus-26-train	JED	تشيز برقر وبطاطس.
+19269	corpus-6-test-corpus-26-train	JED	مرة متأخر لاخر قطار.
+19281	corpus-6-test-corpus-26-train	JED	ما عندي فكة.
+19294	corpus-6-test-corpus-26-train	JED	اخذت تذكرة الباص؟
+19306	corpus-6-test-corpus-26-train	JED	بطاقة، لو سمحت.
+19307	corpus-6-test-corpus-26-train	JED	كنت في رحلة طيران دلتا تمانية اتنين تمانية.
+19317	corpus-6-test-corpus-26-train	JED	مرة ازعاج عند غرفتي.
+19318	corpus-6-test-corpus-26-train	JED	في الساحل الشرقي، كمان حتشوف أماكن مشهورة، زي نيويورك، واشنطن دي سي وبوسطن.
+19327	corpus-6-test-corpus-26-train	JED	عندك أوراق يأبانية؟
+19329	corpus-6-test-corpus-26-train	JED	شكله كويس.
+19346	corpus-6-test-corpus-26-train	JED	عادي اخلي شنطي معاك لين الساعة وحدة بالضبط؟
+19347	corpus-6-test-corpus-26-train	JED	فيه جولة في المدينة؟
+19360	corpus-6-test-corpus-26-train	JED	أيوا. اسف انا مضطر. كيف وضع الأمان في المنطقة دي؟
+19391	corpus-6-test-corpus-26-train	JED	اها، ححاول استاجر سيتروين.
+19401	corpus-6-test-corpus-26-dev	JED	عندي موهبة فطرية.
+19413	corpus-6-test-corpus-26-train	JED	مافيه مشكلة، فين العيش؟
+19415	corpus-6-test-corpus-26-train	JED	تدخين، لو سمحت. ومكان جمب الطاقة، لو سمحت.
+19423	corpus-6-test-corpus-26-train	JED	كم رسومك للخياطة؟
+19444	corpus-6-test-corpus-26-dev	JED	مين ممكن يكون اسرع. التاكي ولا الإسعاف؟
+19460	corpus-6-test-corpus-26-train	JED	عندك الوان تانية للتيشيرت دا؟
+19463	corpus-6-test-corpus-26-test	JED	لا تتابع التلفزيون اليوم كله.
+19466	corpus-6-test-corpus-26-train	JED	أيوا، احنا جايين عليه، جايين عليه.
+19467	corpus-6-test-corpus-26-train	JED	لازم تدخل مستشفانا.
+19469	corpus-6-test-corpus-26-train	JED	فين ممكن الاقي سوبر ماركت؟
+19475	corpus-6-test-corpus-26-train	JED	شوية غالي. ممكن تعطيني شوية وقت؟
+19479	corpus-6-test-corpus-26-train	JED	كم محطة وقوف عشان اغير؟
+19490	corpus-6-test-corpus-26-train	JED	الرجال دا سرق محظفتي.
+19494	corpus-6-test-corpus-26-train	JED	حبوب الهضم وحبوب الم المعدة غير، صح؟
+19497	corpus-6-test-corpus-26-test	JED	أبا اشوف الميناء.
+19500	corpus-6-test-corpus-26-test	JED	فكرة حلوة.
+19501	corpus-6-test-corpus-26-train	JED	كم حياخذ وقت لو مشينا برجولنا؟
+19505	corpus-6-test-corpus-26-train	JED	حاخذ عشرين من الدب تيدي الحجم الكبير، لو سمحت.
+19507	corpus-6-test-corpus-26-dev	JED	أيش الرقم للكاشير؟
+19508	corpus-6-test-corpus-26-train	JED	تراه سهل. حشوف دليل الهواتف.
+19509	corpus-6-test-corpus-26-dev	JED	عندك غرف اكبر؟
+19547	corpus-6-test-corpus-26-train	JED	كم حساب فاتورتي؟
+19548	corpus-6-test-corpus-26-train	JED	أبا اجلس بالغرفة دي لليلة وحدة زيادة.
+19560	corpus-6-test-corpus-26-train	JED	معليش، أبا اسلم تقرير السرقة.
+19572	corpus-6-test-corpus-26-train	JED	تمام، بس تعتمد على أيش بتستخدم وصيلة موأصلات. بتروح بباص ولا بطيارة؟
+19578	corpus-6-test-corpus-26-train	JED	تسمحلي اقعد هنا؟
+19581	corpus-6-test-corpus-26-train	JED	اقدر ارسل أيميل بدولار؟
+19589	corpus-6-test-corpus-26-train	JED	أيوا، لو سمحت ارسله لغرفة اثناعشر وأربعة وتلاتين.
+19610	corpus-6-test-corpus-26-dev	JED	عبي بيانات التسجيل، لو سمحت.
+19617	corpus-6-test-corpus-26-test	JED	أبا تذكرتين ذهاب وعودة لأكسفورد.
+19619	corpus-6-test-corpus-26-train	JED	متى لازم اجي المطار؟
+19620	corpus-6-test-corpus-26-train	JED	دا بطيء.
+19623	corpus-6-test-corpus-26-train	JED	فين اقدر اطور الفلم؟
+19643	corpus-6-test-corpus-26-test	JED	لا، لو سمحت لا. ممكن تخلي سؤالك لين نهأية كلامي، لما اسالك عنهم؟
+19648	corpus-6-test-corpus-26-dev	JED	أبا مقعدة كويسة.
+19649	corpus-6-test-corpus-26-train	JED	اسف الحمام مو شغال. أبا مساعدة.
+19651	corpus-6-test-corpus-26-test	JED	مافيه شيء صعب او غير واضح.
+19654	corpus-6-test-corpus-26-train	JED	حوديك لين الكرسي، من هنا لو سمحت.
+19656	corpus-6-test-corpus-26-train	JED	معليش، ممكن أسالك سؤال؟
+19666	corpus-6-test-corpus-26-train	JED	أتوقع.
+19675	corpus-6-test-corpus-26-train	JED	هلا، سعيد إني قابلتك.
+19691	corpus-6-test-corpus-26-train	JED	أبا اشحن الشنط دي لطوكيو، لو سمحت.
+19694	corpus-6-test-corpus-26-train	JED	ممكن توريني شيء أكبر بشوي؟
+19703	corpus-6-test-corpus-26-train	JED	الملابس اللي انصعنت في اليأبانات مضبوطة اكثر.
+19715	corpus-6-test-corpus-26-train	JED	كان أفضل توقف.
+19716	corpus-6-test-corpus-26-dev	JED	قول مرة ثانية، لو سمحت.
+19722	corpus-6-test-corpus-26-train	JED	ممكن تكتب لي العنوان ورقم الجوال، لو سمحت؟
+19726	corpus-6-test-corpus-26-train	JED	دافيء؟
+19732	corpus-6-test-corpus-26-train	JED	أيش المطار اللي انا رايح منه؟
+19733	corpus-6-test-corpus-26-train	JED	ما استملت الاستمارة في الطيارة؟
+19735	corpus-6-test-corpus-26-train	JED	أبا مكوى.
+19752	corpus-6-test-corpus-26-dev	JED	كلها جات بتمانية وتلاتين دولار مع بعض.
+19754	corpus-6-test-corpus-26-train	JED	شكراً على مشاركتك لأفكارك المميزة معانا.
+19755	corpus-6-test-corpus-26-train	JED	انا اروح اتزحلق مرتين بالشهر خلال الموسم.
+19760	corpus-6-test-corpus-26-train	JED	ولدت في اول يوم في أبريل سنة الف وتسعمية وخمسة وخمسين.
+19769	corpus-6-test-corpus-26-test	JED	اقدر استعير مضارب؟
+19809	corpus-6-test-corpus-26-train	JED	دا الباص حق وسط المدينة؟
+19813	corpus-6-test-corpus-26-train	JED	كم سعر دا العطر؟
+19814	corpus-6-test-corpus-26-train	JED	عشان أيش؟
+19819	corpus-6-test-corpus-26-train	JED	وين اروح عشان اخلص الاجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	JED	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	JED	دا يدخل فيه الضريبة؟
+19853	corpus-6-test-corpus-26-test	JED	أيش هي الخراجات؟
+19862	corpus-6-test-corpus-26-train	JED	اتصل على الإسعاف لو سمحت.
+19864	corpus-6-test-corpus-26-dev	JED	حراهن بتلات دولار على دا.
+19871	corpus-6-test-corpus-26-train	JED	كيف كدا؟
+19889	corpus-6-test-corpus-26-train	JED	مافيه اكل ما يعجبني.
+19902	corpus-6-test-corpus-26-train	JED	يوم الدستور تلاتة مايو، هو عيد وطني في اليابان للاحتفال بتأسيس الدستور الياباني الحالي.
+19912	corpus-6-test-corpus-26-train	JED	هل دي الجولة فيها زيارة لبرج سيرز؟
+19923	corpus-6-test-corpus-26-train	JED	فيه مكتبة قريبة من هنا؟
+19928	corpus-6-test-corpus-26-train	JED	حروح المدرسة الصيفية في جامعة هواوي.
+19935	corpus-6-test-corpus-26-train	JED	فين حنمر دحين؟
+19945	corpus-6-test-corpus-26-train	JED	اتنين كبار و طفل عمره تلات سنوات.
+19959	corpus-6-test-corpus-26-train	JED	في حمام في المحطة.

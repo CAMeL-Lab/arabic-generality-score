@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	SFX	أوكي غادي، قدام مكتب الإرشادات السياحية بالضبط.
+9	corpus-6-test-corpus-26-train	SFX	أنا منعرفش الادريسة هذه قريبة من هوني.
+11	corpus-6-test-corpus-26-train	SFX	كمل القدام لين تارى الفارمسي.
+26	corpus-6-test-corpus-26-train	SFX	بقداش فطور الصباح؟
+27	corpus-6-test-corpus-26-train	SFX	كيفاش النجم نعاونك؟
+30	corpus-6-test-corpus-26-train	SFX	دور على الليسار مع الزنقة الثالثة.
+50	corpus-6-test-corpus-26-train	SFX	تحب الكريمة و السكر في قهوتك؟
+64	corpus-6-test-corpus-26-train	SFX	تنجم تصبلي الميتين دولار من الشاك هذا؟
+74	corpus-6-test-corpus-26-train	SFX	لو لازم يضهر، كلمني عيشك.
+86	corpus-6-test-corpus-26-train	SFX	وين تجي القهوة؟
+87	corpus-6-test-corpus-26-train	SFX	نحب مريول للأولاد.
+91	corpus-6-test-corpus-26-train	SFX	باهي. خمسة و ثمانين ألف في جواب عادي، تزيد ثلاثة دولار بالظبط باش يوصلك فيسع.
+120	corpus-6-test-corpus-26-test	SFX	انا نشريه لو كان كنت انت.
+129	corpus-6-test-corpus-26-train	SFX	باش نقابل مشاكل مع الديوانة؟
+130	corpus-6-test-corpus-26-train	SFX	عندك صبابط رسمية يكونو واسعين من شيرة الصوابع؟
+140	corpus-6-test-corpus-26-train	SFX	لا. تحب بيت بزوز فروشات لاستخدام شخص برك؟ عندنا وحدة حاضرة.
+143	corpus-6-test-corpus-26-train	SFX	نحب كيرلي قوي، يعيشك.
+145	corpus-6-test-corpus-26-train	SFX	تحب وحدة بيرة.
+157	corpus-6-test-corpus-26-train	SFX	صباح الخير. شنحوالك؟
+158	corpus-6-test-corpus-26-train	SFX	سامحني لازمني نطلب منك بطاقة التعريف.
+169	corpus-6-test-corpus-26-train	SFX	شنوة نوع الصوص؟
+170	corpus-6-test-corpus-26-train	SFX	أهو بارد شوية. تنجم تسخنه؟
+173	corpus-6-test-corpus-26-test	SFX	سامحني، لبلاصة واخذها شكون.
+176	corpus-6-test-corpus-26-train	SFX	باهي، أما تنجم تكلملي صاحبي؟
+177	corpus-6-test-corpus-26-test	SFX	يعيشك، هاذا كل شي.
+184	corpus-6-test-corpus-26-train	SFX	شكونو صاحبك بالباهي؟
+187	corpus-6-test-corpus-26-train	SFX	يوم الصحة والرياضة نهار عشرة أوكتوبر، يوم وطني باش نشجع على حياة صحية.
+192	corpus-6-test-corpus-26-train	SFX	تحب نثبت تحت الكبوت؟
+206	corpus-6-test-corpus-26-train	SFX	تنجم تعاوني باش نلقى الفليزة؟
+221	corpus-6-test-corpus-26-train	SFX	تنجم تاخو كل الأمور من الأول؟
+238	corpus-6-test-corpus-26-train	SFX	نتلها بروحي. يعيشك.
+261	corpus-6-test-corpus-26-train	SFX	وقت توصل الغادي، اطلب من واحد آخر، يعيشك.
+280	corpus-6-test-corpus-26-train	SFX	البلاصة اربعة و عشرين، يعيشك.
+285	corpus-6-test-corpus-26-train	SFX	اهم زوز دولار. حط الباقي عندك.
+315	corpus-6-test-corpus-26-train	SFX	همبرغر وتشيز برجر، يعيشك.
+319	corpus-6-test-corpus-26-train	SFX	قداش تاخو للاجراءات؟
+320	corpus-6-test-corpus-26-train	SFX	نحبو نخلصو كل واحد عشانا.
+326	corpus-6-test-corpus-26-train	SFX	كانت على كرسي في الكلوار.
+333	corpus-6-test-corpus-26-test	SFX	بلاهي بدل اليان بالجنيه.
+346	corpus-6-test-corpus-26-train	SFX	نحب على قاموس يتحط في الجيب، يعيشك.
+360	corpus-6-test-corpus-26-train	SFX	لزوز من الناس في السبعة متاع العشية، باسم واتانابي.
+368	corpus-6-test-corpus-26-train	SFX	منقالتي. ديجتال سايكو.
+370	corpus-6-test-corpus-26-train	SFX	فرحانين برشا باش نعتيوك مشروب تختارو إنت، متاع بعد العشاء. تلقى ليستت المشروب المقترحة على الرحلة هذه. في دليل المعلومات متاع المغازة متاعنا.
+373	corpus-6-test-corpus-26-test	SFX	تسكن من هوني؟
+375	corpus-6-test-corpus-26-train	SFX	وين موجود حانوت الكادوات؟
+386	corpus-6-test-corpus-26-test	SFX	انا في الاوتوروت نومرو واحد، بحذا مورو باي.
+391	corpus-6-test-corpus-26-train	SFX	نحب فياقة، يعيشك.
+398	corpus-6-test-corpus-26-dev	SFX	على فكرة، اسمي هيروشي إيجيما.
+401	corpus-6-test-corpus-26-dev	SFX	الترينو هذا ياقف في ليك فورست، موش هكا؟
+408	corpus-6-test-corpus-26-train	SFX	اكثرية الجابونيين ياكلو القرنيط و الكلامار.
+416	corpus-6-test-corpus-26-train	SFX	منين انجم ناخو تيكايات من الدرجة الثانية لشيكاغو، يعيشك؟
+419	corpus-6-test-corpus-26-train	SFX	مشيت لنيويورك.
+423	corpus-6-test-corpus-26-train	SFX	شنوة نومرو الرحلة؟
+442	corpus-6-test-corpus-26-test	SFX	بلاصة لنيويورك، يعيشك.
+446	corpus-6-test-corpus-26-train	SFX	في شوية أيام.
+447	corpus-6-test-corpus-26-train	SFX	الثاني على الليسار.
+471	corpus-6-test-corpus-26-dev	SFX	البطاقة هذه، باهي؟
+488	corpus-6-test-corpus-26-train	SFX	الاستقبال؟ فماشي مصحة قريبة من هوني؟
+493	corpus-6-test-corpus-26-train	SFX	عشرة دولار يكفيو لتكسي؟
+503	corpus-6-test-corpus-26-train	SFX	مطعمه غريب.
+512	corpus-6-test-corpus-26-train	SFX	أيه. إستنى، أنا باش نجيبهولك.
+516	corpus-6-test-corpus-26-train	SFX	شطر دبوسة، يعيشك.
+540	corpus-6-test-corpus-26-train	SFX	موش الهاكة الكل. حويجات موش غاليين.
+548	corpus-6-test-corpus-26-train	SFX	تلوج على حاجة معينة؟
+551	corpus-6-test-corpus-26-train	SFX	أربعة ليلات.
+553	corpus-6-test-corpus-26-train	SFX	حاجتي بقلاسة.
+565	corpus-6-test-corpus-26-train	SFX	تنجم تعمللنا سوم حيتو مبقع؟
+571	corpus-6-test-corpus-26-train	SFX	راجل دزني. بعد شلقت الي ستوشي ضاع.
+599	corpus-6-test-corpus-26-train	SFX	منيش عارف هزيتشي معايا دبش كافي لخرجة بثلاثة جمعات.
+612	corpus-6-test-corpus-26-train	SFX	هايل، نحبو نجربو الشراب الابيض.
+631	corpus-6-test-corpus-26-train	SFX	كان طلبني شكون، قلو الي انا في القهوة.
+632	corpus-6-test-corpus-26-train	SFX	متأكد الي انا حتيتها في الجيب الدخلاني متاع الكبوت.
+641	corpus-6-test-corpus-26-test	SFX	انجم نعرف اسم و نومرو متاع الشخص الي باش تكلمه؟
+643	corpus-6-test-corpus-26-train	SFX	شركة الطيران باش تدفعلي شراء حوايجي الشخصية؟
+650	corpus-6-test-corpus-26-train	SFX	نحب بيت فيها بانو.
+652	corpus-6-test-corpus-26-dev	SFX	حتى شيء مخرج من الماكينة؟
+667	corpus-6-test-corpus-26-test	SFX	كان لازمك تاخو الرحلة ثمنمية و عشرين الي طلعت عندها ربع ساعة. باهي. تو نارالك رحلة اخرى.
+673	corpus-6-test-corpus-26-train	SFX	فمى شكون حلي جوابي.
+679	corpus-6-test-corpus-26-test	SFX	أوه. ،حتى شيء. مادامكم هوني.
+680	corpus-6-test-corpus-26-train	SFX	اليابانية للطيران، الرحلة رقم واحد، اثنين، ثلاثة.
+681	corpus-6-test-corpus-26-train	SFX	لازمني نشري الشمبوان.
+683	corpus-6-test-corpus-26-train	SFX	تنجم تقلي وقتاش نوصلو لسنتر سيفيك؟
+688	corpus-6-test-corpus-26-train	SFX	وين إجي أقرب جزار؟
+703	corpus-6-test-corpus-26-train	SFX	نحبوا نقعدوا اربعة ليلات من واحد أوت.
+708	corpus-6-test-corpus-26-train	SFX	شنوة اسم الوردة هذه؟
+719	corpus-6-test-corpus-26-train	SFX	خمستاش سبتمبر نهار احترام الرجال الكبار.
+723	corpus-6-test-corpus-26-train	SFX	ما فماش صابون في بيتي.
+741	corpus-6-test-corpus-26-dev	SFX	شلازمني ناخو للتهرية هذه؟
+742	corpus-6-test-corpus-26-train	SFX	تنجم تصلح الفورميلار و تبدلو باللي قلتهولي؟
+761	corpus-6-test-corpus-26-test	SFX	قداش وقت لازمنا باش نكمنديو؟
+773	corpus-6-test-corpus-26-train	SFX	تجم تحكي بصوت عالي، يعيشك؟
+777	corpus-6-test-corpus-26-train	SFX	قداش تحبلو وقت باش يخرج؟
+786	corpus-6-test-corpus-26-train	SFX	وينهم المعلومات الرياضية؟
+787	corpus-6-test-corpus-26-train	SFX	الحجم هذا، هذه الي تقولو عليها قديمة، تقضي.
+793	corpus-6-test-corpus-26-test	SFX	وين و وقتاش توفا الخرجة؟
+848	corpus-6-test-corpus-26-train	SFX	وين لازمني نبدل الترينو باش نوصل لأدينبره؟
+855	corpus-6-test-corpus-26-train	SFX	نحب نحط هذا في صندوق امانات.
+859	corpus-6-test-corpus-26-train	SFX	وين انجم نبدل فلوسي؟
+897	corpus-6-test-corpus-26-train	SFX	انجموا نحتوا حوايجنا في الكار، الى الحوايج الغالين؟
+902	corpus-6-test-corpus-26-train	SFX	باالله السوم هذا متاع شنوة.
+917	corpus-6-test-corpus-26-train	SFX	باش ندفع خمسين دولار.
+941	corpus-6-test-corpus-26-train	SFX	توا وليت نعرف كونه كان غالط.
+957	corpus-6-test-corpus-26-dev	SFX	أكيدا معاك. ريزارفيت طولة لليلة مع الستة و نصف. اما سامحني باش نجي امخر بنصف ساعة.
+1003	corpus-6-test-corpus-26-train	SFX	قداش انجم نشري افاح بلاش تاكس؟
+1007	corpus-6-test-corpus-26-train	SFX	في مجال السياحة.
+1010	corpus-6-test-corpus-26-train	SFX	هايل برشا، بالله صححهم. كيفاش تحبهم؟
+1023	corpus-6-test-corpus-26-test	SFX	مازالو فما بلايص للبريزانتسيون متاع الليلة؟
+1036	corpus-6-test-corpus-26-train	SFX	نحبو شيلة بيلة.
+1037	corpus-6-test-corpus-26-dev	SFX	مفقتش كيف الفياقة نوقزت الستة و نصف.
+1038	corpus-6-test-corpus-26-train	SFX	انا مصور نخدم وحدي.
+1047	corpus-6-test-corpus-26-train	SFX	الي يخدموا في الكازينو انجموا يبدلولك دولاراتك اما تعتيهم حويجة. ايا برا؟
+1056	corpus-6-test-corpus-26-dev	SFX	عندنا ثلاثين نوع متاع زيوتة للبانو.
+1062	corpus-6-test-corpus-26-train	SFX	تو نعملك سوم الجمعة الجاية.
+1074	corpus-6-test-corpus-26-train	SFX	يعيشك. بقداش يعملو القواندوات؟
+1098	corpus-6-test-corpus-26-train	SFX	لازمني نمشي. تو نكلمك بعد.
+1100	corpus-6-test-corpus-26-train	SFX	نحب على كوش للصغيرات.
+1122	corpus-6-test-corpus-26-train	SFX	منين جاي حوت الفراشات؟
+1124	corpus-6-test-corpus-26-train	SFX	تنجم تبدلهم للدولار، يعيشك؟
+1139	corpus-6-test-corpus-26-train	SFX	عندنا برشا زهر. عندهم القياس اربعة و ثلاثين في مغازة الا موانا.
+1146	corpus-6-test-corpus-26-train	SFX	فما كرهبة طويلة؟
+1163	corpus-6-test-corpus-26-dev	SFX	تنجم تقيمني مع االخمسة و نصف غدوة الصباح؟
+1165	corpus-6-test-corpus-26-train	SFX	نحب بيت رايضة.
+1167	corpus-6-test-corpus-26-train	SFX	نحب اسيتون.
+1183	corpus-6-test-corpus-26-train	SFX	نحب عمارة.
+1193	corpus-6-test-corpus-26-test	SFX	شنو فما فرقة لايف ولا دي جاي؟
+1194	corpus-6-test-corpus-26-train	SFX	انجم نكري ادوات متاع غطس؟
+1199	corpus-6-test-corpus-26-dev	SFX	نحب نريزارفي بيت لاربعة ليلات من نهار اثنين و عشرين ديسمبر.
+1212	corpus-6-test-corpus-26-train	SFX	في الساك هذا، مهما كان الطقس؟
+1213	corpus-6-test-corpus-26-train	SFX	نحب كعكة، يعيشك.
+1218	corpus-6-test-corpus-26-train	SFX	نحب نكري كرهبة بوات اوتو على نهارين.
+1224	corpus-6-test-corpus-26-train	SFX	فاتتني الرحلة عشرين الي ماشيا لسانفرانسيسكو.
+1234	corpus-6-test-corpus-26-train	SFX	بقداش للمطار؟
+1235	corpus-6-test-corpus-26-train	SFX	هايل، وقتاش هذا؟
+1276	corpus-6-test-corpus-26-train	SFX	قداش عمرها بنتك؟
+1312	corpus-6-test-corpus-26-train	SFX	تنجم تعطينو ليستة الوتلا النضاف و الرخاص؟
+1321	corpus-6-test-corpus-26-train	SFX	انجم نعطيوك بيت مرتاحة في قصر قديم بحذا نادي قولف.
+1329	corpus-6-test-corpus-26-train	SFX	ننصحك بيه، ماكلته مية بالمية طبيعية.
+1361	corpus-6-test-corpus-26-dev	SFX	الترينو ياقف في براغتون؟
+1369	corpus-6-test-corpus-26-train	SFX	تنجم توريني ون نلقى تكسي؟
+1375	corpus-6-test-corpus-26-train	SFX	زوز تساكر درجة ثانية، يعيشك.
+1384	corpus-6-test-corpus-26-train	SFX	معمل باش نبعث فاكس.
+1394	corpus-6-test-corpus-26-train	SFX	نحب على حدادة متاع سفر.
+1396	corpus-6-test-corpus-26-train	SFX	انجم نعطيك حاجة؟
+1404	corpus-6-test-corpus-26-train	SFX	نهاري؟ منجمش نطلبه من عنده اما شنوة تقصد بالضبط؟
+1418	corpus-6-test-corpus-26-train	SFX	نحب وحدة فيها الجوابات اما ماهياش مطوية.
+1433	corpus-6-test-corpus-26-test	SFX	ايه، اما ماهياش قوية.
+1434	corpus-6-test-corpus-26-train	SFX	عندي حساسية من القطاطس.
+1436	corpus-6-test-corpus-26-train	SFX	ايه، ،لازمك رخصة باش تسوق، اه، ولازم عندك ترخيص متاع سياقة تكسي و كراهب طوال.
+1462	corpus-6-test-corpus-26-train	SFX	تفضل، يا سيد.
+1465	corpus-6-test-corpus-26-test	SFX	منجمتش نتحصل على ماء سخون.
+1474	corpus-6-test-corpus-26-train	SFX	نحب نريسارفي بيت لليلة.
+1492	corpus-6-test-corpus-26-train	SFX	لا، التاكس و الخدمات ماهوماش داخلين.
+1506	corpus-6-test-corpus-26-train	SFX	تحب نجريو مع بعضنا بعد نصف النهار؟
+1508	corpus-6-test-corpus-26-test	SFX	اهلا، الروبة تقتل بالزين.
+1519	corpus-6-test-corpus-26-train	SFX	فوالا، التالفون بدا. تفضل.
+1525	corpus-6-test-corpus-26-train	SFX	شنوة نومرو الباب؟
+1539	corpus-6-test-corpus-26-train	SFX	شنوة تتفكر من هاواي؟
+1556	corpus-6-test-corpus-26-train	SFX	انجم نمشي بالميترو؟
+1560	corpus-6-test-corpus-26-train	SFX	نحب نجبد شعري.
+1562	corpus-6-test-corpus-26-train	SFX	الكلام هذا باش يعطي حاجة؟
+1585	corpus-6-test-corpus-26-train	SFX	جيت من النورفيج.
+1603	corpus-6-test-corpus-26-dev	SFX	من عشرة ل اثناش، يعيشك.
+1619	corpus-6-test-corpus-26-train	SFX	امالا. تراه نشوف. ضهرلي تضربت بالهرجان.
+1620	corpus-6-test-corpus-26-train	SFX	كان ستحقيت، اعطيني نومرو الشخص المسئول.
+1622	corpus-6-test-corpus-26-train	SFX	فما اوتوروت؟
+1630	corpus-6-test-corpus-26-train	SFX	شبيه ماجاش للحفلة البارح؟
+1637	corpus-6-test-corpus-26-train	SFX	فما اكسيدون.
+1650	corpus-6-test-corpus-26-train	SFX	سامحني، عندي النومرو الغالط.
+1653	corpus-6-test-corpus-26-test	SFX	بآلله قيد نومرو بطاقة تعريفك.
+1663	corpus-6-test-corpus-26-dev	SFX	منجمش نريقل التصويرة.
+1668	corpus-6-test-corpus-26-train	SFX	تشيسبورجر و كاس عصير قارس، يعيشك.
+1670	corpus-6-test-corpus-26-test	SFX	اهو بسبوري.
+1682	corpus-6-test-corpus-26-test	SFX	ايه، يعيشك. اه، انجم نطلع لآخر طابق؟
+1702	corpus-6-test-corpus-26-train	SFX	انجم ناخو زوز تساكر لحفلة الموسيقى للجمعة الجاية؟
+1718	corpus-6-test-corpus-26-train	SFX	مسافر آخر قال يحب يبدل بلاسته ببلاستك.
+1754	corpus-6-test-corpus-26-train	SFX	انجم نزيد في الاقامة؟
+1766	corpus-6-test-corpus-26-train	SFX	قلي، تعرف بلايص سماح يستاهلو نزوروهم و يكونو قراب من هوني؟
+1768	corpus-6-test-corpus-26-dev	SFX	لا، نحب نكري شطر مجموعة مضارب و صباط.
+1782	corpus-6-test-corpus-26-train	SFX	بالله اعلمني كيف تلقى ساكي؟
+1788	corpus-6-test-corpus-26-train	SFX	شسمو المنتزه؟
+1791	corpus-6-test-corpus-26-train	SFX	عندي خبش.
+1792	corpus-6-test-corpus-26-dev	SFX	شفم بلايس سماح للسياحة؟
+1800	corpus-6-test-corpus-26-train	SFX	نجم ناخو غلة؟
+1834	corpus-6-test-corpus-26-train	SFX	نجم نفطر تو؟
+1837	corpus-6-test-corpus-26-train	SFX	لازمني نبدل الدولارات هاذم.
+1867	corpus-6-test-corpus-26-train	SFX	لازمني تكسي. انا تو في ساوث مين و ليبرتي.
+1876	corpus-6-test-corpus-26-dev	SFX	اكيد. تحب كيرلي؟
+1878	corpus-6-test-corpus-26-train	SFX	ماهياش تفاحة هاكي خوخة.
+1903	corpus-6-test-corpus-26-train	SFX	باش نعتيك اوردنونس. هزها للفرمسي.
+1927	corpus-6-test-corpus-26-train	SFX	ناخذوا الطيارة ثلاثة مرات في الجمعة، ثلاث، جمعة و سبت.
+1931	corpus-6-test-corpus-26-dev	SFX	غالي، موش هكا؟
+1948	corpus-6-test-corpus-26-train	SFX	ايه، عنا. باش نحظروهالك.
+1950	corpus-6-test-corpus-26-dev	SFX	تجم تحط عندك باقاجي حتى للثلاثة متاع العشية؟
+1951	corpus-6-test-corpus-26-train	SFX	لا، نحب كان نتعدى.
+1954	corpus-6-test-corpus-26-dev	SFX	نجم ناخذ اكري-كرهبة هوني؟
+1968	corpus-6-test-corpus-26-train	SFX	انت أمريكي؟
+1980	corpus-6-test-corpus-26-test	SFX	هوني يعيشك.
+1985	corpus-6-test-corpus-26-train	SFX	كرهبتي مراكية.
+1988	corpus-6-test-corpus-26-train	SFX	وين اجي ضل العنين؟
+1993	corpus-6-test-corpus-26-train	SFX	نحبوا بلاصة هافتة، كان تنجم.
+1997	corpus-6-test-corpus-26-train	SFX	التكسي فاضي؟
+1998	corpus-6-test-corpus-26-train	SFX	هذه محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	SFX	في اما وقت لازمني نرجع؟
+2003	corpus-6-test-corpus-26-train	SFX	نحب دبوزة صغيرة شراب ابيض.
+2005	corpus-6-test-corpus-26-train	SFX	ايواه. نجم ناخو فطوري من بعد. منيش مريقل توا.
+2025	corpus-6-test-corpus-26-train	SFX	على فكرة، عندي الجديد. باش نعرس.
+2033	corpus-6-test-corpus-26-train	SFX	سروال آخر؟
+2035	corpus-6-test-corpus-26-train	SFX	نجم ناخو البرنامج؟
+2052	corpus-6-test-corpus-26-train	SFX	فما حد اقتحم بيتي البارح في الليل.
+2055	corpus-6-test-corpus-26-train	SFX	وريني الحوت الي ريته اليوم في الكتاب، يعيشك.
+2083	corpus-6-test-corpus-26-train	SFX	شوف المعلومات في اللومبالاج متاع الماكلة.
+2086	corpus-6-test-corpus-26-train	SFX	نحب التساكرر.
+2100	corpus-6-test-corpus-26-test	SFX	سرقلي سطوشي و هرب.
+2119	corpus-6-test-corpus-26-train	SFX	معندكش دروس تجريبية؟
+2147	corpus-6-test-corpus-26-train	SFX	منين نشري تنابر؟
+2148	corpus-6-test-corpus-26-train	SFX	جيت من بريطانيا.
+2156	corpus-6-test-corpus-26-train	SFX	تو نشوف مع مرتي.
+2161	corpus-6-test-corpus-26-train	SFX	نحب ترجعولي فلوسي متاع هذا.
+2179	corpus-6-test-corpus-26-train	SFX	فما تكسيفون قدام البانكة.
+2180	corpus-6-test-corpus-26-train	SFX	نجي نهار تسعة مارس و نرجع نهار اربعطاش.
+2205	corpus-6-test-corpus-26-train	SFX	غالي شوية، موش هكة؟
+2235	corpus-6-test-corpus-26-train	SFX	عندك الصبات العالي؟
+2236	corpus-6-test-corpus-26-train	SFX	وين يجي طريق الترونو؟
+2238	corpus-6-test-corpus-26-train	SFX	عندكم ديسار؟
+2302	corpus-6-test-corpus-26-train	SFX	تتكلم عليه؟
+2306	corpus-6-test-corpus-26-train	SFX	هي بيدها ليلي انا.
+2318	corpus-6-test-corpus-26-train	SFX	سلعتي ما وصلتنيش.
+2324	corpus-6-test-corpus-26-train	SFX	فما برشا بلايص متاع ماء شخون.
+2329	corpus-6-test-corpus-26-train	SFX	بالله بدلي خمسين ألف يان للدولار الامريكي.
+2338	corpus-6-test-corpus-26-train	SFX	هايل بالنسبة ليلي. اما، نحب تكيف.
+2347	corpus-6-test-corpus-26-test	SFX	منين نكري زحلاقات و صبابط؟
+2353	corpus-6-test-corpus-26-dev	SFX	نسيت شنو استهلكنا؟
+2368	corpus-6-test-corpus-26-test	SFX	تنجم تبعثها للادريسة متاعي في اليابان و باش نرجعلك فلوس دوليا؟
+2381	corpus-6-test-corpus-26-train	SFX	نحب شراب احمر.
+2389	corpus-6-test-corpus-26-train	SFX	الى اذا كانت متاعك، يا سيد. اوه، اوه، نفدلك.
+2401	corpus-6-test-corpus-26-train	SFX	اكيد. كيفاش نجم نعاونك؟
+2412	corpus-6-test-corpus-26-dev	SFX	عنا بيرة، ويسكي، كونياك، جين، فودكا و شراب عنب.
+2425	corpus-6-test-corpus-26-train	SFX	بطاقة تعريف؟ ايه. جواز سفر باهي؟
+2428	corpus-6-test-corpus-26-train	SFX	نومرو بيتي ثلاثمية و ستة و عشرين. تنجم تاخذ الي الغسيل متاعي؟
+2440	corpus-6-test-corpus-26-train	SFX	تو نشوف فماشي حاجة تعجب.
+2441	corpus-6-test-corpus-26-train	SFX	نحب طنجرة.
+2445	corpus-6-test-corpus-26-train	SFX	جيبلي جبن مهروش.
+2462	corpus-6-test-corpus-26-train	SFX	سوارية ينجمو يتغسلو من هوني لغدوة؟
+2476	corpus-6-test-corpus-26-train	SFX	قله يكلمني؟
+2490	corpus-6-test-corpus-26-train	SFX	اي علاش؟
+2492	corpus-6-test-corpus-26-train	SFX	سامحني. فما مكتبة قريبة من هوني؟
+2496	corpus-6-test-corpus-26-test	SFX	ضاهرلي راك عملت غلطة. البيت خالصة من الاول. خذيتهم.
+2505	corpus-6-test-corpus-26-train	SFX	الكار غادي.
+2516	corpus-6-test-corpus-26-train	SFX	نحب زوز رولات متاع أيزو مية، فيلم ألوان، ستة و ثلاثين لقتة، يعيشك.
+2519	corpus-6-test-corpus-26-train	SFX	نحب هصب الشاك هذا الي فيه سبعين دولار.
+2521	corpus-6-test-corpus-26-train	SFX	نحب نشري عشرة تنابر للكارتوات بوستال للباش نبعثهم لليابان، يعيشك.
+2528	corpus-6-test-corpus-26-train	SFX	فما بنوك قريبة من محطة الترينو؟
+2531	corpus-6-test-corpus-26-train	SFX	ضهرلي فاما غلطة في الحسبة.
+2552	corpus-6-test-corpus-26-test	SFX	من هوني.
+2557	corpus-6-test-corpus-26-train	SFX	تشيز برجر باش نهزه، يعيشك.
+2578	corpus-6-test-corpus-26-test	SFX	صعيب باش نعملوا التصميم من غير كمبيوتر.
+2591	corpus-6-test-corpus-26-train	SFX	اجري.
+2601	corpus-6-test-corpus-26-train	SFX	الجيلية متاعي تقطعت هوني. متنجمش تخياطهالي، يعيشك؟
+2613	corpus-6-test-corpus-26-dev	SFX	بقداش سوم السباق لمانشستر؟
+2643	corpus-6-test-corpus-26-train	SFX	تنجم تسلفني الخيط متاع التخديم؟
+2644	corpus-6-test-corpus-26-train	SFX	منين انجم نشري زربية متاع بحر؟
+2670	corpus-6-test-corpus-26-test	SFX	ايه، عاودلي الحجز، يعيشك.
+2676	corpus-6-test-corpus-26-train	SFX	اعطيني قديمة سالامين موش طايبة بارشا، اما موش اكبر من هذه.
+2678	corpus-6-test-corpus-26-train	SFX	باش نجيو السبعة.
+2687	corpus-6-test-corpus-26-train	SFX	كيف نشوف اسوام طايحة، شيء يضحك كيف تشري كل شيء من اليابان.
+2690	corpus-6-test-corpus-26-train	SFX	ملفاتي زادة تسرقوا.
+2695	corpus-6-test-corpus-26-train	SFX	كورنو قلاس فانليا، يعيشك.
+2702	corpus-6-test-corpus-26-train	SFX	موافقك. ولى طبيعي.
+2704	corpus-6-test-corpus-26-train	SFX	رد بالك من المشي، رد بالك من المشي، يعيشك.
+2707	corpus-6-test-corpus-26-train	SFX	حاجتي بكارطة متاع بانكا.
+2708	corpus-6-test-corpus-26-dev	SFX	اهو النومرو.
+2715	corpus-6-test-corpus-26-test	SFX	ورني بلاصة سمحة على النهر هذا، يعيشك.
+2726	corpus-6-test-corpus-26-train	SFX	تنجم تعطيني ملخص للصار.
+2729	corpus-6-test-corpus-26-train	SFX	لا، يعيشك، موش توا.
+2734	corpus-6-test-corpus-26-train	SFX	باهي، اقعد معايا. سي ناكاجيما، للة سايتو ضاهرلي موش باش يهزوا عليك. تونحطهم يكلموك بعد مدة؟
+2736	corpus-6-test-corpus-26-dev	SFX	يمكن، اما لازمنا نحطوهم بعاد على بعضهم.
+2747	corpus-6-test-corpus-26-train	SFX	ضاهرلي نزف برشا.
+2748	corpus-6-test-corpus-26-train	SFX	وين اجي البلاصة متاع الاستلام متاع الباقاج للرحلة سبعمية و ثلاثة؟
+2760	corpus-6-test-corpus-26-train	SFX	متشجعش في فريقك بالباهي.
+2765	corpus-6-test-corpus-26-train	SFX	فزدت؟
+2772	corpus-6-test-corpus-26-train	SFX	لا، يعشك، تو نعمل جهدي باش معاش نشرب.
+2808	corpus-6-test-corpus-26-train	SFX	نعطيني اسامي الانهج الي فيهم المغازات باش نشري.
+2811	corpus-6-test-corpus-26-dev	SFX	اكار هذه تمشي لوتيل هيلتن؟
+2816	corpus-6-test-corpus-26-train	SFX	رد بالك، ماهواش تبلو عادي كيما الاخرين. هذه خدمة متاع تسيريتارو كاتوكا، فنان مشهور في العالم.
+2850	corpus-6-test-corpus-26-train	SFX	نحب برشا الغنى القديم.
+2851	corpus-6-test-corpus-26-dev	SFX	انجم نستدعاك للعشاء في ليلة من الليالي؟
+2862	corpus-6-test-corpus-26-train	SFX	باهي، شنوة اسم ونومرو الطرف الاخر متاعك، عيشك.
+2871	corpus-6-test-corpus-26-train	SFX	سامحني. خليني نخرج، عيشك.
+2878	corpus-6-test-corpus-26-train	SFX	تنجم تكلملي خدام يحكي ياباني؟
+2898	corpus-6-test-corpus-26-train	SFX	ديما نمشيو نزوروا عائلتنا.
+2939	corpus-6-test-corpus-26-train	SFX	ميكي هاياكاوا. بيت نومرو سبع مية و ثنين.
+2945	corpus-6-test-corpus-26-train	SFX	لازمني نعدي الليلة هوني، موش هكا؟ تنجم تعاوني باش ناخذ بيت في وتيل؟
+2947	corpus-6-test-corpus-26-train	SFX	معاش برشة. ربع ساعة على اكثر.
+2960	corpus-6-test-corpus-26-train	SFX	تقلي بقداش التالفون هذا؟
+2964	corpus-6-test-corpus-26-train	SFX	هايل، تجم تقله راني كلمته، يعيشك؟ تو نكلمها من بعد.
+2973	corpus-6-test-corpus-26-train	SFX	فما جولة سياحية في الصباح؟
+2982	corpus-6-test-corpus-26-train	SFX	تبدل فلوس متاع البرة؟
+2983	corpus-6-test-corpus-26-test	SFX	الفلوس الي عندنا قرابت خمسين دولار لثلاثة من ناس.
+2990	corpus-6-test-corpus-26-train	SFX	منين نشري فيلم متاع مصورة؟
+2995	corpus-6-test-corpus-26-train	SFX	عندكم بيرة يابانية؟
+3001	corpus-6-test-corpus-26-test	SFX	نحب شورت عومان صغير، يعيشك.
+3016	corpus-6-test-corpus-26-train	SFX	نحب نسجل باقاجي.
+3029	corpus-6-test-corpus-26-train	SFX	انا الآنسة كاوازي من البيت الف و ستة مية واحداش.
+3030	corpus-6-test-corpus-26-train	SFX	العفو.
+3038	corpus-6-test-corpus-26-dev	SFX	ما عنديش.
+3040	corpus-6-test-corpus-26-train	SFX	شنوة عندكم خير انتم اليابانيين؟ راس العام ولا نوال؟
+3041	corpus-6-test-corpus-26-test	SFX	بلاصتك نومرو ثنين و ثلاثين ايه. امشي لنهاية الكولوار هذا، البلاصة الي بحذا البرسانة.
+3073	corpus-6-test-corpus-26-train	SFX	دقيقة، يعيشك.
+3109	corpus-6-test-corpus-26-train	SFX	عمر مطلب ضياع.
+3111	corpus-6-test-corpus-26-dev	SFX	منفهمش الدارجة الامريكانية، نحكي انقليزي بريطاني.
+3120	corpus-6-test-corpus-26-train	SFX	من امس.
+3129	corpus-6-test-corpus-26-train	SFX	سيقورتة الاصطدام و المسؤلية القانونية داخلة.
+3134	corpus-6-test-corpus-26-test	SFX	ضيعت بطاءة الاستلام متاعي.
+3152	corpus-6-test-corpus-26-train	SFX	عندكمشي انواع سماح متاع شكاكل؟
+3155	corpus-6-test-corpus-26-train	SFX	نكلم في عيادة عمومية عند ماكيس.
+3170	corpus-6-test-corpus-26-test	SFX	كبار بارشا.
+3176	corpus-6-test-corpus-26-train	SFX	بقداش سوم البركينق؟
+3179	corpus-6-test-corpus-26-train	SFX	سيداتي سادتي، في رحلتنا اليوم، عنا خدامة معنا يابانيين لابسين علم على فاستهم. كان تلقاوا واحد يحب نعاونوه في اللغة قولولنا.
+3182	corpus-6-test-corpus-26-train	SFX	عندكش مدة فنية تحبها؟
+3185	corpus-6-test-corpus-26-train	SFX	بالله ثبت مرة اخرى.
+3195	corpus-6-test-corpus-26-train	SFX	اهبط لاخر الواد لنصف مايل كيلوماتر هكاكة تو توصل للنادي.
+3201	corpus-6-test-corpus-26-dev	SFX	لا، مقاومين بارشا.
+3207	corpus-6-test-corpus-26-train	SFX	باهي، تو نوصلها للاس فيغاس على خاطرك.
+3209	corpus-6-test-corpus-26-train	SFX	نحب على تريكو متاع جريان.
+3220	corpus-6-test-corpus-26-train	SFX	تحبشي حاجة اخرى من البار؟
+3222	corpus-6-test-corpus-26-dev	SFX	من هوني، يعيشك. خوذ الاسانسور.
+3238	corpus-6-test-corpus-26-train	SFX	تعمل المليح كان تاخذ ترينو الثمنية و نصف.
+3267	corpus-6-test-corpus-26-test	SFX	فما سينما في البلاصة هذه؟
+3269	corpus-6-test-corpus-26-train	SFX	توة موسم المحار، هاكا علاش باهين.
+3279	corpus-6-test-corpus-26-train	SFX	نحب مع منقالة ثانية.
+3284	corpus-6-test-corpus-26-train	SFX	باش نسجل في التسعة متاع الليل.
+3285	corpus-6-test-corpus-26-train	SFX	توة امخر. لازمني نمشي.
+3289	corpus-6-test-corpus-26-train	SFX	مستعملتش خدمة الغسيل متاعك. تنجم تعاود تثبت هذا؟
+3292	corpus-6-test-corpus-26-train	SFX	نحب تاي، يعيشك.
+3295	corpus-6-test-corpus-26-train	SFX	لا، ماعندناش.
+3304	corpus-6-test-corpus-26-train	SFX	هذه آخر محطة؟
+3318	corpus-6-test-corpus-26-train	SFX	كلمه.
+3323	corpus-6-test-corpus-26-train	SFX	حر بارشا؟
+3334	corpus-6-test-corpus-26-train	SFX	وين نلقى كار متاع توريست؟
+3335	corpus-6-test-corpus-26-train	SFX	ايه، نحب نزور المدينة.
+3351	corpus-6-test-corpus-26-test	SFX	فما بارشا توريست بحذا العمارة هذه. وقيلة تلموا باش ياراو شنوة الي صاير.
+3359	corpus-6-test-corpus-26-train	SFX	يعيشك على اسعافي.
+3375	corpus-6-test-corpus-26-train	SFX	الصدق اعز حاجة في السياسة.
+3385	corpus-6-test-corpus-26-train	SFX	تنجم تقيمني الستة، يعيشك؟
+3392	corpus-6-test-corpus-26-train	SFX	بقداش شطر النهار؟
+3397	corpus-6-test-corpus-26-train	SFX	اسمي كانجي.
+3402	corpus-6-test-corpus-26-train	SFX	تعرف بلايص سماح نمشيولهم في شيكاغو؟
+3404	corpus-6-test-corpus-26-train	SFX	هايل، كان تشد فيا، تو نمشي معاك.
+3413	corpus-6-test-corpus-26-dev	SFX	تحب تبدل هذا بهذا من نفس النوع، يعيشك؟
+3446	corpus-6-test-corpus-26-train	SFX	نحب نعمل حجز للثلاثة و نصف متاع القايلة.
+3489	corpus-6-test-corpus-26-train	SFX	الصندوق المسكر، يعيشك.
+3502	corpus-6-test-corpus-26-train	SFX	اختار الشراب الي يساعدك.
+3512	corpus-6-test-corpus-26-test	SFX	نحب بلاصة صغيرة.
+3522	corpus-6-test-corpus-26-train	SFX	لازمني نخلص الليسانس؟
+3557	corpus-6-test-corpus-26-train	SFX	سارق. شدوه.
+3562	corpus-6-test-corpus-26-test	SFX	نستناو في صحابنا يجيو.
+3572	corpus-6-test-corpus-26-train	SFX	بالله تعطيني صرف، يعيشك.
+3619	corpus-6-test-corpus-26-test	SFX	كيرلي بارشا، يعيشك.
+3628	corpus-6-test-corpus-26-train	SFX	صغرونة و سميحة.
+3638	corpus-6-test-corpus-26-test	SFX	شكون الاوبرا اليوم؟
+3640	corpus-6-test-corpus-26-train	SFX	في الطبق، يعيشك.
+3644	corpus-6-test-corpus-26-train	SFX	الغسيل متاعي ما رجعش.
+3649	corpus-6-test-corpus-26-train	SFX	بالمناسبة، ما عندك ما تعمل نهار السبت الجاي؟
+3667	corpus-6-test-corpus-26-train	SFX	اي باهي، يمكن سمعناكم بالباهي.
+3669	corpus-6-test-corpus-26-train	SFX	تصرفت معايا تقولشي عليا متسول.
+3683	corpus-6-test-corpus-26-train	SFX	ريت. حتى تنجم تعاوني على مشكل آخر؟
+3685	corpus-6-test-corpus-26-train	SFX	تنجم تريقلي مريات الشمس على قياسي؟
+3698	corpus-6-test-corpus-26-dev	SFX	باش ناخذ زوز.
+3705	corpus-6-test-corpus-26-train	SFX	ملا كلب سمح. شنوة نوعه؟
+3721	corpus-6-test-corpus-26-train	SFX	طيحت فرشيطي. تنجم تجيبلي وحدة اخرى، يعيشك.
+3742	corpus-6-test-corpus-26-train	SFX	كان باهي.
+3747	corpus-6-test-corpus-26-train	SFX	مالا. امشي طول و دور على الليمين مع الشارع الثالث. تو تلقاه على يمينك.
+3765	corpus-6-test-corpus-26-dev	SFX	عندك فيلم مصورة بالالوان؟
+3780	corpus-6-test-corpus-26-train	SFX	تعرف كاتي؟ هذه حفلة عيد ميلاده.
+3789	corpus-6-test-corpus-26-train	SFX	عندك رسم توضيحي؟
+3792	corpus-6-test-corpus-26-dev	SFX	انجم نخلص بشاك سياحي؟
+3806	corpus-6-test-corpus-26-train	SFX	اما قله، انت، كيفاش يعرف كان صحيح؟
+3825	corpus-6-test-corpus-26-train	SFX	هذا رجعت فلوسو؟
+3829	corpus-6-test-corpus-26-train	SFX	مانجمتش نحط باقاجي تحت الكرسي. تنجم تحطهم عندك، يعيشك؟
+3835	corpus-6-test-corpus-26-train	SFX	تنجم تحط الفاليز في الكوفر يعيشك؟
+3847	corpus-6-test-corpus-26-train	SFX	كيف نخرج توة، باش نمشي نلوج عليه.
+3856	corpus-6-test-corpus-26-train	SFX	بالله ابعث واحد يلوج على باقاجي الستة و نصف.
+3858	corpus-6-test-corpus-26-dev	SFX	نحب كارطة لسانفرانسيسكو و احوازها.
+3859	corpus-6-test-corpus-26-train	SFX	شنوة نوع الخبز الي عندك؟
+3860	corpus-6-test-corpus-26-train	SFX	وين الاسانسور؟
+3861	corpus-6-test-corpus-26-train	SFX	فماشي شكون يعرف يعزف بابيانو؟
+3872	corpus-6-test-corpus-26-test	SFX	في اما محطة لازمني نهبط باش نمشي لامباير ستيت بيلدينج؟
+3887	corpus-6-test-corpus-26-test	SFX	فلوسنا اقل من الف دولار.
+3892	corpus-6-test-corpus-26-train	SFX	ايه، اما ما نتصورش عندنا الوقت باش نقعدوا زوز ليلات. تنجم تاخذلي بيت بزوز فروشة في الوتيل هذا لليلة اثناش مارس اكهاو؟
+3900	corpus-6-test-corpus-26-dev	SFX	انجم ناخذ بيت بزوز فروشة اتطل على البحر؟
+3920	corpus-6-test-corpus-26-train	SFX	مازلنا مخذيناش قرار.
+3928	corpus-6-test-corpus-26-train	SFX	صاحبي عثر و ساقو تلوات.
+3936	corpus-6-test-corpus-26-train	SFX	باش نجرب القلاس.
+3961	corpus-6-test-corpus-26-train	SFX	فما مطعم تايلندي بجنبنا؟
+3972	corpus-6-test-corpus-26-train	SFX	بجنب العمارة الكبيرة. ارجع للضوء، بعد دور على الليسار.
+3974	corpus-6-test-corpus-26-train	SFX	لازمني ناخذ الطيارة هذه للوس انجلس بكري غدوة الصباح.
+3988	corpus-6-test-corpus-26-train	SFX	"اي، نقترح عليك بكل ثقة ""جولة لمدينة سان فرانسيسكو"" هاذي. تعطيك نضرة شاملة على سان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	SFX	نحب نكلم سيقورتة.
+3995	corpus-6-test-corpus-26-test	SFX	باش نعمل لسقة باردة باش تخفف الوجيعة.
+4013	corpus-6-test-corpus-26-train	SFX	تحب تشري روبة.
+4016	corpus-6-test-corpus-26-train	SFX	بقداش نمشي للوتيل هذا بالتكسي؟
+4017	corpus-6-test-corpus-26-train	SFX	وين بيت الراحة؟
+4034	corpus-6-test-corpus-26-train	SFX	باش تدخل للبنية هذه بالفلوس؟
+4036	corpus-6-test-corpus-26-train	SFX	اعمل كيفما تحب.
+4082	corpus-6-test-corpus-26-test	SFX	نلوج على حاجة نلبسها.
+4104	corpus-6-test-corpus-26-train	SFX	البرسانة تبلاكات.
+4109	corpus-6-test-corpus-26-dev	SFX	من اما شيرة ثم يونيون سكوير؟
+4119	corpus-6-test-corpus-26-train	SFX	نصف وقية من شانيل نومرو خمسة، يعيشك.
+4129	corpus-6-test-corpus-26-train	SFX	شقول تاخذ قهيوة؟
+4143	corpus-6-test-corpus-26-train	SFX	لازمني تسكرة؟
+4182	corpus-6-test-corpus-26-train	SFX	بقداش الخدمة؟
+4185	corpus-6-test-corpus-26-train	SFX	قداش وقت من هوني؟
+4187	corpus-6-test-corpus-26-train	SFX	كريمة و سكر؟
+4193	corpus-6-test-corpus-26-train	SFX	تعملوا تخفيض للمشاركين؟
+4219	corpus-6-test-corpus-26-train	SFX	فم سوبر اكسبريس التسعة و نصف؟
+4221	corpus-6-test-corpus-26-train	SFX	ثبت زيت الفران و الموتور. موتورك ضاهرلي باش يعوق.
+4224	corpus-6-test-corpus-26-train	SFX	ماكانتش غلطتي.
+4262	corpus-6-test-corpus-26-train	SFX	ثم قصة متاع ضوء.
+4263	corpus-6-test-corpus-26-train	SFX	خبرت الشرطة.
+4269	corpus-6-test-corpus-26-train	SFX	كل واحد لازمه يخلص ماكلته؟
+4275	corpus-6-test-corpus-26-train	SFX	منين ما تحب ولا في وقت مابين ثلاثين و خمسين دولار الليلة.
+4278	corpus-6-test-corpus-26-train	SFX	بالله صلحلي هذه.
+4284	corpus-6-test-corpus-26-train	SFX	في راس العام. و في المناسبات كيف العراس و توزيع الجوائز او الجنازات.
+4285	corpus-6-test-corpus-26-test	SFX	زيدني شوية موتارد، يعيشك.
+4305	corpus-6-test-corpus-26-train	SFX	علاش ما تهديهش هدية؟
+4321	corpus-6-test-corpus-26-test	SFX	شنوة الفيلم الي تنصحني بيه؟
+4324	corpus-6-test-corpus-26-test	SFX	اهي ورقة بو عشرين، رجعلي زوز دولارات، يعيشك.
+4326	corpus-6-test-corpus-26-train	SFX	ضربتني في الجنب.
+4335	corpus-6-test-corpus-26-train	SFX	انجم نجي الساعتين.
+4341	corpus-6-test-corpus-26-train	SFX	هذا باقاج الرحلة جيه إيه إل صفر واحد؟
+4346	corpus-6-test-corpus-26-train	SFX	هذه رحلتي لولة لباريس.
+4348	corpus-6-test-corpus-26-train	SFX	تنجمشي تارالي حسب التقريب بقداش السوم قبل ما نبدا نخدم؟
+4358	corpus-6-test-corpus-26-train	SFX	ادخل، من فضلك.
+4364	corpus-6-test-corpus-26-test	SFX	مشيتنا باش تكون هايلة.
+4365	corpus-6-test-corpus-26-train	SFX	منين نطلعوا للبابور؟
+4373	corpus-6-test-corpus-26-train	SFX	ما عندناش ساك ما اكبر، تو نحطه في الساك الكبير هذا متاع البلاستيك.
+4374	corpus-6-test-corpus-26-train	SFX	نحب نلعب تنس.
+4375	corpus-6-test-corpus-26-train	SFX	ثما عصير اناناس، عصير قارس و عصير طماطم.
+4377	corpus-6-test-corpus-26-train	SFX	الشيرة الليسار من الليتاج هذا، بجنب الدروج الي يتحركوا.
+4382	corpus-6-test-corpus-26-test	SFX	شنوة الي صار في صالة العرض اليوم؟
+4409	corpus-6-test-corpus-26-train	SFX	ما تحبش تشوف فيلم آخر؟
+4418	corpus-6-test-corpus-26-train	SFX	بالله بدلي شاك السفر هذا بفلوس.
+4432	corpus-6-test-corpus-26-dev	SFX	نحب ناخذ الدرس هو بيده غدوة، يعيشك.
+4450	corpus-6-test-corpus-26-train	SFX	نجم يمكن نعطيك اجابة صحيحة بعد وحدة و الى زوز تقديمات.
+4451	corpus-6-test-corpus-26-test	SFX	لازمني هدية لذكرى سنوية.
+4464	corpus-6-test-corpus-26-train	SFX	شنية المقطوعة الموسيقية الي تلعب تو؟
+4475	corpus-6-test-corpus-26-train	SFX	عندك مراية؟
+4478	corpus-6-test-corpus-26-dev	SFX	سامحني راني ضايع؟ تنجم تعاوني؟
+4479	corpus-6-test-corpus-26-train	SFX	نحب ناخذ هذا، يعيشك.
+4497	corpus-6-test-corpus-26-train	SFX	ما تنجمش تهز فوشيك لكندا.
+4501	corpus-6-test-corpus-26-train	SFX	مرتك صنافة هايلة.
+4503	corpus-6-test-corpus-26-train	SFX	تستحق معاونة؟
+4505	corpus-6-test-corpus-26-train	SFX	تنجم تاخذلي تكسي الستة متاع الصباح، يعيشك؟
+4510	corpus-6-test-corpus-26-train	SFX	شنوة تحب كيف تدخل؟
+4540	corpus-6-test-corpus-26-test	SFX	فما حانوت موش بعيد من هوني؟
+4549	corpus-6-test-corpus-26-train	SFX	فما بارشا عباد هوني، موش هكا؟
+4558	corpus-6-test-corpus-26-train	SFX	سامحني. تو يحضروا في دريج.
+4588	corpus-6-test-corpus-26-train	SFX	شدتني يبوسية في كرومتي كيف رقدت.
+4594	corpus-6-test-corpus-26-train	SFX	باهي. مافما حتى مشكل. انجم نشوف باسبورك؟
+4615	corpus-6-test-corpus-26-test	SFX	ما عنديش فلوس.
+4624	corpus-6-test-corpus-26-train	SFX	في اما وقت لازمني نكون في المحطة؟
+4630	corpus-6-test-corpus-26-train	SFX	فما مطعم هايل هوني.
+4635	corpus-6-test-corpus-26-train	SFX	بحذا بيت الامانات.
+4640	corpus-6-test-corpus-26-train	SFX	تشرفت بالحديث معاك.
+4644	corpus-6-test-corpus-26-test	SFX	فما جولة بعد نصف النهار؟
+4648	corpus-6-test-corpus-26-test	SFX	انا مع صحابي.
+4653	corpus-6-test-corpus-26-train	SFX	عجبتني الخرجة. يعيشك.
+4654	corpus-6-test-corpus-26-train	SFX	البحر من هوني. ملا منظر سمح.
+4658	corpus-6-test-corpus-26-train	SFX	عيشكم على سماعكم سيدة ماكغير. اهو، تفضلي، يعيشك.
+4662	corpus-6-test-corpus-26-train	SFX	عندك تصويرة متاع هوية؟
+4671	corpus-6-test-corpus-26-train	SFX	سبعة، يعيشك.
+4674	corpus-6-test-corpus-26-train	SFX	نحب نبعث هذا للغسالة. وقتاش يحضر؟
+4685	corpus-6-test-corpus-26-train	SFX	عندي سروال مخطط.
+4699	corpus-6-test-corpus-26-train	SFX	ايه. باقاج واحد اخر جاني للبيت متاعي. تنجم تثبت، يعيشك؟
+4714	corpus-6-test-corpus-26-train	SFX	تنجم تفسرلي اكثر بازيد معلومات؟
+4729	corpus-6-test-corpus-26-train	SFX	رقدتشي بالباهي؟
+4733	corpus-6-test-corpus-26-train	SFX	تنجم تنزل على قرص التصوير؟
+4740	corpus-6-test-corpus-26-train	SFX	زوز مفاتح، يعيشك.
+4742	corpus-6-test-corpus-26-dev	SFX	نحب لمبوبة.
+4744	corpus-6-test-corpus-26-train	SFX	في اخر الكولوار.
+4773	corpus-6-test-corpus-26-dev	SFX	نحب اوراق جوابات.
+4788	corpus-6-test-corpus-26-train	SFX	نمشيو بالكار؟
+4790	corpus-6-test-corpus-26-train	SFX	انت قلت ماشي لطوكيو غدوة؟
+4795	corpus-6-test-corpus-26-test	SFX	حطني نرقد للتسعة.
+4801	corpus-6-test-corpus-26-train	SFX	لازمني ناخذ ثنية او صفر صفر. ممكن؟
+4813	corpus-6-test-corpus-26-train	SFX	كيفاش ماشية لعبتك هالليام؟
+4814	corpus-6-test-corpus-26-dev	SFX	عندي احساس بوجيعة في صدري.
+4826	corpus-6-test-corpus-26-train	SFX	ما فما حتى مشكل. اتنجم تجي نهار خمسة سبتمبر، تنجم تخلط على عرض فيلم علمي. عنا نهار مزيان البيبان محلولة كل نهار جمعة من اول شهر.
+4828	corpus-6-test-corpus-26-train	SFX	عندكشي جولة اخرى؟
+4836	corpus-6-test-corpus-26-train	SFX	باهي. تخفيض بخمسة بالمية. يمشي معاك؟
+4845	corpus-6-test-corpus-26-train	SFX	ماشي لباريس.
+4848	corpus-6-test-corpus-26-train	SFX	موش اخر نوع، موش هكا؟
+4857	corpus-6-test-corpus-26-train	SFX	تفاهمنا الثمنية و نصف، بالوقت المحلي.
+4889	corpus-6-test-corpus-26-train	SFX	خوذلنا تصويرة قدام البنية هذه، يعيشك.
+4894	corpus-6-test-corpus-26-train	SFX	باهي. ناخذ صحن متوسط و كفتة روز.
+4901	corpus-6-test-corpus-26-train	SFX	عنده منضر شنوة؟
+4924	corpus-6-test-corpus-26-train	SFX	نحب نشوف كيما الي معلق البرا، يعيشك.
+4945	corpus-6-test-corpus-26-train	SFX	من غير اسئلة. احنا في عطلة. منحبش نقعد في بيت اللوتيل باش نتفرج على البايز بول في التلفزة. نحب نمشي نشوف الماتش على البلاصة.
+4957	corpus-6-test-corpus-26-train	SFX	انجم نشده؟
+4974	corpus-6-test-corpus-26-train	SFX	تنجم تجيبلنا الماكلة؟
+4983	corpus-6-test-corpus-26-train	SFX	نحب على الفيبر الاصطناعي.
+4985	corpus-6-test-corpus-26-train	SFX	عملت حجز باسم تارو تاناكا.
+4990	corpus-6-test-corpus-26-train	SFX	نحب كريمة للتنظيف .
+5004	corpus-6-test-corpus-26-train	SFX	نحب تريكو صوف يديه طوال.
+5009	corpus-6-test-corpus-26-train	SFX	سرقولي ساكي.
+5017	corpus-6-test-corpus-26-train	SFX	ثنياتنا تتلاقى ديما؟
+5035	corpus-6-test-corpus-26-train	SFX	انجم نشوف شعندكم ماكلا؟
+5045	corpus-6-test-corpus-26-train	SFX	نتصوره مازال مبتدئ.
+5082	corpus-6-test-corpus-26-train	SFX	قداش؟
+5083	corpus-6-test-corpus-26-train	SFX	بالفراز، يغيشك.
+5090	corpus-6-test-corpus-26-dev	SFX	جبل فوجي يتميز في اليابان بثلاثة الاف و سبع مية و ستة و سبعين ميترو.
+5091	corpus-6-test-corpus-26-train	SFX	لا، مازال بكري. فما برشا اختيارات.
+5098	corpus-6-test-corpus-26-dev	SFX	نحب كريمة الليل.
+5104	corpus-6-test-corpus-26-test	SFX	بين الكوشة و الجزار.
+5116	corpus-6-test-corpus-26-train	SFX	تنجم تنقصله في اليدين؟
+5117	corpus-6-test-corpus-26-train	SFX	سامحني ما فما حتى ملعب قولف قريب.
+5121	corpus-6-test-corpus-26-train	SFX	تنجم توريني ثاني خاتم من الليسار؟
+5124	corpus-6-test-corpus-26-train	SFX	تنجم تقله يكلمني؟
+5138	corpus-6-test-corpus-26-train	SFX	حاولت نعدي تالفون للبرا. وصلتوا؟
+5148	corpus-6-test-corpus-26-test	SFX	غالط.
+5175	corpus-6-test-corpus-26-train	SFX	ايه باهي هذا على خاطر نشوفوا في العلم قدام البوستة.
+5207	corpus-6-test-corpus-26-test	SFX	باش تبعثهولنا بلاش غلطة، موش هكا؟
+5219	corpus-6-test-corpus-26-train	SFX	نحب نعدي تاليفون باكارطة متاع البانكا.
+5224	corpus-6-test-corpus-26-train	SFX	نحب متاعي باش نهزه.
+5245	corpus-6-test-corpus-26-train	SFX	دوب ما يوصل، نوصلوه للعنوان متاعك على حسابنا.
+5246	corpus-6-test-corpus-26-dev	SFX	في الوقت هذا، نستعمل ديما كمبيوتر في الخدمة.
+5250	corpus-6-test-corpus-26-train	SFX	اوه، باهي، فهمت. تو نجي بحذاك.
+5259	corpus-6-test-corpus-26-train	SFX	لا، هذا يكفي.
+5261	corpus-6-test-corpus-26-train	SFX	انجم ناخذ كوفيرتة و مخدة؟
+5262	corpus-6-test-corpus-26-train	SFX	تنجم تجي لهوني فيسع؟
+5263	corpus-6-test-corpus-26-train	SFX	كويس قهوة، يعيشك.
+5267	corpus-6-test-corpus-26-test	SFX	نلوج على كارطة بالهاوايان.
+5272	corpus-6-test-corpus-26-train	SFX	تنجم تعاود القياس بثلاثة صنتيم؟
+5289	corpus-6-test-corpus-26-train	SFX	عندي نفس العمر.
+5300	corpus-6-test-corpus-26-train	SFX	تنجم تجيبلي قهوة؟
+5307	corpus-6-test-corpus-26-dev	SFX	ثلاثمية و خمسين دولار. راهو فوق الي عندي.
+5323	corpus-6-test-corpus-26-train	SFX	لازمنا نتعداو للتصويت؟ و كان موش هكا، ضاهرلي وصلنا لنتيجة كوني باش نقول لمجلس ادارتنا غدوة الصباح.
+5334	corpus-6-test-corpus-26-train	SFX	تعرفشي فماشي وتلا رخاص؟
+5361	corpus-6-test-corpus-26-train	SFX	صباح الخير. رقدت بالباهي؟
+5364	corpus-6-test-corpus-26-train	SFX	شباش تعمل كيف تكمل المدرسة؟
+5366	corpus-6-test-corpus-26-train	SFX	سرقولي الساك في الشارع.
+5367	corpus-6-test-corpus-26-train	SFX	طلبت حاجة اخرى اليوم بخلاف فطور الصباح في الصباح؟
+5407	corpus-6-test-corpus-26-train	SFX	نحب قهوة حليب، يعيشك.
+5410	corpus-6-test-corpus-26-test	SFX	باهي، وتيل الشيراتون قريب من هوني؟
+5411	corpus-6-test-corpus-26-train	SFX	ان شاء الله ماتكونش تاعب بارشا.
+5431	corpus-6-test-corpus-26-train	SFX	نحب نكري كرهبة من المودال هذا على نهارين.
+5436	corpus-6-test-corpus-26-train	SFX	نحب كويس جاك دانيالز.
+5437	corpus-6-test-corpus-26-train	SFX	نحب شكارة قتانيا، يعيشك.
+5447	corpus-6-test-corpus-26-train	SFX	ضيعت عصا التزحليق.
+5455	corpus-6-test-corpus-26-train	SFX	ما جبنا حتى هدية في الاستقبال. عوض هذا، الي جاو عطاو فلوس.
+5458	corpus-6-test-corpus-26-train	SFX	نحب نبعثه بالبريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	SFX	الطيارة باش توصل امخر حيت فما عاصفة ثلجية.
+5518	corpus-6-test-corpus-26-train	SFX	نقص، يعيشك.
+5521	corpus-6-test-corpus-26-train	SFX	ياخي تنجم تاخذ رسالة، يعيشك؟
+5540	corpus-6-test-corpus-26-train	SFX	سامحني، مانجمتش نتبعك. تنجم تتكلم اكثر بالشوية، يعيشك؟
+5549	corpus-6-test-corpus-26-dev	SFX	شنوة انجم نوريك؟
+5559	corpus-6-test-corpus-26-train	SFX	منين ناخذ تصاور؟
+5570	corpus-6-test-corpus-26-train	SFX	على مية.
+5584	corpus-6-test-corpus-26-dev	SFX	نومرو الرحلة هو اتش بي تسع و ثمانين لطوكيو نهار احداش مارس.
+5585	corpus-6-test-corpus-26-train	SFX	انجم ناخذ نفس الماكلة؟
+5594	corpus-6-test-corpus-26-dev	SFX	عندك واحد آخر؟
+5596	corpus-6-test-corpus-26-train	SFX	بالله جيبلي فطور الصباح لبيتي السبعة متاع الصباح.
+5615	corpus-6-test-corpus-26-train	SFX	الصلاح باش يجي بعد شوية.
+5617	corpus-6-test-corpus-26-dev	SFX	سامحني، باش نرجع بعد.
+5640	corpus-6-test-corpus-26-test	SFX	كيفاش نعمل باش ناخذه؟
+5648	corpus-6-test-corpus-26-train	SFX	مازالو فمة بلايص للجولة متاع نهار الخميس؟
+5657	corpus-6-test-corpus-26-train	SFX	سامحني، نجم نمشي؟
+5680	corpus-6-test-corpus-26-train	SFX	عندك شجر و غلة؟
+5684	corpus-6-test-corpus-26-train	SFX	بالله قلي كيفاش نعمر كارطة الهبوط؟
+5695	corpus-6-test-corpus-26-train	SFX	نتصور كرهبتي لازمها تسوا خمسة الاف دولار.
+5706	corpus-6-test-corpus-26-train	SFX	هذه ماكلة ما فيهاش كالوري؟
+5717	corpus-6-test-corpus-26-train	SFX	شنية الكار الي ناخذوها باش نوصل للمحطة؟
+5723	corpus-6-test-corpus-26-train	SFX	ايه، هو. اما لازمك ادور على الليسار مع ثالث ضؤ واقعد في الثنية هذه لين توصل للثنية نومرو ستة و ستين.
+5733	corpus-6-test-corpus-26-dev	SFX	نحب كاس ماء باش ناخذ الدواء، يعيشك.
+5761	corpus-6-test-corpus-26-train	SFX	نشكرك كان توصلني للشط.
+5772	corpus-6-test-corpus-26-train	SFX	سامحني . صارت غلطة. معاك تاناشا برس.
+5779	corpus-6-test-corpus-26-train	SFX	باش نمشيو.
+5830	corpus-6-test-corpus-26-dev	SFX	شنية الموسيقى هذه؟
+5847	corpus-6-test-corpus-26-train	SFX	بالله اعطي هذا الدواء لولدك، مغرفة بعد الماكلة.
+5848	corpus-6-test-corpus-26-train	SFX	النوع هذا موجود في الثمنية و عشرين، واحد و ثلاثين و خمسة و ثلاثين صانتيماتر.
+5875	corpus-6-test-corpus-26-train	SFX	اوه، يشبهلي بارشا.
+5898	corpus-6-test-corpus-26-train	SFX	انجم نستعمل تاليفونك، يعيشك؟
+5902	corpus-6-test-corpus-26-test	SFX	يضهر باهي. بقداش سومه؟
+5906	corpus-6-test-corpus-26-train	SFX	نحب ناكد رحلتي لشيكاغو نهار سبعطاش.
+5913	corpus-6-test-corpus-26-train	SFX	ضاهري كليت بارشا.
+5914	corpus-6-test-corpus-26-train	SFX	انجم نحكي مع سي براون؟
+5916	corpus-6-test-corpus-26-train	SFX	لازمها تكون مرتاحة باش تسكن في الدار هذه، موش هكا؟
+5934	corpus-6-test-corpus-26-dev	SFX	نحب نقص على رحلة نورث ويست للطيران نومرو صفر ستة و ثمانين لنهار خمسة.
+5940	corpus-6-test-corpus-26-train	SFX	سطوشي، باسبوري و حوايج متاعي اخرين.
+5956	corpus-6-test-corpus-26-train	SFX	وقتاش تسكروا؟
+5974	corpus-6-test-corpus-26-test	SFX	استنا دقيقة. نسيته في التواليت.
+5987	corpus-6-test-corpus-26-train	SFX	هذا بالضبط شنو قلت.
+5988	corpus-6-test-corpus-26-train	SFX	ايه، حتى انا نتصور هكا.
+5997	corpus-6-test-corpus-26-train	SFX	دارك كبيرة، قداش من بيت؟
+6006	corpus-6-test-corpus-26-train	SFX	عجبنا العشاء.
+6024	corpus-6-test-corpus-26-test	SFX	فهمت، اما ما نجمش نقله.
+6047	corpus-6-test-corpus-26-train	SFX	اه ايه، يعيشك. نتمنى متجيهمش دوخة بالبحر.
+6056	corpus-6-test-corpus-26-test	SFX	لطوكيو، يعيشك.
+6073	corpus-6-test-corpus-26-train	SFX	في اما وقت باش نوصلوا؟
+6086	corpus-6-test-corpus-26-train	SFX	باش نخرج بكري غدوة الصباح، هاكا علاش نحب نخلص توة.
+6100	corpus-6-test-corpus-26-test	SFX	دراي شيري، يعيشك.
+6109	corpus-6-test-corpus-26-test	SFX	بلاصة ما يتكيفوش فيها، يعيشك.
+6156	corpus-6-test-corpus-26-train	SFX	لاهي توة.
+6167	corpus-6-test-corpus-26-train	SFX	البرانيين ينجموا ياخذوا كتب من المكتبة؟
+6179	corpus-6-test-corpus-26-train	SFX	انجم نقعد في بيتي للساعتين متاع القايلة؟
+6190	corpus-6-test-corpus-26-train	SFX	اه، اه. نهارك زين في وقته. متفاهمين.
+6193	corpus-6-test-corpus-26-train	SFX	نحب فيلم متاع نومرو ال ايه اس ايه هذا للمصورة هذه، يعيشك.
+6205	corpus-6-test-corpus-26-train	SFX	وين نلقى تصاور مونيه؟
+6214	corpus-6-test-corpus-26-train	SFX	البيتزا هذه فاوحة، شكون عملها؟
+6221	corpus-6-test-corpus-26-train	SFX	شنوة مطعمه الصحن هذا؟
+6227	corpus-6-test-corpus-26-train	SFX	حتى هوما زادة غاليين.
+6228	corpus-6-test-corpus-26-train	SFX	وقتاش يخرج الترينو الجاي من بوستن؟
+6232	corpus-6-test-corpus-26-dev	SFX	نتمنى نتعلم القولف.
+6247	corpus-6-test-corpus-26-dev	SFX	بالله اعطيني كاس اخر.
+6253	corpus-6-test-corpus-26-train	SFX	ملا راكب موج هايل.
+6272	corpus-6-test-corpus-26-train	SFX	سامحني اليدين قصار بارشا.
+6283	corpus-6-test-corpus-26-train	SFX	تنجم توريني كيفاش تحط الليسونس؟
+6285	corpus-6-test-corpus-26-train	SFX	سوم الوتيل داخل فيه فطور الصباح؟
+6287	corpus-6-test-corpus-26-train	SFX	هذا كل شيء؟
+6291	corpus-6-test-corpus-26-train	SFX	هو في آخر الطريق هذا.
+6339	corpus-6-test-corpus-26-train	SFX	بالله حطلي العداد يمشي.
+6363	corpus-6-test-corpus-26-train	SFX	الدنيا باردا بارشا في بيتي.
+6411	corpus-6-test-corpus-26-train	SFX	تو نكون معاك كيف ما نكونش لاهي.
+6413	corpus-6-test-corpus-26-dev	SFX	عندك ما اكبر؟
+6418	corpus-6-test-corpus-26-train	SFX	نحس بروحي ابرك.
+6430	corpus-6-test-corpus-26-dev	SFX	تعرف بالباهي الجغرافيا اليابانية؟
+6436	corpus-6-test-corpus-26-train	SFX	بالله وريني انا وين في الخريطة.
+6437	corpus-6-test-corpus-26-train	SFX	مية بالمية قطن.
+6466	corpus-6-test-corpus-26-train	SFX	نحب نبدلها ببيت تطل على الواد. فما زيادة؟
+6472	corpus-6-test-corpus-26-train	SFX	بقداش كراء الزحلاقة لشطر نهار؟
+6481	corpus-6-test-corpus-26-train	SFX	نهار عشرة نوفمبر.
+6484	corpus-6-test-corpus-26-dev	SFX	نحب شريط ماكينة كتيبة.
+6492	corpus-6-test-corpus-26-train	SFX	فيه بارشا مطعم.
+6497	corpus-6-test-corpus-26-train	SFX	وقتاش باش هطيروا؟
+6498	corpus-6-test-corpus-26-train	SFX	كيفاش تعمل باش تقول للشوفار الي انت تحب تحبط؟
+6513	corpus-6-test-corpus-26-train	SFX	اربعة و عشرين دولار. تحب اكثر؟
+6515	corpus-6-test-corpus-26-train	SFX	عملت الحجز كطوكيو تو عندي شهر.
+6517	corpus-6-test-corpus-26-train	SFX	نشكر من اعماق قلبي.
+6525	corpus-6-test-corpus-26-train	SFX	لازمني نهبط من هوني باش نمشي لمركز روكفلر؟
+6539	corpus-6-test-corpus-26-train	SFX	بالله قيس صدري.
+6547	corpus-6-test-corpus-26-train	SFX	هايل بارشا.
+6550	corpus-6-test-corpus-26-train	SFX	تحب تخرج معايا؟
+6552	corpus-6-test-corpus-26-train	SFX	بالله نضفلي الكبوط.
+6553	corpus-6-test-corpus-26-train	SFX	نحب نكري فلوكة بالموتور.
+6574	corpus-6-test-corpus-26-train	SFX	وين تجي بلاصة دبش النساء؟
+6581	corpus-6-test-corpus-26-train	SFX	القهوة ما هياش داخلة؟
+6593	corpus-6-test-corpus-26-train	SFX	في اما موضوع كان الاول؟
+6602	corpus-6-test-corpus-26-train	SFX	جويد. جويد. جويد. جويد. متعود بوجهها.
+6609	corpus-6-test-corpus-26-train	SFX	لازمني نزيد ندفع فلوس باش ندخل للبنية؟
+6613	corpus-6-test-corpus-26-test	SFX	صباح الخير. الي تحكي معاه موجود على الخط. تفضل، يعيشك.
+6625	corpus-6-test-corpus-26-train	SFX	الضربة توجع.
+6635	corpus-6-test-corpus-26-train	SFX	وين المحطة؟
+6657	corpus-6-test-corpus-26-train	SFX	عندي الرعدة.
+6659	corpus-6-test-corpus-26-train	SFX	ثلاثة ايام.
+6660	corpus-6-test-corpus-26-dev	SFX	شق القنطرة هاكي تو تلقى المكتبة على يسارك.
+6692	corpus-6-test-corpus-26-dev	SFX	بالله عاوني باش نلقى مساعد يتكلم ياباني.
+6699	corpus-6-test-corpus-26-train	SFX	منحبهاش اتعب.
+6700	corpus-6-test-corpus-26-train	SFX	فما توخير صغير.
+6715	corpus-6-test-corpus-26-train	SFX	شنوة الفرق بين الوتلا هاذم؟
+6724	corpus-6-test-corpus-26-test	SFX	فت المحطة الي باش نهبط فيها.
+6736	corpus-6-test-corpus-26-train	SFX	هايل بارشا، يعيشك.
+6740	corpus-6-test-corpus-26-dev	SFX	باش نجي مع الستة.
+6746	corpus-6-test-corpus-26-train	SFX	عندكشي حاجة اطول شوية؟
+6766	corpus-6-test-corpus-26-train	SFX	تاريخ الانتهاء مارس الف و تسعمية و تسعة و تسعين.
+6780	corpus-6-test-corpus-26-test	SFX	كيفاش كانت؟
+6800	corpus-6-test-corpus-26-train	SFX	فما بلايص قمار سماح؟
+6810	corpus-6-test-corpus-26-train	SFX	اهم الفلوس لستيلو الحبار. ورقة بو مية دولار.
+6812	corpus-6-test-corpus-26-train	SFX	وين تجي بلاصة دبش النساء؟
+6825	corpus-6-test-corpus-26-train	SFX	منين نطلع؟
+6832	corpus-6-test-corpus-26-train	SFX	صاحبي مضروب.
+6835	corpus-6-test-corpus-26-train	SFX	خرجت عليك.
+6836	corpus-6-test-corpus-26-dev	SFX	الحانوت هذا محلول غدوة؟
+6862	corpus-6-test-corpus-26-test	SFX	هو في آخر الصالة.
+6864	corpus-6-test-corpus-26-train	SFX	تنجم تقوملي قياس الشلغوم؟
+6866	corpus-6-test-corpus-26-dev	SFX	لهذا نزيده السلاطة و نوع متاع بطاطة هسموطة و بطاطة مقلية.
+6875	corpus-6-test-corpus-26-dev	SFX	منين انجم نشري الفخار؟
+6914	corpus-6-test-corpus-26-train	SFX	ما نجمش نبيعلك هذا بلاش وصفة طبية.
+6917	corpus-6-test-corpus-26-train	SFX	انجمشي ناخذ خمسة بلايص بحذا بعضهم؟
+6923	corpus-6-test-corpus-26-test	SFX	تنجمشي تسلفني خيط متاع تكركير، يعيشك؟
+6944	corpus-6-test-corpus-26-train	SFX	اماهي الكرهبة الي ما تاكلش ايسونس؟
+6960	corpus-6-test-corpus-26-train	SFX	معندكش تخفيض، من غير ما تلح.
+6966	corpus-6-test-corpus-26-train	SFX	تنجم تحل الساك، يعيشك؟ شعندك فيه؟
+6970	corpus-6-test-corpus-26-train	SFX	نحب نعمل تاليفون لبلاصة بعيدة للوتيل هيلتون في بوسطن.
+6984	corpus-6-test-corpus-26-test	SFX	النساء تقبل بهذا؟
+6991	corpus-6-test-corpus-26-train	SFX	رد بالك، السقف واطي.
+6999	corpus-6-test-corpus-26-train	SFX	مانشوفش في الايكران بالباهي من هوني. انجم نبدل بلاصتي؟
+7030	corpus-6-test-corpus-26-train	SFX	زرت الواد الكبير لاول مرة.
+7048	corpus-6-test-corpus-26-train	SFX	فما مشكل مع الماكينة متاع الفلوس.
+7057	corpus-6-test-corpus-26-train	SFX	لازمني نشوف طبيب.
+7070	corpus-6-test-corpus-26-train	SFX	قداش عدات من مدة في المملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	SFX	محب للفن الجديد كيفك يحب الرسوم ديال الهيبي و موسيقى الشارع.
+7098	corpus-6-test-corpus-26-train	SFX	في اما وقت؟
+7099	corpus-6-test-corpus-26-dev	SFX	ناخذ هوت دوجو كولا.
+7104	corpus-6-test-corpus-26-dev	SFX	معاك مشغل المكالمات الخارجي.
+7123	corpus-6-test-corpus-26-train	SFX	ريت البنية البيضة، موش هكا؟ قدام هاكي البنية.
+7130	corpus-6-test-corpus-26-test	SFX	من وقتاش؟
+7137	corpus-6-test-corpus-26-test	SFX	ما عندي ما نخبر.
+7198	corpus-6-test-corpus-26-dev	SFX	شنوة؟ لازمني نخلص الديوانة وقت يبدى عندي اكثر من ثلاثة دبابس شراب؟
+7206	corpus-6-test-corpus-26-dev	SFX	صاحبي مريض بارشا. تنجم تكلم طبيب، يعيشك؟
+7227	corpus-6-test-corpus-26-test	SFX	ما نعرفوش بالباهي الشراب. شنوة الي يمشي بالباهي مع الماكلة هذه؟
+7233	corpus-6-test-corpus-26-dev	SFX	تنجم تكلمني بكري الصباح، يعيشك؟
+7248	corpus-6-test-corpus-26-dev	SFX	فما كيوسك بعيد شارعين من هوني.
+7253	corpus-6-test-corpus-26-train	SFX	اليابانيين ما ياخذوش عطلة طويلة.
+7264	corpus-6-test-corpus-26-train	SFX	نحس بروحي تحت العينين. موش ديما نارى ياباني؟
+7269	corpus-6-test-corpus-26-test	SFX	باطبيعة لا. علاش تقول هكا؟
+7270	corpus-6-test-corpus-26-train	SFX	وين يجي مدخل البوستا الكبيرة؟
+7274	corpus-6-test-corpus-26-train	SFX	وين تجي محطة غرايهوند في البلاد هذه؟
+7281	corpus-6-test-corpus-26-train	SFX	اما المطاعم اليابانية ماهوماش غاليين في كيوتو؟
+7289	corpus-6-test-corpus-26-train	SFX	نتصوره قوي شوية علية.
+7291	corpus-6-test-corpus-26-test	SFX	عندنا بيت بزوز فروشة و بانو بخمسة و ثمانين دولار.
+7305	corpus-6-test-corpus-26-train	SFX	نحب السوم المشكور.
+7314	corpus-6-test-corpus-26-test	SFX	الطقس بارد اكثر من العادة السنة، اما موش بارد لدرجة كونه باش تصب الثلجج.
+7321	corpus-6-test-corpus-26-train	SFX	منين ناخذ تسكرة للميترو؟
+7335	corpus-6-test-corpus-26-train	SFX	عندي بلايص درجة اعمال، موش هكا؟
+7343	corpus-6-test-corpus-26-train	SFX	بقداش خلاص التكسي من اللوتيل لمحطة الترينو؟
+7349	corpus-6-test-corpus-26-train	SFX	انجم ناخذ هذا و هذا، يعيشك؟
+7381	corpus-6-test-corpus-26-train	SFX	يقولوا كون اليابان بلاد غنية.
+7386	corpus-6-test-corpus-26-train	SFX	فما بيوت فاضية في الكراهب متاع النومان؟
+7391	corpus-6-test-corpus-26-dev	SFX	تنجم تطيح السوم لعشرين دولار، يعيشك؟
+7395	corpus-6-test-corpus-26-train	SFX	هدية لواحد صاحبي.
+7412	corpus-6-test-corpus-26-train	SFX	الثلج رجع الثنية تتزحلق.
+7414	corpus-6-test-corpus-26-train	SFX	ما قيتش مصورتي.
+7416	corpus-6-test-corpus-26-test	SFX	ناخذ زوز كسكروتات بالسلامين.
+7438	corpus-6-test-corpus-26-train	SFX	عندك حاجة باش تخبر عليها؟
+7439	corpus-6-test-corpus-26-train	SFX	ريت كبوت ازرق؟ حطيته على الكرسي.
+7470	corpus-6-test-corpus-26-test	SFX	فما حانوت ورد من الشيرة الاخرى من الشارع.
+7478	corpus-6-test-corpus-26-train	SFX	جيت من طوكيو.
+7479	corpus-6-test-corpus-26-train	SFX	نحب كريمة الغسيل ريفلون.
+7485	corpus-6-test-corpus-26-train	SFX	عندي شوية حوايج للغسيل.
+7507	corpus-6-test-corpus-26-dev	SFX	شكرتهملك عندي بارشا.
+7533	corpus-6-test-corpus-26-dev	SFX	تنجم تجيب الحمال الستة متاع الصباح، يعيشك؟
+7549	corpus-6-test-corpus-26-train	SFX	ناخذ شكلاطة سخونة.
+7550	corpus-6-test-corpus-26-train	SFX	انجموا نتكفلوا بتنظيف بيتك.
+7574	corpus-6-test-corpus-26-train	SFX	خاص، يعيشك.
+7583	corpus-6-test-corpus-26-train	SFX	بقداش حتى للوتيل سي؟
+7612	corpus-6-test-corpus-26-test	SFX	منين ناخذ تسكرة دوبل؟
+7622	corpus-6-test-corpus-26-train	SFX	نحب نعمل حجز لطاولة من الساعتين لتسعة متاع الليل، يعيشك.
+7626	corpus-6-test-corpus-26-train	SFX	نحب كريمة الليل.
+7627	corpus-6-test-corpus-26-train	SFX	تنجم تغلفهولي بغلاف هدية؟
+7636	corpus-6-test-corpus-26-train	SFX	توة الثلاثة و ربع.
+7650	corpus-6-test-corpus-26-train	SFX	نحب نبعث فاتورات احتياجاتي اليومية، بالله اعطيني عنوان و اسم الشخص المسؤول.
+7656	corpus-6-test-corpus-26-test	SFX	صعيب علينا باش نحكيو الانقليزية.
+7662	corpus-6-test-corpus-26-train	SFX	عندك منها هذه في نفس النوع بكعب اعلى؟
+7663	corpus-6-test-corpus-26-train	SFX	نحب تريكو لوليد عمره عشرة سنين.
+7671	corpus-6-test-corpus-26-train	SFX	هزنا لثنية ابباي، يعيشك.
+7684	corpus-6-test-corpus-26-dev	SFX	شكرا. صباح الخير، شكرا على استنيتك.
+7693	corpus-6-test-corpus-26-train	SFX	انا متاكد كوني حجزت.
+7708	corpus-6-test-corpus-26-train	SFX	تو نبعثهالك، كان تحب استنى هوني.
+7712	corpus-6-test-corpus-26-dev	SFX	احنا هوني على نهار.
+7721	corpus-6-test-corpus-26-train	SFX	عندي وجيعة صغيرة في راسي.
+7736	corpus-6-test-corpus-26-train	SFX	عجبني بارشا الفطور.
+7756	corpus-6-test-corpus-26-train	SFX	لا، بالله خوذ بلاصة و استنا، يعيشك. لحظة و نرجع.
+7761	corpus-6-test-corpus-26-test	SFX	انجم نشوف الكرهبة؟
+7767	corpus-6-test-corpus-26-train	SFX	تنجم تسطرلي خريطة، يعيشك؟
+7789	corpus-6-test-corpus-26-test	SFX	باهي، يا سيد. بالله اقعد في بيتك لين يجيك الطبيب.
+7811	corpus-6-test-corpus-26-train	SFX	تعرضت للسرقة في شط وايمانالو. ايجا توة، يعيشك.
+7812	corpus-6-test-corpus-26-train	SFX	شنوة تقول بمية دولار؟
+7814	corpus-6-test-corpus-26-train	SFX	نحبها مغلفة.
+7831	corpus-6-test-corpus-26-train	SFX	نحب نعاود كارطتي.
+7834	corpus-6-test-corpus-26-train	SFX	الحكومة تشجع الاستثمار في الصناعة.
+7838	corpus-6-test-corpus-26-train	SFX	عنده اكثر من الخمسين سنة.
+7858	corpus-6-test-corpus-26-dev	SFX	شنوة اقل عمر باش نعملوه؟
+7860	corpus-6-test-corpus-26-train	SFX	عندك خرائط ساهلين للمدينة؟
+7867	corpus-6-test-corpus-26-test	SFX	كان امكن، نحب ما تنحيش السنانة.
+7871	corpus-6-test-corpus-26-dev	SFX	عنا الكورة، عندنا ضربتين.
+7883	corpus-6-test-corpus-26-train	SFX	مع شلوقت الترينو يوصل لسان دييغو، يعيشك؟
+7913	corpus-6-test-corpus-26-train	SFX	نحب نعمل نضرة على بيت التبديل.
+7925	corpus-6-test-corpus-26-train	SFX	نحب على الشامبوان.
+7947	corpus-6-test-corpus-26-train	SFX	وصلت لوتيل هيلتون.
+7948	corpus-6-test-corpus-26-train	SFX	نحس بروحي متقلق و نحب نرد.
+7957	corpus-6-test-corpus-26-train	SFX	اما عندي موعد معاها مع الساعتين.
+7972	corpus-6-test-corpus-26-train	SFX	الكرهبة هذه ماشيا لادنبرة؟
+7976	corpus-6-test-corpus-26-train	SFX	ايه بالله عمر هذا المطلب.
+7983	corpus-6-test-corpus-26-train	SFX	شنوة الزيادة على الباقاج الزايد؟
+7991	corpus-6-test-corpus-26-dev	SFX	اسمي كيميرا. نحب نلغي حجزي متاع نهار الجمعة.
+7996	corpus-6-test-corpus-26-test	SFX	اوه، سامحني. كان فما مشكل و حليناه. تنجم تصبر نصف ساعة؟
+8039	corpus-6-test-corpus-26-train	SFX	في اما وقت انجم نخرج؟
+8050	corpus-6-test-corpus-26-train	SFX	فهمت.
+8058	corpus-6-test-corpus-26-train	SFX	تو نكلم شكون.
+8067	corpus-6-test-corpus-26-test	SFX	تحب تصلح العدد توة؟
+8068	corpus-6-test-corpus-26-train	SFX	الكرهبة جات مرة اخرى في المفترق.
+8094	corpus-6-test-corpus-26-train	SFX	هذه بواتا متاع موسيقى.
+8095	corpus-6-test-corpus-26-train	SFX	وين الاحياء؟
+8098	corpus-6-test-corpus-26-train	SFX	فما زيارة للمدينة بالكار؟
+8108	corpus-6-test-corpus-26-train	SFX	في اما وقت نبداو؟
+8114	corpus-6-test-corpus-26-train	SFX	باهي، يا سيدي. قياس متوسط، نقترح عليك ماركيري سابل، مريقل؟
+8116	corpus-6-test-corpus-26-train	SFX	عندك تمطط في العضلات.
+8141	corpus-6-test-corpus-26-train	SFX	لازمك تخليني نشوت الكورة، موش انا، باهي؟
+8143	corpus-6-test-corpus-26-train	SFX	على قداش المسافة؟
+8149	corpus-6-test-corpus-26-train	SFX	منين ناخذ الماكينة؟
+8156	corpus-6-test-corpus-26-train	SFX	من اما نوع جلد تصنعت الفاليز؟
+8161	corpus-6-test-corpus-26-train	SFX	ضاهرلي الموس هذا موش نضيف. تنجم تعطني واحد اخر؟
+8164	corpus-6-test-corpus-26-train	SFX	شريت هذا عندي مدة، تنجم تبدلهولي بهذا؟
+8173	corpus-6-test-corpus-26-train	SFX	باش نكون واضح معاك، مانيش موافق.
+8177	corpus-6-test-corpus-26-train	SFX	هذه الثنية الصححة للمحطة الرسمية؟
+8183	corpus-6-test-corpus-26-train	SFX	بتو و معاه دليل، يعيشك.
+8193	corpus-6-test-corpus-26-train	SFX	نحب ناخذ كسوة لونها غامق ليلي.
+8194	corpus-6-test-corpus-26-train	SFX	السحابة هذه تقوم بالواجب كيما العكاز.
+8202	corpus-6-test-corpus-26-test	SFX	لازم علية نحط باقاجي في بيت الامانات؟
+8210	corpus-6-test-corpus-26-train	SFX	تنجم توريني جواز اللسفر متاعك، يعيشك.
+8227	corpus-6-test-corpus-26-train	SFX	فماشي بلاصة تقبل الغسيل نهار الاحد؟
+8233	corpus-6-test-corpus-26-train	SFX	زوز تشيزبورجرز، يعيشك.
+8234	corpus-6-test-corpus-26-train	SFX	اما هي الكار الخارجة لميامي؟
+8236	corpus-6-test-corpus-26-train	SFX	حتا بوربوار ماهو لازم.
+8248	corpus-6-test-corpus-26-train	SFX	تنجم تورينا واحد في صالة كارنيجي.
+8250	corpus-6-test-corpus-26-train	SFX	ما نيش موافق.
+8271	corpus-6-test-corpus-26-train	SFX	شنية خاصية الدار؟
+8280	corpus-6-test-corpus-26-train	SFX	نحب ناخذ موعد مع طبيب.
+8291	corpus-6-test-corpus-26-dev	SFX	عندكم طاولة قريبة للبرسانة في السبعة متاع العشية.
+8295	corpus-6-test-corpus-26-train	SFX	نقلقك كان نجي بحذاك؟
+8305	corpus-6-test-corpus-26-train	SFX	تقولشي عليه فما تقدم باش يتعمل.
+8316	corpus-6-test-corpus-26-train	SFX	وين موجود الميترو؟
+8334	corpus-6-test-corpus-26-train	SFX	عندكمشي قياس ما أصغر؟
+8338	corpus-6-test-corpus-26-train	SFX	وين نلقا دواء الراس؟
+8342	corpus-6-test-corpus-26-train	SFX	هذا ارخص سوم؟
+8349	corpus-6-test-corpus-26-train	SFX	بالله اعطيني كارطة بجمعة.
+8355	corpus-6-test-corpus-26-train	SFX	اهو زميلي.
+8358	corpus-6-test-corpus-26-train	SFX	شنوة نوع الليسونس الموجود؟ رفيع، عادي، نقي؟
+8368	corpus-6-test-corpus-26-train	SFX	اهو واحد.
+8371	corpus-6-test-corpus-26-train	SFX	باش نلقط قريب.
+8409	corpus-6-test-corpus-26-test	SFX	مسكر نهار الاثنين، اما نهار اخر ما فما حتى مشكلة. نتصور محلول من التسعة للخمسة متاع العشية.
+8418	corpus-6-test-corpus-26-train	SFX	حنش بحر مشوي و معاه صالصة بالروز.
+8435	corpus-6-test-corpus-26-train	SFX	"قلي ""نحتفلو بهذا"" و هزني لبار. قلي باش يعمل نضرة و روح من غير ما يرجع و خلاني واحل بفاتورة غالية."
+8454	corpus-6-test-corpus-26-train	SFX	بقداش الجالون الواحد؟
+8456	corpus-6-test-corpus-26-train	SFX	عندي جواز السفر و كارطة البانكا.
+8485	corpus-6-test-corpus-26-train	SFX	حجز للسبعة باسم مانو.
+8495	corpus-6-test-corpus-26-train	SFX	ما تحبش كويس تاي؟
+8497	corpus-6-test-corpus-26-dev	SFX	تنجم توريني وين تجي سفارة اليابان؟
+8509	corpus-6-test-corpus-26-train	SFX	فماشي طبيب في اللوتيل ولا قاعد ديما؟
+8516	corpus-6-test-corpus-26-train	SFX	ديما يعمل جرياته في شارع بوند.
+8527	corpus-6-test-corpus-26-train	SFX	جريدة انقليزية، يعيشك.
+8535	corpus-6-test-corpus-26-train	SFX	فماشي بلاصة وين نلعبوا الموسيقى الريفية؟
+8539	corpus-6-test-corpus-26-test	SFX	ننحب نحط حوايجي القديمة.
+8543	corpus-6-test-corpus-26-train	SFX	فماشي وحيد اخرين صوف؟
+8551	corpus-6-test-corpus-26-train	SFX	بقداش لكل ورقة؟
+8574	corpus-6-test-corpus-26-train	SFX	باهي، اعمل تسعة صفر واحد واحد، بعد نومرو البلاد و نومرو التاليفون.
+8577	corpus-6-test-corpus-26-train	SFX	انجم ناخذ كوكا كولا بلاش سكر؟
+8584	corpus-6-test-corpus-26-train	SFX	انجم نعدي المطلب؟
+8595	corpus-6-test-corpus-26-train	SFX	شخنا في الثنية، يعيشك.
+8604	corpus-6-test-corpus-26-test	SFX	سامحني، منين نمشي؟
+8610	corpus-6-test-corpus-26-train	SFX	الشعب الياباني يجي مية و ثلاثين مليون.
+8618	corpus-6-test-corpus-26-train	SFX	نحب نكري مظلة.
+8625	corpus-6-test-corpus-26-train	SFX	ايه، ونحب نتكلم علي حساب الي باش نكلمه.
+8636	corpus-6-test-corpus-26-train	SFX	سطوش معاه مية دلار و زوز كوارط بانكا.
+8637	corpus-6-test-corpus-26-train	SFX	الماء سخون بارشا.
+8675	corpus-6-test-corpus-26-train	SFX	انتم هوني.
+8688	corpus-6-test-corpus-26-dev	SFX	قهوة، من فضلك.
+8690	corpus-6-test-corpus-26-train	SFX	بعيد بارشا.
+8696	corpus-6-test-corpus-26-train	SFX	عندي وجيعة في ماعدتي بعد الماكلة.
+8734	corpus-6-test-corpus-26-train	SFX	اوه، ملا بلاصة سمحة.
+8741	corpus-6-test-corpus-26-train	SFX	قال يمكن فما غاز مطين.
+8749	corpus-6-test-corpus-26-train	SFX	ايا قررتوا؟
+8788	corpus-6-test-corpus-26-train	SFX	كان تحب، انجموا نرتاحوا هوني.
+8791	corpus-6-test-corpus-26-test	SFX	ضيعت تتبيع جواب مضمون الوصول.
+8803	corpus-6-test-corpus-26-train	SFX	موش ساهل تبدل الخدمة.
+8805	corpus-6-test-corpus-26-train	SFX	شنية المحطة الجاية؟
+8811	corpus-6-test-corpus-26-train	SFX	هايل، اما موش المدارج المعرية، اليومة نهار سخون.
+8823	corpus-6-test-corpus-26-dev	SFX	اهبط من هوني و خوذ الكار نومرو ستة.
+8824	corpus-6-test-corpus-26-dev	SFX	لازمني نحصل الرحلة متاع العشرة متاع الصباح.
+8827	corpus-6-test-corpus-26-train	SFX	نحس بروحي باش نرد.
+8833	corpus-6-test-corpus-26-train	SFX	ما نحب حتى شيء كبير.
+8840	corpus-6-test-corpus-26-train	SFX	ثبت، يعيشك.
+8844	corpus-6-test-corpus-26-test	SFX	بقداش سوم الفطر الجديد؟
+8850	corpus-6-test-corpus-26-train	SFX	العدد، يعيشك. خذيتوا كوارط الفيزا؟
+8851	corpus-6-test-corpus-26-train	SFX	اليوم، باش نمشي نارا شنوة يشبه الحي الصيني.
+8880	corpus-6-test-corpus-26-train	SFX	اثنين صفر اثنين تسعة ثلاثة تسعة ستة سبعة صفر صفر.
+8900	corpus-6-test-corpus-26-train	SFX	نحب نقلع سناني.
+8905	corpus-6-test-corpus-26-train	SFX	نحب سطوش ماكياج.
+8907	corpus-6-test-corpus-26-dev	SFX	نحب نعرف قداش لازمني نحط بوربوار.
+8914	corpus-6-test-corpus-26-train	SFX	"وين انجم نشوف ""شبح الأوبرا""؟"
+8915	corpus-6-test-corpus-26-train	SFX	نحب نشري هدية للذكرى لصحابي. باش تنصحني؟
+8918	corpus-6-test-corpus-26-train	SFX	بالشوية، يعيشك.
+8919	corpus-6-test-corpus-26-dev	SFX	قداش خلاصك على الكل في الشهر للفاكس للبرة؟
+8947	corpus-6-test-corpus-26-train	SFX	بطاطة مقلية من الشيرتين، يعيشك.
+8966	corpus-6-test-corpus-26-dev	SFX	باهي، هكا واضح بارشا. اعطيني بارمياتك الزوز وبطاقات التسجيل. وبالنسبة ليك يا ولد، سامحني لازمنا نعمل لك تحليل الكحول.
+9011	corpus-6-test-corpus-26-train	SFX	تو يحضر بعد غدوة في السهرية.
+9022	corpus-6-test-corpus-26-train	SFX	مصنوع من القطن؟
+9029	corpus-6-test-corpus-26-dev	SFX	عندي دوايا.
+9034	corpus-6-test-corpus-26-train	SFX	شباش نشوف في هذه الرحلة؟
+9041	corpus-6-test-corpus-26-train	SFX	ايه، على الاقل فما حاجة تتشرب.
+9051	corpus-6-test-corpus-26-train	SFX	بقداش النهار؟
+9061	corpus-6-test-corpus-26-dev	SFX	الكار هذه تاقف قريبة من اللوتيل؟
+9073	corpus-6-test-corpus-26-train	SFX	نحب سي دي.
+9077	corpus-6-test-corpus-26-train	SFX	فما رحلات الخطوط الجوية اليابانية وأول نيبون يخرجو الاحداش غير درج. اما الله غالب الزوز مليانين.
+9094	corpus-6-test-corpus-26-train	SFX	خرج عليا.
+9098	corpus-6-test-corpus-26-train	SFX	انجموا ناخذوا طولة بو خمسة؟
+9100	corpus-6-test-corpus-26-train	SFX	ما تفهمش حتى جملة من الانقليزية.
+9126	corpus-6-test-corpus-26-dev	SFX	تحب تصب شاك السفر.
+9150	corpus-6-test-corpus-26-train	SFX	تنجم تتلها بيها من التسعة متاع الصباح لثلاثة هكاكة؟
+9160	corpus-6-test-corpus-26-train	SFX	بقداش يتكلف جواب بالطيارة لليابان؟
+9176	corpus-6-test-corpus-26-train	SFX	تحبست البرا. تنجم تحلي الباب، يعيشك.
+9211	corpus-6-test-corpus-26-train	SFX	شنية الخرجة السمحة باش ناراو البلايص المعروفين؟
+9229	corpus-6-test-corpus-26-test	SFX	فماشي مضيفة تحكي ياباني؟
+9242	corpus-6-test-corpus-26-test	SFX	قداش من ساك انجم نهز معايا في الطيارة؟
+9263	corpus-6-test-corpus-26-train	SFX	لا، يا سيد. اليوم نصف النهار معبي الكل. اما غدوة، باهي.
+9267	corpus-6-test-corpus-26-train	SFX	نحب نطلب السوم بالضبط للسباق للبواب.
+9303	corpus-6-test-corpus-26-train	SFX	انا والله متأسف.
+9308	corpus-6-test-corpus-26-train	SFX	عنا حفلة نهار الجمعة في الليل. تنجم تجي بحذانا؟
+9312	corpus-6-test-corpus-26-train	SFX	هايل، بيتك نومرو تسعمية و ثمنية، يا انسة. اهو مفتاحك.
+9316	corpus-6-test-corpus-26-dev	SFX	من الضروري يكون عنا منين نمشيو للماعون الرسمي للخدمة.
+9324	corpus-6-test-corpus-26-train	SFX	سامحني، يا سيدي الشرطي؟
+9325	corpus-6-test-corpus-26-train	SFX	الترينو هذا يمشي طول لادنبره؟
+9329	corpus-6-test-corpus-26-train	SFX	ياخي هذا فات الحد متاع الي ما يخلصش ديوانة؟
+9337	corpus-6-test-corpus-26-train	SFX	خرجلي حوايجي الغاليين، يعيشك.
+9358	corpus-6-test-corpus-26-train	SFX	فما بارشا عباد في الرحلات السياحية؟
+9367	corpus-6-test-corpus-26-train	SFX	نحب نشري حاجات للذكرى. فماشي مغازة تبيعهم قريبة من هوني؟
+9372	corpus-6-test-corpus-26-train	SFX	حتى لوقاش يقعد محلول؟
+9384	corpus-6-test-corpus-26-train	SFX	خرج توة.
+9385	corpus-6-test-corpus-26-train	SFX	مايومي، تنجم تكمل الورقة هذه بتصحاحتك؟
+9431	corpus-6-test-corpus-26-train	SFX	اهو واحد ليلك، يا سيدي.
+9432	corpus-6-test-corpus-26-train	SFX	ما عندي حتى دبش باش نسجله.
+9446	corpus-6-test-corpus-26-test	SFX	مالا، خوذ وقتك.
+9450	corpus-6-test-corpus-26-train	SFX	انا هوني في مهمة صحافية.
+9463	corpus-6-test-corpus-26-train	SFX	عندك احلام صيفية؟
+9481	corpus-6-test-corpus-26-train	SFX	الترينو الجاي وقتاش لواشنطن دي سي؟
+9494	corpus-6-test-corpus-26-test	SFX	الطويلة هي الي تتباع اكثر وحدة.
+9516	corpus-6-test-corpus-26-train	SFX	نرجع لليابان الاثنين الجاي.
+9526	corpus-6-test-corpus-26-train	SFX	انجمشي ناخذ خريطة للميترو؟
+9542	corpus-6-test-corpus-26-train	SFX	الثنية طويلة؟
+9560	corpus-6-test-corpus-26-train	SFX	تنجمشي تبدل هذا بواحد جديد؟
+9576	corpus-6-test-corpus-26-train	SFX	زوز من الناس.
+9579	corpus-6-test-corpus-26-test	SFX	منين ناخذ دبشي؟
+9581	corpus-6-test-corpus-26-train	SFX	مانيش مرتاح انجم نتكي كرسية؟
+9604	corpus-6-test-corpus-26-train	SFX	الحداش و خمسة و اربعين دقيقة.
+9605	corpus-6-test-corpus-26-train	SFX	تنجم توريني وتيل منصوح بيه للشباب؟
+9606	corpus-6-test-corpus-26-train	SFX	كرهبته تجري على اقوى سرعة.
+9611	corpus-6-test-corpus-26-dev	SFX	انجم نحط رسالة؟ تكلمت باش ناكد موعدي مع سي ايبارت الاربعة الجاية لحداش متاع النهار.
+9628	corpus-6-test-corpus-26-dev	SFX	تنجم تكتب اسم مرضك بالانقليزية؟
+9634	corpus-6-test-corpus-26-test	SFX	تنجم تبعثلي تكسي في المدخل الرسمي لوستمنستر مول؟
+9651	corpus-6-test-corpus-26-train	SFX	قداش من مرة لازمني نبدل الترينو باش نمشي لغادي؟
+9657	corpus-6-test-corpus-26-train	SFX	بالحق؟ حطني نثبت. اوه، سامحني، سي تاكانو. هذه غلطة منا احنا. اهي الوحدة الصحيحة، بالله صحح هوني، يعيشك؟
+9673	corpus-6-test-corpus-26-train	SFX	رجعلي خمسة دولار، يعيشك.
+9683	corpus-6-test-corpus-26-train	SFX	السدادة متاع البانو ماتتسكرش باهية.
+9687	corpus-6-test-corpus-26-train	SFX	حاجة متواضعة باش نعبرلك على امتناني.
+9688	corpus-6-test-corpus-26-train	SFX	تنجم تعمر هذا المطلب؟
+9695	corpus-6-test-corpus-26-test	SFX	شتقول عليهم هاذم النماذج البلاستيك؟
+9701	corpus-6-test-corpus-26-train	SFX	شنية المودال الي عندك؟
+9702	corpus-6-test-corpus-26-train	SFX	الصباط ياسر عالي.
+9710	corpus-6-test-corpus-26-test	SFX	تحبست البرا من بيتي.
+9730	corpus-6-test-corpus-26-train	SFX	من وقتاش و انتي في باريس؟
+9732	corpus-6-test-corpus-26-train	SFX	انجم ناخذ طوابع بريدية لثلاثة بطاقات بريدية ماشين لليابان بالطيارة؟
+9746	corpus-6-test-corpus-26-train	SFX	تتكتب ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	SFX	تحب تشرب حاجة؟
+9748	corpus-6-test-corpus-26-train	SFX	اتمد هوني.
+9752	corpus-6-test-corpus-26-train	SFX	ابعث البرقية اكيد، يعيشك.
+9788	corpus-6-test-corpus-26-train	SFX	حسب النشرة الجوية، باش يصب الثلج غدوة.
+9792	corpus-6-test-corpus-26-train	SFX	نحب كورة.
+9822	corpus-6-test-corpus-26-train	SFX	اكيد، تشرفوا بعملانها.
+9829	corpus-6-test-corpus-26-train	SFX	اه، صور متحركة من ماليزيا. باش نشري وحدة نهزها معايا للدار. باش تكون حاجة سمحة نحكيو فيها.
+9862	corpus-6-test-corpus-26-train	SFX	"طريق النجاح هو ""جينمايوكو"" موش مكا؟"
+9866	corpus-6-test-corpus-26-dev	SFX	باش نجي للوتيل متاعك مع الثمنية متاع الليل.
+9885	corpus-6-test-corpus-26-train	SFX	عندي قرابة الفين و خمسمية دولار باليان الياباني.
+9903	corpus-6-test-corpus-26-train	SFX	ايه، اني باش نوريكم.
+9906	corpus-6-test-corpus-26-train	SFX	نحب طوابع نوم.
+9910	corpus-6-test-corpus-26-train	SFX	انا هوني لنهار تسعة. نتمنى تشدوا المجرم فيسع.
+9945	corpus-6-test-corpus-26-train	SFX	انا متاكد كون المجرم موش بعيد.
+9948	corpus-6-test-corpus-26-train	SFX	عشرة طوابع، يعيشك.
+9949	corpus-6-test-corpus-26-train	SFX	عندي وجيعة في قراجمي.
+9955	corpus-6-test-corpus-26-train	SFX	نحب حاجة للذكرى من نيويورك.
+9969	corpus-6-test-corpus-26-train	SFX	باش نمشي. تنجمشي تعيط لحمال؟
+9979	corpus-6-test-corpus-26-train	SFX	منقالتي وقفت.
+9983	corpus-6-test-corpus-26-train	SFX	اوه، بالحق؟ كيفاش تحبها؟
+10006	corpus-6-test-corpus-26-train	SFX	نحلوا التسعة متاع الصباح.
+10032	corpus-6-test-corpus-26-train	SFX	نحب كتاب متاع تلوين.
+10037	corpus-6-test-corpus-26-train	SFX	نتصور عندي الدوخة متاع الهواء.
+10043	corpus-6-test-corpus-26-train	SFX	لازمني نمشي لبانكا يابانية؟
+10045	corpus-6-test-corpus-26-train	SFX	لازمك تبدل فلوسك في بانكا.
+10065	corpus-6-test-corpus-26-train	SFX	مازال فمة بارشا وقت قبل الخروج؟
+10069	corpus-6-test-corpus-26-train	SFX	راجلك من بين الحرفة الباهيين عنا.
+10078	corpus-6-test-corpus-26-train	SFX	تعرف طبيب سنان باهي؟
+10084	corpus-6-test-corpus-26-train	SFX	اوه، لازمك تخبر توة القنصلية.
+10091	corpus-6-test-corpus-26-train	SFX	بالتخضخيض، موش المغرفة.
+10098	corpus-6-test-corpus-26-dev	SFX	تحبوا طاولة في المطعم والا في صالة خاصة، يا سيدي؟
+10102	corpus-6-test-corpus-26-train	SFX	بارشا عباد يمشيو للشط في الموسم.
+10107	corpus-6-test-corpus-26-train	SFX	وزنت قرابة مية وخمسين رطل.
+10111	corpus-6-test-corpus-26-train	SFX	منين لازمني ناخذ المراسلة؟
+10114	corpus-6-test-corpus-26-train	SFX	وين يجي مكتب الحاجات الي كانت ضايعة؟
+10116	corpus-6-test-corpus-26-train	SFX	فما كار تمشي طول؟
+10125	corpus-6-test-corpus-26-train	SFX	نستحق لعلاج خاص؟
+10129	corpus-6-test-corpus-26-train	SFX	بالصرف والا بالكارطة؟
+10134	corpus-6-test-corpus-26-test	SFX	حولنا للدار هذه عنا عام.
+10155	corpus-6-test-corpus-26-train	SFX	قداش من وقت لازمني باش نعاود الفيزا كارط؟
+10156	corpus-6-test-corpus-26-train	SFX	وين التواليتات؟
+10160	corpus-6-test-corpus-26-train	SFX	السوم النهائي ميتين و ثلاثة و اربعين جنيه، يا للة.
+10164	corpus-6-test-corpus-26-train	SFX	راهي هدية. تنجم تغلفهولي في ورق باهي؟
+10182	corpus-6-test-corpus-26-train	SFX	ملا منضر. رايعة بارشا المنتزهات.
+10187	corpus-6-test-corpus-26-dev	SFX	فما مجروحين.
+10191	corpus-6-test-corpus-26-dev	SFX	سامحني، وين المحطة؟
+10224	corpus-6-test-corpus-26-train	SFX	ايه، عندنا حجز ليلك.
+10238	corpus-6-test-corpus-26-train	SFX	سامحني، نحب نمشي بالكار للوتيل في البلاد. وين ناخذ واحد؟
+10243	corpus-6-test-corpus-26-test	SFX	دجاج، يعيشك.
+10257	corpus-6-test-corpus-26-train	SFX	هذه البيت نومرو ميتين و واحد. نحب نطلب فطور الصباح لغدوة.
+10272	corpus-6-test-corpus-26-test	SFX	شنوة رايك في التحرش الجنسي في بلايص الخدمة؟
+10318	corpus-6-test-corpus-26-dev	SFX	عندي زوز خوات بنات.
+10336	corpus-6-test-corpus-26-dev	SFX	نومروا الرحلة ميتين و ثمنية، لطوكيو.
+10354	corpus-6-test-corpus-26-train	SFX	يالا، حطوا الحشوة من داخل.
+10366	corpus-6-test-corpus-26-test	SFX	ايجا نتفاهموا باش نحلوا المسالة.
+10372	corpus-6-test-corpus-26-train	SFX	كيفاش تحبني نحجملك اليوم؟
+10403	corpus-6-test-corpus-26-train	SFX	تنجمشي تعاود بطريقة اخرى؟
+10408	corpus-6-test-corpus-26-train	SFX	باش نعمل باللي عندك.
+10411	corpus-6-test-corpus-26-train	SFX	نحبوا طاولة بجنب الواد.
+10416	corpus-6-test-corpus-26-train	SFX	انا لاباس. اي باه، تمشي ساعات؟
+10433	corpus-6-test-corpus-26-train	SFX	احنا على الفين و اربع مية ميترو ارتفاع.
+10435	corpus-6-test-corpus-26-train	SFX	ادخل. بالله حطه فوق الطاولة غادي.
+10440	corpus-6-test-corpus-26-train	SFX	بالله الغي نومرو الكارطة.
+10468	corpus-6-test-corpus-26-train	SFX	سامحني، لكلهم تباعوا اما باش يجيونا وحيد اخرين بعد ايام.
+10473	corpus-6-test-corpus-26-test	SFX	انجم ناخذ قهوة؟
+10477	corpus-6-test-corpus-26-train	SFX	ما عنديش موعد، اما راهو ضروري.
+10479	corpus-6-test-corpus-26-train	SFX	موش معمول بالباهي.
+10480	corpus-6-test-corpus-26-train	SFX	وين الدروج الي يتحرك؟
+10497	corpus-6-test-corpus-26-train	SFX	عندكم نشرة على الأحداث؟
+10500	corpus-6-test-corpus-26-train	SFX	وين مدخل الميترو؟
+10504	corpus-6-test-corpus-26-train	SFX	ضيعت تسكرة الطيارة.
+10559	corpus-6-test-corpus-26-train	SFX	ما تنجمش تقعد هوني في العطلة؟
+10562	corpus-6-test-corpus-26-train	SFX	اوه، سامحني كان قلقتك.
+10563	corpus-6-test-corpus-26-dev	SFX	تنجم تحجز لبارشا احداث؟
+10565	corpus-6-test-corpus-26-train	SFX	فما تواليت عام قريب من هوني؟
+10590	corpus-6-test-corpus-26-train	SFX	قداش الكل؟
+10593	corpus-6-test-corpus-26-train	SFX	هايل. توة الأسئلة، يعيشكم.
+10599	corpus-6-test-corpus-26-train	SFX	عندك صرف لعداد الباركينق؟
+10617	corpus-6-test-corpus-26-test	SFX	اكبر مبيعات عندنا الاربعة سنين الي فاتو ماكينة التصوير ايه اكس اربع مية و خمسين.
+10645	corpus-6-test-corpus-26-train	SFX	لازمني ندور على ليسار؟
+10662	corpus-6-test-corpus-26-test	SFX	فماشي مضيفات يحيو ياباني؟
+10670	corpus-6-test-corpus-26-train	SFX	سوم باهي، موش هكا؟
+10680	corpus-6-test-corpus-26-train	SFX	لازمك تاخذه تسعة و تسعين مرة في النهار، قبل الفطور.
+10707	corpus-6-test-corpus-26-train	SFX	نحبها بالحق.
+10733	corpus-6-test-corpus-26-train	SFX	نحبه بثلاثة ساقين.
+10736	corpus-6-test-corpus-26-dev	SFX	نحبه جيلية متاع رياضة.
+10749	corpus-6-test-corpus-26-dev	SFX	تنجم تقعد بحذايا.
+10753	corpus-6-test-corpus-26-test	SFX	انجم نوخر كرسية، يعشك؟
+10756	corpus-6-test-corpus-26-train	SFX	هايل. نلوج على تكسي، اما باهي.
+10760	corpus-6-test-corpus-26-train	SFX	كبوت سمح بارشا. مخيط في بريطانيا؟
+10778	corpus-6-test-corpus-26-train	SFX	نحب نمشي لمركز هارفارد. تنجمشي تقلي كيف نوصلوا؟
+10790	corpus-6-test-corpus-26-train	SFX	زوز كبار و زوز صغار، يعشك.
+10817	corpus-6-test-corpus-26-train	SFX	بقداش السوم؟
+10824	corpus-6-test-corpus-26-train	SFX	حرب النجوم عمل اكبر نجاح في عام الف و تسعمية و اربعة و ثمانين.
+10830	corpus-6-test-corpus-26-train	SFX	وين بلاصة الي ما يتكيفوش؟
+10831	corpus-6-test-corpus-26-train	SFX	"هي ""ت"" كيما توم، ايه اهو هوني، يا تارو."
+10848	corpus-6-test-corpus-26-test	SFX	ضاهرلي هايل.
+10851	corpus-6-test-corpus-26-test	SFX	نحب تفاح، يعشك.
+10869	corpus-6-test-corpus-26-train	SFX	شنوة نعملوا بيه؟
+10882	corpus-6-test-corpus-26-train	SFX	شنوة نوع الكارطة الى تقبلوها؟
+10922	corpus-6-test-corpus-26-train	SFX	عندي الوقت الكل.
+10930	corpus-6-test-corpus-26-train	SFX	اي هايل، وقت فطور. تحب نحكيو واحنا نفطروا؟
+10937	corpus-6-test-corpus-26-dev	SFX	سرقت الفيديو من بيتي.
+10950	corpus-6-test-corpus-26-train	SFX	صباح الخير، اسمي اودا. عندي حجز لليلة اما راني با نبطة شوية على التسجيل. بالله حطولي حجزي.
+10953	corpus-6-test-corpus-26-train	SFX	الصبابط هذومة ياسر قويين؟
+10955	corpus-6-test-corpus-26-test	SFX	بالله تنجم تقلوا راني نستنى في تاليفونه.
+10964	corpus-6-test-corpus-26-train	SFX	قالوا الي القريب ياسر منتشرة غادي.
+10973	corpus-6-test-corpus-26-train	SFX	بالداخل.
+10975	corpus-6-test-corpus-26-train	SFX	سامحنا. رانا معبيين غدوة الليل.
+10976	corpus-6-test-corpus-26-train	SFX	انا مع صحابي.
+10985	corpus-6-test-corpus-26-train	SFX	حسب غورو، السيد يامادا عنده زوز صغار.
+10994	corpus-6-test-corpus-26-dev	SFX	تنجم تعاود؟
+10997	corpus-6-test-corpus-26-train	SFX	نحب نعاود نعمل دورة على برج لندن.
+11019	corpus-6-test-corpus-26-train	SFX	شدوا السبتات.
+11027	corpus-6-test-corpus-26-test	SFX	نومرو الجهة هو ثلاثة. نومرو التاليفون هو ثنين ثلاثة اربعة ثلاثة اربعة صفر صفر.
+11030	corpus-6-test-corpus-26-test	SFX	سامحني. فما قنطرة قريبة من هوني؟
+11041	corpus-6-test-corpus-26-dev	SFX	سامحني، نحب نمشي للتواليت.
+11046	corpus-6-test-corpus-26-train	SFX	محجوز.
+11047	corpus-6-test-corpus-26-test	SFX	الدبش هاذم ديما قدم.
+11054	corpus-6-test-corpus-26-train	SFX	عندكم غلال البحر؟
+11057	corpus-6-test-corpus-26-train	SFX	غالي بارشا.
+11058	corpus-6-test-corpus-26-train	SFX	والله نحب، لما سامحني مانجمش نعمله هالمرة.
+11064	corpus-6-test-corpus-26-train	SFX	اي هايل، مازلت ما نعرفش، اما باش انحاول.
+11069	corpus-6-test-corpus-26-dev	SFX	ملح، يعيشك.
+11082	corpus-6-test-corpus-26-train	SFX	بالله استعمل بيت التبديل غادي.
+11100	corpus-6-test-corpus-26-train	SFX	تسعين دولار لتسكرة مشيان. بالصرف والا بالكارطة؟
+11109	corpus-6-test-corpus-26-dev	SFX	تنجموا تسيبولنا الطولة، يعيشكم؟
+11123	corpus-6-test-corpus-26-train	SFX	كيفاش اليابانيين يربيو صغارهم؟ صعاب معاهم؟
+11126	corpus-6-test-corpus-26-train	SFX	تنجم تعطيني وقت الحلان؟
+11131	corpus-6-test-corpus-26-dev	SFX	تنجم تلفهم كل واحد وحده، من فضلك.
+11161	corpus-6-test-corpus-26-train	SFX	ماعدتي رزينة.
+11171	corpus-6-test-corpus-26-dev	SFX	تضهر باهية. وين انجموا نستناوك؟
+11174	corpus-6-test-corpus-26-train	SFX	انجموا نبداو نلعبوا كيف يوفاو؟
+11190	corpus-6-test-corpus-26-train	SFX	الشعب الياباني قرابت عشرين مليون ساكن.
+11197	corpus-6-test-corpus-26-train	SFX	زيد هالقضيات في كارطة التسجيل.
+11199	corpus-6-test-corpus-26-train	SFX	انجم ناخذ دبشي؟
+11240	corpus-6-test-corpus-26-train	SFX	عندكم كاشكولات حرير؟ نلوج على هدية لمرتي.
+11246	corpus-6-test-corpus-26-train	SFX	اهو توة باش نجيبوهولك. قداش نومرو بيتك؟
+11264	corpus-6-test-corpus-26-test	SFX	سي كوباياشي يلوج عليك.
+11267	corpus-6-test-corpus-26-train	SFX	نحب نسافر بالبابور من شنغهاي إلى هاواي.
+11278	corpus-6-test-corpus-26-test	SFX	تنجم تجيبلنا واحد؟
+11282	corpus-6-test-corpus-26-train	SFX	حاضر الخمسة غدوة؟
+11302	corpus-6-test-corpus-26-train	SFX	ياخذ عشرة دقايق على الساقين.
+11316	corpus-6-test-corpus-26-train	SFX	قبل ما نكمل، تنجموا تعطيوني مشوية وقت؟
+11325	corpus-6-test-corpus-26-dev	SFX	وين انجم نراكي كرهبتي؟
+11336	corpus-6-test-corpus-26-dev	SFX	بردان و عندي وجيعة في ماعدتي.
+11342	corpus-6-test-corpus-26-train	SFX	سكوتش وماء، يعيشك. عندكشي حاجة خفيفة تتاكل؟
+11343	corpus-6-test-corpus-26-train	SFX	كيفاش نطفي الضوء هذا؟
+11360	corpus-6-test-corpus-26-train	SFX	مشغول بارشا اليوم؟
+11374	corpus-6-test-corpus-26-train	SFX	نحب خيط.
+11375	corpus-6-test-corpus-26-train	SFX	اعطيني شهادة طبية، يعيشك.
+11378	corpus-6-test-corpus-26-train	SFX	نحبك تزيد تنقص منه إنش من هوني.
+11392	corpus-6-test-corpus-26-train	SFX	ما نيش في فورمة، اعطيني الدواء.
+11403	corpus-6-test-corpus-26-train	SFX	انجم ناخذ جريدة يابانية؟
+11404	corpus-6-test-corpus-26-train	SFX	باهي. انجم نخلي الكرهبة في اي بلاصة؟ وبقداش نخليها؟
+11412	corpus-6-test-corpus-26-train	SFX	شنية الكار الي ماشية لوسط الباد؟
+11420	corpus-6-test-corpus-26-train	SFX	فما اكسبريس لبوستن؟
+11435	corpus-6-test-corpus-26-train	SFX	يعيشك. نحب تولي صاحبي ديال المراسلة.
+11438	corpus-6-test-corpus-26-dev	SFX	ما شي نتفرهد بحذا واحد صاحبي.
+11442	corpus-6-test-corpus-26-train	SFX	انا تنرفز. مانجمش ناخوا بلاصة.
+11449	corpus-6-test-corpus-26-train	SFX	انجم نهبط لهيلتون؟
+11450	corpus-6-test-corpus-26-train	SFX	نحب انحهالك.
+11457	corpus-6-test-corpus-26-train	SFX	دور على الليسار في النهج هذا، امشي طول وخوذ اول وحدة على الليمين.
+11462	corpus-6-test-corpus-26-train	SFX	نحب نعرف انجم نبعث الفاليزات هاذم لطوكيو.
+11467	corpus-6-test-corpus-26-train	SFX	نحب غبرة متاع بدن.
+11478	corpus-6-test-corpus-26-train	SFX	فما ماكلا اقل قوة و اقل حرورية؟
+11479	corpus-6-test-corpus-26-train	SFX	ياخي قريب باش نمشي على الساقين؟
+11491	corpus-6-test-corpus-26-dev	SFX	نحب كريمة متاع يدين.
+11493	corpus-6-test-corpus-26-train	SFX	اتنجم تعديلي الملح، يعيشك؟
+11500	corpus-6-test-corpus-26-train	SFX	نحب نمشي لوول ستريت. كيفاش نمشي لغادي؟
+11541	corpus-6-test-corpus-26-train	SFX	برشة تمارين ماتفيدكش.
+11544	corpus-6-test-corpus-26-train	SFX	مع فطور الصباح، التاكس و الخدمة داخلة، يكون بخمسة و اربعين دولار الليلة للواحد.
+11550	corpus-6-test-corpus-26-train	SFX	اتنجم تصلح هذا؟
+11574	corpus-6-test-corpus-26-train	SFX	صباح الخير. شنحوالك.
+11576	corpus-6-test-corpus-26-train	SFX	ملقيتش باقاجك.
+11595	corpus-6-test-corpus-26-train	SFX	القدام، من فضلك.
+11600	corpus-6-test-corpus-26-train	SFX	الماء يتشرب؟
+11622	corpus-6-test-corpus-26-train	SFX	اه، يالا. الحكاية الكل زوز دولار.
+11626	corpus-6-test-corpus-26-train	SFX	تنجم تبدلي الروبة هذه بوحدة اكبر قياس؟
+11631	corpus-6-test-corpus-26-train	SFX	ايه باهي، يالا. تو معاونك في خدمتك بعد نمشيو ناكلوا بيزا.
+11633	corpus-6-test-corpus-26-train	SFX	ايه سي تاناكا. فما زوز رسائل ليلك.
+11643	corpus-6-test-corpus-26-train	SFX	ما مشاش معايا.
+11646	corpus-6-test-corpus-26-train	SFX	غدوة نهار جديد.
+11663	corpus-6-test-corpus-26-train	SFX	انجم نعاونك. لازمك الفيتامين سي؟
+11689	corpus-6-test-corpus-26-train	SFX	نشال سرقلي سطوشي من الترينو.
+11704	corpus-6-test-corpus-26-train	SFX	بعيد بارشا. من المستحسن ناخذوا تكسي.
+11708	corpus-6-test-corpus-26-train	SFX	نحب بلاصة بجنب الكولوار، يعشك.
+11709	corpus-6-test-corpus-26-train	SFX	نسكن في علي يتكلفلي ثمانين الف يان في الشهر.
+11714	corpus-6-test-corpus-26-train	SFX	انجم نقص عليك؟
+11720	corpus-6-test-corpus-26-dev	SFX	وريني ما اكبر.
+11734	corpus-6-test-corpus-26-train	SFX	سامحني. ما يقلقكش كان تبدل بلاصتك معايا؟
+11746	corpus-6-test-corpus-26-train	SFX	ايه، مالا.
+11751	corpus-6-test-corpus-26-train	SFX	اهبط للدورة ودور على ليسار مع الضوء.
+11754	corpus-6-test-corpus-26-dev	SFX	تحب روب ما اصغر ولا ما اكبر؟
+11767	corpus-6-test-corpus-26-test	SFX	نحب بيت وحدي ببانو بثمانين دولار، يعيشك.
+11800	corpus-6-test-corpus-26-train	SFX	نحب نحط حوايجي الغاليين في صندوق الامانات متاع اللوتيل.
+11817	corpus-6-test-corpus-26-dev	SFX	عندكم بيت فارغة لليلة؟
+11821	corpus-6-test-corpus-26-train	SFX	ايه، اما ثبت خذيتشي تسكرتك.
+11862	corpus-6-test-corpus-26-train	SFX	شوية عباد باش يجيو للرحلة الاختيارية.
+11872	corpus-6-test-corpus-26-train	SFX	مهما كان. في كل الاحوال، هزني لمركز شيناتون، يعيشك. تو نحاول نلقاها وحدي.
+11879	corpus-6-test-corpus-26-train	SFX	عباد جدد باش يدخلوا يخدموا في افريل.
+11880	corpus-6-test-corpus-26-train	SFX	هاكا شنحب.
+11885	corpus-6-test-corpus-26-train	SFX	زوز سكوتش و ماء، يعيشك.
+11901	corpus-6-test-corpus-26-train	SFX	شكون يلعب؟
+11913	corpus-6-test-corpus-26-dev	SFX	تنجم تكلمني كان تلقى سطوشي؟
+11916	corpus-6-test-corpus-26-train	SFX	على الليسار، يعيشك.
+11932	corpus-6-test-corpus-26-test	SFX	تحب تاخذ تصويرة معايا؟
+11938	corpus-6-test-corpus-26-dev	SFX	لا. تحب تخبر؟
+11949	corpus-6-test-corpus-26-train	SFX	الضرسة القدامية عاملة فية.
+11959	corpus-6-test-corpus-26-train	SFX	شنية اخر لعبة الكترونية لوليد عمره خمسطاش سنة؟
+11972	corpus-6-test-corpus-26-train	SFX	نشوفوكم غدوة.
+11973	corpus-6-test-corpus-26-test	SFX	فماشي مطعم رخيص هوني؟
+11975	corpus-6-test-corpus-26-train	SFX	لا، اما يعيشك. نحس بروحي خير.
+11976	corpus-6-test-corpus-26-train	SFX	عندك خبز؟
+11977	corpus-6-test-corpus-26-train	SFX	شنوة مستواك على الكامنجة؟
+11990	corpus-6-test-corpus-26-train	SFX	صاحبي زلق طاح في بيت البانو.
+11991	corpus-6-test-corpus-26-train	SFX	وين نلقى نفاضة؟
+11997	corpus-6-test-corpus-26-train	SFX	المسيحية تنحات و سكروا البلاد على بقية العالم.
+12005	corpus-6-test-corpus-26-train	SFX	قداش تحبوا؟
+12012	corpus-6-test-corpus-26-train	SFX	كروفات مخلط ليلها وكيف كيف ليلي انا.
+12033	corpus-6-test-corpus-26-train	SFX	انجم نطلب منك تصحح هوني و تكوشي هوني، يعيشك.
+12035	corpus-6-test-corpus-26-train	SFX	انا فرحان كيف زرتك في مقرك و كيف حكيت بارشا معاك. شكرا على التواصل.
+12054	corpus-6-test-corpus-26-train	SFX	تشخر بالقوي.
+12056	corpus-6-test-corpus-26-train	SFX	بعد كل شيء، اللون ما عجبنيش. انجم نرجعه؟
+12057	corpus-6-test-corpus-26-dev	SFX	تعدى الباب هذا، واستنى في الموقف عدد ستة.
+12060	corpus-6-test-corpus-26-dev	SFX	دجاج مصلي، يعيشك.
+12069	corpus-6-test-corpus-26-train	SFX	منين ناخذ فلفل؟
+12074	corpus-6-test-corpus-26-test	SFX	ايه، نحب حاجة نقراها.
+12101	corpus-6-test-corpus-26-train	SFX	معاك سي تاكاهاشي من البيت خمس مية و تسعة و اربعين. تنجموا اطلعولي اربعة كعبات بيرة بيدوايس، يعيشك؟
+12131	corpus-6-test-corpus-26-train	SFX	آهم سبعين دولار.
+12140	corpus-6-test-corpus-26-train	SFX	كلمني على اللوتيل متاعي وقت تلقى باقاجي، يعيشك.
+12150	corpus-6-test-corpus-26-train	SFX	نحبكم تكموني و تفيقوني غدوة الصباح الثمنية و نصف، يعيشك.
+12167	corpus-6-test-corpus-26-train	SFX	ايه، اما بارشا و انا واكل بالباهي.
+12172	corpus-6-test-corpus-26-train	SFX	نحب ماء معجون اسنان.
+12173	corpus-6-test-corpus-26-train	SFX	منحسش في روحي لاباس.
+12182	corpus-6-test-corpus-26-train	SFX	تعملوا تخفيض للي يشري بالجملة؟
+12193	corpus-6-test-corpus-26-train	SFX	طوكيو، صفر ثلاثة أربع تسعات أربعة خمسة ستة سبعة.
+12240	corpus-6-test-corpus-26-train	SFX	تنجم تعاوني باش نلقا حديقة الحيوانات؟
+12246	corpus-6-test-corpus-26-train	SFX	تنجم تقلي كيفاش نصلحوه؟
+12247	corpus-6-test-corpus-26-train	SFX	وقتاش توفا الزيارة بالكار؟
+12254	corpus-6-test-corpus-26-train	SFX	تعرفوا كيفاش يستعمل التاليفون؟
+12259	corpus-6-test-corpus-26-train	SFX	ايه. عندنا ماركات ديال كتب امريكية اصلية سماح.
+12298	corpus-6-test-corpus-26-train	SFX	مشغل مكالمات يحكي ياباني، يعيشك.
+12331	corpus-6-test-corpus-26-train	SFX	الموضة تعجبنا بارشا.
+12333	corpus-6-test-corpus-26-train	SFX	تنجم تكركرني؟
+12345	corpus-6-test-corpus-26-train	SFX	هذه المصحة اف؟
+12364	corpus-6-test-corpus-26-train	SFX	صباح الخير، انسة ياماغوشي؟ الي باش تكلميه عالخط. مكالمتك بدات. تفضلي، يعيشك.
+12391	corpus-6-test-corpus-26-test	SFX	منين انجم نشري تسكرة متاع اسونسور؟
+12396	corpus-6-test-corpus-26-train	SFX	وقتاش نوصلوا للوس انجليس؟
+12403	corpus-6-test-corpus-26-train	SFX	كمل في لطويل لمدة خمسة دقايق و دور على ليسار.
+12416	corpus-6-test-corpus-26-train	SFX	من هوني، للشط.
+12420	corpus-6-test-corpus-26-train	SFX	التاي بالحشايش ينشط البدن.
+12421	corpus-6-test-corpus-26-train	SFX	ما همش مصنوعين في اليابان، موش هكا؟
+12443	corpus-6-test-corpus-26-train	SFX	باهي. من هوني، يعيشك. تو نوصلك لبيتك.
+12479	corpus-6-test-corpus-26-train	SFX	لازمني نسيب اللوتيل قبل نصف النهار.
+12495	corpus-6-test-corpus-26-train	SFX	زوز هامبرغر و زوز قهاوي، يعيشك. باش نهزوهم.
+12510	corpus-6-test-corpus-26-train	SFX	انجم نهز معايا الزوز سيكان هاذوما؟
+12527	corpus-6-test-corpus-26-train	SFX	خذيت لحم، موش حوت. تنجم تبدلي؟
+12546	corpus-6-test-corpus-26-train	SFX	ولدي على اللخر وافي.
+12551	corpus-6-test-corpus-26-train	SFX	عندي وجيعة في ماعدتي.
+12556	corpus-6-test-corpus-26-train	SFX	الفيستة هذه ماهيش قياسي.
+12557	corpus-6-test-corpus-26-train	SFX	نحب سي وليام.
+12560	corpus-6-test-corpus-26-train	SFX	فيه سبعة انواع من الفتامينات و المعادن.
+12562	corpus-6-test-corpus-26-test	SFX	السنانة تقلعت.
+12589	corpus-6-test-corpus-26-train	SFX	باش تخلصوني كيف نرجع لليابان؟
+12599	corpus-6-test-corpus-26-train	SFX	شنوة فيه الصحن هذا؟
+12603	corpus-6-test-corpus-26-train	SFX	في اما بلاد تصنع؟
+12608	corpus-6-test-corpus-26-train	SFX	تنجم تعمله في درجين؟
+12611	corpus-6-test-corpus-26-dev	SFX	ما نيش باهي في الانقلاي. فماشي شكون يحكي ياباني هوني؟
+12615	corpus-6-test-corpus-26-train	SFX	وين انجم نلقى الرموز متاع الميترو؟
+12638	corpus-6-test-corpus-26-train	SFX	عشرين للتجراب اخرين تو يتبعثولك.
+12644	corpus-6-test-corpus-26-train	SFX	ضاهرلي موش ليلي حيت جلدتي شايحة شوية.
+12650	corpus-6-test-corpus-26-train	SFX	تنجم تعطيني الاوقات، يعيشك؟
+12658	corpus-6-test-corpus-26-dev	SFX	ايه، ضاهرلي باش نقعد نستنى.
+12671	corpus-6-test-corpus-26-train	SFX	تسعين دولار الساعة للطفل.
+12672	corpus-6-test-corpus-26-train	SFX	سامحني اما كل شيء اتاخذ.
+12677	corpus-6-test-corpus-26-train	SFX	لازمه يكون رايض.
+12678	corpus-6-test-corpus-26-dev	SFX	عندي حوايجي.
+12679	corpus-6-test-corpus-26-train	SFX	مفتاح البيت خمس مية و ثلاثة، يعيشك.
+12699	corpus-6-test-corpus-26-test	SFX	وقتاش يتعدا ترمينال مان؟
+12701	corpus-6-test-corpus-26-train	SFX	وين يجي الحجام؟
+12708	corpus-6-test-corpus-26-train	SFX	السبعة، يعيشك.
+12712	corpus-6-test-corpus-26-train	SFX	فاليزتي فزدت.
+12713	corpus-6-test-corpus-26-train	SFX	سياحة.
+12732	corpus-6-test-corpus-26-train	SFX	انا اسبنيولي.
+12750	corpus-6-test-corpus-26-dev	SFX	فمة حاجة الي ماتمشيش في كارطة بيتي. تنجم تعطيني وحدة اخرى، يعيشك؟
+12755	corpus-6-test-corpus-26-dev	SFX	عندي حساسية فوق يدية.
+12761	corpus-6-test-corpus-26-train	SFX	ابعث هذا بالطيارة لليابان، يعيشك.
+12766	corpus-6-test-corpus-26-test	SFX	وين اقرب فارماسي من هوني؟
+12770	corpus-6-test-corpus-26-dev	SFX	شراب وحداخر، من فضلك.
+12773	corpus-6-test-corpus-26-train	SFX	الاعباد على محلاهم.
+12776	corpus-6-test-corpus-26-test	SFX	قداش من شراب داخل في السوم؟
+12777	corpus-6-test-corpus-26-test	SFX	عملته.
+12782	corpus-6-test-corpus-26-train	SFX	وين باب الطلوع للرحلة هذه؟
+12790	corpus-6-test-corpus-26-test	SFX	كان عندنا طاولة فارغة، تنجموشي تاخذولنا بلاصة بحثا البرسانة؟
+12805	corpus-6-test-corpus-26-dev	SFX	عيطوا للطلوع؟
+12810	corpus-6-test-corpus-26-train	SFX	احنا على ارتفاع ثناش الف قدم.
+12820	corpus-6-test-corpus-26-train	SFX	نحبوا على الاول نزوروا وول ستريت.
+12822	corpus-6-test-corpus-26-train	SFX	وين محطة الكار متاع أكسفورد؟
+12823	corpus-6-test-corpus-26-train	SFX	تو نستنا لين تفرغ بلاصة في التاراس.
+12835	corpus-6-test-corpus-26-train	SFX	انجموا ناراو السطوشات الكوير؟
+12861	corpus-6-test-corpus-26-dev	SFX	اغزر التلفزة. يعديو في ماتش البيسبول.
+12878	corpus-6-test-corpus-26-train	SFX	تنجم تقيد عنوانك هوني؟
+12884	corpus-6-test-corpus-26-train	SFX	بالله قلي وين اقرب فارماسي.
+12903	corpus-6-test-corpus-26-train	SFX	للوتيل متاعي، يعيشك. العنوان هوني.
+12905	corpus-6-test-corpus-26-dev	SFX	قداش فما من ولاية بخلاف طوكيو؟
+12917	corpus-6-test-corpus-26-train	SFX	سكر و استنى شوية، يعيشك.
+12936	corpus-6-test-corpus-26-train	SFX	في داركم، شنوة مستانس تعمل بعد العشاء؟
+12941	corpus-6-test-corpus-26-train	SFX	بالحق. وقتاش تحب تلعب قولف؟
+12945	corpus-6-test-corpus-26-train	SFX	لازمها تكون في الدار قبل الثلاثة متاع لعشية.
+12952	corpus-6-test-corpus-26-train	SFX	نحب نكلم سفارة اليابان.
+12968	corpus-6-test-corpus-26-train	SFX	اكثر بشوية.
+12969	corpus-6-test-corpus-26-train	SFX	وين ماشين الكيران للخرجة السياحية؟
+12973	corpus-6-test-corpus-26-train	SFX	بقداش باش نبعثهم لليابان؟
+12976	corpus-6-test-corpus-26-dev	SFX	ما عندي لا اندية و لا احذية.
+13015	corpus-6-test-corpus-26-train	SFX	اليان الياباني يساعدك؟
+13022	corpus-6-test-corpus-26-train	SFX	عندك موستانج؟
+13027	corpus-6-test-corpus-26-train	SFX	نقزنا من العلو هذا؟
+13069	corpus-6-test-corpus-26-train	SFX	سي كاواي، عندنا طاولة ليلكم. اجاو من هوني، من فضلك.
+13072	corpus-6-test-corpus-26-train	SFX	مالا. اهبط الدروج هاذم و توة تشوف البلايك. تبعهم.
+13075	corpus-6-test-corpus-26-dev	SFX	الاستقبال. كيفاش انجم نعاونك؟
+13076	corpus-6-test-corpus-26-train	SFX	تنجم تحطني في هيلتون، يعيشك؟
+13077	corpus-6-test-corpus-26-dev	SFX	لازمك ديما تخدم امخر؟
+13090	corpus-6-test-corpus-26-dev	SFX	سامحني، ما عندناش. و جرايد بالانقلاي؟
+13095	corpus-6-test-corpus-26-train	SFX	طاولة لجماعة ما تتكيفش، يعيشك.
+13096	corpus-6-test-corpus-26-train	SFX	بالله تنجم تقلي قبل ما نوصلوا لدورهام؟
+13113	corpus-6-test-corpus-26-test	SFX	هذا طري؟
+13116	corpus-6-test-corpus-26-train	SFX	لا موش معقول. ديما انت الي تخلص.
+13118	corpus-6-test-corpus-26-dev	SFX	تنجم توريني الروب؟
+13126	corpus-6-test-corpus-26-train	SFX	اقراهولي، من فضلك.
+13133	corpus-6-test-corpus-26-train	SFX	الشراب قاعد يسكرني.
+13134	corpus-6-test-corpus-26-train	SFX	رد بالك حيت الطقس يتبدل فيسع في الجبل.
+13159	corpus-6-test-corpus-26-train	SFX	شاك سياحي و ين ياباني، مريقل؟
+13162	corpus-6-test-corpus-26-train	SFX	سامحني، ثبت في مكتب الخدمة ديال البيوت ومكتب المفقودات. ماعندهمش.
+13172	corpus-6-test-corpus-26-train	SFX	البلاصة صعيب باش تلقاها. في ثنية صغيرة في الخرجة متاع الثنية الوطنية.
+13183	corpus-6-test-corpus-26-train	SFX	ما نعرف شيء.
+13184	corpus-6-test-corpus-26-train	SFX	نجم نحكيو فيه في قهوة.
+13188	corpus-6-test-corpus-26-train	SFX	نشوف، في الحالة هذه، مانيش باش نخلص حق الروتوش، موش هكا؟
+13202	corpus-6-test-corpus-26-train	SFX	مشغل المكالمات، يعيشك.
+13262	corpus-6-test-corpus-26-train	SFX	تنجم تنقصلي الملح، يعيشك؟
+13264	corpus-6-test-corpus-26-dev	SFX	تنجم تسكني لليلة؟
+13267	corpus-6-test-corpus-26-train	SFX	باهي. توة ناخذ كان زوز. يعيشك.
+13268	corpus-6-test-corpus-26-train	SFX	اهي فاتورتك. تزادت بثلاثمية و سبعة و تسعين دولار.
+13269	corpus-6-test-corpus-26-train	SFX	عندك الزهر.
+13287	corpus-6-test-corpus-26-train	SFX	بالله اعطينا طولة على منظر متاع ليلة سمحة.
+13290	corpus-6-test-corpus-26-train	SFX	مخدوم باليد والا بالماكينة؟
+13291	corpus-6-test-corpus-26-train	SFX	نحب نكري النوع هذا من الكرهبة لاربعة وعشرين ساعة.
+13306	corpus-6-test-corpus-26-train	SFX	تشرفت بمعرفتك.
+13322	corpus-6-test-corpus-26-train	SFX	مقطع.
+13333	corpus-6-test-corpus-26-dev	SFX	اه باهي، توة، خليني مشوفك.
+13347	corpus-6-test-corpus-26-train	SFX	اه باهي، تصور قداش الخدمة هذه تاخذ كان تطرح سؤال ثاني على كل واحد. ايجا، فيسع و خوذ باقاجنا. لازمنا توة نمشيو لمكتب الديوانة.
+13396	corpus-6-test-corpus-26-train	SFX	قداش الميزان؟
+13399	corpus-6-test-corpus-26-train	SFX	فما مطعم شنوي موش بعيد من هوني؟
+13407	corpus-6-test-corpus-26-train	SFX	الموقف خمسة غادي.
+13408	corpus-6-test-corpus-26-train	SFX	وقتاش ماتش الكورة؟
+13423	corpus-6-test-corpus-26-dev	SFX	ما تمشيش. تنجم تشوف مصورتي؟
+13424	corpus-6-test-corpus-26-test	SFX	قهوة بالكريمة و السكر، يعيشك.
+13436	corpus-6-test-corpus-26-train	SFX	نتصور هذه الفاتورة مافيها حتى غلطة.
+13438	corpus-6-test-corpus-26-train	SFX	بالله اعطيني هذه.
+13440	corpus-6-test-corpus-26-train	SFX	هذا الباب سبعة.
+13444	corpus-6-test-corpus-26-train	SFX	انت من اسكتلندا؟
+13446	corpus-6-test-corpus-26-train	SFX	ثلاثة-اثنين-واحد-اثنين. استنى لحضة، باهي؟ نحب نبعثلك حاجة هوني. سامحني.
+13471	corpus-6-test-corpus-26-test	SFX	مية و خمسة و ثلاثين يان بدولار.
+13476	corpus-6-test-corpus-26-train	SFX	الجيب القصير و البوت ما توفاش هوضتهم.
+13477	corpus-6-test-corpus-26-train	SFX	انجم نحكي معا المدير؟
+13480	corpus-6-test-corpus-26-train	SFX	علاش سومك موش هو بيده الي في العداد؟
+13484	corpus-6-test-corpus-26-train	SFX	انجم نشوف هذه؟
+13487	corpus-6-test-corpus-26-train	SFX	نوعدك نتعرف عليك اول ما نشوفك.
+13488	corpus-6-test-corpus-26-train	SFX	شنوة قاعد يصير في اخر وقت؟
+13492	corpus-6-test-corpus-26-train	SFX	منحسش في روحي لاباس. تنجم تعطيني اسم طبيب؟
+13504	corpus-6-test-corpus-26-train	SFX	الي باش تكلمه عالخط. تفضل.
+13515	corpus-6-test-corpus-26-train	SFX	فما عرض متاع كباريه؟
+13528	corpus-6-test-corpus-26-dev	SFX	شاس التوالات مايمشيش.
+13532	corpus-6-test-corpus-26-dev	SFX	في قداش وقت نمشي لسيتي هول على الساقين؟
+13547	corpus-6-test-corpus-26-train	SFX	خوذ الدواء هذا بعد الفطور كان وجعك بارشا.
+13550	corpus-6-test-corpus-26-train	SFX	حط الفلوس في جواب مزين اسمه شوغيبيكورو.
+13553	corpus-6-test-corpus-26-train	SFX	فما حد تضرب.
+13609	corpus-6-test-corpus-26-test	SFX	نتسائل انجمشي نلقاله هدية؟
+13624	corpus-6-test-corpus-26-train	SFX	عندك خريطة للميترو؟
+13629	corpus-6-test-corpus-26-train	SFX	عندي بيت حاضرة ليلك في اللوتيل الكبير. تنجم تمشي لغادي؟
+13635	corpus-6-test-corpus-26-train	SFX	عيني ليمين تسطر.
+13657	corpus-6-test-corpus-26-train	SFX	مانيش معلم في الالمانية.
+13660	corpus-6-test-corpus-26-train	SFX	لازمنا نعاوده نتلاقاو اكيد مرة اخرى.
+13666	corpus-6-test-corpus-26-train	SFX	تنجم تضيق السروال؟
+13682	corpus-6-test-corpus-26-train	SFX	تنجم تعطيني راكات و كور؟
+13685	corpus-6-test-corpus-26-test	SFX	تنجم تحط صرف؟
+13694	corpus-6-test-corpus-26-train	SFX	تنجم تعطيني شطر دبوزة؟
+13707	corpus-6-test-corpus-26-train	SFX	سلام. انا جان.
+13717	corpus-6-test-corpus-26-train	SFX	ناكاي.
+13719	corpus-6-test-corpus-26-train	SFX	يقلقك كان ناخذلك تصويرة ليك و لتكسيك؟
+13733	corpus-6-test-corpus-26-train	SFX	كلمتك على ساك ضايع عنده ثلاثة ايام.
+13748	corpus-6-test-corpus-26-test	SFX	نحب ارخص وتيل.
+13755	corpus-6-test-corpus-26-dev	SFX	اوه، فما بارشا بلايص لازمك تشوفها في دشرة غرينتش.
+13769	corpus-6-test-corpus-26-train	SFX	للخدمة. عندي علاقات متاع خدمة غادي.
+13783	corpus-6-test-corpus-26-train	SFX	خرج مع كسوتك.
+13784	corpus-6-test-corpus-26-train	SFX	بالله اعمل طلة على باقاجي؟
+13788	corpus-6-test-corpus-26-train	SFX	شقولك في الفكرة؟ نقبلوا مطلبك بستة شهور بشرط تضملنا البيعان في ستة شهور من الي يوفا العقد.
+13803	corpus-6-test-corpus-26-train	SFX	سامحني، تعرف بالباهي نيويورك؟
+13824	corpus-6-test-corpus-26-test	SFX	احنا نستناو. بالله كلمنا كيف تحضر.
+13827	corpus-6-test-corpus-26-train	SFX	نحب نشوف جراح.
+13828	corpus-6-test-corpus-26-dev	SFX	هاذوما مكونات طبيعية؟
+13831	corpus-6-test-corpus-26-train	SFX	نحب نركب في كرهبة رياضية.
+13843	corpus-6-test-corpus-26-train	SFX	رقم الجهة هو صفر ثلاثة. النومرو هو واحد و ثلاثين ثلاثة و عشرين خمسة و اربعين سبعة و ستين.
+13854	corpus-6-test-corpus-26-train	SFX	لقط قريب.
+13856	corpus-6-test-corpus-26-test	SFX	عقد صغير يكون خير.
+13862	corpus-6-test-corpus-26-train	SFX	نحب نبعث هذا في جواب عادي.
+13903	corpus-6-test-corpus-26-train	SFX	تحبني نحول المكالمة هذه للشخص المسؤول.
+13913	corpus-6-test-corpus-26-train	SFX	شنوة القياس الي تحبه؟
+13919	corpus-6-test-corpus-26-train	SFX	اوه، يا ربي. ما كنتش نتصور باللي مازال عندي هذا.
+13920	corpus-6-test-corpus-26-train	SFX	عندكم صنادق باش نبعث الكولي هذا؟
+13921	corpus-6-test-corpus-26-train	SFX	ياخي شركة الطياران تاخذ على ذمتها مصروف اللوتيل و الماكلة؟
+13938	corpus-6-test-corpus-26-train	SFX	هذا الكله باقاجك؟
+13942	corpus-6-test-corpus-26-train	SFX	كيفاش تحب تعدي تاليفونك؟
+13946	corpus-6-test-corpus-26-train	SFX	اه باهي، غالي. موش مصنوع في اليابان، موش هكا؟
+13953	corpus-6-test-corpus-26-train	SFX	بالله عديلي الملح، من فضلك؟
+13966	corpus-6-test-corpus-26-train	SFX	وين اقرب مطعم من اللوتيل؟
+13993	corpus-6-test-corpus-26-train	SFX	نحب شامبوان لشعر عادي.
+14008	corpus-6-test-corpus-26-train	SFX	شتقول انت باش يلقاوه؟
+14014	corpus-6-test-corpus-26-train	SFX	نتمنالكم عام سعيد.
+14018	corpus-6-test-corpus-26-train	SFX	باش ناخذ الشبح الكبير.
+14043	corpus-6-test-corpus-26-test	SFX	بالله عاود بالشوية.
+14045	corpus-6-test-corpus-26-train	SFX	سامحني. نحب نعدي قضية.
+14059	corpus-6-test-corpus-26-test	SFX	ناخذوا كروفات نوبورغ و لحم علوش مشوي.
+14069	corpus-6-test-corpus-26-train	SFX	نحب بيت تطل على منظر سمح.
+14074	corpus-6-test-corpus-26-train	SFX	ثلاثة كيسان عصير بطيخ، يعيشك.
+14086	corpus-6-test-corpus-26-train	SFX	عندي ثلاثة صغار.
+14088	corpus-6-test-corpus-26-train	SFX	كمل لاخر الصالة و دور على ليسار في الكوان. تو تاراه على يمينك.
+14089	corpus-6-test-corpus-26-dev	SFX	هذه رحلة نهار كامل؟
+14094	corpus-6-test-corpus-26-train	SFX	بقداش تعمل تسكرة مشيان و جيان لأكسفورد؟
+14098	corpus-6-test-corpus-26-train	SFX	نمشي لنادي الرياضة كل نهارين.
+14099	corpus-6-test-corpus-26-train	SFX	وين نقعد في الرحلة؟
+14104	corpus-6-test-corpus-26-train	SFX	وقتاش لازمنا نمشيو؟
+14108	corpus-6-test-corpus-26-train	SFX	بقداش نهار الدليل؟
+14120	corpus-6-test-corpus-26-train	SFX	وين نلقا سادايات؟
+14147	corpus-6-test-corpus-26-train	SFX	سامحني، انا تلميذ ياباني. انت طالب في جامعة نيويورك؟
+14150	corpus-6-test-corpus-26-train	SFX	تنجم تقللنا كيفاش باش تقيم الخدمة؟
+14167	corpus-6-test-corpus-26-train	SFX	اكي، تعرف مخزن باهي قريب من هوني؟
+14168	corpus-6-test-corpus-26-train	SFX	بالصرف ولا بالكارطا؟
+14174	corpus-6-test-corpus-26-train	SFX	نخدم في شركة تجارية.
+14175	corpus-6-test-corpus-26-train	SFX	موش من التربية باش تطلب من الناس قداش تصور.
+14184	corpus-6-test-corpus-26-train	SFX	هاذوما ليفايز خمسمية و واحد صحاح؟
+14195	corpus-6-test-corpus-26-train	SFX	وقتاش انجم ناخذ بانو؟
+14198	corpus-6-test-corpus-26-train	SFX	مايضهرش عليك اكثر من واحد و عشرين سنة.
+14219	corpus-6-test-corpus-26-train	SFX	اني نشوف. بالامارة، فما فيلم سريعة بارشا الداخل. يقلقك كان نجبده؟
+14224	corpus-6-test-corpus-26-train	SFX	توة شريته.
+14232	corpus-6-test-corpus-26-train	SFX	اني باش نجيب واحد توة.
+14235	corpus-6-test-corpus-26-train	SFX	ثمنية دولار. اهو واحد توة نجيبه.
+14242	corpus-6-test-corpus-26-train	SFX	بالله وريه للديوانة متاع المطار مع اللحوايج الي شريتها.
+14261	corpus-6-test-corpus-26-train	SFX	فما تخفيض توا في الحوانيت الشاملة؟
+14265	corpus-6-test-corpus-26-train	SFX	مشغل المكالمات، عديلي الحماية المدنية.
+14266	corpus-6-test-corpus-26-train	SFX	العمارة وفات.
+14289	corpus-6-test-corpus-26-train	SFX	اقف في التقاطع الي جاي.
+14292	corpus-6-test-corpus-26-train	SFX	اوه، اهو. ياخي الناس لكل لازمها تعمر المطلب متاع الديوانة؟
+14304	corpus-6-test-corpus-26-train	SFX	تنجم تعطيني اسمك، من فضلك؟
+14306	corpus-6-test-corpus-26-train	SFX	هذا يقلك لو كان نعدي تاليفون علي حساب الي باش نكلمه؟
+14311	corpus-6-test-corpus-26-train	SFX	صباح الخير، شنحوالك؟
+14317	corpus-6-test-corpus-26-train	SFX	وين بلاصة الرحلات؟
+14336	corpus-6-test-corpus-26-train	SFX	شنوة اسم الشخص الي تحب تحكي معاه؟
+14347	corpus-6-test-corpus-26-test	SFX	سامحني، غايب توة.
+14363	corpus-6-test-corpus-26-train	SFX	شوف هذا. شوف هذا. تحب تقلي الي الفرق بين هذا الراجل و هذا، لعبة زهر؟ محمد، اقف، يعيشك. ما يقلقكش كان نوقفك هوني. انا موخر. والله هايل كيف تلاقينا، موش هكا؟
+14373	corpus-6-test-corpus-26-dev	SFX	ياخي بيتك تعطي على البلاد؟
+14389	corpus-6-test-corpus-26-train	SFX	رسايل ليلي انا؟
+14400	corpus-6-test-corpus-26-test	SFX	مازال غالي. ما انجمش ناخذه بثلاثة دولار؟
+14402	corpus-6-test-corpus-26-train	SFX	نحبوا بيت التالي.
+14403	corpus-6-test-corpus-26-dev	SFX	ناخذ كاس شراب.
+14416	corpus-6-test-corpus-26-train	SFX	انت ياسر سمحة.
+14426	corpus-6-test-corpus-26-test	SFX	نحب بيت لزوز. بقداش تسوى لليلة؟
+14434	corpus-6-test-corpus-26-train	SFX	ما يقارب تسعة و تسعين ميل.
+14441	corpus-6-test-corpus-26-train	SFX	فينس و ليندا يحبوا يقعدوا وحدهم، على هذا سامحني باش نقعد هوني الليلة.
+14444	corpus-6-test-corpus-26-train	SFX	بالله تستحفض الباقاج مربوط.
+14448	corpus-6-test-corpus-26-train	SFX	اسمي ساتو.
+14457	corpus-6-test-corpus-26-train	SFX	نعرف نادي قديم متاع الجاز في البلاد.
+14459	corpus-6-test-corpus-26-train	SFX	باش ناخذ هذه المينو الرئيسية.
+14462	corpus-6-test-corpus-26-dev	SFX	نحب نضوق من نفس الماكلة كيما هذه.
+14475	corpus-6-test-corpus-26-train	SFX	امالا ماشين ناخذوه.
+14477	corpus-6-test-corpus-26-train	SFX	ياخي يطلع للطابق السادس؟
+14478	corpus-6-test-corpus-26-dev	SFX	من جلد التمساح؟
+14483	corpus-6-test-corpus-26-train	SFX	بالله حطه في ساشي غسيل وحطه غادي.
+14484	corpus-6-test-corpus-26-train	SFX	نحب نخرج الفيلم هذا. وقتاش يحظر؟
+14495	corpus-6-test-corpus-26-dev	SFX	ما تعطي المفتاح هذا لحد غيري، يعيشك.
+14500	corpus-6-test-corpus-26-test	SFX	باهي. تو نجي ناخذك لوتيلك الثمنية.
+14502	corpus-6-test-corpus-26-train	SFX	هايل بحذا البرسانة.
+14505	corpus-6-test-corpus-26-train	SFX	خلي القصة هابطة شوية، يعيشك.
+14507	corpus-6-test-corpus-26-train	SFX	ياخي سوم التسركيل داخل؟
+14509	corpus-6-test-corpus-26-train	SFX	دار أوبرا متروبوليتان.
+14514	corpus-6-test-corpus-26-train	SFX	وين مكتب اكري-كرهبة؟
+14519	corpus-6-test-corpus-26-dev	SFX	نحس بروحي عندي السخانة من امس.
+14520	corpus-6-test-corpus-26-train	SFX	ماهواش ذوقي.
+14530	corpus-6-test-corpus-26-train	SFX	شعندك خضرة؟
+14531	corpus-6-test-corpus-26-test	SFX	نحب كيرلي خفيف، من فضلك.
+14534	corpus-6-test-corpus-26-train	SFX	وقتاش يجي الطبيب؟
+14537	corpus-6-test-corpus-26-train	SFX	ما هواش اللون الباهي.
+14538	corpus-6-test-corpus-26-train	SFX	السنة تكسرت.
+14542	corpus-6-test-corpus-26-train	SFX	بلاصة بحذ الصالة والا بحذ البرسانة؟
+14557	corpus-6-test-corpus-26-train	SFX	بديت نمشي لمسافة باهية.
+14564	corpus-6-test-corpus-26-dev	SFX	تنجم اطلع باقاجي للبيت؟
+14573	corpus-6-test-corpus-26-train	SFX	وريني واحد لبنية صغيرة.
+14590	corpus-6-test-corpus-26-train	SFX	تنجم تظرب من هوني؟
+14593	corpus-6-test-corpus-26-dev	SFX	عندك شي حاجة بثمانين دولار بالضبط؟
+14605	corpus-6-test-corpus-26-train	SFX	انا عطشت.
+14612	corpus-6-test-corpus-26-train	SFX	بلاش حليب، يعيشك.
+14683	corpus-6-test-corpus-26-dev	SFX	عندي ثلاثة سيكان.
+14685	corpus-6-test-corpus-26-train	SFX	وين الواد؟
+14693	corpus-6-test-corpus-26-test	SFX	سامحني. انزل علي فلسة التصوير، يعيشك.
+14709	corpus-6-test-corpus-26-train	SFX	انجم ناخذ مجلة ولا حاجة تشبهلها؟
+14718	corpus-6-test-corpus-26-train	SFX	لشيرة الجنوب.
+14721	corpus-6-test-corpus-26-train	SFX	بقداش هاذم البلايص في البلكون؟
+14734	corpus-6-test-corpus-26-test	SFX	نحبوا بيت اتطل على الواد.
+14737	corpus-6-test-corpus-26-train	SFX	فما وين نحطوا الجوابات قرييب من هوني؟
+14757	corpus-6-test-corpus-26-train	SFX	باهي. توة نجيبهالكم.
+14761	corpus-6-test-corpus-26-train	SFX	القطعة المكتوبة بالخط المايل تعكس التغييرات الي صارت في سنين الالف و تسعمية و تسعين.
+14763	corpus-6-test-corpus-26-train	SFX	عنده ثاثين سنة.
+14777	corpus-6-test-corpus-26-test	SFX	باهي. باللهي عاود اكتبلي العنوان على هذا الجواب؟
+14783	corpus-6-test-corpus-26-train	SFX	نحب نمشي لهارودز. تنجم ترسملي خريطة، يعيشك؟
+14786	corpus-6-test-corpus-26-train	SFX	شتعملوا كيف عندكم وقت فارغ؟
+14789	corpus-6-test-corpus-26-train	SFX	تبيعوا عماير لهذه المصورة؟
+14805	corpus-6-test-corpus-26-train	SFX	نحب كابل متاع التصوير عن بعد.
+14807	corpus-6-test-corpus-26-train	SFX	ياخي كنت الأخير في القايمة؟
+14810	corpus-6-test-corpus-26-train	SFX	نتصوره مليان.
+14813	corpus-6-test-corpus-26-train	SFX	شوتة باهية. اماضعت.
+14818	corpus-6-test-corpus-26-train	SFX	تنجم تقلي شنوة البلايص السماح هوني؟
+14820	corpus-6-test-corpus-26-train	SFX	فماشي حوانيت شاملة قريبة مه هوني؟
+14854	corpus-6-test-corpus-26-dev	SFX	انا زادة.
+14862	corpus-6-test-corpus-26-train	SFX	نحب نتحصل عليك من سان فرانسيسكو.
+14863	corpus-6-test-corpus-26-train	SFX	نحب نحظر هذا التكوين الصيف الجاي.
+14887	corpus-6-test-corpus-26-train	SFX	الشراب موش جديد. تنجم تجدده؟
+14901	corpus-6-test-corpus-26-dev	SFX	تنجم تحول البلاط لكليبات؟
+14903	corpus-6-test-corpus-26-train	SFX	شنوة الي مهتم بيه اكثر توة؟
+14905	corpus-6-test-corpus-26-train	SFX	نحب ترجعولي فلوسي . تنجموا تعطيوني فلوسي؟
+14926	corpus-6-test-corpus-26-train	SFX	مانجمتش نلقى مشروب كيما هذا في بلاصة اخرى.
+14933	corpus-6-test-corpus-26-train	SFX	نشريو هذا زادة، وصلت للمبلغ الي بلاش جمارك.
+14952	corpus-6-test-corpus-26-train	SFX	انجم شوف ورقة تلقيحك، من فضلك؟
+14960	corpus-6-test-corpus-26-train	SFX	تسافر برشا؟
+14969	corpus-6-test-corpus-26-train	SFX	جيت من اماريكا.
+14976	corpus-6-test-corpus-26-train	SFX	عندي تسكرة لسان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	SFX	اذا كان المحطة بعيدة ربع ساعة، تو نمشي على ساقية.
+15019	corpus-6-test-corpus-26-train	SFX	نحب اوتيل رخيص.
+15020	corpus-6-test-corpus-26-test	SFX	فن بونساي، يزيد في نشاط لكبار السن.
+15024	corpus-6-test-corpus-26-dev	SFX	مازلت ما قررتش. تنجم تعطيني اكثر وقت؟
+15025	corpus-6-test-corpus-26-train	SFX	راسي يوجعني.
+15036	corpus-6-test-corpus-26-dev	SFX	و لوكان نمشيو نشربوا قهوة؟
+15037	corpus-6-test-corpus-26-train	SFX	نحب شهادة طبية و توصيل للسيقورتة.
+15046	corpus-6-test-corpus-26-test	SFX	اوه، لا. يعيشك، فيسع. رانا موخرين.
+15051	corpus-6-test-corpus-26-train	SFX	ما نحبش ندفع اكثر من عشرين دولار.
+15062	corpus-6-test-corpus-26-train	SFX	علاش مازلنا ما طرناش؟ قلي شنوة فما.
+15073	corpus-6-test-corpus-26-test	SFX	بقداش السيباق؟ تنجمشي تقيدلي سوم السيباق على ورقة؟
+15083	corpus-6-test-corpus-26-train	SFX	نحب نكري كرسي متاع شط.
+15087	corpus-6-test-corpus-26-train	SFX	دقيقة، من فضلك.
+15088	corpus-6-test-corpus-26-test	SFX	النساء لازمهم يلبسوا روب محترمة؟
+15095	corpus-6-test-corpus-26-train	SFX	ما تشدنيش.
+15109	corpus-6-test-corpus-26-train	SFX	عندك سيقارو؟
+15123	corpus-6-test-corpus-26-train	SFX	كان ما فماش بارشا ريح، انجموا نمشيو لتيكي بوينت.
+15126	corpus-6-test-corpus-26-train	SFX	هايل.
+15133	corpus-6-test-corpus-26-train	SFX	باش نسكر توة. يعيشكم على الإنتباه.
+15145	corpus-6-test-corpus-26-dev	SFX	تحب في ألوان اخرين؟
+15149	corpus-6-test-corpus-26-train	SFX	شكونه؟
+15157	corpus-6-test-corpus-26-train	SFX	سامحني. تنجمشي تقلي وين انجم نلقى محطة تكسي؟
+15170	corpus-6-test-corpus-26-train	SFX	للشربان؟
+15181	corpus-6-test-corpus-26-train	SFX	اهوا.
+15201	corpus-6-test-corpus-26-train	SFX	وين موجودة اقرب كانكيوري؟
+15206	corpus-6-test-corpus-26-train	SFX	امم. ما مشاتش، موش هكا؟ تنجم تبدل البلاصة كان تحب.
+15221	corpus-6-test-corpus-26-train	SFX	نلوج على هذا.
+15240	corpus-6-test-corpus-26-train	SFX	هايل بارشا، يا سيد. شنوة تاخذ ديسار؟
+15246	corpus-6-test-corpus-26-train	SFX	عربة عادية والا بلمان؟
+15247	corpus-6-test-corpus-26-train	SFX	شيكات سياحية. يعيشك. اهي تسكرتك و كارتة دخول الطيارة متاعك. بالله ايجا قبل بساعة قبل المشيان.
+15257	corpus-6-test-corpus-26-test	SFX	وجيعة كبيرة.
+15259	corpus-6-test-corpus-26-train	SFX	اسمي غورو موتوياما. النومرو هو صفر ثلاثة ثنين و ثلاثين ستين و اربعة و عشرين خمسة و تسعين.
+15262	corpus-6-test-corpus-26-train	SFX	قلبي يوجعني.
+15274	corpus-6-test-corpus-26-train	SFX	"في اما وقت يقدم ""كوسيس لاف""؟"
+15283	corpus-6-test-corpus-26-train	SFX	هايل. تشرب قهوتك توة و الا من بعد؟
+15292	corpus-6-test-corpus-26-train	SFX	قلي شنوة فريق الريغي السخون في نيويورك.
+15295	corpus-6-test-corpus-26-test	SFX	شنوة يفرق منتوجك على المنافس؟
+15296	corpus-6-test-corpus-26-train	SFX	ما فما حتى مشكل كان ما فما حتى حد يسمع نصايح السلامة؟
+15319	corpus-6-test-corpus-26-train	SFX	الزنقة مخطرة؟
+15320	corpus-6-test-corpus-26-train	SFX	ايه. اعمل الواجب.
+15323	corpus-6-test-corpus-26-train	SFX	ايه، واحد برك. وقتاش نكون؟ شنوة قلت في المقابل؟
+15331	corpus-6-test-corpus-26-dev	SFX	اهي بطاقة التعريف متاعي.
+15337	corpus-6-test-corpus-26-train	SFX	نحبوا طاولة بجنب البرسانة.
+15347	corpus-6-test-corpus-26-train	SFX	قلي الرجوع الرخيص للمشيان لسان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	SFX	تعرف مطعم كيوكا؟
+15378	corpus-6-test-corpus-26-train	SFX	مشيان كهاو.
+15380	corpus-6-test-corpus-26-train	SFX	تكبر بالقعدة هوني ناكل ديما.
+15400	corpus-6-test-corpus-26-train	SFX	فما بواتا باهية فيها عروض فلامينغو؟
+15419	corpus-6-test-corpus-26-train	SFX	روبة سمحة الي لابستها.
+15431	corpus-6-test-corpus-26-train	SFX	ساقي توجعني.
+15436	corpus-6-test-corpus-26-train	SFX	وين المغسلة القريبة؟
+15443	corpus-6-test-corpus-26-train	SFX	تنجم تبدل البلاصة معايا، يعيشك؟
+15447	corpus-6-test-corpus-26-train	SFX	ما قعدناش جنب لجنب.
+15452	corpus-6-test-corpus-26-train	SFX	بالامارة، نحب نضمن الطرد هذا.
+15463	corpus-6-test-corpus-26-train	SFX	العدد وصل للمية دولار.
+15464	corpus-6-test-corpus-26-test	SFX	معدات الحماية موجودين القام، في الوسط، والتالي في الماكينة.
+15470	corpus-6-test-corpus-26-train	SFX	هايل برشا، حجزك تاكد.
+15476	corpus-6-test-corpus-26-train	SFX	الصباط عالي بارشا.
+15477	corpus-6-test-corpus-26-train	SFX	نحبوا طاولة في التراس.
+15482	corpus-6-test-corpus-26-train	SFX	لفيلم ماهوش باهي للصغار الي عمارهم اقل من خمسطاش سنة. الوالدين هوما الي يقرروا صغارهم يتفرجوا و الا لا.
+15487	corpus-6-test-corpus-26-train	SFX	في اما فورمة تحب الفلوس؟ بالله عمر الورقة و صحح هوني.
+15509	corpus-6-test-corpus-26-train	SFX	عندي ساعات وجيعة في معدتي.
+15522	corpus-6-test-corpus-26-train	SFX	عندكم ماكلة خفيفة؟ حيتني في ريجيم.
+15529	corpus-6-test-corpus-26-dev	SFX	ما عندكم ما تخلصوا.
+15539	corpus-6-test-corpus-26-train	SFX	ايه. عندي زوز تساكر لالعمالقة والمهربين.
+15546	corpus-6-test-corpus-26-train	SFX	احنا من احسن مصنعين الكمبيوتر.
+15553	corpus-6-test-corpus-26-train	SFX	يعيشك. حتى انا. ان شاء الله المرة الجاية.
+15564	corpus-6-test-corpus-26-train	SFX	بيت لزوز و بانو.
+15566	corpus-6-test-corpus-26-train	SFX	طحت من الدروج.
+15575	corpus-6-test-corpus-26-train	SFX	شنية الثالجة الي تنصحني بيها؟
+15577	corpus-6-test-corpus-26-dev	SFX	هيم. هذا. اللون خرج معاك.
+15598	corpus-6-test-corpus-26-test	SFX	وين الكتب الاجانب؟
+15604	corpus-6-test-corpus-26-train	SFX	زوز وحيد و سبريت.
+15607	corpus-6-test-corpus-26-test	SFX	اعطيني دخان.
+15610	corpus-6-test-corpus-26-dev	SFX	ممنوع باش تجيب معاك هذا للبلاد، سامحني. ايه، ضاهرلي هذا كل شيء.
+15652	corpus-6-test-corpus-26-train	SFX	ايه. يسكن بحذايا في كاليفونيا اما حول لفلوريدا عنده عامين. و انت؟ مسافر وحدك؟
+15664	corpus-6-test-corpus-26-train	SFX	انا مريض.
+15666	corpus-6-test-corpus-26-train	SFX	ولدي وفاته السخانة.
+15673	corpus-6-test-corpus-26-train	SFX	في القياس هذا، يعيشك.
+15674	corpus-6-test-corpus-26-train	SFX	وسام الاستحقاق متاع الثقافة مشى للفنانين و الجامعيين المميزين بهذه المناسبة.
+15676	corpus-6-test-corpus-26-train	SFX	انا ياباني.
+15692	corpus-6-test-corpus-26-train	SFX	غالي برشا.
+15699	corpus-6-test-corpus-26-train	SFX	ايه. خوذ الكار لكيوتو إيكي.
+15710	corpus-6-test-corpus-26-train	SFX	محجوز للمشاركين؟
+15735	corpus-6-test-corpus-26-dev	SFX	البيت تتكلف ستة الاف يان لليلة.
+15763	corpus-6-test-corpus-26-train	SFX	انجم ناخذ هذه في الطيارة؟
+15775	corpus-6-test-corpus-26-train	SFX	باهي. كل الي نحب نعرفه، اذا كان الخدمة باش توفا بالربح.
+15784	corpus-6-test-corpus-26-train	SFX	باهي. تحبشي كشكول مع هذا؟
+15788	corpus-6-test-corpus-26-train	SFX	املا الباتري، يعيشك.
+15791	corpus-6-test-corpus-26-train	SFX	انا حاضر باش ناخذ.
+15798	corpus-6-test-corpus-26-dev	SFX	ملح البانو متاع النباتات يخلي لحمك حنين و مالس.
+15804	corpus-6-test-corpus-26-train	SFX	اكتب اسم الخطوط الجوية و نومرو الرحلة، زادة.
+15814	corpus-6-test-corpus-26-train	SFX	لحقيقة. اليوم، نهار الاحد، نهار الاحد اخيب نهار.
+15896	corpus-6-test-corpus-26-train	SFX	ايه، مشكلة في رسكلت الزبلة.
+15897	corpus-6-test-corpus-26-train	SFX	نحب النوع هذا بوضع متاع خمسة بلايص.
+15899	corpus-6-test-corpus-26-train	SFX	بارشا عايلات عندها زوز مداخيل.
+15902	corpus-6-test-corpus-26-train	SFX	"اوه. هذه فضة نادرة ""القمرة والجرس"". ثابت تحب تبدلهم؟"
+15911	corpus-6-test-corpus-26-train	SFX	امي و اختي جايين من اليابان باش يشوفوني. يوصلوا من توة للسبعة.
+15942	corpus-6-test-corpus-26-train	SFX	المارون خارج بارشا السنة.
+15950	corpus-6-test-corpus-26-test	SFX	فكرة باهية. معمل وقتاش جاي؟
+15967	corpus-6-test-corpus-26-train	SFX	باهي. زوز بلايص، يعيشك.
+15989	corpus-6-test-corpus-26-train	SFX	وين السوق؟
+16007	corpus-6-test-corpus-26-train	SFX	ما عاش انجم نزيد نستنى باش نجرب دبش الكورس الجدد.
+16016	corpus-6-test-corpus-26-train	SFX	ضاهرلي فيك ما كليت كان الكعك.
+16034	corpus-6-test-corpus-26-train	SFX	بقداس تسكرة لادنبرة في الدرجة الأولى، يعيشك؟
+16042	corpus-6-test-corpus-26-train	SFX	يضهر ناقصين عشرة دولار على لفلوس الي رجعتهملي.
+16046	corpus-6-test-corpus-26-train	SFX	نكلم في سي سميث على الببيت ميتين و واحد، اما حد ما جاوب. تعرفشي هبطشي الهوني؟
+16061	corpus-6-test-corpus-26-train	SFX	نحب وحدة جديدة.
+16070	corpus-6-test-corpus-26-train	SFX	نخدم في دار طباعة.
+16073	corpus-6-test-corpus-26-train	SFX	بالله عمر هذا؟
+16080	corpus-6-test-corpus-26-test	SFX	شنوة النهج هذا؟
+16082	corpus-6-test-corpus-26-test	SFX	اتنجم تعديلي الباكو هذا؟
+16089	corpus-6-test-corpus-26-train	SFX	كيفاش نقولوا هذا بالانقلاي؟
+16091	corpus-6-test-corpus-26-train	SFX	امشي في الثنية هذه. تو تلقاه على ليمين.
+16098	corpus-6-test-corpus-26-train	SFX	نحب نسوقر هذا.
+16106	corpus-6-test-corpus-26-train	SFX	صباح الخير. معاك الاستقبال. شنوة انجم نعملك؟
+16127	corpus-6-test-corpus-26-train	SFX	هايل بارشا. ادخل مالا.
+16130	corpus-6-test-corpus-26-test	SFX	ايه، يا سيد. باش نصير ناخذ فطور الصباح هوني الايام لكل، من الاثنين للجمعة، قبل ما نمشي نخدم.
+16140	corpus-6-test-corpus-26-dev	SFX	ما فما حتى مشكل.
+16141	corpus-6-test-corpus-26-train	SFX	عديلي الثنين و ثلاثين تسعة و ستين ثمنطاش.
+16158	corpus-6-test-corpus-26-train	SFX	ايه، انجموا نسربيوك من السبعة.
+16167	corpus-6-test-corpus-26-train	SFX	تطلق هوني.
+16169	corpus-6-test-corpus-26-test	SFX	ملة خدمة سريعة.
+16191	corpus-6-test-corpus-26-train	SFX	يمكن تو يضهر.
+16217	corpus-6-test-corpus-26-train	SFX	دور على ليسار في المفترق الجاي.
+16219	corpus-6-test-corpus-26-dev	SFX	سامحني، كيفاش نعملوا باش منشيو للشط؟
+16222	corpus-6-test-corpus-26-train	SFX	ياخي فورد ميسم نجموا نمشيولها بالكار؟
+16227	corpus-6-test-corpus-26-train	SFX	ايه. اسمك و نومرو البيت، يعيشك.
+16231	corpus-6-test-corpus-26-train	SFX	يجي لليابان في قداش وقت بالطيارة؟
+16238	corpus-6-test-corpus-26-train	SFX	باهي. نهار الاحد، الساعتين.
+16258	corpus-6-test-corpus-26-train	SFX	نحب نمشي من نيويورك إلى تورنتو.
+16259	corpus-6-test-corpus-26-train	SFX	القفلة واضح مكسرة. عندكمشي وحيد اخرين من نفس النوعية؟
+16271	corpus-6-test-corpus-26-train	SFX	راهو امسخ.
+16279	corpus-6-test-corpus-26-dev	SFX	تنجم تأكد الرحلة متاعي. اهي تسكرتي.
+16291	corpus-6-test-corpus-26-train	SFX	عندك في الاخظر الغامق؟
+16292	corpus-6-test-corpus-26-test	SFX	تنجم تهزني لكانتباري و ترجعني؟
+16311	corpus-6-test-corpus-26-train	SFX	منين ناخذ فورشيتة جديدة؟
+16312	corpus-6-test-corpus-26-train	SFX	بارك الله فيك على حسن اخلاقك.
+16335	corpus-6-test-corpus-26-train	SFX	سامحني، ما نبيعوش تساكر للمسرح.
+16337	corpus-6-test-corpus-26-train	SFX	نحب نشوف هذا.
+16339	corpus-6-test-corpus-26-train	SFX	اوه، هايل. شنوة لازمني نعمل؟
+16344	corpus-6-test-corpus-26-dev	SFX	نحب نزيد في الاقامة نهارين.
+16351	corpus-6-test-corpus-26-train	SFX	بدلي بلاستي، من فضلك.
+16365	corpus-6-test-corpus-26-train	SFX	عندنا كروفات سمحة اليوم.
+16371	corpus-6-test-corpus-26-train	SFX	حتى الوقتاش محلولين؟
+16395	corpus-6-test-corpus-26-train	SFX	تتكيف والا ما تتكيفش؟
+16403	corpus-6-test-corpus-26-train	SFX	غالي بارشا بالنسبة ليلي. تنجم اتيحلي السوم؟
+16409	corpus-6-test-corpus-26-dev	SFX	انا محلول نهار الاربعة الصباح و الجمعة لعشية.
+16413	corpus-6-test-corpus-26-train	SFX	معملتش حجز.
+16434	corpus-6-test-corpus-26-train	SFX	على خاطر اليابان في الصيف ياسر سخون، و ما عندناش كليماتيزور.
+16444	corpus-6-test-corpus-26-train	SFX	تنجم تكلملي تكسي الثمنية غدوة الصباح؟
+16453	corpus-6-test-corpus-26-train	SFX	هي خايبة.
+16465	corpus-6-test-corpus-26-train	SFX	علاش ما تستناش الكار تحت البرطال؟
+16477	corpus-6-test-corpus-26-train	SFX	ايجا، كينجي. حطني نجي نزورك في المكتب.
+16478	corpus-6-test-corpus-26-train	SFX	ايه، محلول مالتسعة للثمنية.
+16484	corpus-6-test-corpus-26-dev	SFX	منرقدش بالباهي في الليل.
+16487	corpus-6-test-corpus-26-train	SFX	كيفاش الكساد يأثرلك على خدمتك؟
+16495	corpus-6-test-corpus-26-train	SFX	عندي موعد آخر.
+16516	corpus-6-test-corpus-26-train	SFX	انجم ناخذ بيانو متاع الدار؟
+16536	corpus-6-test-corpus-26-dev	SFX	هذا اللي نلوج عليه.
+16542	corpus-6-test-corpus-26-train	SFX	مفهمتش تفسيرك.
+16546	corpus-6-test-corpus-26-train	SFX	عندي تحول فالوجهة. ماشي لبوستن.
+16547	corpus-6-test-corpus-26-train	SFX	وين احسن بلاصة للسياحة؟
+16576	corpus-6-test-corpus-26-train	SFX	وشد روحو؟
+16577	corpus-6-test-corpus-26-train	SFX	شخت برشا.
+16581	corpus-6-test-corpus-26-train	SFX	في الحالة هذه، لازم عندي وجه اصغر من وجه جوليا روبارتس.
+16586	corpus-6-test-corpus-26-train	SFX	تنجم تاخذ هذا، يعيشك؟
+16601	corpus-6-test-corpus-26-train	SFX	مسافرين الخطوط الجوية ايه بي سي رحلة سبع مية و ثلاثة الي ماشية لطوكيو بالله يمشيو للباب نومرو عشرين للاجراءات الحكومية.
+16607	corpus-6-test-corpus-26-train	SFX	وين موقف الكار متاع بي؟
+16643	corpus-6-test-corpus-26-train	SFX	عادي، يعيشك.
+16653	corpus-6-test-corpus-26-dev	SFX	منين نشري غطاء طاولة؟
+16679	corpus-6-test-corpus-26-train	SFX	منين نتحصل على قيد يتكلم اليابانية؟
+16696	corpus-6-test-corpus-26-train	SFX	تحب ناخذلك تصويرة؟
+16709	corpus-6-test-corpus-26-train	SFX	ما خذيتش الصحن هذا.
+16718	corpus-6-test-corpus-26-train	SFX	جرحت صبعي. عندكمشي دواء متاع قيح؟
+16723	corpus-6-test-corpus-26-train	SFX	انجم ناخذ تنبري متاع خمسة و تسعين فرنك؟
+16736	corpus-6-test-corpus-26-train	SFX	نكون هوني الثمنية غير ربع.
+16746	corpus-6-test-corpus-26-train	SFX	نحب اوفاح.
+16747	corpus-6-test-corpus-26-train	SFX	منين نشوف الوقت؟
+16751	corpus-6-test-corpus-26-test	SFX	من هوني تمشي للمدرسة؟
+16758	corpus-6-test-corpus-26-dev	SFX	عندنا برشا الداخل؟
+16760	corpus-6-test-corpus-26-train	SFX	هيلتون بعيد من هوني؟
+16769	corpus-6-test-corpus-26-train	SFX	متأكد الي حطيته في كلاسوري.
+16770	corpus-6-test-corpus-26-train	SFX	يديكم الفوق.
+16771	corpus-6-test-corpus-26-train	SFX	فما مطعم تنصحنا بيه قريب من هوني؟
+16773	corpus-6-test-corpus-26-train	SFX	شنوة تحب، الغامق ولا الفاتح؟
+16781	corpus-6-test-corpus-26-train	SFX	تنجم تقلي وين ماشين؟
+16793	corpus-6-test-corpus-26-train	SFX	تسكرة بعثان، يعيشك.
+16796	corpus-6-test-corpus-26-train	SFX	وين انجموا نلقاو بلاصة باهية باش نعملوا خرجة بنهار؟
+16799	corpus-6-test-corpus-26-train	SFX	نحب الساك كللي الاحمر الي في نفس الفورمة مع هذا.
+16805	corpus-6-test-corpus-26-train	SFX	مازلنا نجموا نحطوا التواريخ؟
+16810	corpus-6-test-corpus-26-train	SFX	وقتاش تحل البانكا؟
+16811	corpus-6-test-corpus-26-train	SFX	نحس فروحي موش لاباس.
+16819	corpus-6-test-corpus-26-train	SFX	داخل بعضو. تسورلي بيانو؟
+16822	corpus-6-test-corpus-26-test	SFX	البرة.
+16829	corpus-6-test-corpus-26-test	SFX	هزني للسبيطار.
+16833	corpus-6-test-corpus-26-train	SFX	لازمني نرجع للسبيطار كل يوم؟
+16837	corpus-6-test-corpus-26-train	SFX	عندي وجيعة في ماعدتي.
+16839	corpus-6-test-corpus-26-train	SFX	بقداش طوابع البريد باش نبعث الجواب هذا لليابان؟
+16842	corpus-6-test-corpus-26-train	SFX	نحب كاس خمر.
+16869	corpus-6-test-corpus-26-train	SFX	لازم تجي تلوج على المطار؟
+16872	corpus-6-test-corpus-26-dev	SFX	الدخول للطيارة يبدى من الاربعة و نصف. ايجاو قبل.
+16878	corpus-6-test-corpus-26-train	SFX	من ثلاثين الف يان.
+16879	corpus-6-test-corpus-26-train	SFX	منين نجم نشري كارطة تالفون؟
+16888	corpus-6-test-corpus-26-train	SFX	انجم نرجعه في بلاد اخرى؟
+16889	corpus-6-test-corpus-26-dev	SFX	باش نقعد ثناش يوم.
+16893	corpus-6-test-corpus-26-train	SFX	اجبد شوية من الفوق.
+16896	corpus-6-test-corpus-26-train	SFX	لازمك تشوف مختص.
+16899	corpus-6-test-corpus-26-dev	SFX	دقيقات اخرين، يعيشك.
+16904	corpus-6-test-corpus-26-train	SFX	ايه نومرو اربعطاش.
+16911	corpus-6-test-corpus-26-train	SFX	اوه، بالحق. عندك برشا خيارات.
+16928	corpus-6-test-corpus-26-dev	SFX	ما قيناها في حتى بلاصة.
+16936	corpus-6-test-corpus-26-test	SFX	مزالو بلايص للندن؟
+16952	corpus-6-test-corpus-26-train	SFX	نحب نسخة من ورقة السرقة.
+16955	corpus-6-test-corpus-26-dev	SFX	بعد تقاطع واحد في الشارع.
+16960	corpus-6-test-corpus-26-train	SFX	اعطيني الضو كيف تحضر؟
+16962	corpus-6-test-corpus-26-test	SFX	هاذم دخان خفيف؟
+16964	corpus-6-test-corpus-26-train	SFX	هايل. كيف هكا.
+16967	corpus-6-test-corpus-26-train	SFX	الاكسبريس الجاي بعد ساعة.
+16976	corpus-6-test-corpus-26-train	SFX	نحب نطول في يدين البلوزان متاع الرياضة.
+16992	corpus-6-test-corpus-26-train	SFX	عندي حجز. اهو نومرو التأكيد.
+17027	corpus-6-test-corpus-26-train	SFX	عيد ميلادك قرب.
+17030	corpus-6-test-corpus-26-dev	SFX	الترينوات ما يمشيوش حيتهم مضربين.
+17038	corpus-6-test-corpus-26-train	SFX	تجم تصلح هذا؟
+17068	corpus-6-test-corpus-26-dev	SFX	الدنيا مبلعة بالكراهب.
+17079	corpus-6-test-corpus-26-train	SFX	ثاني عمارة على اليسار متاع البنية البيضة.
+17094	corpus-6-test-corpus-26-train	SFX	ريزارفينا بلاصة نهار خمسة و عشرين أكتوبر لحداش متاع النهار.
+17097	corpus-6-test-corpus-26-train	SFX	ايه، الماكلة ماهياش داخلة.
+17115	corpus-6-test-corpus-26-train	SFX	ايه، الماكلة ماهياش داخلة.
+17117	corpus-6-test-corpus-26-train	SFX	منين نجم نرجع سوم التسرة؟
+17120	corpus-6-test-corpus-26-train	SFX	علاش هذا يصير ساعات؟
+17149	corpus-6-test-corpus-26-train	SFX	نحب نشوف الباقي.
+17158	corpus-6-test-corpus-26-train	SFX	كرهبتي عوقت. ايجا هزها يعيشك.
+17163	corpus-6-test-corpus-26-train	SFX	نحب شعري طويل شوية من تالي.
+17177	corpus-6-test-corpus-26-train	SFX	شنوة الأنواع الي عندك؟
+17179	corpus-6-test-corpus-26-dev	SFX	عندك حق. هذه بلاصة من البلايص الي نحبهم.
+17180	corpus-6-test-corpus-26-train	SFX	شنوة التصور اللي عندك في مخك؟
+17204	corpus-6-test-corpus-26-test	SFX	اسمي ميشيكو تاناكا و نومرو الرحلة متاعي خمسة صفر واحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	SFX	تنجم تعطيني خريطة مبسطة للبلاصة الي احنا فيها؟
+17217	corpus-6-test-corpus-26-train	SFX	وين نتقابلوا؟
+17222	corpus-6-test-corpus-26-train	SFX	نحب نفس الحجامة كيف قبل.
+17229	corpus-6-test-corpus-26-train	SFX	اعطيني خمسين، يعيشك.
+17272	corpus-6-test-corpus-26-train	SFX	منين سجل للخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	SFX	شفيه؟
+17295	corpus-6-test-corpus-26-train	SFX	فماشي بلايص سماح في الحي؟
+17311	corpus-6-test-corpus-26-train	SFX	اعطيني الفلوس، يعيشك.
+17313	corpus-6-test-corpus-26-train	SFX	هايل برشا. تو نعس لين الساك يكون هوني.
+17315	corpus-6-test-corpus-26-train	SFX	هذي اختصاصنا، نداس مشوي.
+17339	corpus-6-test-corpus-26-train	SFX	باش نقعدوا.
+17350	corpus-6-test-corpus-26-train	SFX	ضربوني.
+17356	corpus-6-test-corpus-26-train	SFX	هايل برشا، لازمني نركز؟
+17381	corpus-6-test-corpus-26-dev	SFX	نتشاركوا.
+17394	corpus-6-test-corpus-26-train	SFX	ما عندناش المودال هذا. تو نثبت في المخزن. استناني دقيقة، يعشك.
+17398	corpus-6-test-corpus-26-train	SFX	سكوتش بالماء، يعيشك.
+17399	corpus-6-test-corpus-26-train	SFX	يضهر باهي. قداش يعمل؟
+17414	corpus-6-test-corpus-26-train	SFX	هز آوردنونس للفارماسي. تو تلقى الدواء.
+17438	corpus-6-test-corpus-26-train	SFX	خذيت هذا.
+17453	corpus-6-test-corpus-26-train	SFX	ايه تنجم تاقف في المحطة الي حاجتك بها من هوني لشيكاغو.
+17460	corpus-6-test-corpus-26-train	SFX	منين نشري حاجات للذكرى؟
+17475	corpus-6-test-corpus-26-train	SFX	غالي برشا. منجمش نشريه.
+17482	corpus-6-test-corpus-26-train	SFX	نجم ناخذ نومرو إيه بي سي آند كومباني في شيكاغو، يعيشك.
+17488	corpus-6-test-corpus-26-test	SFX	وين الكنيسية؟
+17496	corpus-6-test-corpus-26-train	SFX	كيفاش تحب عضماتك؟
+17504	corpus-6-test-corpus-26-train	SFX	ايه بجنب البنية هذه.
+17526	corpus-6-test-corpus-26-train	SFX	لا، ضاهرلي نساو باش يجيبولنا واحد.
+17537	corpus-6-test-corpus-26-train	SFX	باهي. اتاكد. انجموا ناخذوا نومروك متاع التالفون، في صورة ما استحقينا نكلموك؟
+17548	corpus-6-test-corpus-26-train	SFX	شسمو الرسام؟
+17559	corpus-6-test-corpus-26-train	SFX	لازمني نطلب منه باش يكلمك كيف يجي؟
+17593	corpus-6-test-corpus-26-train	SFX	نحب هذه.
+17606	corpus-6-test-corpus-26-train	SFX	حبيت الشراب هذا متاع الاستقبال بعد الركوب. نشربوه على صحتك.
+17609	corpus-6-test-corpus-26-train	SFX	اربعين دولار النهار مع عشرة سنت للميل.
+17615	corpus-6-test-corpus-26-train	SFX	باش نقمر بخمسة دولار.
+17636	corpus-6-test-corpus-26-train	SFX	ماهياش سلعة واحد آخر؟
+17645	corpus-6-test-corpus-26-train	SFX	تنجم تقلي كيفاش نمشي للمتحف؟
+17649	corpus-6-test-corpus-26-train	SFX	سامحني، اما نحب نأجل الموعد.
+17652	corpus-6-test-corpus-26-test	SFX	تقترح عليا خرجة سمحة؟
+17660	corpus-6-test-corpus-26-train	SFX	الترينو متاعك يخرج من البلاصة نومرو ثمنية.
+17673	corpus-6-test-corpus-26-train	SFX	نحب ساك بسلسلة تتحرك.
+17674	corpus-6-test-corpus-26-train	SFX	نحبها باقل من مية و ثمانين دولار.
+17739	corpus-6-test-corpus-26-train	SFX	نطلب منك مرة الي عندي الوقت باش نعمل طلة.
+17745	corpus-6-test-corpus-26-test	SFX	ايه. ريزارفاسيون لستة ليلات، يعيشك. من ثلاثة و عشرين جوان.
+17757	corpus-6-test-corpus-26-train	SFX	تنجم توريني وحيد اخرين بمنضر اخر؟
+17765	corpus-6-test-corpus-26-train	SFX	تحب عصير شنوة؟
+17780	corpus-6-test-corpus-26-train	SFX	باش ترجع لدارك في العطلة؟
+17782	corpus-6-test-corpus-26-dev	SFX	منين انجم نشوف بلايص سماح؟
+17786	corpus-6-test-corpus-26-test	SFX	مكسرة ملي حليت الباكو.
+17790	corpus-6-test-corpus-26-test	SFX	تسعة و عشرين أوت.
+17797	corpus-6-test-corpus-26-train	SFX	نحب نبعث هذا بالطيارة لليابان.
+17798	corpus-6-test-corpus-26-train	SFX	عيد الشكر. نهار لشكر كل الي يحميوا المجتمع بالخدمة.
+17799	corpus-6-test-corpus-26-train	SFX	البيت هذه ياسر صغيرة.
+17803	corpus-6-test-corpus-26-train	SFX	انجم نزيد تاي، يعيشك؟
+17805	corpus-6-test-corpus-26-train	SFX	نحب نغسل الدبش في اقصى وقت الصباح.
+17808	corpus-6-test-corpus-26-train	SFX	فما بانكا من هوني؟
+17811	corpus-6-test-corpus-26-train	SFX	تسيبولنى الطولة، يعيشكم؟
+17840	corpus-6-test-corpus-26-train	SFX	موسى، يعيشك.
+17841	corpus-6-test-corpus-26-train	SFX	الكلهم مطبوعين.
+17842	corpus-6-test-corpus-26-train	SFX	قيد نومرو بيتك في الضهر.
+17847	corpus-6-test-corpus-26-train	SFX	لازمنا خبزة باش ناكلوا.
+17852	corpus-6-test-corpus-26-train	SFX	الرحلة دلتا نومرو ثمنية و عشرين الي ماشية لنيو اورليانز باش توخر ساعة.
+17854	corpus-6-test-corpus-26-train	SFX	كيف نرجع لليابان، تو نكتبلك جواب. كان عندك وقت، رجعلي.
+17855	corpus-6-test-corpus-26-train	SFX	حطيت التسكرة متاع الطيارة في الوتيل.
+17861	corpus-6-test-corpus-26-train	SFX	بيت عادية بلاش دوش، يعيشك.
+17869	corpus-6-test-corpus-26-train	SFX	يعيشك كيف عاودت كلمتني. فما برشا عباد نساو ما صححوش؟
+17886	corpus-6-test-corpus-26-train	SFX	اي باهي. ناقصنى وقت. باش نكملوا نحكيو نهار الخميس الماديساعة؟
+17899	corpus-6-test-corpus-26-test	SFX	نحب دبش النوم.
+17919	corpus-6-test-corpus-26-train	SFX	باهي. تو نكلمك كيف يحظروا.
+17935	corpus-6-test-corpus-26-train	SFX	والفطور؟
+17947	corpus-6-test-corpus-26-test	SFX	الكرهبة الطويلة تاقف على الاول في الباب الغربي.
+17963	corpus-6-test-corpus-26-train	SFX	لاما وقت نجم نمشي لمطعم اللوتيل؟
+17966	corpus-6-test-corpus-26-dev	SFX	الترينو يمشي طول؟
+17977	corpus-6-test-corpus-26-train	SFX	هايل، اما راهو امخر. لازمني نمشي. يعيشك على السهرية.
+17986	corpus-6-test-corpus-26-train	SFX	وين نلقى دواء لوجيعة الماعدة؟
+18003	corpus-6-test-corpus-26-train	SFX	نحب دجاج مصلي.
+18018	corpus-6-test-corpus-26-train	SFX	هذه غلطتي. موش غلطتك.
+18036	corpus-6-test-corpus-26-train	SFX	سامحني، وقتاش الفيلم يوفى؟
+18040	corpus-6-test-corpus-26-train	SFX	هذه، يعيشك.
+18077	corpus-6-test-corpus-26-train	SFX	سرقولي ذهبي. لازمني نخبر.
+18103	corpus-6-test-corpus-26-train	SFX	دقيقة، يعيشك. تو نحطك مع سي جونس.
+18110	corpus-6-test-corpus-26-train	SFX	صباح الخير. معاك خطوط طيران يونايتد.
+18131	corpus-6-test-corpus-26-test	SFX	وين سي جونس تعلم اليابانية؟
+18138	corpus-6-test-corpus-26-train	SFX	عندي اصغر منها في المودال هو بيده.
+18155	corpus-6-test-corpus-26-train	SFX	تنجم تضيق السروال؟
+18161	corpus-6-test-corpus-26-train	SFX	الجمعة في الليل، الثمنية.
+18166	corpus-6-test-corpus-26-train	SFX	هذا باب لاس فيغاس؟
+18181	corpus-6-test-corpus-26-train	SFX	عندكم كار من المطار؟
+18189	corpus-6-test-corpus-26-train	SFX	مغرفة اخرى، يعيشك.
+18211	corpus-6-test-corpus-26-train	SFX	مالح شوية، اما حبيته. جبته من اليابان؟
+18226	corpus-6-test-corpus-26-train	SFX	ابثه فيسع، كان ممكن.
+18254	corpus-6-test-corpus-26-train	SFX	تنجم تصب عشرة دولار ضمان؟
+18264	corpus-6-test-corpus-26-train	SFX	ايه. قيمني بعد ثلاثة سوايع، يعيشك.
+18273	corpus-6-test-corpus-26-dev	SFX	نحب نسوق، يعيشك.
+18274	corpus-6-test-corpus-26-test	SFX	لازمني نقول ايه و الا لا؟
+18282	corpus-6-test-corpus-26-train	SFX	زوز مغارف، يعيشك.
+18323	corpus-6-test-corpus-26-train	SFX	وين باش ناقفوا من بعد؟
+18334	corpus-6-test-corpus-26-dev	SFX	الكرهبة تعمل في حس يضحك.
+18336	corpus-6-test-corpus-26-test	SFX	وقتاش تسكر البوسته؟
+18338	corpus-6-test-corpus-26-dev	SFX	خلصت ضمان خمسين دولار دوب ما جيت.
+18341	corpus-6-test-corpus-26-train	SFX	عندك دواء لاوجايع المعدة؟
+18342	corpus-6-test-corpus-26-train	SFX	لازمني نلبس كبوت و كرافات؟
+18344	corpus-6-test-corpus-26-train	SFX	انجم نصب فلوس في كرني الادخار؟
+18355	corpus-6-test-corpus-26-train	SFX	نسيت ساكي.
+18382	corpus-6-test-corpus-26-train	SFX	انجم نعاود ناكد الرحلة.
+18401	corpus-6-test-corpus-26-train	SFX	منقالتي. منقالة الكترونوك جديدة. تصنعت في سويسرا.
+18409	corpus-6-test-corpus-26-test	SFX	عديت الامتحان بسهولة.
+18412	corpus-6-test-corpus-26-dev	SFX	نحبك تهزني لبلايس سماح. انا سايح، كيما تعرف.
+18419	corpus-6-test-corpus-26-train	SFX	نمشي نعمل سياحة مادام البابور راكح في البرت؟
+18437	corpus-6-test-corpus-26-train	SFX	لازمك تريقل الروترفزور.
+18440	corpus-6-test-corpus-26-dev	SFX	باش تستنى درجين.
+18441	corpus-6-test-corpus-26-train	SFX	انجم نهز الصحونة؟
+18451	corpus-6-test-corpus-26-train	SFX	نتشرف بيك. شنوة الوقت الي يساعدك؟
+18487	corpus-6-test-corpus-26-train	SFX	ضهرلي نسيت المصورة متاعي كيف جيت نتعشا البارح.
+18492	corpus-6-test-corpus-26-train	SFX	خوذهم في باب الطلوع.
+18502	corpus-6-test-corpus-26-train	SFX	اوه، لا. موش لازم. انجم نتكفل بها. عملتوا الازم.
+18519	corpus-6-test-corpus-26-train	SFX	صلحه او بدله، يعيشك.
+18521	corpus-6-test-corpus-26-train	SFX	انجم الشهر الجاي.
+18527	corpus-6-test-corpus-26-train	SFX	خوذ وقتك.
+18531	corpus-6-test-corpus-26-train	SFX	كيفاش البرودوي هذا خير من البرودوي الموجود؟
+18540	corpus-6-test-corpus-26-train	SFX	البياعين على محلاهم في المغازة هذه.
+18552	corpus-6-test-corpus-26-train	SFX	بالله تستحفضلي على هذا؟
+18562	corpus-6-test-corpus-26-train	SFX	لحضة، يعيشك.
+18569	corpus-6-test-corpus-26-train	SFX	معاك تساكر تسجيل الباقاج متاعك؟
+18572	corpus-6-test-corpus-26-train	SFX	نحب نكري كرهبة لمدة جمعة.
+18580	corpus-6-test-corpus-26-train	SFX	ايه، اغسلهم على الاول موش مع بعضهم.
+18585	corpus-6-test-corpus-26-train	SFX	وريني مناقل رجال.
+18595	corpus-6-test-corpus-26-train	SFX	الاربعة و درجين.
+18612	corpus-6-test-corpus-26-dev	SFX	بقداش كرى كرهبة طويلة توصلني لوسط البلاد؟
+18614	corpus-6-test-corpus-26-train	SFX	من اليوم الصباح.
+18617	corpus-6-test-corpus-26-train	SFX	لازمنا نزربوا. راهم بداو يطلعوا.
+18632	corpus-6-test-corpus-26-test	SFX	جاء بالباهي.
+18639	corpus-6-test-corpus-26-train	SFX	طلبت دجاج.
+18640	corpus-6-test-corpus-26-train	SFX	لعشرة ايام.
+18642	corpus-6-test-corpus-26-train	SFX	الطفل هذا قداش عمره؟
+18643	corpus-6-test-corpus-26-train	SFX	بقداش للكل؟
+18646	corpus-6-test-corpus-26-train	SFX	نحب كيف هذا، يعيشك.
+18685	corpus-6-test-corpus-26-train	SFX	ضيعت شاكات السفر.
+18687	corpus-6-test-corpus-26-train	SFX	اعطيني دواء للقريب.
+18690	corpus-6-test-corpus-26-train	SFX	حط هذا في مخروط.
+18725	corpus-6-test-corpus-26-train	SFX	نشوفها ديما الصباح في الترينو.
+18727	corpus-6-test-corpus-26-train	SFX	تنجم تتعشى معانا في الليل؟
+18747	corpus-6-test-corpus-26-train	SFX	باش نقعد فلوتيل بي لغدوة. نفرح كان تقلو الي انا في هوني.
+18770	corpus-6-test-corpus-26-train	SFX	اسمي شينو ياماد.
+18771	corpus-6-test-corpus-26-train	SFX	اسمي شينو ياماد.
+18784	corpus-6-test-corpus-26-train	SFX	باش معروف المطعم هذا؟
+18798	corpus-6-test-corpus-26-test	SFX	عندنا شراب عنب ابيض هايل.
+18830	corpus-6-test-corpus-26-train	SFX	كان طوابع للقريب.
+18834	corpus-6-test-corpus-26-dev	SFX	تنجم تهبطلي دبشي في الهول غدوة الصباح؟
+18836	corpus-6-test-corpus-26-train	SFX	اوه، وقيلة نظيع حوايج كل ما نسافر.
+18845	corpus-6-test-corpus-26-train	SFX	معاش انجم نحرك يدي اليمين.
+18847	corpus-6-test-corpus-26-train	SFX	صباح الخير، انا بخير في روي؟
+18848	corpus-6-test-corpus-26-test	SFX	بعد، باش تلقى روحك في نهج متاع تجارة. كمل النهج، تو تلقى روحك في محطة الترينو.
+18872	corpus-6-test-corpus-26-train	SFX	لا، موش هوني. فما بلاصة آخر الكار باش تتكيف.
+18877	corpus-6-test-corpus-26-train	SFX	منين انجم ناخذ سفود؟
+18879	corpus-6-test-corpus-26-train	SFX	ايجا التسعة، يعيشك.
+18906	corpus-6-test-corpus-26-train	SFX	ايه، يا سيد. كيفاش تحبني نقصهملك؟
+18912	corpus-6-test-corpus-26-test	SFX	ضهرلي فما غلطة في العدد.
+18917	corpus-6-test-corpus-26-train	SFX	شوية زيت و خل، ولاباس.
+18919	corpus-6-test-corpus-26-train	SFX	عندي الي تحب عليه. ونقترح عليك هذا؟
+18938	corpus-6-test-corpus-26-train	SFX	قهوة بالسكر.
+18948	corpus-6-test-corpus-26-train	SFX	سبعطاش ايه. اوه، سامحني. غلط.
+18951	corpus-6-test-corpus-26-test	SFX	سمعت بجمعة الذهب في اليابان؟
+18957	corpus-6-test-corpus-26-train	SFX	يعيشك. الى اللقاء.
+18963	corpus-6-test-corpus-26-test	SFX	ديما معبي؟
+18974	corpus-6-test-corpus-26-test	SFX	انجم نحطه وين اجي في البلاد؟
+18986	corpus-6-test-corpus-26-test	SFX	شنوة النومرو الي نكلمه من هوني؟
+19002	corpus-6-test-corpus-26-train	SFX	كيفاش نعملوا باش نمشيو لديزني لاند؟
+19005	corpus-6-test-corpus-26-train	SFX	تتصور؟
+19007	corpus-6-test-corpus-26-train	SFX	سامحني. وين يجي المطعم الرئيسي؟
+19009	corpus-6-test-corpus-26-train	SFX	نحب نكلم اليابان.
+19036	corpus-6-test-corpus-26-test	SFX	نومرو بلاستي، دي اثناش، وينو؟
+19037	corpus-6-test-corpus-26-dev	SFX	شنوة هذا، يعيشك؟
+19038	corpus-6-test-corpus-26-train	SFX	شنوة المودال الي عندك في مخك؟
+19045	corpus-6-test-corpus-26-train	SFX	ايه، باش نجيو الثمنية، بالوقت المحلي.
+19050	corpus-6-test-corpus-26-train	SFX	كان تلقى حاجة، كلمني.
+19057	corpus-6-test-corpus-26-train	SFX	انجم ناخذ سالمين و عضام؟
+19064	corpus-6-test-corpus-26-train	SFX	عصير بطيخ للديسار، يعيشك.
+19068	corpus-6-test-corpus-26-train	SFX	الما سخون موش سخون برشا.
+19085	corpus-6-test-corpus-26-train	SFX	تنجم تفهمني كيفاش نعمل؟
+19094	corpus-6-test-corpus-26-train	SFX	بالله قيد العنوان متاعك هوني.
+19100	corpus-6-test-corpus-26-train	SFX	نجم نستعمل الفلاش؟
+19101	corpus-6-test-corpus-26-train	SFX	يعيشك. ارجع غدوة لبيتي في نفس الوقت. تو تلقى التصاور حاضرين.
+19103	corpus-6-test-corpus-26-train	SFX	سامحني، في الوقت هذا، متنجم تاخذ كان المقيد في المني متاع الليل.
+19113	corpus-6-test-corpus-26-train	SFX	ايسانس عادي ولا نقي؟
+19144	corpus-6-test-corpus-26-train	SFX	عندي وجيعة في راسي.
+19147	corpus-6-test-corpus-26-test	SFX	اهي البيت الف و متين و سبعة.
+19148	corpus-6-test-corpus-26-test	SFX	نحب على بيت اخرى.
+19156	corpus-6-test-corpus-26-train	SFX	الفيزا هذه حتى لوقتاش صالحة؟
+19162	corpus-6-test-corpus-26-train	SFX	فما سبيطار من هوني؟
+19170	corpus-6-test-corpus-26-train	SFX	نحب كسوة.
+19196	corpus-6-test-corpus-26-train	SFX	عندك ما أطول؟
+19215	corpus-6-test-corpus-26-test	SFX	نجم نجرب قياس تسعة؟
+19217	corpus-6-test-corpus-26-train	SFX	وتيل مأمن و فيه فطور صباح باهي، يعيشك.
+19226	corpus-6-test-corpus-26-train	SFX	وين حديقة الحيوانات؟
+19232	corpus-6-test-corpus-26-train	SFX	لا أكثر ولا أقل؟
+19250	corpus-6-test-corpus-26-dev	SFX	ثلاثين رصاصة وثمانين فرنك.
+19251	corpus-6-test-corpus-26-train	SFX	هذا مربوط بالطقس، اما في وسط اليابان، اول افريل.
+19258	corpus-6-test-corpus-26-train	SFX	تشيز برغر بالفريت.
+19269	corpus-6-test-corpus-26-train	SFX	امخر على آخر ترينو.
+19281	corpus-6-test-corpus-26-train	SFX	ما عنديش صرف.
+19294	corpus-6-test-corpus-26-train	SFX	خذيت تسكرة الكار متاعك؟
+19306	corpus-6-test-corpus-26-train	SFX	بالكارطة، يعشك.
+19307	corpus-6-test-corpus-26-train	SFX	كنت في رحلة طيران يونايتد نومرو ثمنمية و ثمنية و عشرين.
+19317	corpus-6-test-corpus-26-train	SFX	فما برشا حس بحذا بيتي.
+19318	corpus-6-test-corpus-26-train	SFX	على الساحل الشرقي، تلقاو حتى بلايص مشهورة، كيما نيويورك، واشنطن دي سي وبوسطن.
+19327	corpus-6-test-corpus-26-train	SFX	عندكم جرايد يابانية؟
+19329	corpus-6-test-corpus-26-train	SFX	ضاهرلي باهية.
+19346	corpus-6-test-corpus-26-train	SFX	تنجم تخلي عندك باقاجي حتى للماديساعة؟
+19347	corpus-6-test-corpus-26-train	SFX	فما زيارة للبلاد؟
+19360	corpus-6-test-corpus-26-train	SFX	ايه. سامحني ما عنديش حل آخر. الدنيا امنة في الحي هذا؟
+19391	corpus-6-test-corpus-26-train	SFX	اني نارى. نحب نكري سيتروان.
+19401	corpus-6-test-corpus-26-dev	SFX	عندي موهبة من عند ربي.
+19413	corpus-6-test-corpus-26-train	SFX	هايل، وين الخبز؟
+19415	corpus-6-test-corpus-26-train	SFX	تتكيف، يعيشك. بجنب البرسانة، يعيشك.
+19423	corpus-6-test-corpus-26-train	SFX	كيفاش تقلموا؟
+19444	corpus-6-test-corpus-26-dev	SFX	شكون اسرع تكسي والا الامبلونص؟
+19460	corpus-6-test-corpus-26-train	SFX	عندك التريكو هذا في الوان اخرين؟
+19463	corpus-6-test-corpus-26-test	SFX	ما لازمكش تتفرج في التلفزة ديما.
+19466	corpus-6-test-corpus-26-train	SFX	ايه، باش نوصلوا عليه، نوصلو عليه.
+19467	corpus-6-test-corpus-26-train	SFX	تو نعمل جهدي باش نهزك للسبيطار.
+19469	corpus-6-test-corpus-26-train	SFX	وين نلقى السوق؟
+19475	corpus-6-test-corpus-26-train	SFX	غالي شوية، تعملي سوم؟
+19479	corpus-6-test-corpus-26-train	SFX	قداش ناقفوا من مرة باش نبدل؟
+19490	corpus-6-test-corpus-26-train	SFX	الراجل هذا سرقلي ساكي.
+19494	corpus-6-test-corpus-26-train	SFX	الحرابش هذم باش تهضم و هذم للمعدة موش كيف كيف، موش هكا؟
+19497	corpus-6-test-corpus-26-test	SFX	نحب نارا البرط.
+19500	corpus-6-test-corpus-26-test	SFX	فكرة سمحة.
+19501	corpus-6-test-corpus-26-train	SFX	قداش تاخذ وقت على الساقين؟
+19505	corpus-6-test-corpus-26-train	SFX	باش ناخذ اكبر دبدوبات، يعشك.
+19507	corpus-6-test-corpus-26-dev	SFX	شنوة نومرو الكاسة؟
+19508	corpus-6-test-corpus-26-train	SFX	ساهل، ما لازمني كان نشوف في الدليل.
+19509	corpus-6-test-corpus-26-dev	SFX	عندكم بيوت ما اكبر؟
+19547	corpus-6-test-corpus-26-train	SFX	قداش ولا العدد متاعي؟
+19548	corpus-6-test-corpus-26-train	SFX	نحب نقعد في البيت هذه ليلة اخرى.
+19560	corpus-6-test-corpus-26-train	SFX	سامحني، اما نحب نسلم بيان السرقة.
+19572	corpus-6-test-corpus-26-train	SFX	اي باهي، هذا مربوط بالتراسبور الي باش تاخذه. ماشي بالكار والا بالطيارة؟
+19578	corpus-6-test-corpus-26-train	SFX	يقلقك كان نقعد هوني؟
+19581	corpus-6-test-corpus-26-train	SFX	نجم نبعث مايل بدولار؟
+19589	corpus-6-test-corpus-26-train	SFX	ايه، طلعهم للبيت الف و متين و اربعة و ثلاثين.
+19610	corpus-6-test-corpus-26-dev	SFX	عمر فورميلار التسجيل يعيشك.
+19617	corpus-6-test-corpus-26-test	SFX	نحب زوز تساكر مشيان و جيان لأكسفورد.
+19619	corpus-6-test-corpus-26-train	SFX	في اما وقت لازمني نكون في المطار؟
+19620	corpus-6-test-corpus-26-train	SFX	في عقله.
+19623	corpus-6-test-corpus-26-train	SFX	وين انجم نسمح الفيلم متاعي؟
+19643	corpus-6-test-corpus-26-test	SFX	لا، تفضل. تنجم تخلي اسئلتك للوخر كيف نكمل، كيف نستدعيكم؟
+19648	corpus-6-test-corpus-26-dev	SFX	نحب بلاصة باهية.
+19649	corpus-6-test-corpus-26-train	SFX	سامحني التواليت ما يخدمش. عاوني.
+19651	corpus-6-test-corpus-26-test	SFX	مافما شيء صعيب و موش واضح.
+19654	corpus-6-test-corpus-26-train	SFX	باش نهزك لبالصتك. هن هوني، يعيشك.
+19656	corpus-6-test-corpus-26-train	SFX	سامحني، نجم نسالك سؤال؟
+19666	corpus-6-test-corpus-26-train	SFX	نتصورصحيح.
+19675	corpus-6-test-corpus-26-train	SFX	صباح الخير، تشرفت بمعرفتك.
+19691	corpus-6-test-corpus-26-train	SFX	نحب نسجل الباقاج هذا لطوكيو، يعيشك.
+19694	corpus-6-test-corpus-26-train	SFX	تجم توريني واحد آخر اكبر شوية؟
+19703	corpus-6-test-corpus-26-train	SFX	لقيت كون الدبش الي تصنعو في اليابان مقصوصين بالباهي.
+19715	corpus-6-test-corpus-26-train	SFX	كان باهي تستسلم.
+19716	corpus-6-test-corpus-26-dev	SFX	عاودلي، يعيشك.
+19722	corpus-6-test-corpus-26-train	SFX	نجم تتقيدلي الادريسة و نومرو التالفون، يعيشك؟
+19726	corpus-6-test-corpus-26-train	SFX	سخون ولا؟
+19732	corpus-6-test-corpus-26-train	SFX	باش نسافر من اما مطار؟
+19733	corpus-6-test-corpus-26-train	SFX	مخذيتش تعمر المعلومات في الطيارة؟
+19735	corpus-6-test-corpus-26-train	SFX	نحب حديد حوايج.
+19752	corpus-6-test-corpus-26-dev	SFX	تصور ثمنية و ثلاثين دولار في الكل.
+19754	corpus-6-test-corpus-26-train	SFX	يعشك كيف شركتنا افكارك الباهية.
+19755	corpus-6-test-corpus-26-train	SFX	باش نتزحلق مرتين في الشهر في الموسم.
+19760	corpus-6-test-corpus-26-train	SFX	تولدت في واحد أفريل عام الف و تسعمية و خمسة و خمسين.
+19769	corpus-6-test-corpus-26-test	SFX	منين نكري ركاتات؟
+19809	corpus-6-test-corpus-26-train	SFX	هذه كار تدي لوسط البلاد؟
+19813	corpus-6-test-corpus-26-train	SFX	بقداش اللفاح هذا؟
+19814	corpus-6-test-corpus-26-train	SFX	شباش تعمل بيه؟
+19819	corpus-6-test-corpus-26-train	SFX	منين نعدي الاجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	SFX	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	SFX	التاكس داخل؟
+19853	corpus-6-test-corpus-26-test	SFX	شنوما كيسات؟
+19862	corpus-6-test-corpus-26-train	SFX	كلم الامبلونس.
+19864	corpus-6-test-corpus-26-dev	SFX	نقمر بثلاثة دولارات عليه.
+19871	corpus-6-test-corpus-26-train	SFX	فما تقدم؟
+19889	corpus-6-test-corpus-26-train	SFX	مافماش مكلة ما نحبها.
+19902	corpus-6-test-corpus-26-train	SFX	يوم الدستور او كيمبو كينين بي، تعملت نهار ثلاثة ماي، ن هار راحة يحتفلوا بيه بالدستور الياباني الحالي.
+19912	corpus-6-test-corpus-26-train	SFX	الثنية هذه فيها طلة على بنية سايس؟
+19923	corpus-6-test-corpus-26-train	SFX	فما مكتبة قريبة من هوني؟
+19928	corpus-6-test-corpus-26-train	SFX	باش نعمل قراية في الصيف في جامعة هاواي.
+19935	corpus-6-test-corpus-26-train	SFX	منين باش نمشيو تو؟
+19945	corpus-6-test-corpus-26-train	SFX	زوز كبار و صغير عمره ثلاثة سنين.
+19959	corpus-6-test-corpus-26-train	SFX	في تواليت في محطة الترينو.

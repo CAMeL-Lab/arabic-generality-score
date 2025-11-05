@@ -1,0 +1,2001 @@
+sentID.BTEC	split	lang	sent
+5	corpus-6-test-corpus-26-train	FES	راه تما، بالضبط قبالت مكتب المعلومات ديال السياحة.
+9	corpus-6-test-corpus-26-train	FES	ماسبقليش سمعت بهاد العنوان هنا.
+11	corpus-6-test-corpus-26-train	FES	سير نيشان حتا تلقى الصيدلية.
+26	corpus-6-test-corpus-26-train	FES	شحال الثمن ديال الفطور؟
+27	corpus-6-test-corpus-26-train	FES	كيفاش نقدر نساعدك؟
+30	corpus-6-test-corpus-26-train	FES	سيرعلى ليسر في الزاوية الثالثة.
+50	corpus-6-test-corpus-26-train	FES	واش تبغي كريم وسكر في القهوة ديالك؟
+64	corpus-6-test-corpus-26-train	FES	واش ممكن تصرف الشيك ديالي ديال مئتي دولار؟
+74	corpus-6-test-corpus-26-train	FES	الى خصه يبان، اتصل بيا عافاك.
+86	corpus-6-test-corpus-26-train	FES	في كاين المقهى؟
+87	corpus-6-test-corpus-26-train	FES	بغيت لبيسة ديال الدراري الصغار.
+91	corpus-6-test-corpus-26-train	FES	واخا. غادي يكلف خمسة وثمانين سنت للبريد العادي وثلاثة بالضبط ديال الدولار اضافية للتوصيل الخاص.
+120	corpus-6-test-corpus-26-test	FES	كون كنت فبلاستك نشري هادا.
+129	corpus-6-test-corpus-26-train	FES	واش غتكون عندي شي صعوبة مع الديوانة؟
+130	corpus-6-test-corpus-26-train	FES	واش عندك أحذية رسمية واسعة من جيهت الصبعين؟
+140	corpus-6-test-corpus-26-train	FES	لا. ممكن نقترح عليك عوض هادشي غرفة بجوج فراشات لشخص؟ عندي واحدة.
+143	corpus-6-test-corpus-26-train	FES	بغيت برمانونت ضيق، عافاك.
+145	corpus-6-test-corpus-26-train	FES	هي باغيا بيرة.
+157	corpus-6-test-corpus-26-train	FES	صباح الخير. كيف داير؟
+158	corpus-6-test-corpus-26-train	FES	متأسف غادي نشوف شي اثبات ديال الهوية.
+169	corpus-6-test-corpus-26-train	FES	شمن نوع ديال الصوص؟
+170	corpus-6-test-corpus-26-train	FES	هادا بارد شوية. ممكن تسخنو؟
+173	corpus-6-test-corpus-26-test	FES	متأسف، هاد البلاصة موخوذة قبل.
+176	corpus-6-test-corpus-26-train	FES	أنا بخير. لكن واش ممكن تتصل بصديقي؟
+177	corpus-6-test-corpus-26-test	FES	شكرا، هادشي كافي.
+184	corpus-6-test-corpus-26-train	FES	شكون أحسن صديق ديالك؟
+187	corpus-6-test-corpus-26-train	FES	يوم الصحة والرياضة عشرة أكتوبر هو عطلة وطنية كتهدف لتعزيز الصحة ديال الشعب.
+192	corpus-6-test-corpus-26-train	FES	واش تبغي نتحقق من تحت الغطى ديال الموطور؟
+206	corpus-6-test-corpus-26-train	FES	واش ممكن تعاوني نلقي الشانطة ديال السفر ديالي؟
+221	corpus-6-test-corpus-26-train	FES	واش تدير الترتيبات مسبقا؟
+238	corpus-6-test-corpus-26-train	FES	شي حد كيساعدني. شكرا ليك.
+261	corpus-6-test-corpus-26-train	FES	ملي توصل لتما، سول شي حد أخور، عافاك.
+280	corpus-6-test-corpus-26-train	FES	بغيت التمديد أربعة وعشرين، عافاك.
+285	corpus-6-test-corpus-26-train	FES	اتفضل جوج دولار. خلي عندك الباقي.
+315	corpus-6-test-corpus-26-train	FES	واحد همبرغر وواحد تشيز برجر، عافاك.
+319	corpus-6-test-corpus-26-train	FES	شحال التكلفة اللي كتحسب للعملية؟
+320	corpus-6-test-corpus-26-train	FES	بغينا نخلصو الوجبات ديالنا.
+326	corpus-6-test-corpus-26-train	FES	الموقع كان على كرسي فالبهو ديال الفندق.
+333	corpus-6-test-corpus-26-test	FES	عافاك بدلي الين لجنيهات.
+346	corpus-6-test-corpus-26-train	FES	بغيت قاموس حجم الجيب، عافاك.
+360	corpus-6-test-corpus-26-train	FES	لجوج أشخاص في السبعة. الاسم هو واتانابي.
+368	corpus-6-test-corpus-26-train	FES	ساعتي. كانت سايكو الرقمية.
+370	corpus-6-test-corpus-26-train	FES	غايكون بكل فرح اننا نسربيولك الشراب اللي تختار، متبوع بالعشا. دليل كامل ديال المشروبات اللي كنقدمها فهاد الرحلة محلي في دليل المعلومات فمجلتنا.
+373	corpus-6-test-corpus-26-test	FES	واش كتعيش قريب من هنا؟
+375	corpus-6-test-corpus-26-train	FES	فين كاين محل كيبيع الهدايا؟
+386	corpus-6-test-corpus-26-test	FES	أنا فالطريق السريع رقم واحد لقريب من خليج مورو.
+391	corpus-6-test-corpus-26-train	FES	بغيت شي منبه، عافاك.
+398	corpus-6-test-corpus-26-dev	FES	بالمناسبة، سميتي هيروشي إيجيما.
+401	corpus-6-test-corpus-26-dev	FES	هاد الطران كيوقف فبحيرة فوريست، ياك؟
+408	corpus-6-test-corpus-26-train	FES	أغلبية اليابانيين كياكلو الأخطبوط والحبار.
+416	corpus-6-test-corpus-26-train	FES	ممكن تعطيني جوج تذكيرات درجة ثانية لشيكاغو، عافاك؟
+419	corpus-6-test-corpus-26-train	FES	مشيت لنيويورك.
+423	corpus-6-test-corpus-26-train	FES	شنو رقم الرحلة؟
+442	corpus-6-test-corpus-26-test	FES	واحد لنيويورك، عافاك.
+446	corpus-6-test-corpus-26-train	FES	لمدة شي أيام.
+447	corpus-6-test-corpus-26-train	FES	الثاني على اليسار.
+471	corpus-6-test-corpus-26-dev	FES	هاد البطاقة، صافي؟
+488	corpus-6-test-corpus-26-train	FES	واش هادا مكتب الاستقبال؟ واش كاين شي عيادة قريبة؟
+493	corpus-6-test-corpus-26-train	FES	واش عشرة دولارغتكون كافية بالطاكسي؟
+503	corpus-6-test-corpus-26-train	FES	هاد الأذواق غريبة.
+512	corpus-6-test-corpus-26-train	FES	نعم . انتظر، غادي نجيب واحد ليك.
+516	corpus-6-test-corpus-26-train	FES	نص زجاجة، عافاك.
+540	corpus-6-test-corpus-26-train	FES	ماشي صحيح. غي حاجة ماشي مكلفة.
+548	corpus-6-test-corpus-26-train	FES	واش كتبحث على شي حاجة؟
+551	corpus-6-test-corpus-26-train	FES	أربع ليالي.
+553	corpus-6-test-corpus-26-train	FES	محتاج لشي تقاشر.
+565	corpus-6-test-corpus-26-train	FES	ممكن تخليه أرخص حيت كاين فيه شي بقع؟
+571	corpus-6-test-corpus-26-train	FES	شي رجل تصادم فيا. من بعد داكشي لاحظت مشاتلي محفظتي.
+599	corpus-6-test-corpus-26-train	FES	أنا ماشي متأكد واش حزمت حوايج كافين لرحلة ديال ثلاثة أسابيع.
+612	corpus-6-test-corpus-26-train	FES	فالواقيع، بغينا نجربو النبيذ الأبيض.
+631	corpus-6-test-corpus-26-train	FES	الى سول فيا أي حد، قول ليهم غنكون فالمقهى.
+632	corpus-6-test-corpus-26-train	FES	أنا متأكد بلي كان عندي فالجيب الداخلي ديال المعطف ديالي.
+641	corpus-6-test-corpus-26-test	FES	ممكن تعطيني اسم ورقم الجهة لغادي تتاصل بيها؟
+643	corpus-6-test-corpus-26-train	FES	واش تخلصلي شركة الطيران باش نشري شي ضروريات شخصية أساسية؟
+650	corpus-6-test-corpus-26-train	FES	بغيت غرفة فيها حمام.
+652	corpus-6-test-corpus-26-dev	FES	حتى حاجة مخرجات من الجهاز؟
+667	corpus-6-test-corpus-26-test	FES	كنتي مفترض تأخذ الرحلة ثمنية جوج صفر، اللي مشات قبل خمسة عشر دقيقة. واخا. يمكنلي نرتب ليك رحلة أخرى.
+673	corpus-6-test-corpus-26-train	FES	شي حد فكك الحزمة ديالي.
+679	corpus-6-test-corpus-26-test	FES	أوه، والو. كنتي هنا، على أي حال.
+680	corpus-6-test-corpus-26-train	FES	الخطوط الجوية اليابانية، رحلة رقم واحد جوج ثلاثة.
+681	corpus-6-test-corpus-26-train	FES	محتاج نشري الشامبوان.
+683	corpus-6-test-corpus-26-train	FES	واش ممكن تعلمني ملي نوصلو للمركز المدني؟
+688	corpus-6-test-corpus-26-train	FES	فين كاين أقرب جزار؟
+703	corpus-6-test-corpus-26-train	FES	باغين نبقاو لمدة أربعة ديال الليالي ابتداء من الأول غشت.
+708	corpus-6-test-corpus-26-train	FES	شنو اسم ديك الوردة؟
+719	corpus-6-test-corpus-26-train	FES	سخمسة عشر من شتنبر هو يوم الاحترام للشيخوخة.
+723	corpus-6-test-corpus-26-train	FES	ماكينش الصابون في الغرفة ديالي.
+741	corpus-6-test-corpus-26-dev	FES	واش كاين شي حاجو نديرها لهاد الطفح الجلدي؟
+742	corpus-6-test-corpus-26-train	FES	يمكنلك تغير الصياغة لهادشي اللي قلتي دابا؟
+761	corpus-6-test-corpus-26-test	FES	شحال ديال الوقت غياخد هادشي؟
+773	corpus-6-test-corpus-26-train	FES	ممكن تهدر بصوت عالي شوية، عافاك؟
+777	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت خاصو قبل ما يخرج؟
+786	corpus-6-test-corpus-26-train	FES	فين المعلومات الرياضية؟
+787	corpus-6-test-corpus-26-train	FES	هاد الحجم هنا، داك الواحد اللي قلتي حجم العادي، غاتدير.
+793	corpus-6-test-corpus-26-test	FES	فين غادي تكون نهاية الجولة، وفوقاش؟
+848	corpus-6-test-corpus-26-train	FES	فين خاصني نبدل الطرانات باش نوصل لأدنبره؟
+855	corpus-6-test-corpus-26-train	FES	بغيت نحط هادا فصندوق ودائع آمن.
+859	corpus-6-test-corpus-26-train	FES	في يمكنلي نبدل الفلوس ديالي؟
+897	corpus-6-test-corpus-26-train	FES	واش يمكلنا نخليو حوايجنا، باستثناء الحاجات الغالية، في الطوبيس؟
+902	corpus-6-test-corpus-26-train	FES	كنتساءل شنو هاد الحساب فالفاتورة ديالي.
+917	corpus-6-test-corpus-26-train	FES	غادي نخلص خمسين دولار.
+941	corpus-6-test-corpus-26-train	FES	دابا عرفت شنو ليكان غلط.
+957	corpus-6-test-corpus-26-dev	FES	انا إيكيدا لي كتكلم. لعندي الحجز على الطبلة في الستة ونص هاد الليلة. ولكن أنا متأسف حيت غنوصل متأخر بنصف ساعة.
+1003	corpus-6-test-corpus-26-train	FES	شحال من العطور يمكنلي ناخد معفية من الديوانة؟
+1007	corpus-6-test-corpus-26-train	FES	فقط السياحة.
+1010	corpus-6-test-corpus-26-train	FES	هادا مزيان، عافاك سيني عليهم. كيف تبغيه يكون؟
+1023	corpus-6-test-corpus-26-test	FES	واش باقي عندك شي بلايص للفراجة ديال الليلة؟
+1036	corpus-6-test-corpus-26-train	FES	باغي وحدة كبيرة.
+1037	corpus-6-test-corpus-26-dev	FES	نعست على النبه ديال الستة وثلاثين.
+1038	corpus-6-test-corpus-26-train	FES	أنا مصور حر.
+1047	corpus-6-test-corpus-26-train	FES	يمكن للتجار يتبادلو الدولارات باش ياخدو نصائح كازينو. خاصنا نمشيو؟
+1056	corpus-6-test-corpus-26-dev	FES	عندنا تقريبا ثلاثين نوع ديال زيوت الحمام.
+1062	corpus-6-test-corpus-26-train	FES	غادي نقدم ليك الاقتراح الأسبوع الجاي.
+1074	corpus-6-test-corpus-26-train	FES	شكرا. بشحال هاد قفازات؟
+1098	corpus-6-test-corpus-26-train	FES	خاصني نمشي. دابا نتصل بيك من بعد.
+1100	corpus-6-test-corpus-26-train	FES	بغيت شوية ديال الحفاضات المتوفرة.
+1122	corpus-6-test-corpus-26-train	FES	فين نشآت هاد الأسماك ديال الفراشة؟
+1124	corpus-6-test-corpus-26-train	FES	ممكن تصرفهالي للدولار، عافاك؟
+1139	corpus-6-test-corpus-26-train	FES	عندنا الزهر بزاف. عندهوم وحدة فالحجم أربعة في محل علاء موانا.
+1146	corpus-6-test-corpus-26-train	FES	واش كاين شي ليموزين؟
+1163	corpus-6-test-corpus-26-dev	FES	واش ممكن نطلب مكالمة فياق في الخامسة والثلاثين الصباح ديال غدا؟
+1165	corpus-6-test-corpus-26-train	FES	كنفضل الغرفة هادية.
+1167	corpus-6-test-corpus-26-train	FES	بغيت شي مزيل صباغة الظفرين.
+1183	corpus-6-test-corpus-26-train	FES	بغيت باطري.
+1193	corpus-6-test-corpus-26-test	FES	واش كاين شي فرقة موسيقية لايف أو ديجي؟
+1194	corpus-6-test-corpus-26-train	FES	واش ممكن نكري معدات الغطس؟
+1199	corpus-6-test-corpus-26-dev	FES	بغيت نحجز غرفة لمدة أربع ديال الليالي من ثنين وعشرين دجنبر.
+1212	corpus-6-test-corpus-26-train	FES	واش هاد الشانطة صالحة لجميع الأحوال الجوية؟
+1213	corpus-6-test-corpus-26-train	FES	بغيت كعكة، من فضلك.
+1218	corpus-6-test-corpus-26-train	FES	باغي نكري سيارة أوتوماتيكية لمدة يومين.
+1224	corpus-6-test-corpus-26-train	FES	فاتني الرحلة عشرين لسان فرانسيسكو.
+1234	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت للمطار؟
+1235	corpus-6-test-corpus-26-train	FES	هداك مزيان. امتا غيكون؟
+1276	corpus-6-test-corpus-26-train	FES	شحال العمر ديال بنتك؟
+1312	corpus-6-test-corpus-26-train	FES	ممكن تقولي على الأوطيلات الرخيصة والنقية؟
+1321	corpus-6-test-corpus-26-train	FES	يمكلنا نحجزولك غرفة مرتاحة في القلعة قديمة قريبة من نادي الغولف المشهور.
+1329	corpus-6-test-corpus-26-train	FES	كنوصي بهادا حيت مصنوع من المكونات الطبيعية مية فلمية.
+1361	corpus-6-test-corpus-26-dev	FES	واش كيوقف الطران فبرايتون؟
+1369	corpus-6-test-corpus-26-train	FES	ممكن تقولي في يمكنلي نشد طاكسي؟
+1375	corpus-6-test-corpus-26-train	FES	جوج تداكر من الدرجة الثانية، عافاك.
+1384	corpus-6-test-corpus-26-train	FES	باغي نصيفط فاكس.
+1394	corpus-6-test-corpus-26-train	FES	بغيت حدادة.
+1396	corpus-6-test-corpus-26-train	FES	واش يمكن لي نقدم ليك شي حاجة؟
+1404	corpus-6-test-corpus-26-train	FES	يومي؟ خفت نسول، ولكن شنو كتقصد؟
+1418	corpus-6-test-corpus-26-train	FES	بغيت وحدة تجمع الوثائق من حجم الورق العادي بدون ما نطويها.
+1433	corpus-6-test-corpus-26-test	FES	نعم، ولكن ماشي قوي بزاف.
+1434	corpus-6-test-corpus-26-train	FES	عندي حساسية من القطوط.
+1436	corpus-6-test-corpus-26-train	FES	نعم، خاص يكون عندك البيرمي ديال السياقة، أه، خاص يكون عندك ترخيص من لجنة ديال سيارات الأجرة والليموزين.
+1462	corpus-6-test-corpus-26-train	FES	تقدم، أسيدي.
+1465	corpus-6-test-corpus-26-test	FES	مقدرتش ناخد ماء سخون.
+1474	corpus-6-test-corpus-26-train	FES	باغي نحجز غرفة لهاد الليلة.
+1492	corpus-6-test-corpus-26-train	FES	لا، راه كيستثني الضرائب ورسوم الخدمة.
+1506	corpus-6-test-corpus-26-train	FES	واش تبغي تمشي تتسوق معاي مور الظهر هاد انهار؟
+1508	corpus-6-test-corpus-26-test	FES	مرحبا، هاد الثوب صراحة زوين .
+1519	corpus-6-test-corpus-26-train	FES	مرحبا انسة ياماغوتشي؟ جهة اتصالك على الخط. المكالمة تقبلات. اتفضلي، عافاكي.
+1525	corpus-6-test-corpus-26-train	FES	شنو رقم البوابة؟
+1539	corpus-6-test-corpus-26-train	FES	شنو هو التذكار النموذجي لهاواي؟
+1556	corpus-6-test-corpus-26-train	FES	واش يمكن لي نوصل لتما بالمترو؟
+1560	corpus-6-test-corpus-26-train	FES	بغيت بروشينك.
+1562	corpus-6-test-corpus-26-train	FES	واش حنا كنتحدثو هاكا فأي بلاصة؟
+1585	corpus-6-test-corpus-26-train	FES	جيت من النرويج.
+1603	corpus-6-test-corpus-26-dev	FES	من عشرة إلى اثني عشر عافاك.
+1619	corpus-6-test-corpus-26-train	FES	بالتاكيد. خليني نشوفو. كنتي تجرحتي بسبب المرجان، كنعتقد.
+1620	corpus-6-test-corpus-26-train	FES	غير احتياط، سمحلي ناخد النمرة ديال الشخص المسؤول.
+1622	corpus-6-test-corpus-26-train	FES	واش كاين طريق سريع؟
+1630	corpus-6-test-corpus-26-train	FES	علاش ماجاش للحفلة لبارح؟
+1637	corpus-6-test-corpus-26-train	FES	وقع حادث مرور.
+1650	corpus-6-test-corpus-26-train	FES	سمحلي، خديت الرقم الغالط.
+1653	corpus-6-test-corpus-26-test	FES	عافاك دخل رقم التعريف الشخصي.
+1663	corpus-6-test-corpus-26-dev	FES	مقدرتش نضبط الصورة.
+1668	corpus-6-test-corpus-26-train	FES	واحد شيزبرجر وعصير البرتقال، عافاك.
+1670	corpus-6-test-corpus-26-test	FES	ها هو البسبور ديالي.
+1682	corpus-6-test-corpus-26-test	FES	علاش، شكرا بزاف ليك. أه، واش يمكن لي نلطع لفوق؟
+1702	corpus-6-test-corpus-26-train	FES	يمكن لي ناخد جوج تذاكر للموسيقى في يوم الجمعة الجاي؟
+1718	corpus-6-test-corpus-26-train	FES	واحد راكب لهيه قال بلي يمكن يتبادل معاك بالبلايص.
+1754	corpus-6-test-corpus-26-train	FES	واش يمكن لي نمدد الاقامة ديالي؟
+1766	corpus-6-test-corpus-26-train	FES	قل، واش كتعرف شي بلاصة تستحق نشوفها قريب من هناا؟
+1768	corpus-6-test-corpus-26-dev	FES	لا، بغين نكري نص مجموعة مضارب وحذاء.
+1782	corpus-6-test-corpus-26-train	FES	سمحو لي نعرف فوقاش لقيتو الشانطة التالفة؟
+1788	corpus-6-test-corpus-26-train	FES	شنو الاسم ديال هاد الحديقة الوطنية؟
+1791	corpus-6-test-corpus-26-train	FES	عندي واحد الخبشة.
+1792	corpus-6-test-corpus-26-dev	FES	فين كاين شي بلاصة مزيانة للسياحة؟
+1800	corpus-6-test-corpus-26-train	FES	ممكن ناخد شوية ديال الفاكهة؟
+1834	corpus-6-test-corpus-26-train	FES	واش ممكن ناخد الغدا دابا؟
+1837	corpus-6-test-corpus-26-train	FES	محتاج نصرف هاد الدولارات.
+1867	corpus-6-test-corpus-26-train	FES	محتاج طاكسي. أنا في ساوث مين ولييرتي.
+1876	corpus-6-test-corpus-26-dev	FES	بالتأكيد، واش محتاج برمانونت؟
+1878	corpus-6-test-corpus-26-train	FES	ماشي تفاحة ولكن خوخة.
+1903	corpus-6-test-corpus-26-train	FES	غنعطيك وصفة طبية. خودها للصيدلية.
+1927	corpus-6-test-corpus-26-train	FES	عندنا رحلات طيران ثلاث مرات فالسيمانة، يوم الثلاثاء والجمعة والسبت.
+1931	corpus-6-test-corpus-26-dev	FES	هادا مكلف، ياك بصح؟
+1948	corpus-6-test-corpus-26-train	FES	نعم، عندنا هاداك. غنوجدوه ليك.
+1950	corpus-6-test-corpus-26-dev	FES	واش تهز الأمتعة ديالي حتى للساعة الثالثة؟
+1951	corpus-6-test-corpus-26-train	FES	لا، بغيت تخفيض.
+1954	corpus-6-test-corpus-26-dev	FES	واش يمكن لي نحجز اكري-سيارة هنا؟
+1968	corpus-6-test-corpus-26-train	FES	واش نتا امريكي؟
+1980	corpus-6-test-corpus-26-test	FES	لهاد البلاصة، عافاك.
+1985	corpus-6-test-corpus-26-train	FES	الطوموبيل ديالي واقفة.
+1988	corpus-6-test-corpus-26-train	FES	فين هو كحل العينين؟
+1993	corpus-6-test-corpus-26-train	FES	بغينا شي قنت هادي، الى ممكن.
+1997	corpus-6-test-corpus-26-train	FES	واش هاد الطاكسي مجاني؟
+1998	corpus-6-test-corpus-26-train	FES	واش هادي محطة اكسبريس؟
+2001	corpus-6-test-corpus-26-train	FES	فأي وقت نجي لهنا؟
+2003	corpus-6-test-corpus-26-train	FES	بغيت بريق صغير ديال النبيذ الأبيض.
+2005	corpus-6-test-corpus-26-train	FES	اه. واش ممكن ناخد الماكلة ديالي من بعد؟ ما كنحسش براسي . مزيان حاليا.
+2025	corpus-6-test-corpus-26-train	FES	في الواقع، عرفت الأخبار. أنا غنتزوج.
+2033	corpus-6-test-corpus-26-train	FES	كاين شي سراول أخرين؟
+2035	corpus-6-test-corpus-26-train	FES	واش يمكن لي ناخد البرنامج؟
+2052	corpus-6-test-corpus-26-train	FES	شي حد اقتحم الغرفة ديالي لبارح فليل.
+2055	corpus-6-test-corpus-26-train	FES	وريني السمكة اللي شفت اليوم فكتاب التصاور، عافاك.
+2083	corpus-6-test-corpus-26-train	FES	شوف التعليمات على حزمة الغدا المغلف اللي مفرغ من الهواء.
+2086	corpus-6-test-corpus-26-train	FES	بغيت الفلوس وراق.
+2100	corpus-6-test-corpus-26-test	FES	خدا البزطام ديالي وهرب.
+2119	corpus-6-test-corpus-26-train	FES	واش عندك دروس تجريبية؟
+2147	corpus-6-test-corpus-26-train	FES	فين يمكن لي نشري الطوابع البريدية؟
+2148	corpus-6-test-corpus-26-train	FES	أنا من بريطانيا العظمى.
+2156	corpus-6-test-corpus-26-train	FES	خاصني نتأكد من داكشي أنا ومراتي.
+2161	corpus-6-test-corpus-26-train	FES	بغيت رد لهادشي.
+2179	corpus-6-test-corpus-26-train	FES	كاين هاتف عمومي قبالت البنك.
+2180	corpus-6-test-corpus-26-train	FES	غادي نوصل في تسعة مارس ونغادر في الرابع عشر.
+2205	corpus-6-test-corpus-26-train	FES	هادشي شوية مكلف، واش كتظن؟
+2235	corpus-6-test-corpus-26-train	FES	هل لديك طفاية سجائر؟
+2236	corpus-6-test-corpus-26-train	FES	فين كاينة محطة الطوبيسات؟
+2238	corpus-6-test-corpus-26-train	FES	واش تهتم بالحلوى؟
+2302	corpus-6-test-corpus-26-train	FES	واش كتهدر؟
+2306	corpus-6-test-corpus-26-train	FES	. نفس الحاجة بالنسبة لي، عافاك.
+2318	corpus-6-test-corpus-26-train	FES	. طلبي مزال موصل.
+2324	corpus-6-test-corpus-26-train	FES	. كاين بزاف ديال الينابيع السخونة.
+2329	corpus-6-test-corpus-26-train	FES	عافاك صرف لي خمسين ألف ين للدولار الأمريكي.
+2338	corpus-6-test-corpus-26-train	FES	هادا مزيان بالنسبة لي. في الواقع باغي نكم.
+2347	corpus-6-test-corpus-26-test	FES	فين يمكن لي نكري ادوات ديال التزلج وصبابط؟
+2353	corpus-6-test-corpus-26-dev	FES	واش نسيتي المشروبات ديالنا؟
+2368	corpus-6-test-corpus-26-test	FES	ممكن ترسلها للعنوان ديالي في اليابان بالحزمة ديال البريد الدولية؟
+2381	corpus-6-test-corpus-26-train	FES	بغيت شي كاس ديال النبيذ الأحمر.
+2389	corpus-6-test-corpus-26-train	FES	من غير الى كان ديالك، ا سيدي. هه هه، غير نكتة صغيرة.
+2401	corpus-6-test-corpus-26-train	FES	أكيد. كيفاش يمكن لي نعاونك؟
+2412	corpus-6-test-corpus-26-dev	FES	عندنا البيرة، ويسكي، براندي، الجن، الفودكا والنبيذ.
+2425	corpus-6-test-corpus-26-train	FES	هوية شخصية. بصح. واش البسبور مزيان؟
+2428	corpus-6-test-corpus-26-train	FES	الرقم ديال الغرفة ديالي هو ثلاثة ستة وعشرون. ممكن تهز الغسيل ديالي؟
+2440	corpus-6-test-corpus-26-train	FES	غنشوف الى كانت شي حاجة من هادو تناسبني.
+2441	corpus-6-test-corpus-26-train	FES	بغيت غلاية.
+2445	corpus-6-test-corpus-26-train	FES	جيبلي شوية ديال الجبن المحكوك.
+2462	corpus-6-test-corpus-26-train	FES	ممكن تصبنلي التيشورت قبل غدا فالصباح؟
+2476	corpus-6-test-corpus-26-train	FES	ممكن تخليه يتاصل بيا مرة اخرى؟
+2490	corpus-6-test-corpus-26-train	FES	علاش اذن؟
+2492	corpus-6-test-corpus-26-train	FES	سمحلي. واش كاين شي مكتبة هنا؟
+2496	corpus-6-test-corpus-26-test	FES	كنظن درتي غلط. حيت الغرفة مخلصة من قبل. عندي التوصيل.
+2505	corpus-6-test-corpus-26-train	FES	الطوبيس موجودة هنا.
+2516	corpus-6-test-corpus-26-train	FES	بغيت جوج لفات من إيزو مئة، فيلم ملون، ستة وثلاثين تصويرة، من عافاك.
+2519	corpus-6-test-corpus-26-train	FES	بغيت نصرف هاد الشيك بسبعين دولار.
+2521	corpus-6-test-corpus-26-train	FES	باغي نشري الطوابع لعشرة ديال البطاقات البريدية لليابان، عافاك.
+2528	corpus-6-test-corpus-26-train	FES	واش كاين شي بنوك قراب من المحطة؟
+2531	corpus-6-test-corpus-26-train	FES	خايف يكون شي غلط فالفاتورة.
+2552	corpus-6-test-corpus-26-test	FES	راها هنا.
+2557	corpus-6-test-corpus-26-train	FES	واحد برجر بالجبن نمشي، عافاك.
+2578	corpus-6-test-corpus-26-test	FES	لميمكنش لينا نديرو الأعمال ديال التصميم بلا كمبيوترمن دابا لفوق.
+2591	corpus-6-test-corpus-26-train	FES	جري.
+2601	corpus-6-test-corpus-26-train	FES	كاين وحدة تمزيقة فاللبسة ديالي. كنتائل الى كان بامكانك تخيطها لي، عافاك؟
+2613	corpus-6-test-corpus-26-dev	FES	شحال أجرة لمانشستر؟
+2643	corpus-6-test-corpus-26-train	FES	ممكنك سلفلي كابل دعم؟
+2644	corpus-6-test-corpus-26-train	FES	فين نقدر نشري حصيرة للشاطئ؟
+2670	corpus-6-test-corpus-26-test	FES	من بعد، عافاك عطيني حجز أخور.
+2676	corpus-6-test-corpus-26-train	FES	عطيني داك شريحة لحم الخنزير، وولكن متكونش غليظة بحال هادي.
+2678	corpus-6-test-corpus-26-train	FES	غادي نجيو فسبعة.
+2687	corpus-6-test-corpus-26-train	FES	ملي كنشوف الأسعارديال هادي منخفضة، غيبان غبي انني نشري شي حاجة من اليابان.
+2690	corpus-6-test-corpus-26-train	FES	كانو تسرقولي التسجيلات، حتا انا .
+2695	corpus-6-test-corpus-26-train	FES	فانيليا الآيس كريم مدور، عافاك.
+2702	corpus-6-test-corpus-26-train	FES	أنا كنتفق. خاصها تولي طبيعية بزاف.
+2704	corpus-6-test-corpus-26-train	FES	انتبه للحفرة، انتبه للحفرة، ثم قرب الأبواب، عافاك.
+2707	corpus-6-test-corpus-26-train	FES	غنحتاج للبطاقة ديال الائتمان.
+2708	corpus-6-test-corpus-26-dev	FES	ها هو الرقم.
+2715	corpus-6-test-corpus-26-test	FES	قل لي على شي بقعة مزيانة فهاد الواد، عافاك.
+2726	corpus-6-test-corpus-26-train	FES	عافاك عطيني تقرير ديال الحادثة.
+2729	corpus-6-test-corpus-26-train	FES	لا، شكرا لك دابا.
+2734	corpus-6-test-corpus-26-train	FES	واخا، خليك معايا فالخط. السيد ناكاجيما، كنظن بلي السيدة سايتو مكتجاوبش على المكالمة. واش تبغيني نصونيلها لفترة أكثر؟
+2736	corpus-6-test-corpus-26-dev	FES	ربما، ولكن خاصنا نوزنوها مفرقة.
+2747	corpus-6-test-corpus-26-train	FES	كيبان بلي نادر بزاف.
+2748	corpus-6-test-corpus-26-train	FES	فين هو الاستلام ديال الأمتعة للرحلة سبعة صفر ثلاثة؟
+2760	corpus-6-test-corpus-26-train	FES	شي حاجة غالطة فالقبضة ديالك.
+2765	corpus-6-test-corpus-26-train	FES	واش هادا كيفسد؟
+2772	corpus-6-test-corpus-26-train	FES	لا شكرا. كنت كنفضل منعودش نشرب من بعد دابا.
+2808	corpus-6-test-corpus-26-train	FES	عافاك قوليا على الشوارع المريحة للتسوق.
+2811	corpus-6-test-corpus-26-dev	FES	واش كتمشي هاد الحافلة لفندق هيلتون؟
+2816	corpus-6-test-corpus-26-train	FES	دابا، هاد اللوحة خاص بزاف. صوبها تسوروتارو كاتاوكا. راه معترف بيه كفنان فجميع أنحاء العالم.
+2850	corpus-6-test-corpus-26-train	FES	عندي تقدير كبير للموسيقى الكلاسيكية.
+2851	corpus-6-test-corpus-26-dev	FES	واش ممكن نعرض عليكم تاكلو العشا فشي وقت؟
+2862	corpus-6-test-corpus-26-train	FES	مزيان. شنو اسم الطرف التاني ديالك والرقم ديالو، عافاك.
+2871	corpus-6-test-corpus-26-train	FES	كنعتذر. سمحو لي نخرج، عافاك.
+2878	corpus-6-test-corpus-26-train	FES	واش ممكن تعيط لشي موظفين كيهدرو باللغة اليابانية؟
+2898	corpus-6-test-corpus-26-train	FES	حنا كنزورو العائلة بزاف ديال المرات.
+2939	corpus-6-test-corpus-26-train	FES	ميكي هاياكاوا. هادي هي الغرفة سبع مية وجوج.
+2945	corpus-6-test-corpus-26-train	FES	خاصني نبقى هنا هاد الليلة، واش هكا؟ واش يمكن ليك تساعدني نحجز غرفة فندقية؟
+2947	corpus-6-test-corpus-26-train	FES	ما خصوش يكون طويل. خمسة عشر دقيقة على الأكثر.
+2960	corpus-6-test-corpus-26-train	FES	واش غادي تقولي على الخلاص ديال ديال هاد المكالمة؟
+2964	corpus-6-test-corpus-26-train	FES	واخا، واش ممكن تقول ليها بلي اتصلت، عافاك؟ غادي نعاود نتاصل بيها من بعد.
+2973	corpus-6-test-corpus-26-train	FES	واش كاينة شي جولة صباحية؟
+2982	corpus-6-test-corpus-26-train	FES	واش كتصرف العملات الأجنبية؟
+2983	corpus-6-test-corpus-26-test	FES	الميزانية ديالنا كتوصل لخمسين دولارا تقريبا في المجموع لثلاثة ديال الناس.
+2990	corpus-6-test-corpus-26-train	FES	فين ممكن نشري شريط فيلم؟
+2995	corpus-6-test-corpus-26-train	FES	واش عندك البيرة اليابانية؟
+3001	corpus-6-test-corpus-26-test	FES	بغيت مايو صغير ديال العومان، عافاك.
+3016	corpus-6-test-corpus-26-train	FES	باغي نسجل الأمتعة ديالي.
+3029	corpus-6-test-corpus-26-train	FES	معاك انسة كاوازو في غرفة ستة عشر أحد عشر.
+3030	corpus-6-test-corpus-26-train	FES	لا شكرا على واجب.
+3038	corpus-6-test-corpus-26-dev	FES	ما كاين والو.
+3040	corpus-6-test-corpus-26-train	FES	شنو الاكثر اهمية بالنسبة ليك الشعب الياباني، عيد راس العام الميلادية أو عيد الميلاد؟
+3041	corpus-6-test-corpus-26-test	FES	رقم الكرسي ديالك هو اثنان وثلاثون ايه. من بعد سير مباشرة في هاد الممر. راها كرسي ديال السرجم.
+3073	corpus-6-test-corpus-26-train	FES	دقيقة، عافاك.
+3109	corpus-6-test-corpus-26-train	FES	عافاك عمر التقرير اللي تالف.
+3111	corpus-6-test-corpus-26-dev	FES	أنا مكنفهمش الأمريكية، وأنا كنتكلم اللغة الإنجليزية ديال بريطانيا.
+3120	corpus-6-test-corpus-26-train	FES	من لبارح.
+3129	corpus-6-test-corpus-26-train	FES	كيشمل التأمين ضد الاصطدام والمسؤولية القانونية.
+3134	corpus-6-test-corpus-26-test	FES	ضيعت علامة الاستلام ديالي.
+3152	corpus-6-test-corpus-26-train	FES	واش عندك شي مثقاب فتصميم مزيان؟
+3155	corpus-6-test-corpus-26-train	FES	أنا أتصل من هاتف عمومي في ميسي.
+3170	corpus-6-test-corpus-26-test	FES	هادي كبيرة بزاف.
+3176	corpus-6-test-corpus-26-train	FES	شحال الرسوم ديال وقوف السيارات فالساعة؟
+3179	corpus-6-test-corpus-26-train	FES	سيداتي وسادتي، فالرحلة ديالنا ليوم، عندنا مضيفات كتكلمو باليابانية اللي تقدرو تحددوهوم بأزرار العلم اللي لابسين. إلى كنتي كتعرف أي حد محتاج لمساعدة فاللغة، عافاك خلينا نعرفو.
+3182	corpus-6-test-corpus-26-train	FES	واش كاين شي فترة فنية معينة كتفضلها؟
+3185	corpus-6-test-corpus-26-train	FES	مطلوب تتحقق منو مرة اخرى.
+3195	corpus-6-test-corpus-26-train	FES	سير مباشرة على طول الواد تقريبا شي نصف ميل. وغتوصل للحديقة.
+3201	corpus-6-test-corpus-26-dev	FES	لا، راهم كيدومو بزاف.
+3207	corpus-6-test-corpus-26-train	FES	واخا، غادي نرسلو للاس فيغاس من أجلك.
+3209	corpus-6-test-corpus-26-train	FES	كنبحث على تيشورت ديال الجري.
+3220	corpus-6-test-corpus-26-train	FES	واش تبغي تشرب شي حاجة من البار؟
+3222	corpus-6-test-corpus-26-dev	FES	من هاد الاتجاه عافاك. خذ هاد المصعد.
+3238	corpus-6-test-corpus-26-train	FES	كنت كنفضل ناخد الطران ديال الثامنة والثلاتين.
+3267	corpus-6-test-corpus-26-test	FES	واش كاين شي مسرح سينما فهاد الانحاء؟
+3269	corpus-6-test-corpus-26-train	FES	دابا هو موسم المحار، اذن غتكون مزيان.
+3279	corpus-6-test-corpus-26-train	FES	بغيت مع ساعة يد ثانية.
+3284	corpus-6-test-corpus-26-train	FES	غادي نتسجل فداك التاسعة ديال الليل.
+3285	corpus-6-test-corpus-26-train	FES	اراه غادي تتأخر. خاصني نمشي.
+3289	corpus-6-test-corpus-26-train	FES	أنا مستخدمتش الخدمة ديال الغسيل ديالك. ممكن تتحقق منه مرة أخرى؟
+3292	corpus-6-test-corpus-26-train	FES	بغيت أتاي، عافاك.
+3295	corpus-6-test-corpus-26-train	FES	لا، ما كاينش هناك.
+3304	corpus-6-test-corpus-26-train	FES	واش هادي هي المحطة الأخيرة؟
+3318	corpus-6-test-corpus-26-train	FES	اتصل بيه.
+3323	corpus-6-test-corpus-26-train	FES	واش هادا حار؟
+3334	corpus-6-test-corpus-26-train	FES	فين يمكن لي نشد طوبيس ديال معالم المدينة؟
+3335	corpus-6-test-corpus-26-train	FES	نعم، باغي نشوف المعالم ديال المدينة.
+3351	corpus-6-test-corpus-26-test	FES	كاين بزاف ديال السياح دايرين بالمبنى، اللي كايبان بلي تجمعو باش يشوفو شنو واقع.
+3359	corpus-6-test-corpus-26-train	FES	شكرا لحسن الضيافة ديالك.
+3375	corpus-6-test-corpus-26-train	FES	الصدق هو أحسن سياسة.
+3385	corpus-6-test-corpus-26-train	FES	واش ممكن تفيقني فالساعة السادسة، عافاك؟
+3392	corpus-6-test-corpus-26-train	FES	شحال كيكلف لمدة نص نهار؟
+3397	corpus-6-test-corpus-26-train	FES	أنا كينجي.
+3402	corpus-6-test-corpus-26-train	FES	واش كتعرف شي بلايص زونين باش تشوف فشيكاغو؟
+3404	corpus-6-test-corpus-26-train	FES	واخا، الى كنتي مصر فكل الحالات، غادي نمشي معاك.
+3413	corpus-6-test-corpus-26-dev	FES	ممكن تبدل لي هادا بشي واحد أخور من نفس النوع، عافاك؟
+3446	corpus-6-test-corpus-26-train	FES	باغي ندير حجز فالساعة الثالثة ونص مور الظهر.
+3489	corpus-6-test-corpus-26-train	FES	صندوق الأمان، عافاك.
+3502	corpus-6-test-corpus-26-train	FES	يعافاك ختار النبيذ المناسب.
+3512	corpus-6-test-corpus-26-test	FES	باغي شي بلاصة صغيرة.
+3522	corpus-6-test-corpus-26-train	FES	واش خاصني نخلص ثمن الوقود؟
+3557	corpus-6-test-corpus-26-train	FES	شفار. شدوه.
+3562	corpus-6-test-corpus-26-test	FES	حنا كنتسناو أصحابنا يجيو.
+3572	corpus-6-test-corpus-26-train	FES	عافاك عطيني شي صرف.
+3619	corpus-6-test-corpus-26-test	FES	برمانوت ضيق، عافاك.
+3628	corpus-6-test-corpus-26-train	FES	راها صغيرة و ظريفة.
+3638	corpus-6-test-corpus-26-test	FES	شنو هيا الأوبرا ديال ليوم؟
+3640	corpus-6-test-corpus-26-train	FES	المقلية، عافاك.
+3644	corpus-6-test-corpus-26-train	FES	مازال مارجعش ليا الغسيل ديالي حتى لدابا.
+3649	corpus-6-test-corpus-26-train	FES	بالمناسبة، واش مسالي السبت الجاي؟
+3667	corpus-6-test-corpus-26-train	FES	واخا، من بعد، ربما غادي نتعارفو مزيان بجوجنا.
+3669	corpus-6-test-corpus-26-train	FES	تعامللت معاي بحال الى كنت ساعي.
+3683	corpus-6-test-corpus-26-train	FES	كنشوف. أيضا، واش ممكن تساعدني مع واحد المشكل أخور؟
+3685	corpus-6-test-corpus-26-train	FES	يمكنك تديرلي العدسات الطبية فهاد النظارات؟
+3698	corpus-6-test-corpus-26-dev	FES	غادي تاخذ جوج من هادي.
+3705	corpus-6-test-corpus-26-train	FES	كلب ظريف. شمن نسل؟
+3721	corpus-6-test-corpus-26-train	FES	طاحتلي الشوكة. عافاك جيبلي وحدة آخرى.
+3742	corpus-6-test-corpus-26-train	FES	كان هادشي ممتع.
+3747	corpus-6-test-corpus-26-train	FES	بالتأكيد. سير مباشرةودور على ليمين في الزاوية الثالثة. غادي تلقاه على ليمين.
+3765	corpus-6-test-corpus-26-dev	FES	واشعندك أفلام بشرائح ملونة؟
+3780	corpus-6-test-corpus-26-train	FES	واش كتعرف كاثي؟ هادي الحفلة ديال عيد ميلادها.
+3789	corpus-6-test-corpus-26-train	FES	واش عند مخطط لوان؟
+3792	corpus-6-test-corpus-26-dev	FES	واش يمكن لي نخلص بشيك سياحي؟
+3806	corpus-6-test-corpus-26-train	FES	ولكن، هو، رجل، كيفاش نعرف بلي هادا هو الحاجة الحقيقية؟
+3825	corpus-6-test-corpus-26-train	FES	واش يمكن لي ناخدها معفية من الضرائب؟
+3829	corpus-6-test-corpus-26-train	FES	مقدرتش نحط اللأمتعة ديالي تحت المقعد. ممكن تخليه عندك، عافاك؟
+3835	corpus-6-test-corpus-26-train	FES	ممكن عافاك تحط هاد الحقيبة فالكوفر؟
+3847	corpus-6-test-corpus-26-train	FES	أنا غادي على برا، اذن دابا نهزها.
+3856	corpus-6-test-corpus-26-train	FES	عافاك صيفط شي حد مور الحقائبديالي فالستة وثلاثين.
+3858	corpus-6-test-corpus-26-dev	FES	بغيت خريطة سان فرانسيسكو والمنطقة اللي دايرة بيها.
+3859	corpus-6-test-corpus-26-train	FES	اينا نوع ديال الخبز عندك؟
+3860	corpus-6-test-corpus-26-train	FES	فين هو المصعد؟
+3861	corpus-6-test-corpus-26-train	FES	واش كاين شي حد كيعرف يعزف على البيانو؟
+3872	corpus-6-test-corpus-26-test	FES	فينا محطة خاصني ننزل باش نمشي لامباير ستيت بيلدينج؟
+3887	corpus-6-test-corpus-26-test	FES	الميزانية أقل من ألف دولار.
+3892	corpus-6-test-corpus-26-train	FES	شكرا ليك، ولكن مكنعتقدش بلي عندي الوقت باش نبقى لمدة جوج ليالي. واش ممكن نحجز غرفة مزدوجة في هذا الفندق بالنسبة ليا ليلة اثناعشر مارس فقط؟
+3900	corpus-6-test-corpus-26-dev	FES	واش ممكن حجز غرفة مزدوجة كتطل على المحيط؟
+3920	corpus-6-test-corpus-26-train	FES	مزال مقررناش.
+3928	corpus-6-test-corpus-26-train	FES	رفيقي تعثر وتلوا ليه الكاحل ديالو.
+3936	corpus-6-test-corpus-26-train	FES	غادي نجرب شوية ديال شيربيت.
+3961	corpus-6-test-corpus-26-train	FES	واش كاين شي مطعم تايلاندي قريب؟
+3972	corpus-6-test-corpus-26-train	FES	راه كاين فنواحي ديال هاداك المبنى الطويل. اذن، رجع من نفس الطريق الي جيتي منها حتى لإشارات المرور. ثم، اتجه لليسار.
+3974	corpus-6-test-corpus-26-train	FES	خاصني نشد طيارة للوس انجليس غدا فصباح بكري.
+3988	corpus-6-test-corpus-26-train	FES	"من بعد غادي نقدر نوصي بثقة هادا ""جولة مدينة سان فرانسيسكو"". هادا كيعلمك شكل سان فرانسيسكو."
+3991	corpus-6-test-corpus-26-train	FES	باغي ناخد التأمين.
+3995	corpus-6-test-corpus-26-test	FES	أنطلبو شي كيس تبريد باش تخفف الألم.
+4013	corpus-6-test-corpus-26-train	FES	باغيا تشري فستان.
+4016	corpus-6-test-corpus-26-train	FES	بشحال طاكسي للفندق؟
+4017	corpus-6-test-corpus-26-train	FES	فين كاين المرحاض؟
+4034	corpus-6-test-corpus-26-train	FES	واش كيكلف شي حاجة الدخول لهاد المبنى؟
+4036	corpus-6-test-corpus-26-train	FES	ديرها بطريقتك.
+4082	corpus-6-test-corpus-26-test	FES	كنبحث علي شي حاجة مثيرة.
+4104	corpus-6-test-corpus-26-train	FES	السرجم واحل.
+4109	corpus-6-test-corpus-26-dev	FES	فينا جانب من يونيون سكوير هو؟
+4119	corpus-6-test-corpus-26-train	FES	نص أوقية من شانيل رقم خمسة، عافاك.
+4129	corpus-6-test-corpus-26-train	FES	شي قهيوة؟
+4143	corpus-6-test-corpus-26-train	FES	واش غنحتاج لتذكرة؟
+4182	corpus-6-test-corpus-26-train	FES	بالنسبة لثمن رسوم الخدمة؟
+4185	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت من هنا؟
+4187	corpus-6-test-corpus-26-train	FES	كريم وسكر؟
+4193	corpus-6-test-corpus-26-train	FES	واش عندك شي معدل تخفيض للأعضاء؟
+4219	corpus-6-test-corpus-26-train	FES	واش كاين سوبر اكسبريس فالتاسعة نص؟
+4221	corpus-6-test-corpus-26-train	FES	سمحو لي نتحقق من سائل الفرامل والمحرك. محركك كيبان تقريبا واقف.
+4224	corpus-6-test-corpus-26-train	FES	مكانش الغلط ديالي.
+4262	corpus-6-test-corpus-26-train	FES	مكاينش الكهرباء.
+4263	corpus-6-test-corpus-26-train	FES	غادي نبلغ الشرطة بهادشي.
+4269	corpus-6-test-corpus-26-train	FES	واش غادي يخلص كل واحد على المشروب ديالو؟
+4275	corpus-6-test-corpus-26-train	FES	كاين شي بلاصة بين ثلاثين لخمسين دولار لليلة.
+4278	corpus-6-test-corpus-26-train	FES	عافاك صلح هادشي.
+4284	corpus-6-test-corpus-26-train	FES	فأيام رأس العام . وفالمناسبات الخاصة بحال حفلات الأعراس، احتفالات الولائم أو الجنازات.
+4285	corpus-6-test-corpus-26-test	FES	خردل زايد، عافاك.
+4305	corpus-6-test-corpus-26-train	FES	علاش ماتعطيهاش هدية؟
+4321	corpus-6-test-corpus-26-test	FES	شنو الفيلم اللي تنصح بيه؟
+4324	corpus-6-test-corpus-26-test	FES	هنا عشرين وتعطيني جوج دولارات صرف، عافاك.
+4326	corpus-6-test-corpus-26-train	FES	ضربتني من الجنب.
+4335	corpus-6-test-corpus-26-train	FES	ممكن نجي أكثر من جوج.
+4341	corpus-6-test-corpus-26-train	FES	واش هادي الأمتعة من الرحلة ديال جيه ايه ال صفر واحد؟
+4346	corpus-6-test-corpus-26-train	FES	هادي هي أول رحلة لي لباريس.
+4348	corpus-6-test-corpus-26-train	FES	واش ممكن تقدر التكلفة قبل ما تبدا الخدمة فيه؟
+4358	corpus-6-test-corpus-26-train	FES	دخل، عافاك.
+4364	corpus-6-test-corpus-26-test	FES	رحلة ديالنا ديال المشي لمسافات طويلة خاص يكون فيها بزاف ديال المرح.
+4365	corpus-6-test-corpus-26-train	FES	فين ممكن نركب القارب؟
+4373	corpus-6-test-corpus-26-train	FES	ما عندنيش حقيبة ليتهز هاد المبلغ اذن نديروه فهاد الحقيبة البلاستيكية الكبيرة.
+4374	corpus-6-test-corpus-26-train	FES	باغي نلعب التنس.
+4375	corpus-6-test-corpus-26-train	FES	كاين الأناناس والبرتقال وعصير الطماطم.
+4377	corpus-6-test-corpus-26-train	FES	الجيهة ديال اليسارمن هاد الطابق، قريب من المصعد.
+4382	corpus-6-test-corpus-26-test	FES	شكون اللي غيلعب في قاعة الحفلات الموسيقية اليوم؟
+4409	corpus-6-test-corpus-26-train	FES	تبغي عوض ديكشي تتفرج ففيلم مختلف؟
+4418	corpus-6-test-corpus-26-train	FES	عافاك غير هاد شيك السياحي بالفلوس.
+4432	corpus-6-test-corpus-26-dev	FES	باغي نفس الدورة غدا، عافاك.
+4450	corpus-6-test-corpus-26-train	FES	ممكن نعطيك شي إجابة أحسن على هادشي من بعد شوية ديال العروض.
+4451	corpus-6-test-corpus-26-test	FES	باغي شي هدية لذكرى سنوية.
+4464	corpus-6-test-corpus-26-train	FES	شنو هي المسرحيات الموسيقية الموجودة دابا؟
+4475	corpus-6-test-corpus-26-train	FES	واش عندك مراية؟
+4478	corpus-6-test-corpus-26-dev	FES	سمحلي، لكني تلفت على طريقي. واس ميمكن تساعدني؟
+4479	corpus-6-test-corpus-26-train	FES	غادي ناخد هاد الواحد، عافاك.
+4497	corpus-6-test-corpus-26-train	FES	ميمكنش ليك تجيب الألعاب النارية لكندا.
+4501	corpus-6-test-corpus-26-train	FES	الطبخ زوين ديال زوجتك.
+4503	corpus-6-test-corpus-26-train	FES	محتاج لشي مساعدة؟
+4505	corpus-6-test-corpus-26-train	FES	ممكن تحجز طاكسي مع الستة ديال صباح الغد، عافاك؟
+4510	corpus-6-test-corpus-26-train	FES	ماذا تبغي ىيكون مع الدخول ديالك؟
+4540	corpus-6-test-corpus-26-test	FES	واش كيان شي بوتيك هنا؟
+4549	corpus-6-test-corpus-26-train	FES	غادي تعمر هاد البلاصة بالناس، واش بصح؟
+4558	corpus-6-test-corpus-26-train	FES	سمحلي. غادي تكون واجدة فتقريبا خمسة دقايق.
+4588	corpus-6-test-corpus-26-train	FES	جاني تشنج فعنقي ملي كنت ناعس.
+4594	corpus-6-test-corpus-26-train	FES	واخا مكاين حتا مشكل. ممكن نشوف البسبور ديالك؟
+4615	corpus-6-test-corpus-26-test	FES	معنديش الفلوس.
+4624	corpus-6-test-corpus-26-train	FES	فوقاش خاصني نكون فالمحطة؟
+4630	corpus-6-test-corpus-26-train	FES	كاين بزاف ديال المطاعم فهاد النواحي.
+4635	corpus-6-test-corpus-26-train	FES	راه حدا غرفة الامانات.
+4640	corpus-6-test-corpus-26-train	FES	فرحت بالكلام معاك.
+4644	corpus-6-test-corpus-26-test	FES	كاين شي جولة بعد الظهر؟
+4648	corpus-6-test-corpus-26-test	FES	أنا مع اصحابي.
+4653	corpus-6-test-corpus-26-train	FES	تمتعت بإقامتي. شكرا.
+4654	corpus-6-test-corpus-26-train	FES	الشاطئ كاين مباشرة لتحت. منظر زوين.
+4658	corpus-6-test-corpus-26-train	FES	شكرا ليكي على الانتظار، انسة ماكغوير. ها هوا. اتفضلي، عافاكي.
+4662	corpus-6-test-corpus-26-train	FES	واش عندك صورة شخصية؟
+4671	corpus-6-test-corpus-26-train	FES	سبعة، عافاك.
+4674	corpus-6-test-corpus-26-train	FES	بغيت نصيفط هادشي للمصبنة. فوقاش يكون واجد؟
+4685	corpus-6-test-corpus-26-train	FES	عندي سروال مخطط.
+4699	corpus-6-test-corpus-26-train	FES	نعم. توصلوني شي أمتعة ديال شي حد أخر للغرفة ديالي دابا. تحقق من داكشي، عافاك؟
+4714	corpus-6-test-corpus-26-train	FES	ممكن نشرح داكشي بالتفصيل؟
+4729	corpus-6-test-corpus-26-train	FES	واش نعستي مزيان؟
+4733	corpus-6-test-corpus-26-train	FES	ممكن تضغط على زر التصوير؟
+4740	corpus-6-test-corpus-26-train	FES	جوج مفاتح، عافاك.
+4742	corpus-6-test-corpus-26-dev	FES	بغيت مصباح.
+4744	corpus-6-test-corpus-26-train	FES	راها فالتالي ديال الممر.
+4773	corpus-6-test-corpus-26-dev	FES	بغيت شي مذكرة.
+4788	corpus-6-test-corpus-26-train	FES	واش غادي نمشيو فالطوبيس؟
+4790	corpus-6-test-corpus-26-train	FES	قلتي بلي غادي تمشي لطوكيو غدا؟
+4795	corpus-6-test-corpus-26-test	FES	خليوني ننعس حتا للتاسع ديال الصباح.
+4801	corpus-6-test-corpus-26-train	FES	لا بد لي من نقل إلى أ و واحد صفر صفر. واش ممكن؟
+4813	corpus-6-test-corpus-26-train	FES	كيفاشدايرة اللعبة هاد الايام؟
+4814	corpus-6-test-corpus-26-dev	FES	حاس براسي مضغوط من الصدر.
+4826	corpus-6-test-corpus-26-train	FES	مكاين حتا مشكلة. الى كنتي غاتجي فخمسة شتنبر، يمكن ليك تتمتع بفيلم علمي لأن عندنا يوم مفتوح خاص الجمعة الاولى من كل شهر.
+4828	corpus-6-test-corpus-26-train	FES	واش عندك شي جولة أخرى؟
+4836	corpus-6-test-corpus-26-train	FES	واخا، نقص فلمية واش مقبول؟
+4845	corpus-6-test-corpus-26-train	FES	انا غادي لباريس.
+4848	corpus-6-test-corpus-26-train	FES	ماشي آخر طراز، ياك بصح؟
+4857	corpus-6-test-corpus-26-train	FES	مقررة فثمنية وثلاثين فالليل بالتوقيت المحلي.
+4889	corpus-6-test-corpus-26-train	FES	خذ لينا صورة مع هادا، عافاك.
+4894	corpus-6-test-corpus-26-train	FES	واخا. غيكون طبسيل متوسط ​​الحجم وكرة الروز.
+4901	corpus-6-test-corpus-26-train	FES	كيفاش كاتبان هادي؟
+4924	corpus-6-test-corpus-26-train	FES	بغيت نشوف هادا الواحد اللي فالسرجم، عافاك.
+4945	corpus-6-test-corpus-26-train	FES	ما يمكنش. حنا فعطلة. كنرفض الجلوس في غرفة ديال الفندق ونتفرج فالبيسبول فالتلفزيون. أريد أن أرى مسرحية.
+4957	corpus-6-test-corpus-26-train	FES	واش نقدر نلمسها؟
+4974	corpus-6-test-corpus-26-train	FES	ممكن تجي لهنا باش تصلحو؟
+4983	corpus-6-test-corpus-26-train	FES	بغيت شي خيوط اصطناعية.
+4985	corpus-6-test-corpus-26-train	FES	سميتي تارو تاناكا. عندي حجز.
+4990	corpus-6-test-corpus-26-train	FES	بغيت شوية ديال كريم التطهير.
+5004	corpus-6-test-corpus-26-train	FES	بغيت سترة بلكمام طوال.
+5009	corpus-6-test-corpus-26-train	FES	تسرقلي من الحقيبة ديالي.
+5017	corpus-6-test-corpus-26-train	FES	طريقنا كيبانلي عبرنا بزاف ديال المرات، ماشي هاكا؟
+5035	corpus-6-test-corpus-26-train	FES	ممكن نشو القائمة مرة اخرى؟
+5045	corpus-6-test-corpus-26-train	FES	كتبان شوية خضرا.
+5082	corpus-6-test-corpus-26-train	FES	شحال العدد؟
+5083	corpus-6-test-corpus-26-train	FES	الفريز، عافاك.
+5090	corpus-6-test-corpus-26-dev	FES	جبل فوجي هو أعلى قمة فاليابان في ثلاثة آلاف وسبعمائة وستة وسبعين متر.
+5091	corpus-6-test-corpus-26-train	FES	لا مزال. كاين بزاف تختار من بينهم.
+5098	corpus-6-test-corpus-26-dev	FES	باغي شوية ديال كريم الليل.
+5104	corpus-6-test-corpus-26-test	FES	راها بين المخبزات ومحل الجزار.
+5116	corpus-6-test-corpus-26-train	FES	يمكن ليك تقصر الأكمام؟
+5117	corpus-6-test-corpus-26-train	FES	متأسف ماكينش ملعب للجولف هنا.
+5121	corpus-6-test-corpus-26-train	FES	ممكن توريني الحلقة الثانية من اليسار؟
+5124	corpus-6-test-corpus-26-train	FES	ممكن تطلب منو يتصل بيا؟
+5138	corpus-6-test-corpus-26-train	FES	حاولت ندير مكالمة دولية. لم تحصل واش دازت؟
+5148	corpus-6-test-corpus-26-test	FES	هادا غلط.
+5175	corpus-6-test-corpus-26-train	FES	نعم داك الشي اللي كاين. تقدر تشوف الراية قدام مكتب البريد.
+5207	corpus-6-test-corpus-26-test	FES	ياك بالتأكيد غادي ترسلهوم، ياك بصح؟
+5219	corpus-6-test-corpus-26-train	FES	باغي ندير شي مكالمة هاتفية بالبطاقة دلائتمان.
+5224	corpus-6-test-corpus-26-train	FES	بغيت ديالي تمشي.
+5245	corpus-6-test-corpus-26-train	FES	ملي توصل غادي نخلصو باش يوصلك حتى للععنوان ديال الدار.
+5246	corpus-6-test-corpus-26-dev	FES	فهاد الأيام أنا ديما كنخدام الكمبيوتر في العمل.
+5250	corpus-6-test-corpus-26-train	FES	واخا. فهمت. غادي نجي لبلاصتك.
+5259	corpus-6-test-corpus-26-train	FES	لا، هادا ما يكفيش.
+5261	corpus-6-test-corpus-26-train	FES	واش يمكن لي ناخد بطانية وخدية؟
+5262	corpus-6-test-corpus-26-train	FES	ممكن تجي لهنا فأقرب وقت، عافاك؟
+5263	corpus-6-test-corpus-26-train	FES	كاس ديال القهوة عافاك.
+5267	corpus-6-test-corpus-26-test	FES	كبحث على بطاقات هاواي نموذجية.
+5272	corpus-6-test-corpus-26-train	FES	ممكن تزير الخصر بمقدار ثلاثة سنتيمترات؟
+5289	corpus-6-test-corpus-26-train	FES	أنا نفس العمر.
+5300	corpus-6-test-corpus-26-train	FES	ممكن تجيب لي شوية ديال القهوة؟
+5307	corpus-6-test-corpus-26-dev	FES	ثلاثمية و خمسين دولار؟ هادا كثر من الميزانية ديالي.
+5323	corpus-6-test-corpus-26-train	FES	واش يمكن لينا نحطو هادا للتصويت؟ ولا، كنظن وصلنا لاستنتاج، وأنا غادي نرسله إلى مجلس إدارتنا صباح الغد.
+5334	corpus-6-test-corpus-26-train	FES	واش عارف بلي كاين فنادق رخيصة؟
+5361	corpus-6-test-corpus-26-train	FES	صباح الخير. واش نعستي مزيان؟
+5364	corpus-6-test-corpus-26-train	FES	شنو باغي تدير ملي تسالي المدرسة؟
+5366	corpus-6-test-corpus-26-train	FES	تسرقاتلي الحقيبة ديال اليد فالشارع.
+5367	corpus-6-test-corpus-26-train	FES	واش عندك شي خدمات أخرى مع الفطور هاد الصباح؟
+5407	corpus-6-test-corpus-26-train	FES	بغيت كاس ديال القهوة البيضاء، عافاك.
+5410	corpus-6-test-corpus-26-test	FES	واخا واش كاين شيراتون تما؟
+5411	corpus-6-test-corpus-26-train	FES	كنتمنى متكونش عيان بزاف.
+5431	corpus-6-test-corpus-26-train	FES	باغي نكري شي سيارة من هاد النوع لمدة يومين.
+5436	corpus-6-test-corpus-26-train	FES	أنا غناخذ كاس من جاك دانيلز.
+5437	corpus-6-test-corpus-26-train	FES	بغيت كيس ديال الدرى، عافاك.
+5447	corpus-6-test-corpus-26-train	FES	ضيعت عصا ديال التزلج.
+5455	corpus-6-test-corpus-26-train	FES	حنا مكانجيبوش هدايا للاستقبال. عوض هادا، الضيوف كيجيبو الفلوس.
+5458	corpus-6-test-corpus-26-train	FES	بغيت نصيفط بالبريد البري او البحري.
+5492	corpus-6-test-corpus-26-train	FES	وصلات الطيارة متأخرة بسباب الثلوج الكثيفة.
+5518	corpus-6-test-corpus-26-train	FES	المسؤول، عافاك.
+5521	corpus-6-test-corpus-26-train	FES	واش تاخد رسالة، عافاك؟
+5540	corpus-6-test-corpus-26-train	FES	سمحلي، ميمكنش ليا نتابعك. ممكن تهدر بشوية، عافاك؟
+5549	corpus-6-test-corpus-26-dev	FES	شنو ممكن نوريك؟
+5559	corpus-6-test-corpus-26-train	FES	ممكن ناخد شي صورة؟
+5570	corpus-6-test-corpus-26-train	FES	من أصل مية.
+5584	corpus-6-test-corpus-26-dev	FES	رقم الرحلة هو اتش بي تسعة وثمانون لطوكيو في الحادي عشر من مارس.
+5585	corpus-6-test-corpus-26-train	FES	واش نقدر ناخد نفس الطبق بحال هاداك؟
+5594	corpus-6-test-corpus-26-dev	FES	واش عند واخد اخور؟
+5596	corpus-6-test-corpus-26-train	FES	عافاك جيبلي الفطور ديالي في السبعة ديال الصباح.
+5615	corpus-6-test-corpus-26-train	FES	واحد السيد ديال الصيانة غاكون هنا قريب.
+5617	corpus-6-test-corpus-26-dev	FES	أنا متأسف غادي نعود نجي من بعد.
+5640	corpus-6-test-corpus-26-test	FES	كيفاش تقدر نشدها؟
+5648	corpus-6-test-corpus-26-train	FES	واش مزال شي بلايص لرحلة يوم الخميس؟
+5657	corpus-6-test-corpus-26-train	FES	سمحلي. واش نقدر ندوز؟
+5680	corpus-6-test-corpus-26-train	FES	واش عندك شي نباتات ولا فواكه؟
+5684	corpus-6-test-corpus-26-train	FES	عافاك قولي كيفاش نعمر بطاقة النزول؟
+5695	corpus-6-test-corpus-26-train	FES	كنظن بلي السيارة ديالي تستحق شي خمسة آلاف دولار.
+5706	corpus-6-test-corpus-26-train	FES	واش هاد الغدا منخفض فالسعرات الحرارية؟
+5717	corpus-6-test-corpus-26-train	FES	شنو هو الطوبيس اللي خاصني نشد باش نمشي للمحطة؟
+5723	corpus-6-test-corpus-26-train	FES	نعم، داكشي. ولكن خاصك تبدل لليسار في ضوء المرور الثالث وتبقى فهاد الشارع حتى توصل للطريق ستة وستين.
+5733	corpus-6-test-corpus-26-dev	FES	بغيت كاس ديال الما باش ناخذ شي دوا، عافاك.
+5761	corpus-6-test-corpus-26-train	FES	غنقدرك بزاف الى ديتيني للشاطئ.
+5772	corpus-6-test-corpus-26-train	FES	أنا متأسف. عندك الرقم غالط . هادا هو تانكيوشا بريس.
+5779	corpus-6-test-corpus-26-train	FES	حنا كنغادروا.
+5830	corpus-6-test-corpus-26-dev	FES	شنو هاد الموسيقى؟
+5847	corpus-6-test-corpus-26-train	FES	عافاك عطي هاد السيرو للطفل ديالك، مقياس واحد، بعد كل وجبة.
+5848	corpus-6-test-corpus-26-train	FES	هذا الستيل كاين فالأحجام ثمانية وعشرين وثلاثة وثلاثين وثلاثة وخمسين سنتيمتر .
+5875	corpus-6-test-corpus-26-train	FES	أوه، كيبان بزاف.
+5898	corpus-6-test-corpus-26-train	FES	ممكن نستعمل الهاتف ديالك؟
+5902	corpus-6-test-corpus-26-test	FES	الريحة ديالو زوينة بشحال الثمن ديالو؟
+5906	corpus-6-test-corpus-26-train	FES	بغيت نأكد مرة أخرى على الرحلة ديالي لشيكاغو نها سبعة عشر.
+5913	corpus-6-test-corpus-26-train	FES	كليت كثر من اللازم.
+5914	corpus-6-test-corpus-26-train	FES	واش ممكن نتكلم مع السيد براون؟
+5916	corpus-6-test-corpus-26-train	FES	هاد البيت كيبان مرتاح للسكن، ياك بصح؟
+5934	corpus-6-test-corpus-26-dev	FES	بغيت ندير حجزى لشركة نورث ويست للطيران الرحلة صفر ثمانية ستة نهار خمسة.
+5940	corpus-6-test-corpus-26-train	FES	محفظة ديالي، جواز السفر والأمتعة الشخصية الأخرى.
+5956	corpus-6-test-corpus-26-train	FES	امتى كتسد؟
+5974	corpus-6-test-corpus-26-test	FES	انتظر دقيقة. يمكن نكون نسيتو فالحمام.
+5987	corpus-6-test-corpus-26-train	FES	هادشي اللي كنت غادي نقول.
+5988	corpus-6-test-corpus-26-train	FES	نعم داكشي اللي كنظن.
+5997	corpus-6-test-corpus-26-train	FES	دارك كبيرة. شحال عدد الغرف؟
+6006	corpus-6-test-corpus-26-train	FES	استمتعنا بالعشاء.
+6024	corpus-6-test-corpus-26-test	FES	أنا فاهم، ولكن منقدرش نقوله.
+6047	corpus-6-test-corpus-26-train	FES	نعم عافاك. كنتمنى ميكونش جاهوم دوخة ديال البحر.
+6056	corpus-6-test-corpus-26-test	FES	لطوكيو، عافاك.
+6073	corpus-6-test-corpus-26-train	FES	شنو وقت الوصول المتوقع ديالنا؟
+6086	corpus-6-test-corpus-26-train	FES	غادي نمشي فصباح بكري داكشي لاش بغيت نخلص دابا.
+6100	corpus-6-test-corpus-26-test	FES	دراي شيري، عافاك.
+6109	corpus-6-test-corpus-26-test	FES	شي كرسي لغير المدخنين عافاك.
+6156	corpus-6-test-corpus-26-train	FES	انا مشغول دابا.
+6167	corpus-6-test-corpus-26-train	FES	واش يمكن للاجانب يوصلو لهدا الكتب فالمكتبة؟
+6179	corpus-6-test-corpus-26-train	FES	واش ممكن نبقى فالغرفة ديالي حتى الجوج مور الظهر؟
+6190	corpus-6-test-corpus-26-train	FES	ها ها. صباح الخيرلوقتك. راه بخير.
+6193	corpus-6-test-corpus-26-train	FES	بغيت شي فيلم ديال هاد رقم الايه اس ايه لهاد الكاميرا، عافاك.
+6205	corpus-6-test-corpus-26-train	FES	فين اللوحات ديال مونيه؟
+6214	corpus-6-test-corpus-26-train	FES	هاج البيتزا زوينة شكون صوبها؟
+6221	corpus-6-test-corpus-26-train	FES	بحال اي طبق كيشبه هاد الطبق؟
+6227	corpus-6-test-corpus-26-train	FES	حتا هادوك غالين.
+6228	corpus-6-test-corpus-26-train	FES	فوقاش غايمشي الطران الجاي لبوسطن؟
+6232	corpus-6-test-corpus-26-dev	FES	كنخطط نتعلم الغولف.
+6247	corpus-6-test-corpus-26-dev	FES	عافاك عطيني مشروب أخور.
+6253	corpus-6-test-corpus-26-train	FES	سرباي زوين.
+6272	corpus-6-test-corpus-26-train	FES	متأسف الكمام قصار بزاف.
+6283	corpus-6-test-corpus-26-train	FES	ممكن توريني كيفاش ندير الوقود؟
+6285	corpus-6-test-corpus-26-train	FES	واش الرسم يدال الفندق داخل فيه الفطور؟
+6287	corpus-6-test-corpus-26-train	FES	واش هادا كلشي؟
+6291	corpus-6-test-corpus-26-train	FES	راه في هاد الطريق.
+6339	corpus-6-test-corpus-26-train	FES	عافاك دير العداد واجد.
+6363	corpus-6-test-corpus-26-train	FES	غرفة ديالي باردة بزاف.
+6411	corpus-6-test-corpus-26-train	FES	غادي نرجع عندك ملي منكونش مشغول بزاف.
+6413	corpus-6-test-corpus-26-dev	FES	واش عند كبر منو؟
+6418	corpus-6-test-corpus-26-train	FES	كنحس بتحسن.
+6430	corpus-6-test-corpus-26-dev	FES	واش كتعرف الجغرافيا ديال اليابان؟
+6436	corpus-6-test-corpus-26-train	FES	ممكن توريني فين أنا فهاد الخريطة.
+6437	corpus-6-test-corpus-26-train	FES	مئة فالمئة قطن.
+6466	corpus-6-test-corpus-26-train	FES	بغيت نبدل لشي غرفة كتطل على الحيط واش كتزاد شي رسوم؟
+6472	corpus-6-test-corpus-26-train	FES	شحال ثمن نص يوم نكري لوح؟
+6481	corpus-6-test-corpus-26-train	FES	عشرة نونبر.
+6484	corpus-6-test-corpus-26-dev	FES	بغيت الشريط ديال الآلة الكاتبة.
+6492	corpus-6-test-corpus-26-train	FES	لذيذة بزاف.
+6497	corpus-6-test-corpus-26-train	FES	فوقاش غادي نقلعو؟
+6498	corpus-6-test-corpus-26-train	FES	كيفاش تخلي السائق يعرف امتا غادي تهبط؟
+6513	corpus-6-test-corpus-26-train	FES	أربعة وعشرون دولارا. واش تبغي كثر؟
+6515	corpus-6-test-corpus-26-train	FES	درت حجز لطوكيو قبل شهر واحد.
+6517	corpus-6-test-corpus-26-train	FES	كنشكركوم من الاعماق ديال قلبي.
+6525	corpus-6-test-corpus-26-train	FES	واش نقدر ننزل من هنا لمركز روكفلر؟
+6539	corpus-6-test-corpus-26-train	FES	عافاك قيس الصباط ديالي.
+6547	corpus-6-test-corpus-26-train	FES	امر رائع.
+6550	corpus-6-test-corpus-26-train	FES	واش تبغي تخرج معاي فموعد؟
+6552	corpus-6-test-corpus-26-train	FES	عافاك نظف هاد المعطف.
+6553	corpus-6-test-corpus-26-train	FES	بغيت نكري مركب.
+6574	corpus-6-test-corpus-26-train	FES	فين كاين الجهة ديال النساء؟
+6581	corpus-6-test-corpus-26-train	FES	القهوة مداخلاش فلحساب؟
+6593	corpus-6-test-corpus-26-train	FES	فاي مجال كان من قبل؟
+6602	corpus-6-test-corpus-26-train	FES	اللعنة. اللعنة. اللعنة. اللعنة. تعودت على الوجه ديالها.
+6609	corpus-6-test-corpus-26-train	FES	واش خاصني نخلص رسوم اضافية ملي ندخل للمبنى؟
+6613	corpus-6-test-corpus-26-test	FES	مرحبا، جهت اتصالك على الخط. اتفضل، عافاك.
+6625	corpus-6-test-corpus-26-train	FES	جرحي كيضر.
+6635	corpus-6-test-corpus-26-train	FES	فين المحطة؟
+6657	corpus-6-test-corpus-26-train	FES	فيا القشعريرة ديال البرد والرجفة.
+6659	corpus-6-test-corpus-26-train	FES	ثلاثة ايام.
+6660	corpus-6-test-corpus-26-dev	FES	عبر القنطرة للجهة الاخرى وغادي تلقى المكتبة على يديك ديال اليسار.
+6692	corpus-6-test-corpus-26-dev	FES	عافاك عاوني نلقى شي مرشد كيتكلم اليابانية.
+6699	corpus-6-test-corpus-26-train	FES	مانا مبغيتش شي وحدة كبيرة بزاف.
+6700	corpus-6-test-corpus-26-train	FES	غيكون شوية ديال التأخير.
+6715	corpus-6-test-corpus-26-train	FES	شنو الفرق بين هاد الفنادق؟
+6724	corpus-6-test-corpus-26-test	FES	نسيت الوقوف ديالي.
+6736	corpus-6-test-corpus-26-train	FES	كان داكشي عظيم شكرا.
+6740	corpus-6-test-corpus-26-dev	FES	غادي نكون تما فداك الستة ديال الليل.
+6746	corpus-6-test-corpus-26-train	FES	عندي شي حاجة اطول؟
+6766	corpus-6-test-corpus-26-train	FES	تاريخ انتهاء الصلاحية هو مارس الف تسعمائة تسعة وتسعين.
+6780	corpus-6-test-corpus-26-test	FES	كيفاش لقيتيه؟
+6800	corpus-6-test-corpus-26-train	FES	واش كاين شي كازينوهات مزيانة؟
+6810	corpus-6-test-corpus-26-train	FES	هاك الفلوس ديال أقلام الحبر. مئة دولار.
+6812	corpus-6-test-corpus-26-train	FES	فين قسم السيدات؟
+6825	corpus-6-test-corpus-26-train	FES	فين يمكن لي نركب المركب؟
+6832	corpus-6-test-corpus-26-train	FES	صديقي تجرح.
+6835	corpus-6-test-corpus-26-train	FES	كيبان بحالو مزيانة.
+6836	corpus-6-test-corpus-26-dev	FES	واش هاد المتجر غادي يكون مفتوح غدا؟
+6862	corpus-6-test-corpus-26-test	FES	راه نهاية القاعة.
+6864	corpus-6-test-corpus-26-train	FES	ممكن عافاك تقادلي الشارب؟
+6866	corpus-6-test-corpus-26-dev	FES	داكشي كايجي مع شلاضة بوفيه واختيار من البطاطا المخبوزة أو البطاطا المقلية.
+6875	corpus-6-test-corpus-26-dev	FES	فين نقدر نشري وعاء؟
+6914	corpus-6-test-corpus-26-train	FES	منقدرش نشري هادا بلا وصفة طبية.
+6917	corpus-6-test-corpus-26-train	FES	واش نقدر نحجز خمسة بلايص مجموعين فنفس الصف؟
+6923	corpus-6-test-corpus-26-test	FES	هل يمكن أن تقرضني كابل سحب، عافاك؟
+6944	corpus-6-test-corpus-26-train	FES	اينا سيارة كتعطي اميال كثر؟
+6960	corpus-6-test-corpus-26-train	FES	ما غديش تاخد خصم مهما غتدير.
+6966	corpus-6-test-corpus-26-train	FES	ممكن تفتح هاد الشانطة عافاك؟ شنو عندك فيها؟
+6970	corpus-6-test-corpus-26-train	FES	بغيت ندير مكالمة بعيدة المدى لفندق هيلتون في بوسطن.
+6984	corpus-6-test-corpus-26-test	FES	واش السيدات كيقبلو هاداك الشي؟
+6991	corpus-6-test-corpus-26-train	FES	كن حذر، سقف منخفض.
+6999	corpus-6-test-corpus-26-train	FES	مكنقدرش نشوف الشاشة من هنا بوضوح. واش ممكن نبدل المقعد ديالي لفترة؟
+7030	corpus-6-test-corpus-26-train	FES	كنزورالبحيرات الكبرى لأول مرة.
+7048	corpus-6-test-corpus-26-train	FES	كاين شي غلط فهاد المكينة ديال البيع.
+7057	corpus-6-test-corpus-26-train	FES	محتاج لطبيب.
+7070	corpus-6-test-corpus-26-train	FES	من فوقاش كانت فلمملكة المتحدة؟
+7081	corpus-6-test-corpus-26-train	FES	محبي الفنون الجديدة بحالك يمكن يتمتعوا برسومات الهيبيش والفراجة ديال موسيقى الشارع.
+7098	corpus-6-test-corpus-26-train	FES	اي وقت؟
+7099	corpus-6-test-corpus-26-dev	FES	غادي ناخد هوت دوج وكوكا.
+7104	corpus-6-test-corpus-26-dev	FES	معاك مشغل المكالمات في الخارج.
+7123	corpus-6-test-corpus-26-train	FES	واش كتشوف المبنى الأبيض، ياك؟ راه قدام هاد المبنى.
+7130	corpus-6-test-corpus-26-test	FES	من امتى؟
+7137	corpus-6-test-corpus-26-test	FES	معنديش شي حاجة نعلنها.
+7198	corpus-6-test-corpus-26-dev	FES	شنوا؟ واش خاصك تخلص الضرائب ملي يكون عندك كثر من ثلاث زجاجات من الكحول؟
+7206	corpus-6-test-corpus-26-dev	FES	صديقي مريض بزاف. ممكن تستدعي الطبيب، عافاك؟
+7227	corpus-6-test-corpus-26-test	FES	انا مكنعرفش بواف فالنبيذ شنو مزيان لهاد الطبق؟
+7233	corpus-6-test-corpus-26-dev	FES	ممكن تعطيني مكالمة صباح بكري عافاك؟
+7248	corpus-6-test-corpus-26-dev	FES	كاين محطة ديال الوقود جوج شوارع من هنا.
+7253	corpus-6-test-corpus-26-train	FES	الشعب الياباني مكياخدش عطلات طويلة.
+7264	corpus-6-test-corpus-26-train	FES	كنحس بلي كولشي كيشوف فيا. واش نادرمايشوفو شخص ياباني؟
+7269	corpus-6-test-corpus-26-test	FES	بالطبع لا. علاش كتقول اذن؟
+7270	corpus-6-test-corpus-26-train	FES	شنو هي الطريق للمدخل ديال مكتب البريد المركزي؟
+7274	corpus-6-test-corpus-26-train	FES	فين محطة حافلات جريهوند فهاد البلدة؟
+7281	corpus-6-test-corpus-26-train	FES	لكن المطاعم اليابانية فكيوتو ماشي مكلفة؟
+7289	corpus-6-test-corpus-26-train	FES	كنظن شوية الصزت مرتفع بالنسبة ليا.
+7291	corpus-6-test-corpus-26-test	FES	عندنا غرفة لجوج وفيها حمام بخمسة وثمانين دولار.
+7305	corpus-6-test-corpus-26-train	FES	بغيت معدل الكتاب.
+7314	corpus-6-test-corpus-26-test	FES	باردة كثر من العادة هاد العام، ولكن ماشي بارد كفاية للثلج.
+7321	corpus-6-test-corpus-26-train	FES	فين يمكن لي نشري تذكرة مترو الأنفاق؟
+7335	corpus-6-test-corpus-26-train	FES	غيكون عندي مقاعد درجة رجال الأعمال، ياك بصح؟
+7343	corpus-6-test-corpus-26-train	FES	شحال ثمن الطاكسي من هاد الفندق إلى المحطة؟
+7349	corpus-6-test-corpus-26-train	FES	ممكن ناخد هادا وهادا عافاك؟
+7381	corpus-6-test-corpus-26-train	FES	كيقولو بلي اليابان دولة غنية بزاف.
+7386	corpus-6-test-corpus-26-train	FES	واش كاين شي غرف مجانية فالسيارة ديال النعاس؟
+7391	corpus-6-test-corpus-26-dev	FES	ممكن تخصم ليهادشي لعشرين دولارا، عافاك؟
+7395	corpus-6-test-corpus-26-train	FES	هادي هدية لصديق.
+7412	corpus-6-test-corpus-26-train	FES	الثلج كيخلي الطريق زلق.
+7414	corpus-6-test-corpus-26-train	FES	مقادش نلقى الكاميرا.
+7416	corpus-6-test-corpus-26-test	FES	غادي نصوب جوج سندويشات لحم الخنزير.
+7438	corpus-6-test-corpus-26-train	FES	واش عندك شي حاجة لتعلن؟
+7439	corpus-6-test-corpus-26-train	FES	واش شفتي شي معطف زرق؟ حطيتو على هاد الكرسي.
+7470	corpus-6-test-corpus-26-test	FES	كاين متجر لبيع الورد في جميع أنحاء الشارع.
+7478	corpus-6-test-corpus-26-train	FES	أنا من طوكيو.
+7479	corpus-6-test-corpus-26-train	FES	بغيت كريم ريفلون للتشطيف.
+7485	corpus-6-test-corpus-26-train	FES	عندي شي حوايج للغسيل.
+7507	corpus-6-test-corpus-26-dev	FES	طلبتو هادي مدة.
+7533	corpus-6-test-corpus-26-dev	FES	ممكن ترسل لي حمال للغرفة ديالي فالساعة السادسة صباح؟
+7549	corpus-6-test-corpus-26-train	FES	عندي شكلاط سخون.
+7550	corpus-6-test-corpus-26-train	FES	يمكن لينا نرتبوها باش تكون غرفتك نقية.
+7574	corpus-6-test-corpus-26-train	FES	خاص، عافاك.
+7583	corpus-6-test-corpus-26-train	FES	بشحال الثمن للفندق س؟
+7612	corpus-6-test-corpus-26-test	FES	واش يمكن لي نحصل على تذكرة متعددة؟
+7622	corpus-6-test-corpus-26-train	FES	بغيت نحجز طاولة لشخصين في سبعة، عافاك.
+7626	corpus-6-test-corpus-26-train	FES	بغيت شوية ديال الكريم الليلي.
+7627	corpus-6-test-corpus-26-train	FES	ممكن تلف لي هادي بحال هدية؟
+7636	corpus-6-test-corpus-26-train	FES	هادي الثلاثة قل ربع.
+7650	corpus-6-test-corpus-26-train	FES	غادي نخطط لإرسال الفواتير للضروريات اليومية ديالي، لاذن عافاك قل لي عنوان واسم الشخص المسؤول.
+7656	corpus-6-test-corpus-26-test	FES	صعيب علينا نهدرو باللغة الإنجليزية بطلاقة.
+7662	corpus-6-test-corpus-26-train	FES	عندك هادي فنفس التصميم و الكعب العالي؟
+7663	corpus-6-test-corpus-26-train	FES	بغيت لبيسة لطفل عندو عشرة سنوات.
+7671	corpus-6-test-corpus-26-train	FES	خذني لطريق آبي، عافاك.
+7684	corpus-6-test-corpus-26-dev	FES	شكرا. مرحبا، شكرا ليك على الانتظار.
+7693	corpus-6-test-corpus-26-train	FES	أنا متأكد بلي عندي حجز.
+7708	corpus-6-test-corpus-26-train	FES	غادي نرسلها ليك، اذن تسنى هنا.
+7712	corpus-6-test-corpus-26-dev	FES	حنا هنا لمدو يوم.
+7721	corpus-6-test-corpus-26-train	FES	عندي حريق راس طفيف.
+7736	corpus-6-test-corpus-26-train	FES	استمتعت بالوجبة بواف.
+7756	corpus-6-test-corpus-26-train	FES	لا عافاك رتاح على الكرسي وتسنى غادي نرجع دابا.
+7761	corpus-6-test-corpus-26-test	FES	ممكن نشوف السيارة؟
+7767	corpus-6-test-corpus-26-train	FES	ممكن ترسم لي خريطة، عافاك؟
+7789	corpus-6-test-corpus-26-test	FES	واخا، اسيدي. خليك فالغرفة ديالك حتى يجي الطبيب.
+7811	corpus-6-test-corpus-26-train	FES	تعرضت لتعدي فشاطئ وايمانالو. عافاك آجي دابا.
+7812	corpus-6-test-corpus-26-train	FES	شنو بالنسبو لمئة دولار؟
+7814	corpus-6-test-corpus-26-train	FES	بغيت هادي معبأة.
+7831	corpus-6-test-corpus-26-train	FES	بغيت نتقدم بطلب لإعادة إصدار.
+7834	corpus-6-test-corpus-26-train	FES	الحكومة دعمات تعزيز الصناعات.
+7838	corpus-6-test-corpus-26-train	FES	هو كثر من خمسين سنة، كنفترض.
+7858	corpus-6-test-corpus-26-dev	FES	شنو الحد الأدنى للسن باش تدير داكشي؟
+7860	corpus-6-test-corpus-26-train	FES	واش عندك خرائط بسيطة للمدينة؟
+7867	corpus-6-test-corpus-26-test	FES	الى كان ممكن، كنفضل ميكونش السن خارج.
+7871	corpus-6-test-corpus-26-dev	FES	الحساب هو كرة وحدة، جوج ضربات.
+7883	corpus-6-test-corpus-26-train	FES	اي وقت كيوصل الطران لسان دييغو، عافاك؟
+7913	corpus-6-test-corpus-26-train	FES	أبغيت نشوف الصندوق ديالك.
+7925	corpus-6-test-corpus-26-train	FES	بغيت شوية ديال الشامبوان.
+7947	corpus-6-test-corpus-26-train	FES	انا جالس ففندق هيلتون.
+7948	corpus-6-test-corpus-26-train	FES	كنحس بالسوء والدوخة.
+7957	corpus-6-test-corpus-26-train	FES	ولكن عندي موع نشوفها فالساعة الثانية.
+7972	corpus-6-test-corpus-26-train	FES	واش هاد السيارة كتمشي ادنبره؟
+7976	corpus-6-test-corpus-26-train	FES	نعم، عافاك عمرهاد النموذج.
+7983	corpus-6-test-corpus-26-train	FES	شحال كتحسب للوزن الزايد؟
+7991	corpus-6-test-corpus-26-dev	FES	اسمي كيمورا. باغي إلغاء الحجز يوم الجمعة.
+7996	corpus-6-test-corpus-26-test	FES	انا اسف. كانت واحد المشكلة وصلحناها. ممكن تنتظر شي ثلاثين دقيقة؟
+8039	corpus-6-test-corpus-26-train	FES	فاي وقت نقدر نغادر؟
+8050	corpus-6-test-corpus-26-train	FES	فهمت.
+8058	corpus-6-test-corpus-26-train	FES	غادي نتصل بشي حد.
+8067	corpus-6-test-corpus-26-test	FES	واش بغيتي تقاد الفاتورة دابا؟
+8068	corpus-6-test-corpus-26-train	FES	جات السيارة فوجهي من الجنب فالتقاطع.
+8094	corpus-6-test-corpus-26-train	FES	هادا صندوق موسيقى.
+8095	corpus-6-test-corpus-26-train	FES	فين هيا الضواحي؟
+8098	corpus-6-test-corpus-26-train	FES	واش كاين شي دورة بالحافلة فالمدينة؟
+8108	corpus-6-test-corpus-26-train	FES	فاي وقت نبداو؟
+8114	corpus-6-test-corpus-26-train	FES	صافي، سيدي. بغيت الحجم المتوسط نقدرو نقدمولك زئبق رمال. واش هكا مزيان؟
+8116	corpus-6-test-corpus-26-train	FES	عندك كدمات العضلات.
+8141	corpus-6-test-corpus-26-train	FES	ولكن خاصك تواعدني تضرب الكرة ماشي انا واخا؟
+8143	corpus-6-test-corpus-26-train	FES	ما هو أبعد من داكشي؟
+8149	corpus-6-test-corpus-26-train	FES	ممكن تسلفني شوية ديال الكتان؟
+8156	corpus-6-test-corpus-26-train	FES	من اي نوع ديال الجلد مصوبة هاد الحقيبة؟
+8161	corpus-6-test-corpus-26-train	FES	انا مكنظنش بلي هاد السكين نقية ممكن تشوفلي شي وحدة اخرى؟
+8164	corpus-6-test-corpus-26-train	FES	شريت هادا عاد هادي شي لحظة ممكن تبدلولي بهادا؟
+8173	corpus-6-test-corpus-26-train	FES	بصراحة، أنا لا أتفق مع داكشي.
+8177	corpus-6-test-corpus-26-train	FES	واش هادا هو الطريق الصحيح للمحطة المركزية؟
+8183	corpus-6-test-corpus-26-train	FES	قارب مع دليل، عافاك.
+8193	corpus-6-test-corpus-26-train	FES	بغيت نطلب لبسه لون اسود ليا.
+8194	corpus-6-test-corpus-26-train	FES	واش هاد المظلة تصلاح عصا.
+8202	corpus-6-test-corpus-26-test	FES	واش خاصني نخلي الامتعة ديالي كاملين فغرفة الامانات؟
+8210	corpus-6-test-corpus-26-train	FES	عافاك وريني جواز السفر ديالك.
+8227	corpus-6-test-corpus-26-train	FES	واش كاين شي بلاصة كتقبل الغسيل في أيام الأحد؟
+8233	corpus-6-test-corpus-26-train	FES	جوج من برجر الجبن، عافاك.
+8234	corpus-6-test-corpus-26-train	FES	شنو الطوبيس اللي كايدي لميامي؟
+8236	corpus-6-test-corpus-26-train	FES	ولكن البقشيش أمر ضروري.
+8248	corpus-6-test-corpus-26-train	FES	يمكن ليك تشوف وحدة فقاعة كارنيجي.
+8250	corpus-6-test-corpus-26-train	FES	انا ماشي معتمد.
+8271	corpus-6-test-corpus-26-train	FES	شنو تخصص هاد الدار؟
+8280	corpus-6-test-corpus-26-train	FES	بغيت ندير شي موعد مع طبيب.
+8291	corpus-6-test-corpus-26-dev	FES	كنتساءل واش كاين شي طبلة قريبة للسرجم هاد الليلة مع السبعة دليل.
+8295	corpus-6-test-corpus-26-train	FES	انتا مكتمانعش نجي لبلاصتك؟
+8305	corpus-6-test-corpus-26-train	FES	كايبان بلي كاين مجال للتحسن.
+8316	corpus-6-test-corpus-26-train	FES	فين كاين القبو؟
+8334	corpus-6-test-corpus-26-train	FES	واش عندك فحجم صغير؟
+8338	corpus-6-test-corpus-26-train	FES	فين ممكن نلقى الاسبيرين؟
+8342	corpus-6-test-corpus-26-train	FES	هادا هو قاع الصخور؟
+8349	corpus-6-test-corpus-26-train	FES	عافاك عطيني مرور ديال اسبوع واحد.
+8355	corpus-6-test-corpus-26-train	FES	هادا زميلي.
+8358	corpus-6-test-corpus-26-train	FES	اي نوع ديال الوقود كاين تما؟ المزيان، العادي، والنقي؟
+8368	corpus-6-test-corpus-26-train	FES	هنا واحد.
+8371	corpus-6-test-corpus-26-train	FES	جاني البرد.
+8409	corpus-6-test-corpus-26-test	FES	كيكون ساد نهار الاحد، ولكن فشي نهار مختلف ممكن. كنعتقد بلي مفتوح من تسعة إلى خمسة.
+8418	corpus-6-test-corpus-26-train	FES	هادي ثعبان البحر معمرة و صلصة خاصة على رأس وعاء من الأرز.
+8435	corpus-6-test-corpus-26-train	FES	"قال ""خليونا نحتفلو"" وخودوني للبار. وقال بلي كان غادي يدير مكالمة هاتفية وغومشا ومرجعش وخلاني واحل بفاتورة كبيرة."
+8454	corpus-6-test-corpus-26-train	FES	شحال الثمن لكل غالون؟
+8456	corpus-6-test-corpus-26-train	FES	كان عندي جواز سفروبطاقة ائتمان فحقيبتي.
+8485	corpus-6-test-corpus-26-train	FES	حجز في سبعة، تحت اسم مانو.
+8495	corpus-6-test-corpus-26-train	FES	واش عندك كاس اتاي؟
+8497	corpus-6-test-corpus-26-dev	FES	ممكن تقولي فين نلقى القنصلية اليابانية؟
+8509	corpus-6-test-corpus-26-train	FES	واش كاين شي طبيب فندق أو واحد نتاصل بيه؟
+8516	corpus-6-test-corpus-26-train	FES	هو ديما كيتسوق فشارع بوند.
+8527	corpus-6-test-corpus-26-train	FES	ورقة الإنجليزية، عافاك.
+8535	corpus-6-test-corpus-26-train	FES	كاين شي بلاصة فيها الموسيقى ديال البلد؟
+8539	corpus-6-test-corpus-26-test	FES	بغيت نتحقق من الحوايج الغالية ديالي.
+8543	corpus-6-test-corpus-26-train	FES	واش كاين محدين بالقطن؟
+8551	corpus-6-test-corpus-26-train	FES	بشحال لكل ورقة؟
+8574	corpus-6-test-corpus-26-train	FES	واخا، ضغط تسعة و صفر واحد واحد، ثم رمز البلد ورقم الهاتف.
+8577	corpus-6-test-corpus-26-train	FES	ممكن ناخد كوكا دايت؟
+8584	corpus-6-test-corpus-26-train	FES	ممكن ندير طلب؟
+8595	corpus-6-test-corpus-26-train	FES	كانت السياقة مزيانة. شكرا.
+8604	corpus-6-test-corpus-26-test	FES	سمحلي. واش يمكن لي نتجاوز؟
+8610	corpus-6-test-corpus-26-train	FES	المجموع ديال سكان اليابان تقريبا مائة وثلاثين مليون نسمة.
+8618	corpus-6-test-corpus-26-train	FES	بغيت نكري مظل.
+8625	corpus-6-test-corpus-26-train	FES	نعم، وبغيت نعكس التكاليف.
+8636	corpus-6-test-corpus-26-train	FES	محفظة فيها مئة دولار وبطاقات الائتمان جوج.
+8637	corpus-6-test-corpus-26-train	FES	الما سخون بزاف.
+8675	corpus-6-test-corpus-26-train	FES	أنت هنا.
+8688	corpus-6-test-corpus-26-dev	FES	وعاء من القهوة، عافاك.
+8690	corpus-6-test-corpus-26-train	FES	ممتشابهش بزاف.
+8696	corpus-6-test-corpus-26-train	FES	عندي الم المعدة بعد وجبات الطعام.
+8734	corpus-6-test-corpus-26-train	FES	واو، هادا مكان زوين.
+8741	corpus-6-test-corpus-26-train	FES	يقدر يكون شي انسداد جوي.
+8749	corpus-6-test-corpus-26-train	FES	واش قررتي؟
+8788	corpus-6-test-corpus-26-train	FES	الى كنتي باغي نقدرو نرتاحو هنا.
+8791	corpus-6-test-corpus-26-test	FES	فقدت المسار ديال البريد المسجل.
+8803	corpus-6-test-corpus-26-train	FES	ميمكنش ليك تبدل العمل بسهولة.
+8805	corpus-6-test-corpus-26-train	FES	شنو هي المحطة الجاية؟
+8811	corpus-6-test-corpus-26-train	FES	واخا، ولكن ماشي المدرجات. حيت الصهد ليوم.
+8823	corpus-6-test-corpus-26-dev	FES	انزل هنا، ونتقل للحافلة رقم ستة.
+8824	corpus-6-test-corpus-26-dev	FES	ضروري نشد الطيارة ديال العشرة ديال صباح.
+8827	corpus-6-test-corpus-26-train	FES	حاس بلي غادي نتقيا.
+8833	corpus-6-test-corpus-26-train	FES	مبغيتش شي حاجة ضخمة.
+8840	corpus-6-test-corpus-26-train	FES	عافاك تحقق.
+8844	corpus-6-test-corpus-26-test	FES	بشحال الفطر الطازج؟
+8850	corpus-6-test-corpus-26-train	FES	المسؤول، عافاك. واش كتاخذ تأشيرة؟
+8851	corpus-6-test-corpus-26-train	FES	اليم غادي نشوف كيفاش داير حي الصين.
+8880	corpus-6-test-corpus-26-train	FES	جوج صفر جوج تسعة ثلاثة تسعة ستة سبعة صفر صفر.
+8900	corpus-6-test-corpus-26-train	FES	بغيت نسحب سناني شوية لبرا.
+8905	corpus-6-test-corpus-26-train	FES	بغيت حقيبة مستحضرات التجميل.
+8907	corpus-6-test-corpus-26-dev	FES	كنتساءل شحال خاصني نخلي كتدويرة.
+8914	corpus-6-test-corpus-26-train	FES	"فين ممكن نشوف ""فانتوم الأوبرا""؟"
+8915	corpus-6-test-corpus-26-train	FES	باغي نشري هدايا تذكارية لأصدقائي. ممكن توصيني بشي حاجة؟
+8918	corpus-6-test-corpus-26-train	FES	نقص شوية عافاك.
+8919	corpus-6-test-corpus-26-dev	FES	شنو هو متوسط ​​رسوم الفاكس الدولية الخاصة بيك كل شهر؟
+8947	corpus-6-test-corpus-26-train	FES	مقلية على الجناب بجوج، عافاك.
+8966	corpus-6-test-corpus-26-dev	FES	واخا، هادا كيبان واضح مزيان. كل واحد منكم عافكوم يعطيني التراخيص الخاصة بيه والتسجيلات. أولد، متأسف خاصنا نديرولك اختبار التنفس.
+9011	corpus-6-test-corpus-26-train	FES	غادي تكون واجدة بعد غدا في الليل.
+9022	corpus-6-test-corpus-26-train	FES	واش هادا مصنوع من القطن؟
+9029	corpus-6-test-corpus-26-dev	FES	عندي دوايا.
+9034	corpus-6-test-corpus-26-train	FES	شنو ممكن نشوف فدلك الجولة؟
+9041	corpus-6-test-corpus-26-train	FES	نعم، كاين مشروب واحد الحد الأدنى.
+9051	corpus-6-test-corpus-26-train	FES	بشحال هو ليوم واحد؟
+9061	corpus-6-test-corpus-26-dev	FES	واش كيتوقف هاد الطوبيس بالقرب من الفندق؟
+9073	corpus-6-test-corpus-26-train	FES	بغيت سي دي.
+9077	corpus-6-test-corpus-26-train	FES	كاين رحلات الخطوط الجوية اليابانية وأول نيبون الي كتغادر في العاشرة وخمسة وخمسين. ولكن، للأسف الرحلات بجوج عامرين.
+9094	corpus-6-test-corpus-26-train	FES	مناسباني مزبان.
+9098	corpus-6-test-corpus-26-train	FES	واش عندك طبلة لخمسة دناس؟
+9100	corpus-6-test-corpus-26-train	FES	هي مكتفهمش اللغة الانجليزية ابدا.
+9126	corpus-6-test-corpus-26-dev	FES	واش فلوش ولا شيك سياحي.
+9150	corpus-6-test-corpus-26-train	FES	واش ممكن تعتني بيها من التاسعة ديال الصباح حتى الثالثة؟
+9160	corpus-6-test-corpus-26-train	FES	بشحال البريد الجوي إلى اليابان؟
+9176	corpus-6-test-corpus-26-train	FES	أنا مسدود. ممكن تفتح بابي، عافاك.
+9211	corpus-6-test-corpus-26-train	FES	شنو الدورة المزيانة باش نشوف البلايص المعروفة؟
+9229	corpus-6-test-corpus-26-test	FES	كاين شي مضيفة متهدر باليابانية؟
+9242	corpus-6-test-corpus-26-test	FES	شحال من حقيبة نقدر نجيب للطيارة؟
+9263	corpus-6-test-corpus-26-train	FES	لا، أسيدي. بعد الظهر كلشي محجوز. لكن غدا ممكن.
+9267	corpus-6-test-corpus-26-train	FES	غادي نطلب من البواب الأجرة الصحيحة.
+9303	corpus-6-test-corpus-26-train	FES	أنا حقا، متأسف.
+9308	corpus-6-test-corpus-26-train	FES	غادي نديرو حفلة ليلة الجمعة. علاش متنظم لينا؟
+9312	corpus-6-test-corpus-26-train	FES	واخا، الغرفة ديالك هي تسعمائة وثمانية، آنسة، وها هوا المفتاح الخاص بيكي.
+9316	corpus-6-test-corpus-26-dev	FES	من المهم بزاف أننا نقدروا نوصلو للمواد الخام اللي نحتاجوها للمشروع.
+9324	corpus-6-test-corpus-26-train	FES	سمحلي، اضابط؟
+9325	corpus-6-test-corpus-26-train	FES	واش هاد الطران كيمشي مباشرة لأدنبرة؟
+9329	corpus-6-test-corpus-26-train	FES	واش هادا ضمن الحدود الخاوية من الضرائب؟
+9337	corpus-6-test-corpus-26-train	FES	خرج الأشياء الثمينة، عافاك.
+9358	corpus-6-test-corpus-26-train	FES	شحال مزداحمة الرحلات السياحية؟
+9367	corpus-6-test-corpus-26-train	FES	باغي نشري شي هدايا تذكارية. واش كاين شي متجر مناسب قريب؟
+9372	corpus-6-test-corpus-26-train	FES	حتا لفوقاش غيبقى مفتوح؟
+9384	corpus-6-test-corpus-26-train	FES	راه خارج دابا.
+9385	corpus-6-test-corpus-26-train	FES	مايومي، واش ممكن تعمر هاد الورقة بتوقيعك؟
+9431	corpus-6-test-corpus-26-train	FES	هادا واح ليك اسيدي.
+9432	corpus-6-test-corpus-26-train	FES	ما عنديش أمتعة للتسجيل.
+9446	corpus-6-test-corpus-26-test	FES	طبعا خذ وقتك.
+9450	corpus-6-test-corpus-26-train	FES	انا هنا فمهمة وسائل الإعلام.
+9463	corpus-6-test-corpus-26-train	FES	واش عندك أفلام الصيف؟
+9481	corpus-6-test-corpus-26-train	FES	فوقاش غادي يكون الطران الجاي لواشنطن؟
+9494	corpus-6-test-corpus-26-test	FES	اللي طوال هوما اللي في الرواج حاليا.
+9516	corpus-6-test-corpus-26-train	FES	غادي نرجع اليابان الاسبوع الجاي.
+9526	corpus-6-test-corpus-26-train	FES	واش عندك خريطة مترو الانفاق؟
+9542	corpus-6-test-corpus-26-train	FES	واش سفر طويل؟
+9560	corpus-6-test-corpus-26-train	FES	ممكن تبدلي هادي بوحدة جديدة؟
+9576	corpus-6-test-corpus-26-train	FES	شخصان.
+9579	corpus-6-test-corpus-26-test	FES	جوج ديال الناس؟
+9581	corpus-6-test-corpus-26-train	FES	انا ماشي على خير. ممكن نحنى المقعد ديالي؟
+9604	corpus-6-test-corpus-26-train	FES	الحادي عشر واربعين فالصباح.
+9605	corpus-6-test-corpus-26-train	FES	ممكن تقولي على شي مطعم معروف بين اللشباب؟
+9606	corpus-6-test-corpus-26-train	FES	السيارة ديالو كانت كتخدم بأقصى سرعة.
+9611	corpus-6-test-corpus-26-dev	FES	ممكن نخلي رسالة؟ كنتاصل باش نأكد التهيين مع السيد إبيرت يوم الأربعاء الجاي في الساعة الحادية عشرة ديال صباح.
+9628	corpus-6-test-corpus-26-dev	FES	واش ممكن تفسر لي المرض ديال باللغة الإنجليزية؟
+9634	corpus-6-test-corpus-26-test	FES	ممكن تصيفط طاكسي للمدخل الرئيسي لمركز ويستمينستر التجاري؟
+9651	corpus-6-test-corpus-26-train	FES	شحال من مرة خاصني نبدل الطرانات باش نوصل لهنا؟
+9657	corpus-6-test-corpus-26-train	FES	واش هادشي صحيح؟ خليني نتحقق. أوه، أنا متاسف بزاف، السيدة تاكانو. هادا غلطنا. هاكي الفاتورة الجديدة. ممكن توقعي هنا، عافاكي؟
+9673	corpus-6-test-corpus-26-train	FES	رجعلي خمسة دولارات، عافاك.
+9683	corpus-6-test-corpus-26-train	FES	السدادة ديال حوض الاستحمام مكتدش تماما.
+9687	corpus-6-test-corpus-26-train	FES	هادا غي مجرد تعبير على تقديري.
+9688	corpus-6-test-corpus-26-train	FES	ممكن تعمر هاد النموذج؟
+9695	corpus-6-test-corpus-26-test	FES	وشنو بالنسبة لهاد النماذج البلاستيكية؟
+9701	corpus-6-test-corpus-26-train	FES	شنو هي العلامات التجارية اللي عندك؟
+9702	corpus-6-test-corpus-26-train	FES	الكعب مرتفع بزاف بالنسبة لي.
+9710	corpus-6-test-corpus-26-test	FES	أنا مسدود عليا فالغرفة ديالي.
+9730	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت كنتي فباريس؟
+9732	corpus-6-test-corpus-26-train	FES	ممكت تعطيني طوابع بريدية لثلاثة بطاقات بريدية لليابان؟
+9746	corpus-6-test-corpus-26-train	FES	كينطق ج-و-ر-و-ه.
+9747	corpus-6-test-corpus-26-train	FES	تبغي تاخد شي مشروب؟
+9748	corpus-6-test-corpus-26-train	FES	استلقي هنا.
+9752	corpus-6-test-corpus-26-train	FES	ديرها برقية مستعجلة عافاك.
+9788	corpus-6-test-corpus-26-train	FES	وفقا لتقرير الطقس، غادي يكون الثلج غدا.
+9792	corpus-6-test-corpus-26-train	FES	بغيت الكرة.
+9822	corpus-6-test-corpus-26-train	FES	من المؤكد. غنكونو فرحانين نديرو هادشي.
+9829	corpus-6-test-corpus-26-train	FES	مهلا، هادا كتاب كوميدي ماليزي. غادي نشري واحد غادي نديه للدار بحال قطعة محادثة.
+9862	corpus-6-test-corpus-26-train	FES	"الطريق للنجاح هو ""جينمياكو""، ياك بصح؟"
+9866	corpus-6-test-corpus-26-dev	FES	غادي نوصل للفندق فتقريبا التاسعة ديال الليل.
+9885	corpus-6-test-corpus-26-train	FES	عندي تقريبا ألفي وخمسمائة دولار بالين الياباني.
+9903	corpus-6-test-corpus-26-train	FES	نعم، درنا. غادي نوريك شوية.
+9906	corpus-6-test-corpus-26-train	FES	بغيت شوية ديال الحبوب المنومة.
+9910	corpus-6-test-corpus-26-train	FES	غادي نكون هنا حتى التاسع. كنتمنى تشد المجرم في أقرب وقت ممكن.
+9945	corpus-6-test-corpus-26-train	FES	أنا متأكد بلي المجرم قريب.
+9948	corpus-6-test-corpus-26-train	FES	عشرة طوابع عافاك.
+9949	corpus-6-test-corpus-26-train	FES	أنا عندي باحتقان في الحلق.
+9955	corpus-6-test-corpus-26-train	FES	انا باغي شوية ديال الهدايا التذكارية من نيويورك.
+9969	corpus-6-test-corpus-26-train	FES	انا غادي نغادر. ممكن تصيفط شي حمال؟
+9979	corpus-6-test-corpus-26-train	FES	ساعتي توقفات.
+9983	corpus-6-test-corpus-26-train	FES	أوه واش هو؟ كيفاش بغيتيه؟
+10006	corpus-6-test-corpus-26-train	FES	غادي نكونو فاتحين فالساعة التاسعة صباحا.
+10032	corpus-6-test-corpus-26-train	FES	بغيت كتاب تلوين.
+10037	corpus-6-test-corpus-26-train	FES	كنظن عندي حريق الرأس.
+10043	corpus-6-test-corpus-26-train	FES	واش خاصني نمشي لبنك ياباني؟
+10045	corpus-6-test-corpus-26-train	FES	خاصك تصرف الفلوس فالبنك.
+10065	corpus-6-test-corpus-26-train	FES	واش كاين وقت بزاف قبل المغادرة؟
+10069	corpus-6-test-corpus-26-train	FES	زوجك واحد من أفضل الزبناء ديالنا.
+10078	corpus-6-test-corpus-26-train	FES	واش كتعرف طبيب أسنان مزيان؟
+10084	corpus-6-test-corpus-26-train	FES	اوه خاصك تخبر القنصلية دابا.
+10091	corpus-6-test-corpus-26-train	FES	مهزوزة، ماشي مخفوقة.
+10098	corpus-6-test-corpus-26-dev	FES	واش تبغي طاولة فالمطعم الرئيسي أو فغرفة خاصة، ا سيدي؟
+10102	corpus-6-test-corpus-26-train	FES	كاين بزاف ديال الناس كيمشيو للشاطئ خلال الموسم.
+10107	corpus-6-test-corpus-26-train	FES	كنوزن تقريبا مائة وخمسين رطل.
+10111	corpus-6-test-corpus-26-train	FES	فين خاصني ننقل؟
+10114	corpus-6-test-corpus-26-train	FES	فين هو مكتب الممتلكات المفقودة؟
+10116	corpus-6-test-corpus-26-train	FES	واش كاين شي طوبيس كيمشي مباشرة لتما؟
+10125	corpus-6-test-corpus-26-train	FES	واش محتاج لشي معاملة خاصة؟
+10129	corpus-6-test-corpus-26-train	FES	واش غايكون فلوس ولا بطاقة دفع؟
+10134	corpus-6-test-corpus-26-test	FES	انتقلنا لهاد الدار قبل عام.
+10155	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت خاص باش ناخد الفيزا ديالي؟
+10156	corpus-6-test-corpus-26-train	FES	فين كاين الحمامات؟
+10160	corpus-6-test-corpus-26-train	FES	المبلغ الإجمالي هو مائتان وثلاثة وأربعون جنيه، أسيدتي.
+10164	corpus-6-test-corpus-26-train	FES	هادي هدية. ممكن تلفهالي فشوية ديال ورق التغليف الجميل؟
+10182	corpus-6-test-corpus-26-train	FES	منظر زوين. هادي مسارات كبيرة.
+10187	corpus-6-test-corpus-26-dev	FES	كاين ناس مجروحين.
+10191	corpus-6-test-corpus-26-dev	FES	شمحلي فين هي المحطة فهاد النواحي؟
+10224	corpus-6-test-corpus-26-train	FES	نعم عندنا حجز ليك.
+10238	corpus-6-test-corpus-26-train	FES	سمحلي، ولكنبغيت نمشي للفندق ديالي في المدينة بالطوبيس. فين ممكن ناخد الطوبيس؟
+10243	corpus-6-test-corpus-26-test	FES	الدجاج، عافاك.
+10257	corpus-6-test-corpus-26-train	FES	هادي هي الغرفة جوج صفر واحد. بغيت نطلب الفطور غدا.
+10272	corpus-6-test-corpus-26-test	FES	شنو رأيك في التحرش الجنسي في بلاصت العمل؟
+10318	corpus-6-test-corpus-26-dev	FES	عندي جوج خواتات.
+10336	corpus-6-test-corpus-26-dev	FES	الرحلة رقم اثنين صفر ثمانية، إلى طوكيو.
+10354	corpus-6-test-corpus-26-train	FES	ومن بعد خليونا نحشيوها من لداخل.
+10366	corpus-6-test-corpus-26-test	FES	خليونا مجموعين نناقشو هاد الموضوع كثر.
+10372	corpus-6-test-corpus-26-train	FES	كيفاش بغيتي نصوبليك شعرك اليوم؟
+10403	corpus-6-test-corpus-26-train	FES	ممكن تقول هادشي بكلام آخور؟
+10408	corpus-6-test-corpus-26-train	FES	غادي نديره مهما كان عندك.
+10411	corpus-6-test-corpus-26-train	FES	بغينا طبلة قريبة للمسرح.
+10416	corpus-6-test-corpus-26-train	FES	أنا مزيان اذن نتا غاتمشي لشي بلاصة؟
+10433	corpus-6-test-corpus-26-train	FES	هادي ألفين وأربعمائة متر ديال العلو.
+10435	corpus-6-test-corpus-26-train	FES	دخل عافاك حط هادي فوق الطبلة هناك.
+10440	corpus-6-test-corpus-26-train	FES	عافاك لغي رقم البطاقة ديالي.
+10468	corpus-6-test-corpus-26-train	FES	أنا آسف، انهم جميعا بيعت، ولكن سيكون لدينا لهم في غضون أيام قليلة.
+10473	corpus-6-test-corpus-26-test	FES	ممكن ناخد شوية ديال القهوة؟
+10477	corpus-6-test-corpus-26-train	FES	ماعنديش موعد ولكن الامر مستعجل.
+10479	corpus-6-test-corpus-26-train	FES	هادا ممصوبش مزيان.
+10480	corpus-6-test-corpus-26-train	FES	فين السلالم المتحركة؟
+10497	corpus-6-test-corpus-26-train	FES	واش عندك كتيب للأحداث؟
+10500	corpus-6-test-corpus-26-train	FES	فين هو مدخل مترو الانفاق؟
+10504	corpus-6-test-corpus-26-train	FES	ضيعت تذكرة ديال الطيران.
+10559	corpus-6-test-corpus-26-train	FES	تقدر تجلس هنا فالعطلة؟
+10562	corpus-6-test-corpus-26-train	FES	أوه، أنا آسف بزاف الى كنت زعجتك.
+10563	corpus-6-test-corpus-26-dev	FES	ممكن ليك تحجز الأحداث؟
+10565	corpus-6-test-corpus-26-train	FES	واش كاين حمام عام قريب من هنا؟
+10590	corpus-6-test-corpus-26-train	FES	شحال المجموع؟
+10593	corpus-6-test-corpus-26-train	FES	هادشي مزيان بزاف. الآن الأسئلة، عافاك.
+10599	corpus-6-test-corpus-26-train	FES	عندك شي صرف لعداد الموقف؟
+10617	corpus-6-test-corpus-26-test	FES	أكثر حاجة تباعت في الاربع سنوات اللي فاتت هي جهاز تصوير ايه ايكس أربمائة وخمسين.
+10645	corpus-6-test-corpus-26-train	FES	واش ننتقل لليسار؟
+10662	corpus-6-test-corpus-26-test	FES	واش كاين شي مضيفات كيهدرو اللغة اليابانية؟
+10670	corpus-6-test-corpus-26-train	FES	ثمن مزيان، ياك؟
+10680	corpus-6-test-corpus-26-train	FES	خاصك تاخدو تسع وتسعين مرة فالنهار، قبل الماكلة.
+10707	corpus-6-test-corpus-26-train	FES	انا كنبغيه.
+10733	corpus-6-test-corpus-26-train	FES	بغيت حمالة ثلاثية.
+10736	corpus-6-test-corpus-26-dev	FES	بغيت لبسة ديال الرياضة.
+10749	corpus-6-test-corpus-26-dev	FES	يمكن ليك تجلس فداري.
+10753	corpus-6-test-corpus-26-test	FES	ممكن نتكى على المقعد ديالي، عافاك؟
+10756	corpus-6-test-corpus-26-train	FES	عظيم. كنت كنبحث على طاكسي، ولكن هادا أحسن.
+10760	corpus-6-test-corpus-26-train	FES	معطف مزيان واش صنع بريطاني؟
+10778	corpus-6-test-corpus-26-train	FES	باغي نمشي لمركز هارفارد. ممكن تعلمني ملي نوصلو لتما؟
+10790	corpus-6-test-corpus-26-train	FES	جوج بالغين وطفلين، عافاك.
+10817	corpus-6-test-corpus-26-train	FES	شحال الثمن؟
+10824	corpus-6-test-corpus-26-train	FES	حرب النجوم كان أكبر نجاح فالف تسعمائة واربعة وثمانين.
+10830	corpus-6-test-corpus-26-train	FES	فين قسم غير المدخنين؟
+10831	corpus-6-test-corpus-26-train	FES	"هادا هو ""ت"" بحال فتوم، نعم عندي هنا، أتارو."
+10848	corpus-6-test-corpus-26-test	FES	كنظن بلي هادا المناظر الطبيعية الخلابة.
+10851	corpus-6-test-corpus-26-test	FES	بغيت شوية ديال التفاح، عافاك.
+10869	corpus-6-test-corpus-26-train	FES	لأي حاجة كيصلاح؟
+10882	corpus-6-test-corpus-26-train	FES	شنو نوع البطاقة ديال الائتمان اللي كتقبلها؟
+10922	corpus-6-test-corpus-26-train	FES	عندي بزاف ديال الوقت.
+10930	corpus-6-test-corpus-26-train	FES	واخا دابا وقت الغدا ممكن نناقشوه وحنا كنتغداو؟
+10937	corpus-6-test-corpus-26-dev	FES	تسرقلي المسجل ديال الفيديو من الغرفة ديالي.
+10950	corpus-6-test-corpus-26-train	FES	مرحبا، اسمي أودا. عندي حجز لهاد الليلة، ولكن غادي نكون متأخرة شوية للتدقيق. اذنا، عافك احتفظ بالحجز ديالي.
+10953	corpus-6-test-corpus-26-train	FES	هاد الصباط قوي؟
+10955	corpus-6-test-corpus-26-test	FES	عافاك قول ليه بلي كنتظر المكالمة ديالو.
+10964	corpus-6-test-corpus-26-train	FES	كيقولو بلي الانفلونزا منتشرة هنا.
+10973	corpus-6-test-corpus-26-train	FES	فالداخل.
+10975	corpus-6-test-corpus-26-train	FES	أنا آسف. عامرين لليلة ديال غدا.
+10976	corpus-6-test-corpus-26-train	FES	انا مع شي اصحاب.
+10985	corpus-6-test-corpus-26-train	FES	وفقا لغورو، السيد يامادا عندو جوج أطفال.
+10994	corpus-6-test-corpus-26-dev	FES	ممكن تقول هادشي مرة اخرة؟
+10997	corpus-6-test-corpus-26-train	FES	باغي ندور لبرج لندن.
+11019	corpus-6-test-corpus-26-train	FES	عافاك ربط حزام الأمان ديالك.
+11027	corpus-6-test-corpus-26-test	FES	رمز المنطقة هو ثلاثة. رقم الهاتف هو اثنين ثلاثة أربعة ثلاثة أربعة صفر صفر.
+11030	corpus-6-test-corpus-26-test	FES	سمحلي. واش كاين شي جسر قريب من هنا؟
+11041	corpus-6-test-corpus-26-dev	FES	سمحلي، بغيت نستخدام المرحاض.
+11046	corpus-6-test-corpus-26-train	FES	راها عامرة.
+11047	corpus-6-test-corpus-26-test	FES	حوايجو ديما تابعة الموضة.
+11054	corpus-6-test-corpus-26-train	FES	واش عندك ماكلة ديال البحر؟
+11057	corpus-6-test-corpus-26-train	FES	غالية بزاف.
+11058	corpus-6-test-corpus-26-train	FES	باغي، ولكن متأسف مقادرش نديره هاد الوقت.
+11064	corpus-6-test-corpus-26-train	FES	واخا، أنا مزال ماعارفش دابا، ولكن غنحاول بالتأكيد.
+11069	corpus-6-test-corpus-26-dev	FES	الملحة عافاك.
+11082	corpus-6-test-corpus-26-train	FES	عافاك استخدم الغرفة ديال التقياس هناك.
+11100	corpus-6-test-corpus-26-train	FES	تسعين دولار تذكرة اتجاه واحد . فلوس أو بطاقة؟
+11109	corpus-6-test-corpus-26-dev	FES	ممكن تمسحلي الطولة، عافاك؟
+11123	corpus-6-test-corpus-26-train	FES	كيفاش كيربي الآباء اليابانيون أطفالهم؟ واش صارمين مع أطفالهم؟
+11126	corpus-6-test-corpus-26-train	FES	ممكن تقولي ساعات العمل؟
+11131	corpus-6-test-corpus-26-dev	FES	عافاك جمعهوم مفرقين.
+11161	corpus-6-test-corpus-26-train	FES	كنحس بالمعدة ديالي ثقيلة.
+11171	corpus-6-test-corpus-26-dev	FES	هادشي كيبان مزيان فين ممكن نتسناوكوم؟
+11174	corpus-6-test-corpus-26-train	FES	ممكن نبداو اللعب ملي يساليو؟
+11190	corpus-6-test-corpus-26-train	FES	عدد سكان اليابان تقريبا مائة وعشرين مليون نسمة.
+11197	corpus-6-test-corpus-26-train	FES	عمر هاد حاجات على بطاقة التسجيل.
+11199	corpus-6-test-corpus-26-train	FES	ممكن ناخد حوايجي مرة اخرى؟
+11240	corpus-6-test-corpus-26-train	FES	واش عندك شال ديال الحرير بغيت هدية للزوجة ديالي.
+11246	corpus-6-test-corpus-26-train	FES	غادي نجيبوهلك دابا. شنو رقم غرفتك؟
+11264	corpus-6-test-corpus-26-test	FES	السيد كوباياشي كان كيبحث عليك.
+11267	corpus-6-test-corpus-26-train	FES	باغي نسافر من شنغهاي إلى هاواي بالسفينة.
+11278	corpus-6-test-corpus-26-test	FES	ممكن تصيفط شي حد؟
+11282	corpus-6-test-corpus-26-train	FES	واش ممكن يكون واجد فالساعة الخامسة ديال الليل غدا؟
+11302	corpus-6-test-corpus-26-train	FES	كيستغرق عشر دقائق على الرجلين.
+11316	corpus-6-test-corpus-26-train	FES	قبل ما نكملو، عطيني شي دقائق؟
+11325	corpus-6-test-corpus-26-dev	FES	فين ممكن نوقف السيارة ديالي؟
+11336	corpus-6-test-corpus-26-dev	FES	كنحس بالبرد و المعدة ديالي كتألمني بزاف.
+11342	corpus-6-test-corpus-26-train	FES	سكوتش وماء، عافاك. وعندك شي ماكلة خفيفة؟
+11343	corpus-6-test-corpus-26-train	FES	كيفاش نطفي هاد الضو؟
+11360	corpus-6-test-corpus-26-train	FES	واش هو مشغول بزاف اليوم؟
+11374	corpus-6-test-corpus-26-train	FES	بغيت شي خيط.
+11375	corpus-6-test-corpus-26-train	FES	عطني شهادة طبية، عافاك.
+11378	corpus-6-test-corpus-26-train	FES	بغيتك تنقصلي إنش واحد من هنا.
+11392	corpus-6-test-corpus-26-train	FES	ما حاسش براسي مزيان عافاك عطيني شوية ديال الدوا.
+11403	corpus-6-test-corpus-26-train	FES	ممكن تعطيني صحيفة يابانية، عافاك؟
+11404	corpus-6-test-corpus-26-train	FES	واخا. واش يمكن لي نترك السيارة فينما كان؟ وشحال كيكلف؟
+11412	corpus-6-test-corpus-26-train	FES	شنو هو الطوبيس اللي كيمشي لوسط المدينة؟
+11420	corpus-6-test-corpus-26-train	FES	واش كاين شي اكسبريس لبوسطن؟
+11435	corpus-6-test-corpus-26-train	FES	عافاك كن صاحبي ديال المراسلة.
+11438	corpus-6-test-corpus-26-dev	FES	انا غادي نبقى معا صاحبي.
+11442	corpus-6-test-corpus-26-train	FES	أنا متحمس بزاف، مقادرش نبقى جالس.
+11449	corpus-6-test-corpus-26-train	FES	باغي ننزل في فندق هيلتون؟
+11450	corpus-6-test-corpus-26-train	FES	بغيتك تزولو.
+11457	corpus-6-test-corpus-26-train	FES	انتقل إلى أسفل هاد الشارع وخوذ اليمين الأول.
+11462	corpus-6-test-corpus-26-train	FES	بغيت نعرف الى كان ممكن تشحن هاد المجموعة من الأطباق لطوكيو.
+11467	corpus-6-test-corpus-26-train	FES	باغي شي مقوي جسدي.
+11478	corpus-6-test-corpus-26-train	FES	واش كاين شي طعام ممجهدش ومافيهش الحار؟
+11479	corpus-6-test-corpus-26-train	FES	واش قريبة باش نمشيو ليها؟
+11491	corpus-6-test-corpus-26-dev	FES	بغيت شي كريم ديال اليدين.
+11493	corpus-6-test-corpus-26-train	FES	ممكن دوزلي الملحة؟
+11500	corpus-6-test-corpus-26-train	FES	بغيت نمشي لوول ستريت. كيفاش نوصل لتما؟
+11541	corpus-6-test-corpus-26-train	FES	بزاف ديال التمارين الرياضية غادي تضرك.
+11544	corpus-6-test-corpus-26-train	FES	بما فيه وجبة الإفطار والضرائب ورسوم الخدمة، غادي تكون خمسة واربعون للشخص لكل ليلة.
+11550	corpus-6-test-corpus-26-train	FES	ممكن تصلح هادا؟
+11574	corpus-6-test-corpus-26-train	FES	مسا الخير. السلام.
+11576	corpus-6-test-corpus-26-train	FES	مقدرتش نلقى الامتعة ديالك.
+11595	corpus-6-test-corpus-26-train	FES	سير نيشان، عافاك.
+11600	corpus-6-test-corpus-26-train	FES	واش هاد الما صالح للشرب؟
+11622	corpus-6-test-corpus-26-train	FES	آآآ، ياللا. غير جوج دولارات.
+11626	corpus-6-test-corpus-26-train	FES	ممكن تبدلي هاد اللبسة تزيدني نمرة اكبر؟
+11631	corpus-6-test-corpus-26-train	FES	واخا، يالاه نمشيو. نقدر نساعد فالتمارين المنزلية ديالك من بعد مناكلو شوية ديال بيتزا.
+11633	corpus-6-test-corpus-26-train	FES	نعم، السيد تاناكا. كاين جوج رسالات ليك.
+11643	corpus-6-test-corpus-26-train	FES	مامناسبانيش.
+11646	corpus-6-test-corpus-26-train	FES	غدا يوم آخر.
+11663	corpus-6-test-corpus-26-train	FES	ممكن نقدر نساعدك. واش محتاج فيتامين سي؟
+11689	corpus-6-test-corpus-26-train	FES	المحفظة ديالي سرقات فالطران.
+11704	corpus-6-test-corpus-26-train	FES	بعيد بزاف. من الاحسن تشد طاكسي.
+11708	corpus-6-test-corpus-26-train	FES	بغيت شي جلسة فالممر، عافاك.
+11709	corpus-6-test-corpus-26-train	FES	كنعيش في دار بثمانين ألف ين شهريا .
+11714	corpus-6-test-corpus-26-train	FES	ممكن نقاطعك؟
+11720	corpus-6-test-corpus-26-dev	FES	وريني وحدة اوسع.
+11734	corpus-6-test-corpus-26-train	FES	سمحلي. ممكن نتبادلو بالبلايص؟
+11746	corpus-6-test-corpus-26-train	FES	واخا موافق.
+11751	corpus-6-test-corpus-26-train	FES	انتقل للزاوية وانعطف يسار عند إشارة المرور.
+11754	corpus-6-test-corpus-26-dev	FES	واش بغيتي زلاجات صغار ولا كبار؟
+11767	corpus-6-test-corpus-26-test	FES	بغيت غرفة وحدة مع حمام بثمانين دولار، عافاك.
+11800	corpus-6-test-corpus-26-train	FES	بغيت ندير الحاجات الغالية ديالي فخزنة الفندق.
+11817	corpus-6-test-corpus-26-dev	FES	واش عندك غرفة خاوية لهاد الليلة؟
+11821	corpus-6-test-corpus-26-train	FES	نعم، ولكن تأكد بلي عندك تذكرة .
+11862	corpus-6-test-corpus-26-train	FES	غي شوية ديال الناس اللي غينضمو للجولة الاختيارية.
+11872	corpus-6-test-corpus-26-train	FES	مكيهمش. على كل حال، عافاك ديني لوسط الحي الصيني. غادي نحاول نلقاها بنفسي.
+11879	corpus-6-test-corpus-26-train	FES	غادي يتعينو ناس جداد في أبريل.
+11880	corpus-6-test-corpus-26-train	FES	كنتمنى داكشي.
+11885	corpus-6-test-corpus-26-train	FES	جوج سكوتش وما، عافاك.
+11901	corpus-6-test-corpus-26-train	FES	شكون كيلعب؟
+11913	corpus-6-test-corpus-26-dev	FES	ممكن تتاصل بيا الى لقتيي المحفظة ديالي؟
+11916	corpus-6-test-corpus-26-train	FES	لليسار، عافاك.
+11932	corpus-6-test-corpus-26-test	FES	ممكن توفق معايا باش نتصورو؟
+11938	corpus-6-test-corpus-26-dev	FES	لا. واش تبغي تبلغ عليه؟
+11949	corpus-6-test-corpus-26-train	FES	هاد الضرسة اللي فلقدام كتضرني.
+11959	corpus-6-test-corpus-26-train	FES	شنو هي أحدث لعبة كمبيوتر لخمسة عشر عام؟
+11972	corpus-6-test-corpus-26-train	FES	واخا نشوفك غدا.
+11973	corpus-6-test-corpus-26-test	FES	واش كاين شي مطعم ارخص قريب من هنا؟
+11975	corpus-6-test-corpus-26-train	FES	لا، ولكن شكرا ليك. كنحس بتحسن.
+11976	corpus-6-test-corpus-26-train	FES	واش عند شي خبز؟
+11977	corpus-6-test-corpus-26-train	FES	واش مزيان فالكمان؟
+11990	corpus-6-test-corpus-26-train	FES	صديقي زلق وطاح فالحمام.
+11991	corpus-6-test-corpus-26-train	FES	ممكن شي طفية دسجائر؟
+11997	corpus-6-test-corpus-26-train	FES	المسيحية تحضرات والبلاد تشدات قدام البقية ديال العالم.
+12005	corpus-6-test-corpus-26-train	FES	شحال باغي؟
+12012	corpus-6-test-corpus-26-train	FES	كوكتيل الروبيان ليها وليا نفس الشي.
+12033	corpus-6-test-corpus-26-train	FES	ممكن توقع لي هنا؟ وعافاك هنا اولا.
+12035	corpus-6-test-corpus-26-train	FES	كان شرف ليا نزور مكاتبكم الرئيسية وندير مناقشات هامة معاك. شكرا بزاف على التعاون ديالك.
+12054	corpus-6-test-corpus-26-train	FES	شخير ديالك مزعج.
+12056	corpus-6-test-corpus-26-train	FES	معجبنيش اللون من بعد هادشي كامل. ممكن نرجع هادا؟
+12057	corpus-6-test-corpus-26-dev	FES	خرج من داك الباب، وانتظر في التوقف رقم ستة.
+12060	corpus-6-test-corpus-26-dev	FES	الدجاج المشوي، عافاك.
+12069	corpus-6-test-corpus-26-train	FES	ممكن تجيبلي شوية ديال الفلفل؟
+12074	corpus-6-test-corpus-26-test	FES	نعم بغيت نقرا شي حاجة.
+12101	corpus-6-test-corpus-26-train	FES	معاك السيد تاكاهاشي فالغرفة خمسة تسعو وأربعين. ممكن تصيفط أربع زجاجات من البيرة بدويايزر، عافاك؟
+12131	corpus-6-test-corpus-26-train	FES	هادي سبعين دولار.
+12140	corpus-6-test-corpus-26-train	FES	عافاك اتاصل بيا فالفندق جيالي ملي تلقى الحقايب ديالي.
+12150	corpus-6-test-corpus-26-train	FES	بغيت شي مكالمة تفياق في الثامنة والثلاثين غدا فصباح، عافاك.
+12167	corpus-6-test-corpus-26-train	FES	نعم، ولكن هادا كثر من اللازم وأنا واجد.
+12172	corpus-6-test-corpus-26-train	FES	بغيت شوية ديال غسول الفم.
+12173	corpus-6-test-corpus-26-train	FES	انا مكنحسش براسي مزيان.
+12182	corpus-6-test-corpus-26-train	FES	واش كتعطي تخفيضات بالجملة؟
+12193	corpus-6-test-corpus-26-train	FES	طوكيو صفر ثلاثة أربع تسعات أربعة خمسة ستة سبعة.
+12240	corpus-6-test-corpus-26-train	FES	ممكن تعوني نلقى حديقة الحيوانات؟
+12246	corpus-6-test-corpus-26-train	FES	ممكن توريني كيفاش نقادو؟
+12247	corpus-6-test-corpus-26-train	FES	في اي وقت الدورة ديال الطوبيس؟
+12254	corpus-6-test-corpus-26-train	FES	واش عارف كيفاش نخدم التيليفون؟
+12259	corpus-6-test-corpus-26-train	FES	بالتأكيد. عندنا شي علامات ديال الكتب امريكية اصلية مزيانة.
+12298	corpus-6-test-corpus-26-train	FES	مشغل مكالمات يتكلم اليابانية، عافاك.
+12331	corpus-6-test-corpus-26-train	FES	حنا مهتمين بالأزياء.
+12333	corpus-6-test-corpus-26-train	FES	ممكن تسحب معاي؟
+12345	corpus-6-test-corpus-26-train	FES	واش هادي عيادة اف؟
+12364	corpus-6-test-corpus-26-train	FES	مرحبا انسة ياماغوتشي؟ جهة اتصالك على الخط. المكالمة تقبلات. تفضلي، عافاكي.
+12391	corpus-6-test-corpus-26-test	FES	فين نقدر نشري تذكرة رفع؟
+12396	corpus-6-test-corpus-26-train	FES	فوقاش الوقت اللي غانوصلو فيه لوس أنجلوس؟
+12403	corpus-6-test-corpus-26-train	FES	سير مباشرة لمدة خمس دقائق، وتنتقل لليسار.
+12416	corpus-6-test-corpus-26-train	FES	راها فهاد الطريق فاتجاه الشاطئ.
+12420	corpus-6-test-corpus-26-train	FES	هاد اتاي بالعشوب كيساعد فتجديد الجسم.
+12421	corpus-6-test-corpus-26-train	FES	هاجي ممصنوعاش في اليابان، ياك بصح؟
+12443	corpus-6-test-corpus-26-train	FES	واخا. من هاد الاتجاه عافاك. غادي نوريك غرفتك.
+12479	corpus-6-test-corpus-26-train	FES	خاصني نمشي من الفندق قبل الظهر.
+12495	corpus-6-test-corpus-26-train	FES	جوج هامبرغر وجوج من القهوة، عافاك. بغيت نخرجهم.
+12510	corpus-6-test-corpus-26-train	FES	واش نقدر نهز هاد جوج شوانط؟
+12527	corpus-6-test-corpus-26-train	FES	طلبت اللحم ماشي الحوت. ممكن تبدلي هادشي؟
+12546	corpus-6-test-corpus-26-train	FES	طفلي عيا بزاف.
+12551	corpus-6-test-corpus-26-train	FES	أنا مريض من المعدة.
+12556	corpus-6-test-corpus-26-train	FES	هاد الجاكيط ماشي فحجمي.
+12557	corpus-6-test-corpus-26-train	FES	بغيت نجتامع مع السيد وليام.
+12560	corpus-6-test-corpus-26-train	FES	كيحتويعلى مجموعة متنوعة من سبعة الفيتامينات والمعادن.
+12562	corpus-6-test-corpus-26-test	FES	الأسنان ضعيفة.
+12589	corpus-6-test-corpus-26-train	FES	واش غادي ترجعلي فلوسي ملي نرجع لليابان؟
+12599	corpus-6-test-corpus-26-train	FES	مناش مصوب هاد الطبق؟
+12603	corpus-6-test-corpus-26-train	FES	فاي بلاد كيتصوب هادا؟
+12608	corpus-6-test-corpus-26-train	FES	ممكن تصوبو فعشرة دقائق؟
+12611	corpus-6-test-corpus-26-dev	FES	أنا ماشي مزيان فالإنجليزية. كاين شي حد كيتكلم اليابانية؟
+12615	corpus-6-test-corpus-26-train	FES	فين يمكن لي ناخد رمز مترو الانفاق؟
+12638	corpus-6-test-corpus-26-train	FES	غادي يصيفطو عشرين عينة إضافية ليك.
+12644	corpus-6-test-corpus-26-train	FES	مكنظنش لي حيت البشرة ديالي ناشفة شوية.
+12650	corpus-6-test-corpus-26-train	FES	ممكن تعطيني جدول زمني، عافاك؟
+12658	corpus-6-test-corpus-26-dev	FES	نعم، كنظن غادي ننتظر.
+12671	corpus-6-test-corpus-26-train	FES	تسعة وتسعون دولارا لكل ساعة.
+12672	corpus-6-test-corpus-26-train	FES	أنا آسف، راه بعناه.
+12677	corpus-6-test-corpus-26-train	FES	خاص يكون هادي.
+12678	corpus-6-test-corpus-26-dev	FES	عندي المعدات ديالي.
+12679	corpus-6-test-corpus-26-train	FES	مفتاح الغرفة، خمسة صفر ثلاثة، عافاك.
+12699	corpus-6-test-corpus-26-test	FES	فأي وقت غيدوز ترمينال مان؟
+12701	corpus-6-test-corpus-26-train	FES	فين مصفف الشعر؟
+12708	corpus-6-test-corpus-26-train	FES	في الساعة السابعة، عافاك.
+12712	corpus-6-test-corpus-26-train	FES	الحقيبة ديالي معطوبة.
+12713	corpus-6-test-corpus-26-train	FES	سياحة.
+12732	corpus-6-test-corpus-26-train	FES	جيت من اسبانيا.
+12750	corpus-6-test-corpus-26-dev	FES	شي حاجة غلط فهاد مفتاح البطاقة . ممكن تعطيني وحدة أخرى، عافاك؟
+12755	corpus-6-test-corpus-26-dev	FES	عندي طفح جلدي في يدي.
+12761	corpus-6-test-corpus-26-train	FES	البريد الجوي هادا لليابان، عافاك.
+12766	corpus-6-test-corpus-26-test	FES	في كاين أقرب كيميائي؟
+12770	corpus-6-test-corpus-26-dev	FES	نبيذ آخور، عافاك.
+12773	corpus-6-test-corpus-26-train	FES	الناس ظريفة بزاف.
+12776	corpus-6-test-corpus-26-test	FES	شحال ديال المشروبات داخلة فهاد الثمن؟
+12777	corpus-6-test-corpus-26-test	FES	نتا اللي درتي هادشي.
+12782	corpus-6-test-corpus-26-train	FES	فين البوابة ديال الطلوع لهاد الرحلة؟
+12790	corpus-6-test-corpus-26-test	FES	الى كان شي واحد متوفر، ممكن تحجزلي طبلة حدا السرجم؟
+12805	corpus-6-test-corpus-26-dev	FES	واش إعلان الصعود للطائرة داروه قبل؟
+12810	corpus-6-test-corpus-26-train	FES	حنا على ارتفاع اثني عشر ألف قدم.
+12820	corpus-6-test-corpus-26-train	FES	أولا، بغينا نشوفو وول ستريت.
+12822	corpus-6-test-corpus-26-train	FES	فين كاينة محطة الحافلات فأكسفورد؟
+12823	corpus-6-test-corpus-26-train	FES	غادي نتسنى حتا يكون السطح متوفر.
+12835	corpus-6-test-corpus-26-train	FES	ممكن نشوف شي محفظات ديال الجلد؟
+12861	corpus-6-test-corpus-26-dev	FES	خليونا نتفرجو فالتلفازة كاين واحد الماتش ديال البيسبول.
+12878	corpus-6-test-corpus-26-train	FES	ممكن تكتب العنوان ديالك هنا؟
+12884	corpus-6-test-corpus-26-train	FES	عافاك قول لي في كاين أقرب صيدلية.
+12903	corpus-6-test-corpus-26-train	FES	للفندق ديالي، عافاك. عنوان فندقي هنا.
+12905	corpus-6-test-corpus-26-dev	FES	شحال عدد المحافظات حدا طوكيو؟
+12917	corpus-6-test-corpus-26-train	FES	نهي المكالة وتسنى شوية عافاك.
+12936	corpus-6-test-corpus-26-train	FES	شنو كتدير فالدار مور العشا عادة؟
+12941	corpus-6-test-corpus-26-train	FES	بالتاكيد. فوقاش تبغي تلعب الغولف؟
+12945	corpus-6-test-corpus-26-train	FES	هي غادي تكون فالدار تقريبا فالثلاثة.
+12952	corpus-6-test-corpus-26-train	FES	بغيت نتاصل بالسفارة اليابانية.
+12968	corpus-6-test-corpus-26-train	FES	كثر شوية.
+12969	corpus-6-test-corpus-26-train	FES	فوقاش كيغادرو حافلات مشاهدة المعالم؟
+12973	corpus-6-test-corpus-26-train	FES	شحال كتخلص باش ترسلها لليابان؟
+12976	corpus-6-test-corpus-26-dev	FES	معنديش لا مضارب ولا احذية.
+13015	corpus-6-test-corpus-26-train	FES	واش الين الياباني مزيان؟
+13022	corpus-6-test-corpus-26-train	FES	واش عندك موستانج؟
+13027	corpus-6-test-corpus-26-train	FES	غادي نقفزو من هنا؟
+13069	corpus-6-test-corpus-26-train	FES	السيد كاواي، عندنا طبلة ليك دابا. أجي من هنا عافاك.
+13072	corpus-6-test-corpus-26-train	FES	بالتأكيد. هبط الدروج اللي هنا وغادي تلقا شي علامات. غير تبعهوم.
+13075	corpus-6-test-corpus-26-dev	FES	مكتب الاستقبال. ممكن نساعدك؟
+13076	corpus-6-test-corpus-26-train	FES	ممكن تحطني ففندق هيلتون، عافاك؟
+13077	corpus-6-test-corpus-26-dev	FES	واش غالبا كتضطر تخدم معطل؟
+13090	corpus-6-test-corpus-26-dev	FES	آسف بزاف، ولكن معنديش كثر من هاكا. شنو بالنسبة لأوراق الإنجليزية؟
+13095	corpus-6-test-corpus-26-train	FES	طاولة لغير المدخنين، عافاك.
+13096	corpus-6-test-corpus-26-train	FES	ممكن تعلمني قبل منوصلو لدورهام؟
+13113	corpus-6-test-corpus-26-test	FES	هادا جديد؟
+13116	corpus-6-test-corpus-26-train	FES	ماشي على حق كنتي ديما كتداويني.
+13118	corpus-6-test-corpus-26-dev	FES	ممكن توريني شي فساتين؟
+13126	corpus-6-test-corpus-26-train	FES	نطقو، عافاك.
+13133	corpus-6-test-corpus-26-train	FES	سكرت بالنبيذ.
+13134	corpus-6-test-corpus-26-train	FES	اعتني بنفسك حيت الجو كيتبدل بزاف على الجبال.
+13159	corpus-6-test-corpus-26-train	FES	شيك سياحي و ين ياباني، واخا؟
+13162	corpus-6-test-corpus-26-train	FES	آسف، حققت مع خدمة الغرف وقسم المفقودات. ما عندهومش.
+13172	corpus-6-test-corpus-26-train	FES	راه صعيب تلقاها. راها فطريق صغير قبالت الطريق السريع الرئيسي.
+13183	corpus-6-test-corpus-26-train	FES	معارف والو على داكشي.
+13184	corpus-6-test-corpus-26-train	FES	ممكن نهدرو فهادشي فشي قهوة.
+13188	corpus-6-test-corpus-26-train	FES	كنشوف، فهاد الحالة ما خصنيش ندفع خلاص التعديلات، ياك بصح؟
+13202	corpus-6-test-corpus-26-train	FES	مشغل المكالمات، عافاك.
+13262	corpus-6-test-corpus-26-train	FES	ممكن تخفضلي السرج، عافاك؟
+13264	corpus-6-test-corpus-26-dev	FES	ممكن تستضفني هاد اللية؟
+13267	corpus-6-test-corpus-26-train	FES	واخا. غادي ناخد غير جوج. شكرا.
+13268	corpus-6-test-corpus-26-train	FES	ها هي الفاتورة ديالك. ثلاثمائة وسبعة وتسعون دولار.
+13269	corpus-6-test-corpus-26-train	FES	انت محظوظ.
+13287	corpus-6-test-corpus-26-train	FES	عافاك عطيني طبلة مع رؤية زوينة للمناظر الليلية.
+13290	corpus-6-test-corpus-26-train	FES	هادا هادا مصنوع بالمكينة أو مصنوع باليد؟
+13291	corpus-6-test-corpus-26-train	FES	باغي نكري هاد النوع ديال السيارات لمدة أربع وعشرين ساعة.
+13306	corpus-6-test-corpus-26-train	FES	مسرور حيت تلاقيتك.
+13322	corpus-6-test-corpus-26-train	FES	راها مقطعة.
+13333	corpus-6-test-corpus-26-dev	FES	واخا، دابا اجيو نديرو طلة عليك.
+13347	corpus-6-test-corpus-26-train	FES	واخا، تخيل لوقت الطويل ليغاتاخدو وظيفتو الى كل واحد سول سؤال اخور. يالاه نمشيو دغيا وناخدو أمتعتنا. خاصنا نمشيو للتصريح الجمركي.
+13396	corpus-6-test-corpus-26-train	FES	شحال الوزن؟
+13399	corpus-6-test-corpus-26-train	FES	واش كاين شي مطعم صيني فهاد النواحي؟
+13407	corpus-6-test-corpus-26-train	FES	المنصة خمسة كاين فداك الجيه.
+13408	corpus-6-test-corpus-26-train	FES	ملي كتكون كرة القدم لاعبة؟
+13423	corpus-6-test-corpus-26-dev	FES	اراها مخداماش. ممكن تتحقق من الكاميرا ديالي؟
+13424	corpus-6-test-corpus-26-test	FES	قهوة بالكريم والسكر، عافاك.
+13436	corpus-6-test-corpus-26-train	FES	كنظن كاين شي اغلاط فالفاتورة.
+13438	corpus-6-test-corpus-26-train	FES	عافاك عطيني هاداك.
+13440	corpus-6-test-corpus-26-train	FES	هادي البوابة السابعة.
+13444	corpus-6-test-corpus-26-train	FES	واش انت اسكتلندي؟
+13446	corpus-6-test-corpus-26-train	FES	ثلاثة-جوج-واحد-جوج. تسنى واحد الثانية، صافي؟ بغيت نصيفطلك شي حاجة عندي هنا سمحلي.
+13471	corpus-6-test-corpus-26-test	FES	مئة وخمسة وثلاثون ين لكل دولار.
+13476	corpus-6-test-corpus-26-train	FES	صاية قصيرة مع الجزمة مكتمشيش مع الموضة.
+13477	corpus-6-test-corpus-26-train	FES	ممكن نتكلم مع المدير؟
+13480	corpus-6-test-corpus-26-train	FES	علاش الاجرة ديالك مختلفة على العداد؟
+13484	corpus-6-test-corpus-26-train	FES	ممكن نشوف هاد الواحد؟
+13487	corpus-6-test-corpus-26-train	FES	وعدت راسي انني ملي نشوفك نتعرف عليك.
+13488	corpus-6-test-corpus-26-train	FES	شنو واقع فهاد الوقت المتأخر؟
+13492	corpus-6-test-corpus-26-train	FES	انا محاسش براسي على خير. ممكن تنصحني بشي طبيب؟
+13504	corpus-6-test-corpus-26-train	FES	جهة اتصالك على الخط. اتفضل.
+13515	corpus-6-test-corpus-26-train	FES	واش كاين عرض كباريه؟
+13528	corpus-6-test-corpus-26-dev	FES	المرحاض ممنظفش.
+13532	corpus-6-test-corpus-26-dev	FES	شحال ديال الوقت كيستغرق من هنا لسيتي هول على الرجلين؟
+13547	corpus-6-test-corpus-26-train	FES	كول هاد الدوا بعد كل وجبة ملي تحرقك بزاف.
+13550	corpus-6-test-corpus-26-train	FES	درتي الفلوس فمغلف خاص مزين اللي سميتو شوجيبوكورو.
+13553	corpus-6-test-corpus-26-train	FES	شي حد تجرح.
+13609	corpus-6-test-corpus-26-test	FES	كنتساءل شنو خاصني ناخد منو؟
+13624	corpus-6-test-corpus-26-train	FES	واش عندك خريطة لمترو الانفاق؟
+13629	corpus-6-test-corpus-26-train	FES	عندي غرفة واجدة ليك ففندق غراند. ممكن تمشي لتما؟
+13635	corpus-6-test-corpus-26-train	FES	عندي حريق فعيني ديال اليمين.
+13657	corpus-6-test-corpus-26-train	FES	انا ماشي مزيانة بزاف فالالمانية.
+13660	corpus-6-test-corpus-26-train	FES	خاصنا بالتاكيد نجتامعو مرة اخرى.
+13666	corpus-6-test-corpus-26-train	FES	واش غادي تضيق هاد السروال؟
+13682	corpus-6-test-corpus-26-train	FES	ممكن نسلف مضرب وكورات؟
+13685	corpus-6-test-corpus-26-test	FES	ممكن تدخل شي صرف؟
+13694	corpus-6-test-corpus-26-train	FES	ممكن تعطيني نص ابريق؟
+13707	corpus-6-test-corpus-26-train	FES	مرحبا. أنا جون.
+13717	corpus-6-test-corpus-26-train	FES	ناكاي.
+13719	corpus-6-test-corpus-26-train	FES	متمانعش الى خديت صورة ليك وللطاكسي ديالك؟
+13733	corpus-6-test-corpus-26-train	FES	اتصلت على حساب حقيبة تلفاتلي هادي ثلاثة ايام.
+13748	corpus-6-test-corpus-26-test	FES	بغيت فندق رخص.
+13755	corpus-6-test-corpus-26-dev	FES	أوه، كاين بزاف ديال الحاجات اللي غادي تشوف فقرية غرينتش.
+13769	corpus-6-test-corpus-26-train	FES	في الاعمال. عندي علاقة عمل تما.
+13783	corpus-6-test-corpus-26-train	FES	مناسب للبسة ديالك.
+13784	corpus-6-test-corpus-26-train	FES	ممكن ترد البال على الحقيبة ديالي؟
+13788	corpus-6-test-corpus-26-train	FES	شنو رأيك فهاد الفكرة؟ حنا كنقبلو الطلب ديالك لإشعار من ستة أشهر بشرط ضمان الخاص بيك عندنا الحق فاللبيع فأجل ستة أشهر بعد انتهاء العقد.
+13803	corpus-6-test-corpus-26-train	FES	سمحلي. واش كتعرف نيويورك مزيان؟
+13824	corpus-6-test-corpus-26-test	FES	غادي نتسناوك. عافاك اتصل بينا ملي تكون مستعد.
+13827	corpus-6-test-corpus-26-train	FES	بغيت نشوف الجراح.
+13828	corpus-6-test-corpus-26-dev	FES	واش هادي مكونات طبيعية؟
+13831	corpus-6-test-corpus-26-train	FES	بغيت نركب فسيارة رياضية.
+13843	corpus-6-test-corpus-26-train	FES	رمز المنطقة هو صفر ثلاثة. العدد هو ثلاثة واحد جوج ثلاثة أربعة خمسة ستة ستة.
+13854	corpus-6-test-corpus-26-train	FES	ضربه البرد.
+13856	corpus-6-test-corpus-26-test	FES	البرنامج الفرعي غادي يكون من الأحسن .
+13862	corpus-6-test-corpus-26-train	FES	بغيتك تصيفط هاد التسليم العام.
+13903	corpus-6-test-corpus-26-train	FES	سمح لي أندوز هاد المكالمة للرجل المسؤول.
+13913	corpus-6-test-corpus-26-train	FES	اينا قياس بغيتي؟
+13919	corpus-6-test-corpus-26-train	FES	أوه، عزيزي. مكنتش كنتوقع بلي عندي هادو.
+13920	corpus-6-test-corpus-26-train	FES	واش عندك شي صنادق مربعين لإرسال الطرود؟
+13921	corpus-6-test-corpus-26-train	FES	واش كتخلص شركة الطيران رسوم الفندق والوجبات؟
+13938	corpus-6-test-corpus-26-train	FES	واش هادي الحقائب كاملة ديالك؟
+13942	corpus-6-test-corpus-26-train	FES	كيفاش تبغي تدير المكالمة؟
+13946	corpus-6-test-corpus-26-train	FES	واخا راه مكلفة. ماشي مصنوعة في اليابان، ياك؟
+13953	corpus-6-test-corpus-26-train	FES	ممكن عافاك تدوزلي الملحة؟
+13966	corpus-6-test-corpus-26-train	FES	فين كاين أقرب مطعم من هاد الفندق؟
+13993	corpus-6-test-corpus-26-train	FES	بغيت شامبوان للشعر الطبيعي.
+14008	corpus-6-test-corpus-26-train	FES	فوقاش كتظن غادي تلقاها؟
+14014	corpus-6-test-corpus-26-train	FES	كنتمنى ليكم سنة جديدة سعيدة.
+14018	corpus-6-test-corpus-26-train	FES	غادي ناخد سبريت كبيرة.
+14043	corpus-6-test-corpus-26-test	FES	عافاك قوله مرة اخرى بشوية.
+14045	corpus-6-test-corpus-26-train	FES	سمحلي. بغيت ندير طلب.
+14059	corpus-6-test-corpus-26-test	FES	غناخدو روبيان الجمبري و لحم الجمل مشوي.
+14069	corpus-6-test-corpus-26-train	FES	بغيت غرفة للمناظر الجميلة.
+14074	corpus-6-test-corpus-26-train	FES	ثلاثة كيسان ديال عصير البطيخ، عافاك.
+14086	corpus-6-test-corpus-26-train	FES	عندي ثلاثة ديال الأطفال.
+14088	corpus-6-test-corpus-26-train	FES	سير مباشرة لنهاية هذه القاعة ودور لليسار في الزاوية. غادي تشوفه على ليمين ديالك.
+14089	corpus-6-test-corpus-26-dev	FES	واش هادي جولة لمدة نهار كامل؟
+14094	corpus-6-test-corpus-26-train	FES	بشحال تذكرة مشي ورجوع لأكسفورد؟
+14098	corpus-6-test-corpus-26-train	FES	كنمشي لنادي رياضي كل يومين.
+14099	corpus-6-test-corpus-26-train	FES	فين ممكن نبقى فوقت الرحلة؟
+14104	corpus-6-test-corpus-26-train	FES	شنو هو وقت المغادرة؟
+14108	corpus-6-test-corpus-26-train	FES	بشحال رسوم الدليل يوميا؟
+14120	corpus-6-test-corpus-26-train	FES	فين نلقا القرص المضغوط؟
+14147	corpus-6-test-corpus-26-train	FES	سمحلي. أنا طالب جامعي من اليابان. واش نتا طالب من نيويورك؟
+14150	corpus-6-test-corpus-26-train	FES	ممكن تخبرنا كيفاش كتقيمون هاد المشروع؟
+14167	corpus-6-test-corpus-26-train	FES	أكي، واش كتعرف متجر تسجيل مزيان قريب من هنا؟
+14168	corpus-6-test-corpus-26-train	FES	نقج ولا بطاقة ائتمان؟
+14174	corpus-6-test-corpus-26-train	FES	كنخدم لشركة تجارية.
+14175	corpus-6-test-corpus-26-train	FES	ماشي من الأداب تسول الناس بشحال خدامة.
+14184	corpus-6-test-corpus-26-train	FES	واش هادي ليفايس أصيلة خمسمائة وواحد؟
+14195	corpus-6-test-corpus-26-train	FES	اي وقت ممكن ناخد دوش؟
+14198	corpus-6-test-corpus-26-train	FES	نتا مكتشوفش كثر من واحد وعشرين سنة.
+14219	corpus-6-test-corpus-26-train	FES	أنا كنشوف. فالواقع، عندها فيلم عالي السرعة فهاديك. هل تمانع الى سحبتها؟
+14224	corpus-6-test-corpus-26-train	FES	شري غير دابا.
+14232	corpus-6-test-corpus-26-train	FES	غادي نجيب واحد دابا.
+14235	corpus-6-test-corpus-26-train	FES	ثمانية دولار. وهنا غيجي واحد دابا.
+14242	corpus-6-test-corpus-26-train	FES	عافاك وري هادشي مع بنود الشراء للجمارك في المطار.
+14261	corpus-6-test-corpus-26-train	FES	واش كاين شي متاجر شاملة عندها تخفيضات دابا؟
+14265	corpus-6-test-corpus-26-train	FES	مشغل المكالمات، دوزلي المطافئ.
+14266	corpus-6-test-corpus-26-train	FES	خديت باطري ميت.
+14289	corpus-6-test-corpus-26-train	FES	وقف فالتقاطع الجاي.
+14292	corpus-6-test-corpus-26-train	FES	أوه، ها هو. واش خاص كل شخص يعمر استمارة البيان الجمركي هادي؟
+14304	corpus-6-test-corpus-26-train	FES	ممكن تعطيني اسمك عافاك؟
+14306	corpus-6-test-corpus-26-train	FES	واش ماشي مشكل ندير مكالمة على حساب الطرف الثاني؟
+14311	corpus-6-test-corpus-26-train	FES	أهلا كيف داير؟
+14317	corpus-6-test-corpus-26-train	FES	فين قسم السفر؟
+14336	corpus-6-test-corpus-26-train	FES	شنو اسم الشخص اللي باغي تهدر معاه؟
+14347	corpus-6-test-corpus-26-test	FES	متأسف راه مكاينش هنا فهاد اللحظة.
+14363	corpus-6-test-corpus-26-train	FES	شوف هادا. شوف هادا. غادي تقولي الفرق بين هاد الرجل وهادا هو مسألة حظ؟ محمد، وقف، عافاك. مكتمانعش نهبطك هنا . أنا متأخر. صاحبي، فرحت بلقائك، ياك؟
+14373	corpus-6-test-corpus-26-dev	FES	واش الغرفة ديالك كتطل على المدينة؟
+14389	corpus-6-test-corpus-26-train	FES	واش كاين شي رسائل ليا؟
+14400	corpus-6-test-corpus-26-test	FES	مزال غالية مكلفة بالنسبة ليا ممكن ناخدها بثلاثة دولارات؟
+14402	corpus-6-test-corpus-26-train	FES	بغيت غرفة في الظهر.
+14403	corpus-6-test-corpus-26-dev	FES	عندي كاس ديال النبيذ.
+14416	corpus-6-test-corpus-26-train	FES	أنتي جميلة.
+14426	corpus-6-test-corpus-26-test	FES	بغيت غرفة بجوج فراشات. بشحال الغرفة لليلة الواحدة؟
+14434	corpus-6-test-corpus-26-train	FES	بعيد بتقريبا شي تسعة وتسعين ميل.
+14441	corpus-6-test-corpus-26-train	FES	فينس وليند باغيا يكونو بوحدهم، داكشي متأسف خاصني نبقى هنا الليلة.
+14444	corpus-6-test-corpus-26-train	FES	عافاك حط هاد الحقائب مربوطة.
+14448	corpus-6-test-corpus-26-train	FES	اسمي ساتو.
+14457	corpus-6-test-corpus-26-train	FES	كنعرف نادي الجاز القديم وسط المدينة.
+14459	corpus-6-test-corpus-26-train	FES	غادي ناخد الوجبة الثابتة هادي.
+14462	corpus-6-test-corpus-26-dev	FES	بغيت نجرب نفس الطبق بحال داك الواحد.
+14475	corpus-6-test-corpus-26-train	FES	ثم غادي ناخدوه.
+14477	corpus-6-test-corpus-26-train	FES	واش هادا كيوصل للطابق السادس؟
+14478	corpus-6-test-corpus-26-dev	FES	جلد التمساح؟
+14483	corpus-6-test-corpus-26-train	FES	عافاك حطه فكيس غسيل وخليه تماك.
+14484	corpus-6-test-corpus-26-train	FES	بغيت هاد الفيلم يتحمض. فوقاش يكون واجد؟
+14495	corpus-6-test-corpus-26-dev	FES	عافاك ما تعطيش هاد المفتاح لشي حد من غيري.
+14500	corpus-6-test-corpus-26-test	FES	صافي غادي يوصلك للفندقك في الساعة الثامنة.
+14502	corpus-6-test-corpus-26-train	FES	السرجم مزيان.
+14505	corpus-6-test-corpus-26-train	FES	خلي شعري القدام هابط، عافاك.
+14507	corpus-6-test-corpus-26-train	FES	واش كتشمل جميع نفقات النقل؟
+14509	corpus-6-test-corpus-26-train	FES	بيت الأوبرا متروبوليتان.
+14514	corpus-6-test-corpus-26-train	FES	فين مكتب اكري-سيارة؟
+14519	corpus-6-test-corpus-26-dev	FES	كنحس بلي فيا السخانة من لبارح فالليل.
+14520	corpus-6-test-corpus-26-train	FES	هادا ماشي ذوقي.
+14530	corpus-6-test-corpus-26-train	FES	شمن خضرة عندك؟
+14531	corpus-6-test-corpus-26-test	FES	بغيت برمانونت خفيف، عافاك.
+14534	corpus-6-test-corpus-26-train	FES	فوقاش غادي يجي الطبيب؟
+14537	corpus-6-test-corpus-26-train	FES	هادا اللون الغالط.
+14538	corpus-6-test-corpus-26-train	FES	تهرسو السنان.
+14542	corpus-6-test-corpus-26-train	FES	واش هادا مقعد الممر أو مقعد السرجم؟
+14557	corpus-6-test-corpus-26-train	FES	بديت نمشي مسافات طويلة.
+14564	corpus-6-test-corpus-26-dev	FES	ممكن توصل الامتعة ديالي للغرفة؟
+14573	corpus-6-test-corpus-26-train	FES	تبين لي سيدة شابة.
+14590	corpus-6-test-corpus-26-train	FES	وريني وحدة لآنسة شابة؟
+14593	corpus-6-test-corpus-26-dev	FES	واش عندك شي حاجة بثمانين دولار بالضبط؟
+14605	corpus-6-test-corpus-26-train	FES	عطشان.
+14612	corpus-6-test-corpus-26-train	FES	بلا حليب، عافاك.
+14683	corpus-6-test-corpus-26-dev	FES	عندي ثلاثة ديال الحقائب.
+14685	corpus-6-test-corpus-26-train	FES	فين هي البحيرة؟
+14693	corpus-6-test-corpus-26-test	FES	سمحلي برك على زر التصوير، عافاك.
+14709	corpus-6-test-corpus-26-train	FES	ممكن تعطيني مجلة او شي حاجة؟
+14718	corpus-6-test-corpus-26-train	FES	هادا الجنوب.
+14721	corpus-6-test-corpus-26-train	FES	بشحال المقاعد ديال البلكون؟
+14734	corpus-6-test-corpus-26-test	FES	بغينا غرفة كتطل على البحيرة.
+14737	corpus-6-test-corpus-26-train	FES	واش كاين شي صنادق بريد قراب من هنا؟
+14757	corpus-6-test-corpus-26-train	FES	واخا غادي نديك لتما.
+14761	corpus-6-test-corpus-26-train	FES	الجزء المكتوب بخط مائل كيشير للتغيرات اللي وقعات فالتسعينات من القرن العشرون.
+14763	corpus-6-test-corpus-26-train	FES	عندو ثلاثين عام.
+14777	corpus-6-test-corpus-26-test	FES	واخا واش ممكن تمتب العنوان مرة اخرى على هاد المغلف؟
+14783	corpus-6-test-corpus-26-train	FES	بغيت نمشي لهارودز. ممكن ترسملي خريطة، عافاك؟
+14786	corpus-6-test-corpus-26-train	FES	شنو كتدير ملي كيكون عندك وقت فراغ؟
+14789	corpus-6-test-corpus-26-train	FES	واش عندك بطاريات لهاد الكاميرا؟
+14805	corpus-6-test-corpus-26-train	FES	بغيت كابل للتصوير عن بعد.
+14807	corpus-6-test-corpus-26-train	FES	واش نتا الاخير فهاد الصف؟
+14810	corpus-6-test-corpus-26-train	FES	كنعتقد بلي محجوز كامل.
+14813	corpus-6-test-corpus-26-train	FES	رمية مزيانة. اخرج دابا.
+14818	corpus-6-test-corpus-26-train	FES	ممكن تقوليالبلايص المثيرة للاهتمام هنا؟
+14820	corpus-6-test-corpus-26-train	FES	واش كاني شي متاجر شاملة قريبة من هنا؟
+14854	corpus-6-test-corpus-26-dev	FES	حتا انا.
+14862	corpus-6-test-corpus-26-train	FES	بغيت ننضم من سان دييغو.
+14863	corpus-6-test-corpus-26-train	FES	كنت كنفكر ندير هاد التكوين فالفصل الجاي.
+14887	corpus-6-test-corpus-26-train	FES	هاد النبيذ ما باردش بزاف. ممكن تبردو لي؟
+14901	corpus-6-test-corpus-26-dev	FES	يمكنلك تغير هاد الحلق لكليبسات؟
+14903	corpus-6-test-corpus-26-train	FES	شنو أكبر اهتمام عندك؟
+14905	corpus-6-test-corpus-26-train	FES	بغيت نرد فلوسي ممكن ترجعلي فلوسي؟
+14926	corpus-6-test-corpus-26-train	FES	مكنظنش نلقا بحال هاد المشروب فبلاصة اخرى.
+14933	corpus-6-test-corpus-26-train	FES	الى شريت حتا هادا غادي يكون الكل معفي من الرسوم الجمركية.
+14952	corpus-6-test-corpus-26-train	FES	ممكن نشوف شهادة التطعيم الخاصة بيك، عافاك؟
+14960	corpus-6-test-corpus-26-train	FES	واش كاتسافر بزاف؟
+14969	corpus-6-test-corpus-26-train	FES	انا جيت من الولايات المتحدة.
+14976	corpus-6-test-corpus-26-train	FES	عندي تذكرة طيران لسان فرانسيسكو.
+14998	corpus-6-test-corpus-26-train	FES	الى كانت غي خمسة عشر دقيقة من المحطة، اذن نمشي على رجلي.
+15019	corpus-6-test-corpus-26-train	FES	بغيت فندق ارخص.
+15020	corpus-6-test-corpus-26-test	FES	بونساي كيبان بحال شي هواية لشي حد كبير.
+15024	corpus-6-test-corpus-26-dev	FES	مازال مقررتش ممكن تعطيني شوية ديال الوقت؟
+15025	corpus-6-test-corpus-26-train	FES	عندي حريق الراس.
+15036	corpus-6-test-corpus-26-dev	FES	ممكن تشاركني فالقهوة؟
+15037	corpus-6-test-corpus-26-train	FES	بغيت شهادة طبية وإيصال للتأمين.
+15046	corpus-6-test-corpus-26-test	FES	أوه، لا. سربي عافاك. راحنا معطلين.
+15051	corpus-6-test-corpus-26-train	FES	مابغيت ننفق أكثر من عشرين دولارا.
+15062	corpus-6-test-corpus-26-train	FES	علاش الرحلة مزال مقلعاتش؟ قل لي شنو واقع.
+15073	corpus-6-test-corpus-26-test	FES	شحال الأجرة؟ ممكن تكتبلي الأجرة على شي ورقة؟
+15083	corpus-6-test-corpus-26-train	FES	بغيت نكري أريكة.
+15087	corpus-6-test-corpus-26-train	FES	تسنى شي دقيقة، عافاك.
+15088	corpus-6-test-corpus-26-test	FES	واش خاص السيدات يلبسو الفساتين الرسمية؟
+15095	corpus-6-test-corpus-26-train	FES	ما تلمسنيش.
+15109	corpus-6-test-corpus-26-train	FES	واش عندك سجائر؟
+15123	corpus-6-test-corpus-26-train	FES	إلى كانت الريح ماشي قوية بزاف، ممكن نمشيو لتيكي بوينت.
+15126	corpus-6-test-corpus-26-train	FES	رائع.
+15133	corpus-6-test-corpus-26-train	FES	غادي نسد دابا. شكرا على الاهتمام.
+15145	corpus-6-test-corpus-26-dev	FES	واش عندك هادا فشي ألوان أخرى؟
+15149	corpus-6-test-corpus-26-train	FES	شكون هادا؟
+15157	corpus-6-test-corpus-26-train	FES	سمحلي ممكن تقولي فين هو موقف الطاكسي؟
+15170	corpus-6-test-corpus-26-train	FES	وشنو تشرب؟
+15181	corpus-6-test-corpus-26-train	FES	ها هو.
+15201	corpus-6-test-corpus-26-train	FES	فين أقرب متجر الأجهزة؟
+15206	corpus-6-test-corpus-26-train	FES	همم. عادي مخداماش، ياك؟ تقدر تبدل لمقعد خاوي، الى بغيتي.
+15221	corpus-6-test-corpus-26-train	FES	كنبحث على هادا.
+15240	corpus-6-test-corpus-26-train	FES	واخا اسيدي وشنو تبغي للتحلية؟
+15246	corpus-6-test-corpus-26-train	FES	عربة عادية أو بولمان؟
+15247	corpus-6-test-corpus-26-train	FES	شيكات سياحية. شكرا. هاك تذكرة السفر وبطاقة صعود الطيارة ديالك. كون تما، عافاك، قبل ساعة من وقت الرحلة.
+15257	corpus-6-test-corpus-26-test	FES	هادا ألم صعيب.
+15259	corpus-6-test-corpus-26-train	FES	الاسم هو غورو موتوياما. والرقم هو صفر ثلاثة جوج اثنين ستة واحد جوج أربعة أربعة تسعة.
+15262	corpus-6-test-corpus-26-train	FES	كنحس بلعيا بزاف.
+15274	corpus-6-test-corpus-26-train	FES	"شنو هي أوقات العرض ل ""كوسيز لاف""؟"
+15283	corpus-6-test-corpus-26-train	FES	صافي. بغيتي القهوة ديالك دابا ولا من بعد؟
+15292	corpus-6-test-corpus-26-train	FES	قل لي على اسخن نادي ريغي في نيويورك.
+15295	corpus-6-test-corpus-26-test	FES	شنو هي الطريقة اللي كيختلف بيها منتوجك على المنافسين ديالك؟
+15296	corpus-6-test-corpus-26-train	FES	واش من المقبول أنهحتى واحد مكيستمع لتعليمات السلامة؟
+15319	corpus-6-test-corpus-26-train	FES	واش اللور ديال الشارع خطير؟
+15320	corpus-6-test-corpus-26-train	FES	نعمعافاك خود الإجراء اللازم.
+15323	corpus-6-test-corpus-26-train	FES	نعم، غير وحدة. فوقاش غادي نعرف؟ كيفاش غيتم تعويضي؟
+15331	corpus-6-test-corpus-26-dev	FES	هادي البطاقة الوطنية ديالي.
+15337	corpus-6-test-corpus-26-train	FES	كنفضلو طبلة قريبة للسرجم.
+15347	corpus-6-test-corpus-26-train	FES	عافاك قل لي أرخص وسيلة باش نمشي لسان فرانسيسكو.
+15362	corpus-6-test-corpus-26-train	FES	واش كتعرف مطعم، كيويا؟
+15378	corpus-6-test-corpus-26-train	FES	اتجاه واحد.
+15380	corpus-6-test-corpus-26-train	FES	غادي نولي غليظ الى بقيت غي جالس هنا وكناكل باستمرار.
+15400	corpus-6-test-corpus-26-train	FES	واش كاين شي نادي ليلي مزيان فيه عرض الفلامنكو؟
+15419	corpus-6-test-corpus-26-train	FES	هادي لباس زوين لابس.
+15431	corpus-6-test-corpus-26-train	FES	رجلي كتضرني.
+15436	corpus-6-test-corpus-26-train	FES	فين أقرب غرفة غسيل؟
+15443	corpus-6-test-corpus-26-train	FES	ممكن تبادل معاي بالمقعد، عافك؟
+15447	corpus-6-test-corpus-26-train	FES	المقاعد ديالنا تفرقات.
+15452	corpus-6-test-corpus-26-train	FES	فالواقع، بغيت حتا هاد الطرد يكون مؤمن.
+15463	corpus-6-test-corpus-26-train	FES	الفتورة واصلة حتى لمئة دولار.
+15464	corpus-6-test-corpus-26-test	FES	مخارج الطوارئ كاينة فالقدام وفالوسط وفالخلف ديال الطيارة.
+15470	corpus-6-test-corpus-26-train	FES	واخا، الحجز ديالك تأكد مرة اخرى.
+15476	corpus-6-test-corpus-26-train	FES	الكعبعالي شوية.
+15477	corpus-6-test-corpus-26-train	FES	بغينا طبلة فالسطح.
+15482	corpus-6-test-corpus-26-train	FES	هادا كيعني بلي الفيلم يقدر ميكونش مناسب للأطفال قل من خمسة عشرة سنة. داكشي لاش خاص الآباء يقرروا واش يسمحو للأطفال يتفرجو فالفيلم.
+15487	corpus-6-test-corpus-26-train	FES	كيفاش تبغي الفلوس عافاك عمر هاد الورقة ووقع هنا.
+15509	corpus-6-test-corpus-26-train	FES	بعض الاوقات كتضرني كرشي.
+15522	corpus-6-test-corpus-26-train	FES	واش عندك شي أطباق منخفضة السعرات الحرارية؟ انا داير ريجيم، دابا.
+15529	corpus-6-test-corpus-26-dev	FES	ماغتخلص والو.
+15539	corpus-6-test-corpus-26-train	FES	نعم، عندي جوج تذكيرات للعمالقة والمهربين.
+15546	corpus-6-test-corpus-26-train	FES	حنا من كبار الموردين ديال الحواسيب الصغيرة.
+15553	corpus-6-test-corpus-26-train	FES	شكرا. حتى انا مع السلامة حتى لمن بعد.
+15564	corpus-6-test-corpus-26-train	FES	غرفة بجوج فراشات مع حمام، عافاك.
+15566	corpus-6-test-corpus-26-train	FES	طحت فالدروج.
+15575	corpus-6-test-corpus-26-train	FES	أي آيس كريم كتوصي؟
+15577	corpus-6-test-corpus-26-dev	FES	هممم. هادا الواحد. اللون جا مزيان عليك.
+15598	corpus-6-test-corpus-26-test	FES	فين كتب اللغة الأجنبية؟
+15604	corpus-6-test-corpus-26-train	FES	جوج شرائح و سبريت.
+15607	corpus-6-test-corpus-26-test	FES	عطيني شوية ديال السجائر.
+15610	corpus-6-test-corpus-26-dev	FES	غير قانوني تجيبو للبلاد - متأسف. صافي، كنظن هادا كولشي.
+15652	corpus-6-test-corpus-26-train	FES	نعم انا. كانو كيعيشو قراب ليا في ولاية كاليفورنيا ولكن انتقلو لولاية فلوريدا قبل عامين. وشنو بالنسبة ليك؟ واش كتسافر بوحدك؟
+15664	corpus-6-test-corpus-26-train	FES	انا مريض.
+15666	corpus-6-test-corpus-26-train	FES	طفلي كيبان عيان بزاف بسباب السخانة.
+15673	corpus-6-test-corpus-26-train	FES	فهاد القياس، عافاك.
+15674	corpus-6-test-corpus-26-train	FES	درجات من المزايا الثقافية كاتعطى للفنانين والعلماء المتميزين فهاد النهار.
+15676	corpus-6-test-corpus-26-train	FES	أنا يابانى.
+15692	corpus-6-test-corpus-26-train	FES	هادا غالي بزاف.
+15699	corpus-6-test-corpus-26-train	FES	نعم خذ الطوبيس اللي كيدي لكيوتو-إكي.
+15710	corpus-6-test-corpus-26-train	FES	واش هادي للاعصاء فقط؟
+15735	corpus-6-test-corpus-26-dev	FES	رسوم الغرفة هي ستة آلاف ين لليلة.
+15763	corpus-6-test-corpus-26-train	FES	واش نقدر نهز هادا فالطيارة؟
+15775	corpus-6-test-corpus-26-train	FES	واخا. اللي باغي نعرفو هو واش القضية مربحة فالأخير.
+15784	corpus-6-test-corpus-26-train	FES	صافي. واش بغيتي وشاح كيمشي معا هادا؟
+15788	corpus-6-test-corpus-26-train	FES	عاود شحن الباطري، عافاك.
+15791	corpus-6-test-corpus-26-train	FES	انا مستعد ندير طلب.
+15798	corpus-6-test-corpus-26-dev	FES	أملاح حمام العشبية كتخلي بشرتك ناعمة وسلسة.
+15804	corpus-6-test-corpus-26-train	FES	كتب اسم شركة الطيران ورقم الرحلة، حتا.
+15814	corpus-6-test-corpus-26-train	FES	واش بصح. اليوم الأحد، والأحد هو أسوأ نهار.
+15896	corpus-6-test-corpus-26-train	FES	نعم، هادي مشكلة معالجة الأزبال.
+15897	corpus-6-test-corpus-26-train	FES	بغيت هاد الشكل في وضع ديال خمس أماكن.
+15899	corpus-6-test-corpus-26-train	FES	بزاف ديال الأسر عندها دخل مزدوج.
+15902	corpus-6-test-corpus-26-train	FES	"اوه. هاد الفضة نادرة ""القمر والجرس"". متأكد بلي باغي تبادلها؟"
+15911	corpus-6-test-corpus-26-train	FES	أمي وأختي غادي يجيو من اليابان يشوفوني. وغادي يوصلو لهنا فالساعة السابعة مساء.
+15942	corpus-6-test-corpus-26-train	FES	براون عندها شعبية كبيرة هاد العام.
+15950	corpus-6-test-corpus-26-test	FES	فكره مزيانة. فوقاش كتخططو تجيو؟
+15967	corpus-6-test-corpus-26-train	FES	واخا. جوج مقاعد، عافاك.
+15989	corpus-6-test-corpus-26-train	FES	فين هو السوق؟
+16007	corpus-6-test-corpus-26-train	FES	متشوق امتا نجرب اللبسة ديال السباق الجديدة.
+16016	corpus-6-test-corpus-26-train	FES	كنظن اصدقائي كليتو غي الحلاوة.
+16034	corpus-6-test-corpus-26-train	FES	شحال تكلفة تذكرة الدرجة الأولى إلى أدنبرة، عافاك؟
+16042	corpus-6-test-corpus-26-train	FES	كيبان بلي الفلوس اللي عطيتيني هي عشرة دولارات قصيرة.
+16046	corpus-6-test-corpus-26-train	FES	أنا عيطت على السيد سميث في غرفة جوج صفر واحد، ولكن مكاين حتى رد. واش يمكن لك تعرف واش مازال جالس هنا؟
+16061	corpus-6-test-corpus-26-train	FES	بغيت شي وحدة جديدة.
+16070	corpus-6-test-corpus-26-train	FES	كنخدم فشركة نشر.
+16073	corpus-6-test-corpus-26-train	FES	ممكن عافاك تعمر هادا؟
+16080	corpus-6-test-corpus-26-test	FES	شمن شارع هادا؟
+16082	corpus-6-test-corpus-26-test	FES	ممكن توزن هذه الحزمة؟
+16089	corpus-6-test-corpus-26-train	FES	شنو كتسمي هادا باللغة الإنجليزية؟
+16091	corpus-6-test-corpus-26-train	FES	بقى غادي فهاد الممر، وغادي تلقاه في الجهة ديال ليمين.
+16098	corpus-6-test-corpus-26-train	FES	بغيت نتاكد من هادا.
+16106	corpus-6-test-corpus-26-train	FES	صباح الخير. مكتب الاستقبال. ممكن نساعدك؟
+16127	corpus-6-test-corpus-26-train	FES	واخا. عافك دخل.
+16130	corpus-6-test-corpus-26-test	FES	نعم سيدي. كانجي لهنا نفطر كل نهار، من الاثنين إلى الجمعة، قبل مانمشي للخدمة.
+16140	corpus-6-test-corpus-26-dev	FES	مكاين حتى مشكل.
+16141	corpus-6-test-corpus-26-train	FES	عافاك عطيني ثلاثة جوج ستة جوج تسعة واحد ثمانية.
+16158	corpus-6-test-corpus-26-train	FES	نعم، يمكلنا نخدموك من السبعة.
+16167	corpus-6-test-corpus-26-train	FES	عافاك استلقي هنا.
+16169	corpus-6-test-corpus-26-test	FES	خدمة سريعة.
+16191	corpus-6-test-corpus-26-train	FES	يمكن غادي يبان.
+16217	corpus-6-test-corpus-26-train	FES	عافاك اتجه لليسارفالتقاطع الجاي.
+16219	corpus-6-test-corpus-26-dev	FES	سمحلي. كيفاش نمشي للبنكة؟
+16222	corpus-6-test-corpus-26-train	FES	واش كاين خدمة الطوبيس لمتحف فورد؟
+16227	corpus-6-test-corpus-26-train	FES	نعم . اسمك ورقم الغرفة ديالك، عافاك.
+16231	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت غتدوز باش توصل لليابان بالبريد الجوي؟
+16238	corpus-6-test-corpus-26-train	FES	واخا. نشوفوكم مع الجوج نهار الاحد.
+16258	corpus-6-test-corpus-26-train	FES	بغيت نمشي من نيويورك لتورونتو.
+16259	corpus-6-test-corpus-26-train	FES	سستة مهرسرة. واش عندك كثر من هادي نيت؟
+16271	corpus-6-test-corpus-26-train	FES	هادا نوع من الوسخ.
+16279	corpus-6-test-corpus-26-dev	FES	واش ممكن تعاود تأكد الطلب ديالي؟ وهادي تذكرة الطيران.
+16291	corpus-6-test-corpus-26-train	FES	واش عندك هادا فخضر مغلوق؟
+16292	corpus-6-test-corpus-26-test	FES	واش تاخدني لكانتيربوري وترجعني؟
+16311	corpus-6-test-corpus-26-train	FES	ممكن ناخد شوكة جديدة؟
+16312	corpus-6-test-corpus-26-train	FES	شكرا بزاف على الطيبوبة ديالك.
+16335	corpus-6-test-corpus-26-train	FES	سمحلي، حنا مكنبيعوش تذاكر للمسرح.
+16337	corpus-6-test-corpus-26-train	FES	بغيت نشوف هادا.
+16339	corpus-6-test-corpus-26-train	FES	اوه هادا زوين. شنو خاصني ندير؟
+16344	corpus-6-test-corpus-26-dev	FES	بغيت نمدد إقامتي هنا لمدة يومين اطول.
+16351	corpus-6-test-corpus-26-train	FES	عافاك بدل المقعد ديالي.
+16365	corpus-6-test-corpus-26-train	FES	عندنا شوية ديال الروبيان مزيانة بزاف هاد النهار.
+16371	corpus-6-test-corpus-26-train	FES	شحال كيبقى فاتح؟
+16395	corpus-6-test-corpus-26-train	FES	التدخين أو بلاش؟
+16403	corpus-6-test-corpus-26-train	FES	مكلفة بزاف بالنسبة لي. ممكن ترخضلي شوية؟
+16409	corpus-6-test-corpus-26-dev	FES	غانكون فاتح صباح الأربعاء أو الجمعة بعد الظهر.
+16413	corpus-6-test-corpus-26-train	FES	مادرتش الحجز.
+16434	corpus-6-test-corpus-26-train	FES	حيت الصيف فاليابان عادة كاكون سخون بزاف، وماكانش عندنا مكيف الهواء في الأيام الفايتة.
+16444	corpus-6-test-corpus-26-train	FES	ممكن تتصل لي بطالكسي فثمانية ديال صباح غدا؟
+16453	corpus-6-test-corpus-26-train	FES	راها شريرة.
+16465	corpus-6-test-corpus-26-train	FES	علاش ما نتسناوش الطوبيس تحت المظلة؟
+16477	corpus-6-test-corpus-26-train	FES	أجي، كينجي. سمحو لي نوريك أنحاء المكتب.
+16478	corpus-6-test-corpus-26-train	FES	نعم، مفتوحة من تسعة إلى تسعة.
+16484	corpus-6-test-corpus-26-dev	FES	مكنقدرش ننعس مزيان فليل.
+16487	corpus-6-test-corpus-26-train	FES	كيفاش أثرت الأزمة على الأعمال التجارية؟
+16495	corpus-6-test-corpus-26-train	FES	عندي موعد أخر.
+16516	corpus-6-test-corpus-26-train	FES	ممكن تعطيني خريطة طريق للمدينة؟
+16536	corpus-6-test-corpus-26-dev	FES	الحاجة اللي كنت كنقلب عليها.
+16542	corpus-6-test-corpus-26-train	FES	مفهمتش الشرح ديالك.
+16546	corpus-6-test-corpus-26-train	FES	خاصني ندير اتصال. نمشي لبوسطن.
+16547	corpus-6-test-corpus-26-train	FES	فين كاينة احسن بلاصة للسياحة؟
+16576	corpus-6-test-corpus-26-train	FES	واش هادا دائم؟
+16577	corpus-6-test-corpus-26-train	FES	استمتعت بزاف.
+16581	corpus-6-test-corpus-26-train	FES	واخا، بغيت يبان وجهي صغير بحال جوليا روبرتس.
+16586	corpus-6-test-corpus-26-train	FES	ممكن تاخد هادا، عافاك؟
+16601	corpus-6-test-corpus-26-train	FES	المسافرين على الخطوط الجوية اي بي سي رحلة سبعة الصفر ثلاثة لطوكيو عافاكوم تقدمو للبوابة عشرين للإجراءات الحكومية.
+16607	corpus-6-test-corpus-26-train	FES	فين كاينة محطة الطوبيس ديال بي؟
+16643	corpus-6-test-corpus-26-train	FES	فالفردي، عافاك.
+16653	corpus-6-test-corpus-26-dev	FES	فين ممكن نشري ثوب ديال الطبلة؟
+16679	corpus-6-test-corpus-26-train	FES	فين ممكن نكري دليل تكلم اللغة اليابانية؟
+16696	corpus-6-test-corpus-26-train	FES	واش تبغيني نصورك؟
+16709	corpus-6-test-corpus-26-train	FES	ماعنديش هاد الطبق.
+16718	corpus-6-test-corpus-26-train	FES	قطعت صبعي. واش كاين شي مطهر؟
+16723	corpus-6-test-corpus-26-train	FES	ممكن ناخد طابع ديال خمسة وتسعين سنتيمترا؟
+16736	corpus-6-test-corpus-26-train	FES	غادي تما في الثمنية قل ربع.
+16746	corpus-6-test-corpus-26-train	FES	بغيت شوية ديال العطور.
+16747	corpus-6-test-corpus-26-train	FES	ممكن تعطيني جدول زمني؟
+16751	corpus-6-test-corpus-26-test	FES	واش غادي تمشي للمدرسة هنا؟
+16758	corpus-6-test-corpus-26-dev	FES	شحال كان فيه؟
+16760	corpus-6-test-corpus-26-train	FES	واش فندق هيلتون بعيد من هنا؟
+16769	corpus-6-test-corpus-26-train	FES	أنا متأكد بلي حطيتو فحقيبتي.
+16770	corpus-6-test-corpus-26-train	FES	ارفع يديك.
+16771	corpus-6-test-corpus-26-train	FES	واش كاين شي مطعم يمكنلك توصيني بيه ويكون قريب من هنا؟
+16773	corpus-6-test-corpus-26-train	FES	شنو لكتفضل، غامق ولا مفتوح؟
+16781	corpus-6-test-corpus-26-train	FES	ممكن تقلي فين غنطيرو؟
+16793	corpus-6-test-corpus-26-train	FES	نقل التذكرة، عافاك.
+16796	corpus-6-test-corpus-26-train	FES	كاين شي بلاصة زوينة لرحلة ليوم واحد؟
+16799	corpus-6-test-corpus-26-train	FES	بغيت كيس كيلي الحمراء في نفس الشكل بحال هادا.
+16805	corpus-6-test-corpus-26-train	FES	واش مزال غاتدير داك الجدول الزمني؟
+16810	corpus-6-test-corpus-26-train	FES	شمن وقت غايفتح البنك؟
+16811	corpus-6-test-corpus-26-train	FES	حاش بالمرض.
+16819	corpus-6-test-corpus-26-train	FES	كنحس براسي مخربق. ممكن ترسملي خريطة؟
+16822	corpus-6-test-corpus-26-test	FES	خارج.
+16829	corpus-6-test-corpus-26-test	FES	ديني للمستشفى.
+16833	corpus-6-test-corpus-26-train	FES	واش خاصني نمشي للمستشفى كل يوم؟
+16837	corpus-6-test-corpus-26-train	FES	معدتي كتضرني.
+16839	corpus-6-test-corpus-26-train	FES	بشحال البريد باش نصيفط الرسالة لليابان؟
+16842	corpus-6-test-corpus-26-train	FES	بغيت كأس من شيري.
+16869	corpus-6-test-corpus-26-train	FES	واش تحتاج تتهز من المطار؟
+16872	corpus-6-test-corpus-26-dev	FES	الصعود غيبدا في الرابعة وثلاثين داكشي علاش خاصك تكون تما قبل.
+16878	corpus-6-test-corpus-26-train	FES	من ثلاثين ألف ين.
+16879	corpus-6-test-corpus-26-train	FES	فين يمكنلي نشري بطاقة هاتفية؟
+16888	corpus-6-test-corpus-26-train	FES	ممكن نرجعو فمدينة مختلفة؟
+16889	corpus-6-test-corpus-26-dev	FES	كنخطط نبقى اثني عشر يوما.
+16893	corpus-6-test-corpus-26-train	FES	عافاك عليه لفوق شوية.
+16896	corpus-6-test-corpus-26-train	FES	محتاج تشوف شي أخصائي.
+16899	corpus-6-test-corpus-26-dev	FES	شي دقايق، عافاك.
+16904	corpus-6-test-corpus-26-train	FES	المسار رقم أربعة عشر.
+16911	corpus-6-test-corpus-26-train	FES	اه انت اللي درتي؟ عندك بالتأكيد مجموعة كبيرة.
+16928	corpus-6-test-corpus-26-dev	FES	مقدرتش نلقاها فشي بلاصة.
+16936	corpus-6-test-corpus-26-test	FES	واش عندك شي مقاعد خاوية للندن؟
+16952	corpus-6-test-corpus-26-train	FES	بغيت نسخة من تقرير السرقة.
+16955	corpus-6-test-corpus-26-dev	FES	بعد تقاطع واحد في الشارع.
+16960	corpus-6-test-corpus-26-train	FES	ممكن تعطيني الضو ملي تكون فيه؟
+16962	corpus-6-test-corpus-26-test	FES	واش هادي سجائر خفيفة؟
+16964	corpus-6-test-corpus-26-train	FES	واخا. بحال هكا بالضبط.
+16967	corpus-6-test-corpus-26-train	FES	الاكسبريس الجاي بقالو ساعة.
+16976	corpus-6-test-corpus-26-train	FES	أبغيت الأكمام ديال هاد الجاكيت الرياضة تطوال.
+16992	corpus-6-test-corpus-26-train	FES	عندي حجز. هادا هو رقم التأكيد.
+17027	corpus-6-test-corpus-26-train	FES	عيد ميلادك فالطريق.
+17030	corpus-6-test-corpus-26-dev	FES	توقفات الطرانات بسباب الإضراب.
+17038	corpus-6-test-corpus-26-train	FES	ممكن تصلح هادا؟
+17068	corpus-6-test-corpus-26-dev	FES	كان الشارع مزداحم بالسيارات.
+17079	corpus-6-test-corpus-26-train	FES	راه المبنى الثاني على يسار المبنى الأبيض.
+17094	corpus-6-test-corpus-26-train	FES	حجزنا مقعد في خمسة وعشرين أكتوبر غادي نمشيو فالحادية عشرة في الصباح.
+17097	corpus-6-test-corpus-26-train	FES	لا، كثر شوية في الواجهة. هناك، نعم.
+17115	corpus-6-test-corpus-26-train	FES	نعم، مكيشملش وجبات الطعام.
+17117	corpus-6-test-corpus-26-train	FES	فين يمكن لي نرجع هاد التذكرة؟
+17120	corpus-6-test-corpus-26-train	FES	علاش كيوقع هادشي؟
+17149	corpus-6-test-corpus-26-train	FES	بغيت نرتاح شوية.
+17158	corpus-6-test-corpus-26-train	FES	سيارتي تخسرات. عافاك، أجي وخودها.
+17163	corpus-6-test-corpus-26-train	FES	بغيت الشعر ديالي طويل شوية من اللور.
+17177	corpus-6-test-corpus-26-train	FES	شنو هي الانواع اللي عندك؟
+17179	corpus-6-test-corpus-26-dev	FES	أنا أتفق. هادي من بين البلايص المفضلة عندي.
+17180	corpus-6-test-corpus-26-train	FES	شمن نوع من النماذج عندك في الاعتبار؟
+17204	corpus-6-test-corpus-26-test	FES	اسمي ميتشيكو تاناكا، ورقم الرحلة هو خمسة صفر واحد لطوكيو.
+17216	corpus-6-test-corpus-26-train	FES	ممكن ترسم لي خريطة من هنا؟
+17217	corpus-6-test-corpus-26-train	FES	فين نتلاقاو؟
+17222	corpus-6-test-corpus-26-train	FES	بغيت شعري يكون مجموع كيف كان.
+17229	corpus-6-test-corpus-26-train	FES	عطيني خمسين، عافاك.
+17272	corpus-6-test-corpus-26-train	FES	فين يمكن لي التسجيل في الخطوط الجوية اليابانية؟
+17280	corpus-6-test-corpus-26-train	FES	شنو هي المحتويات؟
+17295	corpus-6-test-corpus-26-train	FES	واش كاين شي بلايص فهاد المنطقة موصين بيها بزاف؟
+17311	corpus-6-test-corpus-26-train	FES	عطيني شوية ديال الصرف، عافاك.
+17313	corpus-6-test-corpus-26-train	FES	صافي. غادي نتأكد بلي الحقائب ديالك غتكون هنا.
+17315	corpus-6-test-corpus-26-train	FES	هادا هو تخصصنا، المشوي دوفر سول.
+17339	corpus-6-test-corpus-26-train	FES	غادي نبقاو.
+17350	corpus-6-test-corpus-26-train	FES	وقعلي خلل.
+17356	corpus-6-test-corpus-26-train	FES	صافي. واش خاصني نركز عليه؟
+17381	corpus-6-test-corpus-26-dev	FES	غادي نتشاركو.
+17394	corpus-6-test-corpus-26-train	FES	ماعندناش هاد الشكل الخاص حاليا. غادي نتحقق في المخزن. تسنى دقيقة وحدة، عافاك.
+17398	corpus-6-test-corpus-26-train	FES	سكوتش بالما، عافاك.
+17399	corpus-6-test-corpus-26-train	FES	كيبان مزيان. شحال كيكلف؟
+17414	corpus-6-test-corpus-26-train	FES	خذ هاد الوصفة للصيدلية. تقدر تاخد الدوا تماك.
+17438	corpus-6-test-corpus-26-train	FES	طلب هاداك.
+17453	corpus-6-test-corpus-26-train	FES	نعم، يمكن ليك تتوقف في أي محطة بين هنا وشيكاغو.
+17460	corpus-6-test-corpus-26-train	FES	فين ممكن نشري شوية ديال الهدايا التذكارية؟
+17475	corpus-6-test-corpus-26-train	FES	غالى بزاف. منقدرش نشريه.
+17482	corpus-6-test-corpus-26-train	FES	ممكن ناخد الرقم ديال ايه بي سي اند كومباني في شيكاغو، عافاك.
+17488	corpus-6-test-corpus-26-test	FES	فين الكاتدرائية؟
+17496	corpus-6-test-corpus-26-train	FES	كيفاش تبغي البيض ديالك؟
+17504	corpus-6-test-corpus-26-train	FES	راه حد هاد المبنى مباشرة.
+17526	corpus-6-test-corpus-26-train	FES	لا، كنعتقد بلي نسات تجيب لينا وحدة.
+17537	corpus-6-test-corpus-26-train	FES	واخا. درت التأكيد. ممكن تعطينا رقم الهاتف الخاص بيك، غي فحالة حتاجينالك نتاصلو بيك؟
+17548	corpus-6-test-corpus-26-train	FES	سنو اسم الرسام؟
+17559	corpus-6-test-corpus-26-train	FES	واش نوصيه يتاصل بيك ملي يرجع؟
+17593	corpus-6-test-corpus-26-train	FES	باغي داك الواحد.
+17606	corpus-6-test-corpus-26-train	FES	كتعجبني هاد الخدمة ديال الترحيب بالشمبانيا بعد الطلوع، بصحتك.
+17609	corpus-6-test-corpus-26-train	FES	أربعون دولار في اليوم وزيد عليها ثمانية سنتات لكل ميل.
+17615	corpus-6-test-corpus-26-train	FES	غادي نراهن بخمسة دولار.
+17636	corpus-6-test-corpus-26-train	FES	واش هادا ماشي طلب ديال شي حد اخور؟
+17645	corpus-6-test-corpus-26-train	FES	ممكن تقولي كيفاش نمشي للمتحف؟
+17649	corpus-6-test-corpus-26-train	FES	أنا متأسف بزاف، ولكني بغيت نأجل الموعد.
+17652	corpus-6-test-corpus-26-test	FES	واش توصي بشي رحلة؟
+17660	corpus-6-test-corpus-26-train	FES	الطران ديالك غادي يخوي المنصة فالثمنية.
+17673	corpus-6-test-corpus-26-train	FES	كنبحث على حقيبة فيها حزام قابل للتعديل.
+17674	corpus-6-test-corpus-26-train	FES	بغيت تبقى تحت مائة وثمانين دولار.
+17739	corpus-6-test-corpus-26-train	FES	غادي نسولك بعد مانشوف فالنواحي.
+17745	corpus-6-test-corpus-26-test	FES	نعم. عافاك الحجز لمدة ستة ليال. بداية من الثالث والعشرين من يوليو.
+17757	corpus-6-test-corpus-26-train	FES	ممكن توريني غيرها من تصاميم مختلفة؟
+17765	corpus-6-test-corpus-26-train	FES	شمن نوع ديال العصير بغيتي؟
+17780	corpus-6-test-corpus-26-train	FES	واش غاتمشي للدار فالعطلات؟
+17782	corpus-6-test-corpus-26-dev	FES	فين ممكن نمشي نشوف منظر زوين؟
+17786	corpus-6-test-corpus-26-test	FES	هادا كان مهرس من قبل ملي فتحت الحزمة.
+17790	corpus-6-test-corpus-26-test	FES	غشت تسعة وعشرون.
+17797	corpus-6-test-corpus-26-train	FES	بغيت نرسل هادا بالبريد الجوي لليابان.
+17798	corpus-6-test-corpus-26-train	FES	عيد الشكر. هو يوم شكر لجميع اللي كيدعمو المجتمع بالأعمال ديالهم.
+17799	corpus-6-test-corpus-26-train	FES	هاد الغرفة صغيرة بزاف.
+17803	corpus-6-test-corpus-26-train	FES	ممكن نزيد شوية ديال أتاي، عافاك؟
+17805	corpus-6-test-corpus-26-train	FES	بغيت هاد الحوايج يتغسلو من بعد فهاد النهار.
+17808	corpus-6-test-corpus-26-train	FES	واش كاين شي بنكة فهاد النواحي؟
+17811	corpus-6-test-corpus-26-train	FES	ممكن تمسحلي الطبلة، عافاك؟
+17840	corpus-6-test-corpus-26-train	FES	سكين، عافاك.
+17841	corpus-6-test-corpus-26-train	FES	هادو كلهم مواد مطبوعة.
+17842	corpus-6-test-corpus-26-train	FES	عافاك كتب رقم الغرفة فالخلف.
+17847	corpus-6-test-corpus-26-train	FES	حنا كنستملو عيدان الماكلة ملي كناكلو.
+17852	corpus-6-test-corpus-26-train	FES	رحلة دلتا رقم ثمنية وعشرين لنيو أورليانز غادي تأجل تقريبا ساعة وحدة.
+17854	corpus-6-test-corpus-26-train	FES	ملي نرجع لليابان، غادي نكتب رسالة. إلى كان عندك الوقت، عافاك صيفطلي رسالة.
+17855	corpus-6-test-corpus-26-train	FES	خليت تذكرة الطيران الخاصة بيا فالفندق.
+17861	corpus-6-test-corpus-26-train	FES	غرفة منفردة بلا دوش، عافاك.
+17869	corpus-6-test-corpus-26-train	FES	شكرا مرة أخرى لتذكيري. واش ناس بزاف كاتنى ماتوقعش على أسمائهم؟
+17886	corpus-6-test-corpus-26-train	FES	واخا، الوقت كينفذ منا. واش نكملو هاد المناقشة نهار الخميس في الوحدة؟
+17899	corpus-6-test-corpus-26-test	FES	بغيت شي بيجامة.
+17919	corpus-6-test-corpus-26-train	FES	واخا. غادي نتاصل بيك ملي يكونو واجدين.
+17935	corpus-6-test-corpus-26-train	FES	وشنو بالنسبة للغدا؟
+17947	corpus-6-test-corpus-26-test	FES	الليموزين غتوقف فالبوابة الشمالية أولا.
+17963	corpus-6-test-corpus-26-train	FES	حتى لفوقاش نقدر نستعمل مطعم الفندق؟
+17966	corpus-6-test-corpus-26-dev	FES	واش هادا طران مباشر؟
+17977	corpus-6-test-corpus-26-train	FES	صافي، كتوقع فوقت متأخر شوية. كنعتقد بلي خاصني نمشي دابا. شكرا بزاف ليك على الأمسية ازوينة.
+17986	corpus-6-test-corpus-26-train	FES	ممكن ناخد شي أدوية ديال المعدة؟
+18003	corpus-6-test-corpus-26-train	FES	بغيت الدجاج المشوي.
+18018	corpus-6-test-corpus-26-train	FES	غلطة ديالي ماشي الغلطة ديالك.
+18036	corpus-6-test-corpus-26-train	FES	سمحلي فوقاش غادي يسالي الفيلم؟
+18040	corpus-6-test-corpus-26-train	FES	داك الواحد، عافاك.
+18077	corpus-6-test-corpus-26-train	FES	المجوهرات ديالي تسرقات. محتاج ندير تقرير.
+18103	corpus-6-test-corpus-26-train	FES	لحظة، عافاك. غادي ندوز لي السيد جونز.
+18110	corpus-6-test-corpus-26-train	FES	مرحبا. هادي هي خطوط يونايتد الجوية.
+18131	corpus-6-test-corpus-26-test	FES	فيت تعلم السيد جونز اليابانية؟
+18138	corpus-6-test-corpus-26-train	FES	عندي وحدة صغيرة من نفس التصميم.
+18155	corpus-6-test-corpus-26-train	FES	تقدر تضيق هاد السروال؟
+18161	corpus-6-test-corpus-26-train	FES	ليلة الجمعة، فالتاسعة.
+18166	corpus-6-test-corpus-26-train	FES	واش هادي البوابةللاس فيغاس؟
+18181	corpus-6-test-corpus-26-train	FES	واش كاين حافلة من المطار؟
+18189	corpus-6-test-corpus-26-train	FES	ملعقة أخرى، عافاك.
+18211	corpus-6-test-corpus-26-train	FES	مالحة شوية، ولكن كتعجبني. واش كتجيب معاك الطريق كاملة لليابان؟
+18226	corpus-6-test-corpus-26-train	FES	عافاك ادفعها، الى كان ممكن.
+18254	corpus-6-test-corpus-26-train	FES	تقدر تدفع عشرة دولار هنا للعربون؟
+18264	corpus-6-test-corpus-26-train	FES	نعم . فيقني من بعد ثلاث ساعات، عافاك.
+18273	corpus-6-test-corpus-26-dev	FES	بغيت نطلب، عافاك.
+18274	corpus-6-test-corpus-26-test	FES	واش خاصني نقول نعم أم لا؟
+18282	corpus-6-test-corpus-26-train	FES	جوج ملاعق، عافاك.
+18323	corpus-6-test-corpus-26-train	FES	شنو هي المحطة الجاية؟
+18334	corpus-6-test-corpus-26-dev	FES	السيارة كتدير صداع غريب.
+18336	corpus-6-test-corpus-26-test	FES	شمن وقت كيسد مكتب البريد؟
+18338	corpus-6-test-corpus-26-dev	FES	راه دفعت من قبل عربون خمسين دولار ملي دخلت.
+18341	corpus-6-test-corpus-26-train	FES	ولش عندك دواء للاضطراب فالمعدة؟
+18342	corpus-6-test-corpus-26-train	FES	واش خاصن نلبس معطف وربطة عنق؟
+18344	corpus-6-test-corpus-26-train	FES	واش يمكن لي نحول الفلوس لحساب التوفير الخاص بيا؟
+18355	corpus-6-test-corpus-26-train	FES	نسيت حقيبتي.
+18382	corpus-6-test-corpus-26-train	FES	بغيت نعاود نأكد الرحلة ديالي.
+18401	corpus-6-test-corpus-26-train	FES	ساعتي. كانت علامة تجارية جديدة مصنوعة فسويسرة ورقمية.
+18409	corpus-6-test-corpus-26-test	FES	دوزت هاد الاختبار فسهولة.
+18412	corpus-6-test-corpus-26-dev	FES	بغيتك تديني لشي بلايص مثيرة. أنا سائح، كتعرف.
+18419	corpus-6-test-corpus-26-train	FES	واش يمكن لي نمشي نشوف معالم المدينة مادام السفينة فالميناء؟
+18437	corpus-6-test-corpus-26-train	FES	من الاحسن تضبط مراية الرؤية الخلفية.
+18440	corpus-6-test-corpus-26-dev	FES	غايكون عشر دقائق ديال الانتظار أو هكاك.
+18441	corpus-6-test-corpus-26-train	FES	نقدر ناخد الطباسل ديالك؟
+18451	corpus-6-test-corpus-26-train	FES	غانكون فرحان نديرها اينا وقت بغيتي؟
+18487	corpus-6-test-corpus-26-train	FES	كنظن خليت الكاميرا اللور ملي كنت كنتعشا هنا الليلة الفايتة.
+18492	corpus-6-test-corpus-26-train	FES	اجمعهم فالبوابة.
+18502	corpus-6-test-corpus-26-train	FES	أوه، لا. ماشي ضروري. أنا غادي نتكلف بداكشي. راك درتي كثر من داكشي من قبل.
+18519	corpus-6-test-corpus-26-train	FES	اما صلحو ولا بدلو، عافاك.
+18521	corpus-6-test-corpus-26-train	FES	نقدر نديرو فشي وقت الشهر الجاي.
+18527	corpus-6-test-corpus-26-train	FES	عافاك خود وقتك.
+18531	corpus-6-test-corpus-26-train	FES	كيفاش يتقارن هاد المنتج الجديد مع المنتجات الموجودة؟
+18540	corpus-6-test-corpus-26-train	FES	البياعة فهاد المحل ظريفين بزاف.
+18552	corpus-6-test-corpus-26-train	FES	ممكن تحتافظ بهادي من أجلي؟
+18562	corpus-6-test-corpus-26-train	FES	دقيقة عافاك.
+18569	corpus-6-test-corpus-26-train	FES	واش عندك علامة الاستلام ديالك؟
+18572	corpus-6-test-corpus-26-train	FES	بغيت نكري سيارة لمدة أسبوع.
+18580	corpus-6-test-corpus-26-train	FES	نعم، في الأول، وغسلو مفرق.
+18585	corpus-6-test-corpus-26-train	FES	عافاك وريني شي ساعات ديال الرجال.
+18595	corpus-6-test-corpus-26-train	FES	هادي اربعة عشر.
+18612	corpus-6-test-corpus-26-dev	FES	شحال التكلفة ديال ليموزين باش نمشي لوسط المدينة؟
+18614	corpus-6-test-corpus-26-train	FES	من الصباح.
+18617	corpus-6-test-corpus-26-train	FES	من الاحسن نسربيو. راه طلعو من قبل.
+18632	corpus-6-test-corpus-26-test	FES	غادي تناسب غي اليمين.
+18639	corpus-6-test-corpus-26-train	FES	سولت على الدجاج.
+18640	corpus-6-test-corpus-26-train	FES	لمدة عشرة أيام.
+18642	corpus-6-test-corpus-26-train	FES	شحال عمر هاد الولد؟
+18643	corpus-6-test-corpus-26-train	FES	بشحال داكشي مجموع؟
+18646	corpus-6-test-corpus-26-train	FES	بغيت نفس الشي بحال هادا، عافاك.
+18685	corpus-6-test-corpus-26-train	FES	تلفت شيكات المسافر.
+18687	corpus-6-test-corpus-26-train	FES	عافاك عطيني شوية الأدوية الباردة.
+18690	corpus-6-test-corpus-26-train	FES	عافاك حطها فمخروط.
+18725	corpus-6-test-corpus-26-train	FES	كنشوفو كل نهار فالصباح فالطران.
+18727	corpus-6-test-corpus-26-train	FES	ممكن تعشا معانا هاد الليلة؟
+18747	corpus-6-test-corpus-26-train	FES	غنبقى في فندق ب حتى لغدا. غنكون فرحان الى قلتي ليه بلي غانكون هنا.
+18770	corpus-6-test-corpus-26-train	FES	الرحلة غادي تأخر لمدة خمسة وأربعين دقيقة.
+18771	corpus-6-test-corpus-26-train	FES	سميتي شينو يامادا.
+18784	corpus-6-test-corpus-26-train	FES	شنو تخصص هاد المطعم؟
+18798	corpus-6-test-corpus-26-test	FES	عندنا النبيذ الأبيض الممتاز.
+18830	corpus-6-test-corpus-26-train	FES	غي شوية ديال الأدوية الباردة.
+18834	corpus-6-test-corpus-26-dev	FES	ممكن تجيبلي الأمتعة من البهو غدا فصباح؟
+18836	corpus-6-test-corpus-26-train	FES	أوه، كيبالي بلي كل مرة كنسافر كنضيع شي حاجة.
+18845	corpus-6-test-corpus-26-train	FES	فقدت الاسخدام ديال يدي دليمن.
+18847	corpus-6-test-corpus-26-train	FES	مرحبا، واش هادا روي؟
+18848	corpus-6-test-corpus-26-test	FES	ثم، خاصك تجي لشارع التسوق. الى تبعتي الشارع غتوصل للمحطة.
+18872	corpus-6-test-corpus-26-train	FES	لا، ماشي هنا. كاين غرفة للتدخين فالجزء الخلفي ديال هاد العربة.
+18877	corpus-6-test-corpus-26-train	FES	هل يمكنني الحصول على كتيب؟
+18879	corpus-6-test-corpus-26-train	FES	نوصل لتماك قبل التسعة، عافاك.
+18906	corpus-6-test-corpus-26-train	FES	نعم سيدي. كيفاش تبغيني نقطعو؟
+18912	corpus-6-test-corpus-26-test	FES	كنظن كاين شي غلط فالفاتورة.
+18917	corpus-6-test-corpus-26-train	FES	غير الزيت والخل وغيكون مزيان.
+18919	corpus-6-test-corpus-26-train	FES	عندي بالضبط اللي بغيتي. ممكن نقترح هادا؟
+18938	corpus-6-test-corpus-26-train	FES	قهوة مع السكر.
+18948	corpus-6-test-corpus-26-train	FES	سبعة عشر ايه. أوه، متأسف. درت غلط.
+18951	corpus-6-test-corpus-26-test	FES	واش سبقليك سمعتي بأسبوع ذهبي فاليابان؟
+18957	corpus-6-test-corpus-26-train	FES	شكرا. عافاك رجع مرة أخرى.
+18963	corpus-6-test-corpus-26-test	FES	واش مزال محجوزة كلها؟
+18974	corpus-6-test-corpus-26-test	FES	واش نقدر نخليها فأي بلاصة فالبلاد؟
+18986	corpus-6-test-corpus-26-test	FES	شمن رقم غنعيط من هنا؟
+19002	corpus-6-test-corpus-26-train	FES	كيفاش نقدر نوصل لديزني لاند؟
+19005	corpus-6-test-corpus-26-train	FES	واش كتظن هادشي؟
+19007	corpus-6-test-corpus-26-train	FES	سمحلي. فين هو المطعم الرئيسي؟
+19009	corpus-6-test-corpus-26-train	FES	بغيت ندير مكالمة لليابان.
+19036	corpus-6-test-corpus-26-test	FES	رقم المقعد ديالي دي اثني عشر. فين هو؟
+19037	corpus-6-test-corpus-26-dev	FES	شنو هادا، عافاك؟
+19038	corpus-6-test-corpus-26-train	FES	شمن نوع كاين فبالك؟
+19045	corpus-6-test-corpus-26-train	FES	نعم. غادي نوصلو فالثمنية بالتوقيت المحلي.
+19050	corpus-6-test-corpus-26-train	FES	الى لقيتي شي حاجة اتصل بيا، عافاك.
+19057	corpus-6-test-corpus-26-train	FES	ممكن شوية ديال لحم الخنزير والبيض؟
+19064	corpus-6-test-corpus-26-train	FES	بطيخ مثلج للتحلية، عافاك.
+19068	corpus-6-test-corpus-26-train	FES	الما السخون مسخونش بزاف.
+19085	corpus-6-test-corpus-26-train	FES	ممكن تشرحلي كيفاش ندير ها؟
+19094	corpus-6-test-corpus-26-train	FES	عافاك كتب عنوانك هنا.
+19100	corpus-6-test-corpus-26-train	FES	واش نقدر نستعمل الفلاش؟
+19101	corpus-6-test-corpus-26-train	FES	شكرا. رجع للغرفة ديالي غدا فنفس الوقت. غادي يكونو التصاور واجدين فداك الوقت.
+19103	corpus-6-test-corpus-26-train	FES	أنا متأسف دابا يمكن ليك تطلب غي من القائمة ديال هاد الليلة.
+19113	corpus-6-test-corpus-26-train	FES	عادي أولى نقي؟
+19144	corpus-6-test-corpus-26-train	FES	عندي حريق الراس.
+19147	corpus-6-test-corpus-26-test	FES	هادي الغرفة اثنا عشر صفر سبعة.
+19148	corpus-6-test-corpus-26-test	FES	بغيت شي غرفة مختلفة.
+19156	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت هاد التأشيرة مزيانة؟
+19162	corpus-6-test-corpus-26-train	FES	واش كاين شي مستشفى هنا؟
+19170	corpus-6-test-corpus-26-train	FES	بغيت لبسة.
+19196	corpus-6-test-corpus-26-train	FES	واش عندك عريض كثر؟
+19215	corpus-6-test-corpus-26-test	FES	غادي نحاول فالتسعة؟
+19217	corpus-6-test-corpus-26-train	FES	فندق آمن كيقدم وجبة فطور زوينة، عافاك.
+19226	corpus-6-test-corpus-26-train	FES	في الحديقة ديال الحيوانات؟
+19232	corpus-6-test-corpus-26-train	FES	واش كاين شي حاجة كبيرة؟
+19250	corpus-6-test-corpus-26-dev	FES	ثلاثون دولارات وثمانين.
+19251	corpus-6-test-corpus-26-train	FES	داكشي كيعتمد على شحال سخونة البلاصة، ولكن فالوسط ديال اليابان، فالاول ديال أبريل.
+19258	corpus-6-test-corpus-26-train	FES	تشيزبوركر وبطاطا مقلية.
+19269	corpus-6-test-corpus-26-train	FES	فات الوقت بالنسبة للطران الأخير.
+19281	corpus-6-test-corpus-26-train	FES	معنديش شي صرف.
+19294	corpus-6-test-corpus-26-train	FES	خديتي تذكرة الحافلة الخاصة بيك؟
+19306	corpus-6-test-corpus-26-train	FES	بطاقة الائتمان، عافاك.
+19307	corpus-6-test-corpus-26-train	FES	كنت في رحلة خطوط يونايتد ثمانية جوج ثمانية.
+19317	corpus-6-test-corpus-26-train	FES	كاينة صداع بزاف فنوالحي ديال الغرفة ديالي.
+19318	corpus-6-test-corpus-26-train	FES	فالساحل الشرقي، يمكن ليك ايضا تلقا البلايص المشهورة، بحال نيويورك وواشنطن العاصمة وبوسطن.
+19327	corpus-6-test-corpus-26-train	FES	واش عندك أوراق يابانية؟
+19329	corpus-6-test-corpus-26-train	FES	كيبان زوين.
+19346	corpus-6-test-corpus-26-train	FES	واش هانية نخلي أمتعتي عندك حتى للساعة الوحدة؟
+19347	corpus-6-test-corpus-26-train	FES	واش كاين شي جولة فالمدينة؟
+19360	corpus-6-test-corpus-26-train	FES	نعم. متأسف لازم. كيفاش الأمن في هاد المنطقة؟
+19391	corpus-6-test-corpus-26-train	FES	كنشوف. كنحاول نكري سيتروين.
+19401	corpus-6-test-corpus-26-dev	FES	عندي موهبة طبيعية خلقية.
+19413	corpus-6-test-corpus-26-train	FES	غادي يكون مزيان فين هي الخبز؟
+19415	corpus-6-test-corpus-26-train	FES	التدخين، عافاك. ومقعد حدا السرجم، عافاك.
+19423	corpus-6-test-corpus-26-train	FES	وشحال مصاريفك ديال الخياطة؟
+19444	corpus-6-test-corpus-26-dev	FES	شكون أسرع، طاكسي أو الإسعاف؟
+19460	corpus-6-test-corpus-26-train	FES	واش عندك هاد تيشيرت فشي لوان أخرى؟
+19463	corpus-6-test-corpus-26-test	FES	ما خصكش تفرج فالتلفازة فكل وقت.
+19466	corpus-6-test-corpus-26-train	FES	نعم، جاين عليه، جاين عليه.
+19467	corpus-6-test-corpus-26-train	FES	من الأحسن ليك تخل المستشفى ديالنا.
+19469	corpus-6-test-corpus-26-train	FES	فين نقدر نلقا سوبر مارشي؟
+19475	corpus-6-test-corpus-26-train	FES	مكلفة شوية. تقدر عطيني استراحة؟
+19479	corpus-6-test-corpus-26-train	FES	شحال عدد التوقفات باش نبدل؟
+19490	corpus-6-test-corpus-26-train	FES	هاد الرجل سرق المحفظة ديالي.
+19494	corpus-6-test-corpus-26-train	FES	حبوب الهضم وحبوب المعدة مختلفة، ياك بصح؟
+19497	corpus-6-test-corpus-26-test	FES	بغيت نشوف الميناء.
+19500	corpus-6-test-corpus-26-test	FES	فكرة زوينة.
+19501	corpus-6-test-corpus-26-train	FES	شحال ديال الوقت بالمشي على الرجلين؟
+19505	corpus-6-test-corpus-26-train	FES	غادي ناخد عشرين من دمية الدب الكبيرة، عافاك.
+19507	corpus-6-test-corpus-26-dev	FES	شحال رقم امين الصندوق؟
+19508	corpus-6-test-corpus-26-train	FES	ساهل. غادي نشوف غي فدليل الهاتف.
+19509	corpus-6-test-corpus-26-dev	FES	واش عندك شي غرفة كبر؟
+19547	corpus-6-test-corpus-26-train	FES	شحال الفاتورة ديالي؟
+19548	corpus-6-test-corpus-26-train	FES	بغيت نبقى فهاد الغرفة لليلة وحدة أخرى.
+19560	corpus-6-test-corpus-26-train	FES	سمحلي، بغيت نسلم تقرير السرقة.
+19572	corpus-6-test-corpus-26-train	FES	واخا، داكشي كيعتمد على وسائل النقل اللي كتاخذها. واش غادي بالحافلة ولا الطيارة؟
+19578	corpus-6-test-corpus-26-train	FES	ماشي مشكل الى جلست هنا؟
+19581	corpus-6-test-corpus-26-train	FES	واش يمكنلي نرسل بريد إلكتروني واحد بدولار؟
+19589	corpus-6-test-corpus-26-train	FES	نعم، عافاك رسلو للغرفة اثني عشر وأربعة وثلاثين.
+19610	corpus-6-test-corpus-26-dev	FES	عافاك عمر هاد نموذج التسجيل.
+19617	corpus-6-test-corpus-26-test	FES	بغيت ناخد جوج تذكرات مشي ورجوع لأكسفورد.
+19619	corpus-6-test-corpus-26-train	FES	فأي وقت خاصني نجي للمطار؟
+19620	corpus-6-test-corpus-26-train	FES	هادا بطيء.
+19623	corpus-6-test-corpus-26-train	FES	فين ممكن نحمض الفيلم ديالي؟
+19643	corpus-6-test-corpus-26-test	FES	لا، عافاك لا. ممكن تحفظ أسئلتك حتى لتالي ديال كلامي، ملي نسولك عليهم؟
+19648	corpus-6-test-corpus-26-dev	FES	بغيت مقعد مزيان.
+19649	corpus-6-test-corpus-26-train	FES	متأسف المرحاض ميخدمش، محتاج مساعدة.
+19651	corpus-6-test-corpus-26-test	FES	حتى حاجة ما صعيبة ولا غامضة.
+19654	corpus-6-test-corpus-26-train	FES	غانجيبك للمقعد ديالك. من هاد الاتجاه عافاكك.
+19656	corpus-6-test-corpus-26-train	FES	سمحلي، ممكن نسولك سؤال؟
+19666	corpus-6-test-corpus-26-train	FES	كنعتقد هادشي.
+19675	corpus-6-test-corpus-26-train	FES	أهلا. فرحان حيت تلاقيتك.
+19691	corpus-6-test-corpus-26-train	FES	أبغيت نتسجل هاد الأمتعة لطوكيو، عافاك.
+19694	corpus-6-test-corpus-26-train	FES	ممكن توريني شي واحد اكبر؟
+19703	corpus-6-test-corpus-26-train	FES	كنظن بلي الحوايج المصنوعة فاليابان بالتأكيد مصممة بشكل زوين.
+19715	corpus-6-test-corpus-26-train	FES	كان أفضل تستسلم.
+19716	corpus-6-test-corpus-26-dev	FES	قل مرة أخرى عافاك.
+19722	corpus-6-test-corpus-26-train	FES	ممكن تكتب لي العنوان ورقم الهاتف، عافاك؟
+19726	corpus-6-test-corpus-26-train	FES	واش سخون؟
+19732	corpus-6-test-corpus-26-train	FES	من اينا مطار غنرحل؟
+19733	corpus-6-test-corpus-26-train	FES	ما وصلكش النموذج فالطيارة؟
+19735	corpus-6-test-corpus-26-train	FES	بغيت مصلوح.
+19752	corpus-6-test-corpus-26-dev	FES	يصبح لثمنية وثلاثين دولار بالتمام.
+19754	corpus-6-test-corpus-26-train	FES	شكرا لمشاركتك أفكارك الفريدة معانا.
+19755	corpus-6-test-corpus-26-train	FES	كنمشي للتزلج جوج مرات فالشهر فالموسم.
+19760	corpus-6-test-corpus-26-train	FES	تولدت في الاول من أبريل في ألف تسعمائة خمسة وخمسين.
+19769	corpus-6-test-corpus-26-test	FES	ممكن نكري مضارب؟
+19809	corpus-6-test-corpus-26-train	FES	واش هادي هي الحافلة الصحيحة لوسط المدينة؟
+19813	corpus-6-test-corpus-26-train	FES	بشحال هاد العطر؟
+19814	corpus-6-test-corpus-26-train	FES	لشنو كيصلح؟
+19819	corpus-6-test-corpus-26-train	FES	فين نقدر ندوز للاجراءات الرسمية؟
+19838	corpus-6-test-corpus-26-dev	FES	خمسين جنيه.
+19840	corpus-6-test-corpus-26-test	FES	واش هادا كيشمل الضرائب؟
+19853	corpus-6-test-corpus-26-test	FES	شنو هي الخراجات؟
+19862	corpus-6-test-corpus-26-train	FES	عافاك استدعي الإسعاف.
+19864	corpus-6-test-corpus-26-dev	FES	غادي نراهن بثلاثة دولار على هادا.
+19871	corpus-6-test-corpus-26-train	FES	كيفاش غايجي؟
+19889	corpus-6-test-corpus-26-train	FES	مكاينش شي ماكلة مكتعجبنيش.
+19902	corpus-6-test-corpus-26-train	FES	"يوم الدستور أو ""كيمبو كيننبي"" هو عطلة وطنية ثلاثة ماي لإحياء ذكرى تأسيس الدستور الياباني الحالي."
+19912	corpus-6-test-corpus-26-train	FES	واش كتشمل هاد الجولة زيارة لبرج سيرز؟
+19923	corpus-6-test-corpus-26-train	FES	واش كاين متجر للكتب هنا؟
+19928	corpus-6-test-corpus-26-train	FES	أنا غادي نحضر المدرسة الصيفية في جامعة هاواي.
+19935	corpus-6-test-corpus-26-train	FES	فين غادي ندوزو دابا؟
+19945	corpus-6-test-corpus-26-train	FES	جوج بالغين وطفل عندو ثلاث سنوات.
+19959	corpus-6-test-corpus-26-train	FES	في حمام في المحطة.
