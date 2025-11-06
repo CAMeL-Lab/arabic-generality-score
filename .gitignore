@@ -1,4 +1,5 @@
 .venv
 .venv/
 models/
-data/MADAR/MADAR.Parallel-Corpora-Public-Version1.1-25MAR2021/Icon_
+Icon_
+output/
