@@ -152,7 +152,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_path = None
         max_prob = 0
         for b in caphi_2:
-            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1))
+            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1)
             if (prob_etym < 0.4):
                 prob_1 = caphi_coda_dict.get((dialect2, '-1', b), {}).get("P(CODA|CAPHI)", 0) * dialect_dict.get(dialect2, {}).get(letter2, {}).get(b, 0)
                 if prob_1 > max_prob:
@@ -169,7 +169,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_path = None
         max_prob = 0
         for a in caphi_1:
-            prob_etym = caphi_coda_dict.get((dialect1, letter1, a), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1))
+            prob_etym = caphi_coda_dict.get((dialect1, letter1, a), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1)+1)
             if (prob_etym < 0.4):
                 prob_1 = caphi_coda_dict.get((dialect1, '-1', a), {}).get("P(CODA|CAPHI)", 0) * dialect_dict.get(dialect1, {}).get(letter1, {}).get(a, 0)
                 if prob_1 > max_prob:
@@ -186,7 +186,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_path = None
         max_prob = 0
         for b in caphi_2:
-            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1))
+            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1)
             if (prob_etym < 0.4):
                 prob_1 = caphi_coda_dict.get((dialect2, '-1', b), {}).get("P(CODA|CAPHI)", 0) * dialect_dict.get(dialect2, {}).get(letter2, {}).get(b, 0)
                 if prob_1 > max_prob:
@@ -211,7 +211,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_prob = 0
         best_path = None
         for b in caphi_2:
-            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1))
+            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1)
             if (prob_etym < 0.4):
                 prob = caphi_coda_dict.get((dialect2, letter1, b), {}).get("P(CODA|CAPHI)", 0) * dialect_dict[dialect2].get(letter2, {}).get(b, 0)
                 prob_sum += prob
@@ -234,7 +234,8 @@ def compute_substitution_cost(letters, threshold: float = 0):
         for a in caphi_1:
             for b in caphi_2:
                 prob_etym_1 = (caphi_coda_dict.get((dialect1, letter1, a), {}).get("etym_count", 0) /
-                                (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1)))
+                                (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1))+1
+                                )
                 if ((prob_etym_1 > 0.4) and (letter1 != coda)
                         and (not caphi_coda_dict.get((dialect1, letter1, a), {}).get("default mapping", False))):
                     prob_1 = 0
@@ -245,7 +246,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
                              * dialect_dict[dialect1].get(letter1, {}).get(a, 0)
 
                 prob_etym_2 = (caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) /
-                                (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)))
+                                (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1))
                 if ((prob_etym_2 > 0.4) and (letter2 != coda)
                         and not (caphi_coda_dict.get((dialect2, letter2, b), {}).get("default mapping", False))):
                     prob_2 = 0
