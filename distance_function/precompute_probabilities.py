@@ -13,11 +13,10 @@ from utilities.preprocess_text import preprocess_text
 
 
 
-# NOTE (see KNOWN_ISSUES.md): this list uses 'ALX'/'RIY'/'SFA' where the rest of the
-# codebase and data/MADAR/MADAR.tsv use 'ALEX'/'ARI'/'SFX'. Kept verbatim from the
-# thesis notebook: only the 6 core dialects (BEI/CAI/DOH/RAB/TUN + MSA) have CODA/CAPHI
-# resources, so the 20 extra codes only ever key empty entries in dialect_dict below.
-# Do NOT "fix" this in isolation — it would change the 26-dialect AGS numbers.
+# This list spells Alexandria/Riyadh/Sfax as 'ALX'/'RIY'/'SFA', while the rest of the
+# codebase and data/MADAR/MADAR.tsv use 'ALEX'/'ARI'/'SFX'. The difference is inert:
+# only the six core dialects (BEI/CAI/DOH/RAB/TUN + MSA) have CODA/CAPHI resources, so
+# the other 20 codes only ever key empty entries in dialect_dict below (see KNOWN_ISSUES.md).
 dialects_26 = ['MSA','BEI', 'ALX', 'AMM', 'ASW', 'ALE', 'CAI',
        'DAM', 'JER', 'SAL', 'DOH', 'RAB', 'TUN', 'ALG', 'BAG', 'BAS', 'BEN',
        'FES', 'JED', 'KHA', 'MOS', 'MUS', 'RIY', 'SAN', 'SFA', 'TRI']
@@ -507,7 +506,6 @@ if __name__ == '__main__':
     raw_CODA_CAPHI = pd.merge(raw_CODA_df, MADAR_lex, on=['CODA', 'Dialect'], how='inner')
     raw_CODA_CAPHI[raw_CODA_CAPHI.apply(lambda x: x['raw'] != x['CODA'], axis=1)]
     raw_CODA_CAPHI[['raw', 'CODA', 'CAPHI', 'Dialect', 'Example', 'English']]
-    # raw_CODA_CAPHI.to_csv('/content/drive/MyDrive/Thesis/raw_CODA_CAPHI.tsv', sep='\t', index=False)
 
     ################
     caphi_table = import_caphi_table_df()
@@ -516,7 +514,6 @@ if __name__ == '__main__':
     mappings['ا'].extend('2')
     mappings['ا'].extend('e')
     MADAR_lex['alignment'] = MADAR_lex.apply(lambda row: arabic_caphi_alignment(row['CODA'], row['CAPHI'], mappings) if not pd.isna(row['CAPHI']) and not pd.isna(row['CODA']) else np.nan, axis=1)
-    # MADAR_lex.to_csv('/content/drive/MyDrive/Thesis/Data/MADAR_Lexicon_v1.0/MADAR_Lexicon_v1.0_aligned.tsv', sep='\t', index=False)
     ##################
 
 

@@ -8,8 +8,8 @@ version = "0.1.0"
 description = "The Arabic Generality Score (AGS): another dimension of modeling Arabic dialectness."
 readme = "README.md"
 requires-python = ">=3.9"
-# NOTE: no code license is declared yet — see KNOWN_ISSUES.md. Bundled corpora under
-# data/ keep their own upstream licenses (LICENSE.txt files alongside them).
+# No code license is declared yet; add a top-level LICENSE before distributing.
+# Bundled corpora under data/ keep their own upstream licenses.
 authors = [
     { name = "Sanad Sha'ban" },
     { name = "Nizar Habash" },

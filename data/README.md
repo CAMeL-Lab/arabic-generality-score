@@ -23,6 +23,3 @@ passed via `--mdid-csv`:
   generality = `n_valid / 11`), `split` (`dev` / `test`). Build it from the
   NADI-2024 shared-task release (licence-restricted — request access from the NADI
   organisers) plus the MDID annotations.
-
-Other datasets referenced by *excluded* thesis notebooks (AOC-ALDi, the CAMeL
-Arabic frequency lists) are not used by anything in this repo.

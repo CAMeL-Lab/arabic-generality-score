@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
-Turn the per-word AGS table into ``(sentence, score, dialect)`` training rows.
-
-Reproduces the data-construction cells of ``Exp_2.ipynb`` (contextual model) and
-``Exp_1.ipynb`` (word-only model):
+Turn the per-word AGS table into training rows for the contextual and word-only
+regressors:
 
   1. build the corpus-6 / corpus-26 views of the AGS table and flatten each score
      column to a single number (``[6]`` for the -6 view, ``[corpus]`` for the -26 view);
@@ -15,16 +13,13 @@ Reproduces the data-construction cells of ``Exp_2.ipynb`` (contextual model) and
 
 Input:  output/MADAR_26_word_alignment_aug_agg.tsv  (written by AGS_extraction/AGS_extraction.py)
         data/MADAR/MADAR.tsv                        (written by MADAR_alignment/build_madar_table.py)
-Output (contextual): <out-dir>/ags_train_<corpus>.csv, ags_dev_<corpus>.csv
-Output (word-only):  <out-dir>/ags_word_train.csv, ags_word_dev.csv   (with --word-only)
+Output (contextual): <out-dir>/ags_train_<corpus>.csv, ags_dev_<corpus>.csv   -> (sentence, score, dialect)
+Output (word-only):  <out-dir>/ags_word_train.csv, ags_word_dev.csv          -> (word, generality)   (with --word-only)
 
 Usage (from the repo root):
   python -m AGS_training.build_training_data --corpus 6 --target-col min_t_0.5_k_20
   python -m AGS_training.build_training_data --corpus 26 --target-col min_t_0.5_k_20
   python -m AGS_training.build_training_data --word-only --target-col min_t_0.5_k_20
-
-(the thesis calls the min-aggregator family ``smooth_t_*``; AGS_extraction.py writes
-it as ``min_t_*`` — same quantity.)
 """
 
 import argparse
@@ -45,9 +40,8 @@ DEFAULT_AGG = os.path.join("output", "MADAR_26_word_alignment_aug_agg.tsv")
 DEFAULT_MADAR = os.path.join("data", "MADAR", "MADAR.tsv")
 DEFAULT_OUT_DIR = "output"
 
-# Corpus-6 uses unambiguous codes. Corpus-26 uses the codes that the rest of this
-# repo (reformat_alignments.py / AGS_extraction.py) actually writes as columns
-# (ALEX/ARI/SFX). See KNOWN_ISSUES.md about the historical ALX/RIY/SFA spelling.
+# Corpus-26 uses the dialect-code spellings that reformat_alignments.py and
+# AGS_extraction.py emit as columns (ALEX/ARI/SFX).
 DIALECTS_6 = ["MSA", "BEI", "CAI", "TUN", "DOH", "RAB"]
 DIALECTS_26 = [
     "BEI", "ALEX", "AMM", "ASW", "ALE", "CAI", "DAM", "JER", "SAL", "MSA", "DOH",
@@ -74,7 +68,7 @@ def _has_only_none_key(d) -> bool:
 
 
 def mark_target_word(sentence: str, target_word: str):
-    """Wrap the first substring occurrence of ``target_word`` (Exp_2 cell 19)."""
+    """Wrap the first substring occurrence of ``target_word`` with the [TGT] markers."""
     if target_word in sentence:
         return sentence.replace(target_word, f"[TGT]{target_word}[/TGT]", 1)
     return None
@@ -87,7 +81,7 @@ def load_agg_table(path: str) -> pd.DataFrame:
 
 
 def _flatten_scores(df: pd.DataFrame, corpus: int) -> pd.DataFrame:
-    """corpus==6 -> score[6]; corpus==26 -> score[row['corpus']] (Exp_2 cells 10-11)."""
+    """Flatten each dict-valued score column: corpus==6 -> score[6]; corpus==26 -> score[row['corpus']]."""
     df = df.copy()
     if corpus == 6:
         df = df[df["dialect"].isin(DIALECTS_6)].copy()
@@ -105,7 +99,7 @@ def _flatten_scores(df: pd.DataFrame, corpus: int) -> pd.DataFrame:
 
 
 def _filter(df: pd.DataFrame, corpus: int, n_none_6: int, n_none_26: int) -> pd.DataFrame:
-    """Exp_2 cell 13-14: drop MWEs / digits / 1-char words / too-many-empty rows."""
+    """Drop multi-word entries, digits, single characters, and rows with too many empty dialect columns."""
     dialect_cols = DIALECTS_6 if corpus == 6 else DIALECTS_26
     out = df[df["word"].apply(lambda x: isinstance(x, str) and len(x.split()) < 3)]
     if corpus == 6:
@@ -122,7 +116,7 @@ def _filter(df: pd.DataFrame, corpus: int, n_none_6: int, n_none_26: int) -> pd.
 
 
 def build_word_dialect_index(madar_df: pd.DataFrame, dialects) -> dict:
-    """(word, dialect) -> [sentID] over the raw MADAR sentence table (Exp_2 cell 18)."""
+    """Map every (word, dialect) to the sentence ids whose dialect sentence contains that word."""
     index = defaultdict(list)
     for sent_id, row in madar_df.iterrows():
         for dialect in dialects:
@@ -134,7 +128,7 @@ def build_word_dialect_index(madar_df: pd.DataFrame, dialects) -> dict:
 
 
 def add_marked_sentences(df: pd.DataFrame, madar_df: pd.DataFrame, word_dialect_index: dict) -> pd.DataFrame:
-    """For each row, mark the first dict-word's occurrences in its dialect (Exp_2 cell 20)."""
+    """For each row, mark occurrences of its first aligned word in that dialect's sentences."""
     marked_col, sent_id_col = [], []
     for _, row in df.iterrows():
         dialect = row["dialect"]
@@ -166,7 +160,7 @@ def add_marked_sentences(df: pd.DataFrame, madar_df: pd.DataFrame, word_dialect_
 
 
 def explode_and_split(df: pd.DataFrame, target_col: str, seed: int, test_size: float = 0.1):
-    """1-2 marked sentences per row, then stratified 90/10 split (Exp_2 cells 42-43)."""
+    """Keep 1-2 marked sentences per row, then stratified 90/10 train/dev split by dialect."""
     random.seed(seed)
     rows = []
     for _, row in df.iterrows():
@@ -188,7 +182,7 @@ def explode_and_split(df: pd.DataFrame, target_col: str, seed: int, test_size: f
 
 
 def build_word_only(df: pd.DataFrame, target_col: str, seed: int, test_size: float = 0.1):
-    """Exp_1 cells 7-9 + 19: group the raw dialect word by the mean target score."""
+    """Group the raw (unnormalized) dialect word form by its mean target score."""
     df = df.copy()
     df["unprocessed_word"] = df.apply(
         lambda r: max(r[r["dialect"]], key=r[r["dialect"]].get) if isinstance(r[r["dialect"]], dict) and r[r["dialect"]] else None,
@@ -213,7 +207,7 @@ def parse_args():
     p.add_argument("--n-none-6", type=int, default=1)
     p.add_argument("--n-none-26", type=int, default=6)
     p.add_argument("--seed", type=int, default=42)
-    p.add_argument("--word-only", action="store_true", help="Build the Exp_1 word-only dataset instead")
+    p.add_argument("--word-only", action="store_true", help="Build the (word, generality) dataset for the word-only model")
     return p.parse_args()
 
 
@@ -223,7 +217,7 @@ def main(args):
     agg = load_agg_table(args.agg_table)
 
     if args.word_only:
-        # Exp_1 works off the corpus-6 view.
+        # the word-only dataset is built from the corpus-6 view.
         view = _flatten_scores(agg, 6)
         view = _filter(view, 6, args.n_none_6, args.n_none_26)
         train_df, dev_df = build_word_only(view, args.target_col, args.seed)

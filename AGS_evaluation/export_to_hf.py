@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Convert a ``.pt`` BertRegressor checkpoint into a standard Hugging Face
-``AutoModelForSequenceClassification`` regression model
-(``Evaluation-Inference.ipynb`` cell 64), optionally pushing it to the Hub.
+``AutoModelForSequenceClassification`` regression model, optionally pushing it to
+the Hub.
 
 The custom head (``regressor.*`` on the pooled [CLS]) is remapped onto HF's
 ``classifier.*`` so the exported model runs with plain

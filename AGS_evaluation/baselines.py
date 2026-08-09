@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Reference baselines for the MDID sentence-generality task
-(``Evaluation-Inference.ipynb`` cells 47-62 and ``baseline_word_lookup.ipynb``).
+Reference baselines for the MDID sentence-generality task.
 
   constant : predict the dev-set mean generality for every test sentence
   random   : predict Uniform(0, 1)

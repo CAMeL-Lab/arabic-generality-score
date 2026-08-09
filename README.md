@@ -54,7 +54,7 @@ python run_pipeline.py --only build-table
 or invoke the stages directly:
 
 ```bash
-# 0. merge the per-city MADAR files (data/MADAR/MADAR.tsv is already committed)
+# 0. merge the per-city MADAR files (data/MADAR/MADAR.tsv already ships with the repo)
 python -m MADAR_alignment.build_madar_table
 
 # 1. fine-tune AWESOME-align on MSA|||DIALECT pairs                        [GPU]
@@ -93,9 +93,8 @@ python -m AGS_training.train_sentence_ags \
   --tokenizer-dir models/ags_tokenizer --output-dir models/ags_sentence_madar6      # [GPU]
 ```
 
-The word-only variant (`Exp_1`): `build_training_data --word-only` then
-`train_word_ags`. wandb logging is off unless you pass `--wandb-project` and set
-`WANDB_API_KEY`.
+The word-only variant: `build_training_data --word-only` then `train_word_ags`.
+wandb logging is off unless you pass `--wandb-project` and set `WANDB_API_KEY`.
 
 ## Inference
 

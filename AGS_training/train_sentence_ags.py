@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fine-tune the contextual AGS regressor (``Exp_2.ipynb``, cells 44-47).
+Fine-tune the contextual AGS regressor.
 
 Input:  a marked-sentence CSV (``sentence,score,dialect``) from
         ``AGS_training/build_training_data.py`` (no ``--word-only``).
@@ -65,7 +65,7 @@ class GeneralityDataset(Dataset):
 
 
 class BertRegressor(nn.Module):
-    """Exp_2 cell 46: pooled [CLS] -> dropout -> Linear(1)."""
+    """Pooled [CLS] -> dropout(0.3) -> Linear(hidden, 1)."""
 
     def __init__(self, model_name):
         super().__init__()
@@ -203,7 +203,7 @@ def parse_args():
     p.add_argument("--checkpoint-steps", type=int, default=500)
     p.add_argument("--max-steps", type=int, default=None, help="Stop early (smoke tests)")
     p.add_argument("--seed", type=int, default=42)
-    p.add_argument("--fresh", action="store_true", help="Delete --output-dir before training (Exp_2 default)")
+    p.add_argument("--fresh", action="store_true", help="Delete --output-dir before training")
     p.add_argument("--wandb-project", default=None, help="Enable wandb logging under this project")
     p.add_argument("--wandb-run", default=None)
     return p.parse_args()

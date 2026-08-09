@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fine-tune the word-only AGS regressor (``Exp_1.ipynb``, cells 20-25).
+Fine-tune the word-only AGS regressor.
 
 Input:  a ``word,generality`` CSV from
         ``AGS_training/build_training_data.py --word-only``.

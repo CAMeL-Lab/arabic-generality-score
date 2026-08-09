@@ -271,7 +271,7 @@ def group_alignment_df(df, dialects_ = ['MSA', 'BEI', 'CAI', 'TUN', 'DOH', 'RAB'
 
     aggregations = {dialect: _count_terms for dialect in dialects}
     grouped = df.groupby(['normalized_word', 'dialect']).agg(aggregations).reset_index()
-    # Downstream (AGS_extraction) and the thesis `word_alignments.tsv` expect `word`.
+    # Downstream stages (AGS_extraction) key this column as `word`.
     grouped = grouped.rename(columns={'normalized_word': 'word'})
     return grouped
 

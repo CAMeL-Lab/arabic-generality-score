@@ -6,8 +6,6 @@ Save a copy of the base CAMeLBERT tokenizer with the AGS special tokens added.
   ``[TGT] ... [/TGT]``.
 - The **word** model (train_word_ags.py) prefixes the bare word with ``<GENERALITY>``.
 
-Reproduces cell 25 of ``Exp_2.ipynb`` / cell 20 of ``Exp_1.ipynb``.
-
 Usage (from the repo root):
   python -m AGS_training.prepare_tokenizer --mode sentence --out models/ags_tokenizer
   python -m AGS_training.prepare_tokenizer --mode word --out models/ags_word_tokenizer

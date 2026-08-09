@@ -61,8 +61,8 @@ def load_distance_resources(
                 "default mapping": bool(row.get("default_mapping", False)),
                 "phon_count": int(row.get("phon_count", 0)),
                 "etym_count": int(row.get("etym_count", 0)),
-                # A persisted total of 0 means "never updated"; the thesis notebook had no
-                # `total` key for those, so `.get("total", 1)` yielded 1. Preserve that.
+                # total == 0 means the entry carries no phon/etym evidence; use 1 so the
+                # etymological-probability ratio stays 0 rather than dividing by zero.
                 "total": int(row.get("total", 0)) or 1,
                 "etym_examples": [] if pd.isna(row.get("etym_examples", "")) else str(row.get("etym_examples")).split("|"),
             }

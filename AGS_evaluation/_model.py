@@ -1,4 +1,4 @@
-"""Shared inference helpers for the ``.pt`` BertRegressor checkpoints (Evaluation-Inference.ipynb)."""
+"""Shared inference helpers for the ``.pt`` BertRegressor checkpoints from AGS_training."""
 
 import torch
 from transformers import AutoTokenizer
@@ -14,7 +14,7 @@ def load_tokenizer(tokenizer_dir: str):
 
 
 def load_gen_model(checkpoint_path: str, tokenizer, base_model: str = BASE_MODEL) -> BertRegressor:
-    """Evaluation-Inference.ipynb cell 9: build the module, load a raw state_dict, eval()."""
+    """Build the module, load a raw ``state_dict`` checkpoint, put it in eval mode."""
     model = BertRegressor(base_model)
     model.bert.resize_token_embeddings(len(tokenizer))
     model.to(DEVICE)
@@ -43,19 +43,19 @@ def predict_score(model, tokenizer, sentence: str, target_word: str, max_length:
 
 
 def predict_scores_sent(model, tokenizer, sentence: str):
-    """Per-word AGS for a sentence (Evaluation-Inference.ipynb cell 5)."""
+    """Per-word AGS for a sentence (underscores treated as spaces, then normalized)."""
     sentence = " ".join(sentence.split("_"))
     sentence = preprocess_text(sentence)
     return [predict_score(model, tokenizer, sentence, w) for w in sentence.split()]
 
 
 def hmean(word_scores, eps: float = 1e-6) -> float:
-    """Pure-python harmonic mean (Evaluation-Inference.ipynb cell 14)."""
+    """Harmonic mean of a list of scores."""
     safe = [max(s, eps) for s in word_scores]
     denom = sum(1.0 / s for s in safe)
     return len(safe) / denom if denom else 0.0
 
 
 def sentence_generality(word_scores, k: int) -> float:
-    """Harmonic mean of the k lowest word scores (Evaluation-Inference.ipynb cell 15)."""
+    """Sentence-level generality: harmonic mean of the k lowest word scores."""
     return hmean(sorted(word_scores)[:k])

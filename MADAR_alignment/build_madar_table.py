@@ -3,11 +3,10 @@
 Build the merged MADAR-26 table (``data/MADAR/MADAR.tsv``) from the per-city
 corpus files shipped under ``data/MADAR/MADAR.Parallel-Corpora-...``.
 
-This reproduces cell 5 of ``MADAR_alignment.ipynb``: take Beirut as the base
-(it carries the ``split`` column), left-merge every other city on
-``sentID.BTEC``, rename each ``sent`` column to the short dialect code, index by
-``sentID.BTEC`` and write TSV. ``data/MADAR/MADAR.tsv`` is already committed; run
-this only to regenerate it.
+Takes Beirut as the base frame (it carries the ``split`` column), left-merges
+every other city on ``sentID.BTEC``, renames each ``sent`` column to its short
+dialect code, indexes by ``sentID.BTEC`` and writes TSV. ``data/MADAR/MADAR.tsv``
+ships with the repo; run this to regenerate it.
 
 Usage (from the repo root):
   python -m MADAR_alignment.build_madar_table
@@ -28,7 +27,7 @@ DEFAULT_CORPUS_DIR = os.path.join(
 )
 DEFAULT_OUT = os.path.join("data", "MADAR", "MADAR.tsv")
 
-# (city file stem, short code) — order matches the committed MADAR.tsv column order.
+# (city file stem, short dialect code) in the canonical MADAR.tsv column order.
 # Beirut is handled separately as the base frame (it keeps the `split` column).
 CITY_CODES = [
     ("Alexandria", "ALEX"), ("Amman", "AMM"), ("Aswan", "ASW"), ("Aleppo", "ALE"),

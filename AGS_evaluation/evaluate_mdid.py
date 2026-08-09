@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Evaluate an AGS checkpoint on MDID (``Evaluation-Inference.ipynb`` cells 11-19).
+Evaluate an AGS checkpoint on MDID.
 
 MDID = the NADI-2024 subtask-1 sentences with per-country validity annotations.
 The gold sentence-level generality is ``n_valid / 11``; the prediction is the

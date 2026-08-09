@@ -20,8 +20,8 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OUTPUT_DIR = os.environ.get("AGS_OUTPUT_DIR", os.path.join(ROOT, "output"))
 ALIGN_PATH = os.path.join(OUTPUT_DIR, "MADAR_reformatted_word_alignments.tsv")
 SCORES_OUT = os.path.join(OUTPUT_DIR, "AGS_scores.tsv")
-# Full pre-unpack table (dict-valued columns kept). Mirrors Distance_Function.ipynb
-# cell 107; consumed by AGS_training/build_training_data.py.
+# Full table with the dict-valued distance/score columns kept; consumed by
+# AGS_training/build_training_data.py.
 FULL_OUT = os.path.join(OUTPUT_DIR, "MADAR_26_word_alignment_aug_agg.tsv")
 
 dialects_26 = [
@@ -221,8 +221,7 @@ def main():
     for c in agg_cols:
         unpack_scores(df, c)
 
-    # 7b) dump the full table (dict columns + unpacked c6/c26) for downstream training-data
-    #     construction. Additive: does not touch the compact AGS_scores.tsv below.
+    # 7b) write the full table (dict columns + unpacked c6/c26) for training-data construction
     df.to_csv(FULL_OUT, sep="\t", index=False)
     print(f"[OK] full aug/agg table written to: {FULL_OUT}")
 
