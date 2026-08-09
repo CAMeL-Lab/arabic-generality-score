@@ -6,10 +6,12 @@ Scores each token by wrapping one occurrence at a time with [TGT]...[/TGT],
 then aggregates with the Generalized Harmonic Mean (GHM).
 
 Example:
-  python AGS_inference/sentence_AGS.py \
+  python -m AGS_inference.sentence_AGS \
     --text "هذا مثال بسيط لقياس العمومية على مستوى الجملة." \
     --p 2.0
 """
+
+from __future__ import annotations  # `str | None` / `tuple[...]` hints on Python 3.9
 
 import argparse
 import re

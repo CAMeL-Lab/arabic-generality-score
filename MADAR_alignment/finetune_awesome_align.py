@@ -5,9 +5,7 @@ import subprocess
 import pandas as pd
 from transformers import AutoModel, AutoTokenizer
 
-# Make project root importable so `utilities` resolves when running this file directly
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from utilities.preprocess_text import preprocess_text  # noqa: E402
+from utilities.preprocess_text import preprocess_text
 
 # -------------------------
 # Logging setup (simple + helpful)

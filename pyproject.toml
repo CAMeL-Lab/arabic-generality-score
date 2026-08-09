@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arabic-generality-score"
+version = "0.1.0"
+description = "The Arabic Generality Score (AGS): another dimension of modeling Arabic dialectness."
+readme = "README.md"
+requires-python = ">=3.9"
+# NOTE: no code license is declared yet — see KNOWN_ISSUES.md. Bundled corpora under
+# data/ keep their own upstream licenses (LICENSE.txt files alongside them).
+authors = [
+    { name = "Sanad Sha'ban" },
+    { name = "Nizar Habash" },
+]
+keywords = ["arabic", "nlp", "dialectness", "dialect-identification", "AGS", "MADAR"]
+dependencies = [
+    "camel-tools",
+    "awesome-align",
+    "python-Levenshtein",
+    "pandas",
+    "numpy",
+    "tqdm",
+    "torch",
+    "transformers",
+    "scikit-learn",
+]
+
+[project.optional-dependencies]
+train = ["wandb", "accelerate"]
+export = ["huggingface_hub"]
+
+[project.urls]
+Paper = "https://aclanthology.org/2025.emnlp-main.1524/"
+Model = "https://huggingface.co/Sanadshabann/AGS"
+
+[project.scripts]
+ags-pipeline = "run_pipeline:main"
+
+[tool.setuptools]
+py-modules = ["run_pipeline"]
+packages = [
+    "utilities",
+    "MADAR_alignment",
+    "distance_function",
+    "AGS_extraction",
+    "AGS_training",
+    "AGS_inference",
+    "AGS_evaluation",
+]

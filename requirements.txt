@@ -1,3 +1,15 @@
+# Core pipeline (stages 1-5): alignment -> probabilities -> distance -> AGS extraction -> inference
 camel-tools
 awesome-align
 python-Levenshtein
+pandas
+numpy
+tqdm
+torch
+transformers
+scikit-learn
+
+# Optional — only needed for training / evaluation / Hub export (stage 6)
+# wandb            # experiment logging; enabled only when --wandb-project is passed
+# huggingface_hub  # AGS_evaluation/export_to_hf.py --push
+# accelerate       # faster training on GPU

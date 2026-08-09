@@ -1,16 +1,23 @@
+# distance_function/precompute_probabilities.py
+# Build the CODA<->CAPHI, ORTHO<->CODA and CAPHI|ORTHO probability tables (plus
+# phonological/etymological counts) from MADAR-CODA CED alignments, the MADAR
+# Lexicon and the CAPHI table. Writes TSV/JSON artifacts consumed by
+# substitution_weight.py. Run from the repo root: python -m distance_function.precompute_probabilities
+
 import pandas as pd
 import numpy as np
 import os
-import sys
-from collections import defaultdict
 
-# allow relative import of utilities/
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from utilities.preprocess_text import preprocess_text
 
 
 
 
+# NOTE (see KNOWN_ISSUES.md): this list uses 'ALX'/'RIY'/'SFA' where the rest of the
+# codebase and data/MADAR/MADAR.tsv use 'ALEX'/'ARI'/'SFX'. Kept verbatim from the
+# thesis notebook: only the 6 core dialects (BEI/CAI/DOH/RAB/TUN + MSA) have CODA/CAPHI
+# resources, so the 20 extra codes only ever key empty entries in dialect_dict below.
+# Do NOT "fix" this in isolation — it would change the 26-dialect AGS numbers.
 dialects_26 = ['MSA','BEI', 'ALX', 'AMM', 'ASW', 'ALE', 'CAI',
        'DAM', 'JER', 'SAL', 'DOH', 'RAB', 'TUN', 'ALG', 'BAG', 'BAS', 'BEN',
        'FES', 'JED', 'KHA', 'MOS', 'MUS', 'RIY', 'SAN', 'SFA', 'TRI']
@@ -20,7 +27,7 @@ dialects_26 = ['MSA','BEI', 'ALX', 'AMM', 'ASW', 'ALE', 'CAI',
 import logging, json
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
-log = logging.getLogger("compute_probabilities")
+log = logging.getLogger("precompute_probabilities")
 
 OUTPUT_DIR = os.environ.get("AGS_OUTPUT_DIR", "output")  # reuse your existing ./output
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -579,7 +586,7 @@ if __name__ == '__main__':
 
     for coda, alignment in alignments_dict.items():
         for coda_char, caphi_align_dict in alignment:
-            #if a coda char is mapped to different default and non_default caphi chars, then all mappings are etymological, and the default ones are phonological
+            #if a coda char is mapped to different default and non_default caphi chars, then all mappings are etymological, and the default ones are phonological too
             #else all mappings are phonological
             caphi_set = set(caphi_align_dict.values())
             if caphi_set.issubset(coda_to_dafault_caphi_dict.get(coda_char, {})):

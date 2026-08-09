@@ -12,9 +12,8 @@ import argparse
 import logging
 import subprocess
 import pandas as pd
-from copy import deepcopy
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from utilities.preprocess_text import preprocess_text  # noqa: E402
+
+from utilities.preprocess_text import preprocess_text
 # -------------------------
 # Logging
 # -------------------------

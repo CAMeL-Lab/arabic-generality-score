@@ -1,5 +1,6 @@
-# distance_function/augmented_distance.py
-# Minimal refactor: load saved artifacts from ./output and expose compute_substitution_cost()
+# distance_function/substitution_weight.py
+# Load the probability tables written by precompute_probabilities.py and expose
+# compute_substitution_cost(): a phonology-aware cost for one character substitution.
 
 import os
 import json
@@ -60,7 +61,9 @@ def load_distance_resources(
                 "default mapping": bool(row.get("default_mapping", False)),
                 "phon_count": int(row.get("phon_count", 0)),
                 "etym_count": int(row.get("etym_count", 0)),
-                "total": int(row.get("total", 0)),
+                # A persisted total of 0 means "never updated"; the thesis notebook had no
+                # `total` key for those, so `.get("total", 1)` yielded 1. Preserve that.
+                "total": int(row.get("total", 0)) or 1,
                 "etym_examples": [] if pd.isna(row.get("etym_examples", "")) else str(row.get("etym_examples")).split("|"),
             }
             for _, row in caphi_flat.iterrows()
@@ -72,7 +75,7 @@ def load_distance_resources(
                 "P(CODA|CAPHI)": row["P(CODA|CAPHI)"],
                 "P(CAPHI|CODA)": row["P(CAPHI|CODA)"],
                 "default mapping": False,
-                "phon_count": 0, "etym_count": 0, "total": 0, "etym_examples": [],
+                "phon_count": 0, "etym_count": 0, "total": 1, "etym_examples": [],
             }
             for _, row in caphi_coda_probability_df.iterrows()
         }
@@ -152,7 +155,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_path = None
         max_prob = 0
         for b in caphi_2:
-            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1)
+            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1))
             if (prob_etym < 0.4):
                 prob_1 = caphi_coda_dict.get((dialect2, '-1', b), {}).get("P(CODA|CAPHI)", 0) * dialect_dict.get(dialect2, {}).get(letter2, {}).get(b, 0)
                 if prob_1 > max_prob:
@@ -169,7 +172,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_path = None
         max_prob = 0
         for a in caphi_1:
-            prob_etym = caphi_coda_dict.get((dialect1, letter1, a), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1)+1)
+            prob_etym = caphi_coda_dict.get((dialect1, letter1, a), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1))
             if (prob_etym < 0.4):
                 prob_1 = caphi_coda_dict.get((dialect1, '-1', a), {}).get("P(CODA|CAPHI)", 0) * dialect_dict.get(dialect1, {}).get(letter1, {}).get(a, 0)
                 if prob_1 > max_prob:
@@ -186,7 +189,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_path = None
         max_prob = 0
         for b in caphi_2:
-            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1)
+            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1))
             if (prob_etym < 0.4):
                 prob_1 = caphi_coda_dict.get((dialect2, '-1', b), {}).get("P(CODA|CAPHI)", 0) * dialect_dict.get(dialect2, {}).get(letter2, {}).get(b, 0)
                 if prob_1 > max_prob:
@@ -211,7 +214,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         best_prob = 0
         best_path = None
         for b in caphi_2:
-            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1)
+            prob_etym = caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) / (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1))
             if (prob_etym < 0.4):
                 prob = caphi_coda_dict.get((dialect2, letter1, b), {}).get("P(CODA|CAPHI)", 0) * dialect_dict[dialect2].get(letter2, {}).get(b, 0)
                 prob_sum += prob
@@ -234,7 +237,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
         for a in caphi_1:
             for b in caphi_2:
                 prob_etym_1 = (caphi_coda_dict.get((dialect1, letter1, a), {}).get("etym_count", 0) /
-                                (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1))+1
+                                (caphi_coda_dict.get((dialect1, letter1, a), {}).get("total", 1))
                                 )
                 if ((prob_etym_1 > 0.4) and (letter1 != coda)
                         and (not caphi_coda_dict.get((dialect1, letter1, a), {}).get("default mapping", False))):
@@ -246,7 +249,7 @@ def compute_substitution_cost(letters, threshold: float = 0):
                              * dialect_dict[dialect1].get(letter1, {}).get(a, 0)
 
                 prob_etym_2 = (caphi_coda_dict.get((dialect2, letter2, b), {}).get("etym_count", 0) /
-                                (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)+1))
+                                (caphi_coda_dict.get((dialect2, letter2, b), {}).get("total", 1)))
                 if ((prob_etym_2 > 0.4) and (letter2 != coda)
                         and not (caphi_coda_dict.get((dialect2, letter2, b), {}).get("default mapping", False))):
                     prob_2 = 0

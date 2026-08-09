@@ -1,6 +1,19 @@
+#!/usr/bin/env python3
+"""
+Reformat AWESOME-align index output into a per-concept MSA<->dialect word table.
+
+Pivots alignments around the MSA axis, resolves one-to-many then many-to-one
+mappings, and aggregates identical (normalized_word, dialect) rows into
+{dialect: {word: count}} dicts.
+
+Run from the repo root:
+  python -m MADAR_alignment.reformat_alignments \\
+    --alignment_idx_path output/finetuned_awesome_align_output_MADAR_26_idx.txt \\
+    --id_dialect_path output/id_dialect.txt \\
+    --out_tsv output/MADAR_reformatted_word_alignments.tsv
+"""
 
 import os
-import sys
 import argparse
 import logging
 import pandas as pd
@@ -11,11 +24,15 @@ from collections import Counter
 from tqdm import tqdm
 tqdm.pandas()  # enables .progress_apply / .progress_map
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from utilities.preprocess_text import preprocess_text
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
-logger = logging.getLogger("run_alignment")
+logger = logging.getLogger("reformat_alignments")
+
+DEFAULT_MADAR_TSV = "data/MADAR/MADAR.tsv"
+DEFAULT_ALIGNMENT_IDX = "output/finetuned_awesome_align_output_MADAR_26_idx.txt"
+DEFAULT_ID_DIALECT = "output/id_dialect.txt"
+DEFAULT_OUT_TSV = "output/MADAR_reformatted_word_alignments.tsv"
 
 dialects_26 = [
     "BEI", "ALEX", "AMM", "ASW", "ALE", "CAI", "DAM", "JER", "SAL",
@@ -23,12 +40,11 @@ dialects_26 = [
     "JED", "KHA", "MOS", "MUS", "ARI", "SAN", "SFX", "TRI"
 ]
 
-def import_MADAR():
+def import_MADAR(path: str = DEFAULT_MADAR_TSV):
     """
     Load MADAR TSV and preprocess only the dialect columns with your `preprocess_text`.
     Keeps NaNs as-is. Fails early if expected columns are missing.
     """
-    path = "data/MADAR/MADAR.tsv"
     logger.info(f"Loading MADAR from: {path}")
     MADAR_df = pd.read_csv(path, sep="\t", encoding="utf-8")
 
@@ -53,14 +69,16 @@ def import_MADAR():
 
 def parse_args():
     p = argparse.ArgumentParser(description="Reformat alignments and merge many-to-one and one-to-many mappings")
-    p.add_argument("--alignment_indices_file", required=False, default="output/finetuned_awesome_align_output_MADAR_26_idx.txt", help="Path to awesome_align output indices")
-    p.add_argument("--output_file", required=False, default='data/MADAR_sent_alignments.tsv' ,help="path to reformatted output")
+    p.add_argument("--madar_tsv", default=DEFAULT_MADAR_TSV, help="Merged MADAR-26 TSV (from build_madar_table.py)")
+    p.add_argument("--alignment_idx_path", default=DEFAULT_ALIGNMENT_IDX, help="AWESOME-align index output (SRC-TGT pairs per line)")
+    p.add_argument("--id_dialect_path", default=DEFAULT_ID_DIALECT, help="Parallel 'row_id<TAB>DIALECT' file written alongside the finetuning data")
+    p.add_argument("--out_tsv", default=DEFAULT_OUT_TSV, help="Where to write the reformatted per-concept word table")
     return p.parse_args()
 
 
-def pivot_alignments_around_MSA(df):
-    alignment_indices_path = 'output/finetuned_awesome_align_output_MADAR_26_idx.txt'
-    index_dialect_path = 'output/id_dialect.txt'
+def pivot_alignments_around_MSA(df, alignment_idx_path: str = DEFAULT_ALIGNMENT_IDX,
+                                index_dialect_path: str = DEFAULT_ID_DIALECT):
+    alignment_indices_path = alignment_idx_path
     MADAR_df = df
 
     alignment_indices = []
@@ -253,12 +271,18 @@ def group_alignment_df(df, dialects_ = ['MSA', 'BEI', 'CAI', 'TUN', 'DOH', 'RAB'
 
     aggregations = {dialect: _count_terms for dialect in dialects}
     grouped = df.groupby(['normalized_word', 'dialect']).agg(aggregations).reset_index()
+    # Downstream (AGS_extraction) and the thesis `word_alignments.tsv` expect `word`.
+    grouped = grouped.rename(columns={'normalized_word': 'word'})
     return grouped
 
 
-if __name__ == "__main__":
-    MADAR_df = import_MADAR()
-    MADAR_df = pivot_alignments_around_MSA(MADAR_df)
+def main(args):
+    MADAR_df = import_MADAR(args.madar_tsv)
+    MADAR_df = pivot_alignments_around_MSA(
+        MADAR_df,
+        alignment_idx_path=args.alignment_idx_path,
+        index_dialect_path=args.id_dialect_path,
+    )
 
     # PROGRESS: dict reformat
     MADAR_df.loc[:, ['MSA_idx_mapping']] = MADAR_df['MSA_alignment_dictionary'].progress_map(reformat_alignment_dictionary)
@@ -268,5 +292,13 @@ if __name__ == "__main__":
 
     all_word_df = extract_word_alignments_pipeline(MADAR_df, dialects_= dialects_26)
     grouped_alignment_df = group_alignment_df(all_word_df, dialects_= dialects_26)
-    #
-    grouped_alignment_df.to_csv('output/MADAR_reformatted_word_alignments.tsv', sep='\t')
+
+    out_dir = os.path.dirname(args.out_tsv)
+    if out_dir:
+        os.makedirs(out_dir, exist_ok=True)
+    grouped_alignment_df.to_csv(args.out_tsv, sep='\t', index=False)
+    logger.info(f"Reformatted word alignments written to: {args.out_tsv}")
+
+
+if __name__ == "__main__":
+    main(parse_args())

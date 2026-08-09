@@ -6,9 +6,11 @@ Given a sentence with a single target span wrapped by [TGT] ... [/TGT],
 returns a single float (generality score).
 
 Example:
-  python AGS_inference/word_AGS.py \
+  python -m AGS_inference.word_AGS \
     --text "هذا مثال مع [TGT]الكلمة[/TGT] الهدف داخل الجملة."
 """
+
+from __future__ import annotations  # `str | None` hints on Python 3.9
 
 import argparse
 import torch

@@ -1,18 +1,14 @@
 #!/usr/bin/env python3
-# distance_function/compute_distance.py
-# Reordered & fixed: avoids SettingWithCopyWarning and KeyError('index').
+# distance_function/augmented_edit_distance.py
+# Affix-aware DP edit distance built on the phonology-derived substitution cost.
 
 from Levenshtein import distance as levenshtein_distance  # editops unused
-import sys
-import os
 import pandas as pd
 import ast
 import numpy as np
 
-# local imports
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from utilities.preprocess_text import preprocess_text
-from substitution_weight import (
+from distance_function.substitution_weight import (
     load_distance_resources,  # populates globals used by compute_substitution_cost
     compute_substitution_cost,
 )

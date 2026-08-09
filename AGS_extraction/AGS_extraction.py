@@ -1,17 +1,12 @@
 #!/usr/bin/env python3
-# AGS_inference/compute_AGS.py
+# AGS_extraction/AGS_extraction.py
 # Compute word-level AGS from MADAR reformatted alignments using augmented distances.
 
 import os
-import sys
 import ast
 import math
 import numpy as np
 import pandas as pd
-
-# --- project-local imports ---
-ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-sys.path.append(ROOT)
 
 # substitution weights & distance calculator
 from distance_function.substitution_weight import (
@@ -21,9 +16,13 @@ from distance_function.substitution_weight import (
 from distance_function.augmented_edit_distance import DistanceCalculator  # uses same substitution function
 
 # ----------------- constants -----------------
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OUTPUT_DIR = os.environ.get("AGS_OUTPUT_DIR", os.path.join(ROOT, "output"))
 ALIGN_PATH = os.path.join(OUTPUT_DIR, "MADAR_reformatted_word_alignments.tsv")
 SCORES_OUT = os.path.join(OUTPUT_DIR, "AGS_scores.tsv")
+# Full pre-unpack table (dict-valued columns kept). Mirrors Distance_Function.ipynb
+# cell 107; consumed by AGS_training/build_training_data.py.
+FULL_OUT = os.path.join(OUTPUT_DIR, "MADAR_26_word_alignment_aug_agg.tsv")
 
 dialects_26 = [
     "MSA", "BEI", "ALEX", "AMM", "ASW", "ALE", "CAI",
@@ -221,6 +220,11 @@ def main():
     ]
     for c in agg_cols:
         unpack_scores(df, c)
+
+    # 7b) dump the full table (dict columns + unpacked c6/c26) for downstream training-data
+    #     construction. Additive: does not touch the compact AGS_scores.tsv below.
+    df.to_csv(FULL_OUT, sep="\t", index=False)
+    print(f"[OK] full aug/agg table written to: {FULL_OUT}")
 
     # 8) save compact result
     keep = ["word", "dialect", "corpus"] if all(k in df.columns for k in ["word", "dialect", "corpus"]) else ["corpus"]
