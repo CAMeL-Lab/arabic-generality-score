@@ -120,21 +120,6 @@ python -m AGS_evaluation.export_to_hf \
   --tokenizer-dir models/ags_tokenizer --out models/ags_hf_export
 ```
 
-## Relation to the thesis notebooks
-
-This repo ports the pipeline notebooks: `MADAR_alignment.ipynb` → `MADAR_alignment/`,
-`Distance_Function.ipynb` → `distance_function/` + `AGS_extraction/`,
-`Exp_2.ipynb` / `Exp_1.ipynb` → `AGS_training/`,
-`Evaluation-Inference.ipynb` → `AGS_inference/` + `AGS_evaluation/`,
-`baseline_word_lookup.ipynb` → `AGS_evaluation/baselines.py`.
-The CED raw↔CODA alignments (`MADAR-CODA.ipynb`) are bundled as data.
-
-Deliberately **not** ported: the GPT-4o augmentation / alignment experiments, the
-SLOR / CAMeL-frequency-list dialectness estimator (a separate project), the Freeman
-distance comparison, the abandoned subword-alignment experiment, and assorted scratch
-notebooks. See `KNOWN_ISSUES.md` for those and for a couple of small fidelity notes
-(a restored `substitution_weight.py` denominator, a cosmetic dialect-code mismatch,
-non-bit-reproducible `P(CAPHI|ORTHO)` files).
 
 ## Citation
 
